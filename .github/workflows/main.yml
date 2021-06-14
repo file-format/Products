@@ -27,7 +27,7 @@ jobs:
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: /content/
-        dst_path: /content/
+        dst_path: /.
         dst_owner: file-format
         dst_repo_name: hugo-products
         dst_branch: main
