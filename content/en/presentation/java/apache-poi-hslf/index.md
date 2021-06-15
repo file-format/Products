@@ -3,14 +3,14 @@ title: Java Library for PowerPoint PPT - Add Slides & Images to Presentation
 description: POI-HSLF & POI-XLSF - Open Source Java API for creating, reading and modifying Microsoft PowerPoint PPT & PPTX Presentations Files.
 keywords: Open Source PowerPoint API, Open Source Java API, Java PowerPoint API, create  PPT Presentations, add slide in PPTX, modify PowerPoint PPT, add slide to Presentations, Open Source Java Libraries
 draft: false
-weight: 5
+weight: 1
 
 
 
-ProductName: Apache POI HSLF  
+ProductName: Apache POI HSLF
 Githublink: https://github.com/apache/poi
 ListingPage_Short_Description: Add PowerPoint Binary file format (PPT) processing capabilities to your own Java applications.
-ListingPage_Product_Small_Image: listing-image.png 
+ListingPage_Product_Small_Image: listing-image.png
 
 ---
 
@@ -21,7 +21,7 @@ Image_H2_Text="Apache POI HSLF"
 Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""
-Header_H1_Text="Java Library for PPT Presentation File Formats"
+Header_H1_Text="Java Library for Microsoft<sup>®</sup> PPT Presentation File Formats"
 Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with open-source Free Java API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,8 +31,9 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 
 
 
-<p>Apache POI HSLF is pure Java implementation for reading, creating, modifying or rendering PowerPoint presentations.  It provides a way to read, create or modify PowerPoint presentation PPT file format. It provides support for extracting data such as text, images, sounds, embedded objects & much more from PowerPoint presentations.</p>
-<p>It also supports drawing a shape on a slide, adding hyperlinks, Tables, images, customize Headers & Footers, create bulleted lists, retrieve embedded sounds and much more.</p>
+<h2 class="h2title">What is Apache POI HSLF?</h2>
+<p>Apache POI HSLF is pure Java implementation for reading, creating, modifying or rendering PowerPoint presentations.  It provides a way to read, create or modify PowerPoint presentation PPT file format. It provides support for extracting data such as text, images, sounds, embedded objects &amp; much more from PowerPoint presentations.</p>
+<p>It also supports drawing a shape on a slide, adding hyperlinks, Tables, images, customize Headers &amp; Footers, create bulleted lists, retrieve embedded sounds and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -66,7 +67,7 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 <div class="d1-col d1-right"><header><i class="fa fa-file-o"> </i>Features Overview</header>
 <ul>
 <li>Work with tables</li>
-<li>Add hyperlinks & images</li>
+<li>Add hyperlinks &amp; images</li>
 <li>Retrieve OLE objects</li>
 <li>Reorder slides</li>
 <li>Remove shapes</li>
@@ -133,12 +134,12 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 {{< SinglePage/PageBody/features/code >}}
 <h3>Apache POI Maven Dependency</h3>
 <pre><code class="html">&lt;!-- https://mvnrepository.com/artifact/org.apache.poi/poi --&gt;
-&lt;dependency&gt;
-    &lt;groupId&gt;org.apache.poi&lt;/groupId&gt;
-    &lt;artifactId&gt;poi-scratchpad&lt;/artifactId&gt;
-    &lt;version&gt;4.1.0&lt;/version&gt;
-&lt;/dependency&gt;
-</code></pre>
+    &lt;dependency&gt;
+        &lt;groupId&gt;org.apache.poi&lt;/groupId&gt;
+        &lt;artifactId&gt;poi-scratchpad&lt;/artifactId&gt;
+        &lt;version&gt;4.1.0&lt;/version&gt;
+    &lt;/dependency&gt;
+    </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -147,7 +148,7 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Dynamically Create New PPT or Modify Existing Presentations</h2>
-<p>Apache POI HSLF enables programmers to create new PowerPoint presentations in PPT file formats. Developers can also transform an existing presentation according to their needs. The API also supports features for extracting data such as text, images, sounds, embedded objects & so on from PowerPoint presentations.</p>
+<p>Apache POI HSLF enables programmers to create new PowerPoint presentations in PPT file formats. Developers can also transform an existing presentation according to their needs. The API also supports features for extracting data such as text, images, sounds, embedded objects &amp; so on from PowerPoint presentations.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -166,8 +167,17 @@ xmlSlideShow.write(fileOutputStream);
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Add Slides, Images & Customize Header & Footer to PPT</h2>
+<h2 class="h2title">Add Slides, Images &amp; Customize Header &amp; Footer to PPT</h2>
 <p>Developers can easily add new slides and modify existing ones according to their own needs inside a PPT presentation using Apache HSLF API. Developers can now add customize headers and footers into their presentations. It also provides complete support for adding a title for a slide, create a slide with a predefined layout, work with slide/shape background and much more.</p>
+<h3>Insert Images in PPT via Java</h3>
+<ol>
+<li>Create a new PPT file by using FileOutputStream and pass instance of new File() with output filename as string</li>
+<li>Add new slide show using HSLFSlideShow() method</li>
+<li>Add new slide using createSlide() method</li>
+<li>Get image bytes using IOUtils.toByteArray() method and pass your image in it via FileInputStream() method</li>
+<li>Add image to your slide using hslfSlideShow.addPicture(picture, HSLFPictureData.PictureType.PNG) method. The method accepts picture bytes and picture type as arguments</li>
+<li>Write and save file</li>
+</ol>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -179,7 +189,7 @@ HSLFSlideShow hslfSlideShow = new HSLFSlideShow();
 // create slide
 HSLFSlide slide = hslfSlideShow.createSlide();
 // load image
-byte[] picture = IOUtils.toByteArray(new FileInputStream(new File("D:\\apache-poi-logo-min.png")));
+byte[] picture = IOUtils.toByteArray(new FileInputStream(new File("apache-poi-logo-min.png")));
 // add image
 HSLFPictureData hslfPictureData = hslfSlideShow.addPicture(picture, HSLFPictureData.PictureType.PNG);
 HSLFPictureShape pictureShape = slide.createPicture(hslfPictureData);
@@ -230,20 +240,104 @@ for (int i = 0; i &lt; slide.size(); i++) {
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+
 {{< /SinglePage/PageBody/features/text >}}
+
+{{< SinglePage/PageBody/features/code >}}
+<h3>Convert PPT to Image - Java</h3>
+<pre><code class="java">//open an existing PPT file
+HSLFSlideShow hslfSlideShow = new HSLFSlideShow(new FileInputStream(new File("PPTtoImage.ppt")));
+// get dimensions
+Dimension pgsize = hslfSlideShow.getPageSize();
+java.util.List slide = hslfSlideShow.getSlides();
+
+for (int i = 0; i &lt; slide.size(); i++) {
+    BufferedImage img = new BufferedImage(pgsize.width, pgsize.height,BufferedImage.TYPE_INT_RGB);
+    Graphics2D graphics = img.createGraphics();
+
+    // clear the drawing area
+    graphics.setPaint(Color.white);
+    graphics.fill(new Rectangle2D.Float(0, 0, pgsize.width, pgsize.height));
+
+    // render
+    slide.get(i).draw(graphics);
+
+    // create image
+    FileOutputStream out = new FileOutputStream("PPTtoImage.png");
+    javax.imageio.ImageIO.write(img, "png", out);
+    out.close();
+}</code></pre>
+
+
+{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+
 {{< /SinglePage/PageBody/features/text >}}
+
+{{< SinglePage/PageBody/features/code >}}
+<h3>Convert PPT to Image - Java</h3>
+<pre><code class="java">//open an existing PPT file
+HSLFSlideShow hslfSlideShow = new HSLFSlideShow(new FileInputStream(new File("PPTtoImage.ppt")));
+// get dimensions
+Dimension pgsize = hslfSlideShow.getPageSize();
+java.util.List slide = hslfSlideShow.getSlides();
+
+for (int i = 0; i &lt; slide.size(); i++) {
+    BufferedImage img = new BufferedImage(pgsize.width, pgsize.height,BufferedImage.TYPE_INT_RGB);
+    Graphics2D graphics = img.createGraphics();
+
+    // clear the drawing area
+    graphics.setPaint(Color.white);
+    graphics.fill(new Rectangle2D.Float(0, 0, pgsize.width, pgsize.height));
+
+    // render
+    slide.get(i).draw(graphics);
+
+    // create image
+    FileOutputStream out = new FileOutputStream("PPTtoImage.png");
+    javax.imageio.ImageIO.write(img, "png", out);
+    out.close();
+}</code></pre>
+
+
+{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+
 {{< /SinglePage/PageBody/features/text >}}
+
+{{< SinglePage/PageBody/features/code >}}
+<h3>Convert PPT to Image - Java</h3>
+<pre><code class="java">//open an existing PPT file
+HSLFSlideShow hslfSlideShow = new HSLFSlideShow(new FileInputStream(new File("PPTtoImage.ppt")));
+// get dimensions
+Dimension pgsize = hslfSlideShow.getPageSize();
+java.util.List slide = hslfSlideShow.getSlides();
+
+for (int i = 0; i &lt; slide.size(); i++) {
+    BufferedImage img = new BufferedImage(pgsize.width, pgsize.height,BufferedImage.TYPE_INT_RGB);
+    Graphics2D graphics = img.createGraphics();
+
+    // clear the drawing area
+    graphics.setPaint(Color.white);
+    graphics.fill(new Rectangle2D.Float(0, 0, pgsize.width, pgsize.height));
+
+    // render
+    slide.get(i).draw(graphics);
+
+    // create image
+    FileOutputStream out = new FileOutputStream("PPTtoImage.png");
+    javax.imageio.ImageIO.write(img, "png", out);
+    out.close();
+}</code></pre>
+
+
+{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}
