@@ -9,7 +9,7 @@ weight: 3
 
 ProductName: NPOI
 Githublink: https://github.com/tonyqus/npoi
-ListingPage_Short_Description: NPOI API allows .NET developers to read &amp; write DOCX files within .NET applications.
+ListingPage_Short_Description: NPOI API allows .NET developers to read & write DOCX files within .NET applications.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -17,7 +17,7 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Open Source .NET API allows to Read, Write, Manipulate &amp; Convert Microsoft<sup>®</sup> Word files."
+Image_H2_Text="Open Source .NET API allows to Read, Write, Manipulate & Convert Microsoft<sup>®</sup> Word files."
 Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""
@@ -33,7 +33,7 @@ Header_H2_Text="Open Source .NET API allows to Read, Write, Manipulate & Convert
 
 <h2 class="h2title">What is NPOI?</h2>
 <p>NPOI is a .NET version of the POI Java Project. It is an open-source .NET library to read and write Microsoft<sup>®</sup> Office file formats. NPOI.XWPF namespace allows you to manipulate the <a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a> file format.</p>
-<p>NPOI allows you to add text &amp; paragraphs, insert hyperlinks, create &amp; parse tables, insert images, and by using XWPFWordExtractor class you can also extract text from existing Word Processing Documents.</p>
+<p>NPOI allows you to add text & paragraphs, insert hyperlinks, create & parse tables, insert images, and by using XWPFWordExtractor class you can also extract text from existing Word Processing Documents.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}

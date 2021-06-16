@@ -32,8 +32,8 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 
 
 <h2 class="h2title">What is Apache POI HSLF?</h2>
-<p>Apache POI HSLF is pure Java implementation for reading, creating, modifying or rendering PowerPoint presentations.  It provides a way to read, create or modify PowerPoint presentation PPT file format. It provides support for extracting data such as text, images, sounds, embedded objects &amp; much more from PowerPoint presentations.</p>
-<p>It also supports drawing a shape on a slide, adding hyperlinks, Tables, images, customize Headers &amp; Footers, create bulleted lists, retrieve embedded sounds and much more.</p>
+<p>Apache POI HSLF is pure Java implementation for reading, creating, modifying or rendering PowerPoint presentations.  It provides a way to read, create or modify PowerPoint presentation PPT file format. It provides support for extracting data such as text, images, sounds, embedded objects & much more from PowerPoint presentations.</p>
+<p>It also supports drawing a shape on a slide, adding hyperlinks, Tables, images, customize Headers & Footers, create bulleted lists, retrieve embedded sounds and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -67,7 +67,7 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 <div class="d1-col d1-right"><header><i class="fa fa-file-o"> </i>Features Overview</header>
 <ul>
 <li>Work with tables</li>
-<li>Add hyperlinks &amp; images</li>
+<li>Add hyperlinks & images</li>
 <li>Retrieve OLE objects</li>
 <li>Reorder slides</li>
 <li>Remove shapes</li>
@@ -148,7 +148,7 @@ Header_H2_Text="Add Slides & Images to Presentations, Convert PPT Files with ope
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Dynamically Create New PPT or Modify Existing Presentations</h2>
-<p>Apache POI HSLF enables programmers to create new PowerPoint presentations in PPT file formats. Developers can also transform an existing presentation according to their needs. The API also supports features for extracting data such as text, images, sounds, embedded objects &amp; so on from PowerPoint presentations.</p>
+<p>Apache POI HSLF enables programmers to create new PowerPoint presentations in PPT file formats. Developers can also transform an existing presentation according to their needs. The API also supports features for extracting data such as text, images, sounds, embedded objects & so on from PowerPoint presentations.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -167,7 +167,7 @@ xmlSlideShow.write(fileOutputStream);
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Add Slides, Images &amp; Customize Header &amp; Footer to PPT</h2>
+<h2 class="h2title">Add Slides, Images & Customize Header & Footer to PPT</h2>
 <p>Developers can easily add new slides and modify existing ones according to their own needs inside a PPT presentation using Apache HSLF API. Developers can now add customize headers and footers into their presentations. It also provides complete support for adding a title for a slide, create a slide with a predefined layout, work with slide/shape background and much more.</p>
 <h3>Insert Images in PPT via Java</h3>
 <ol>

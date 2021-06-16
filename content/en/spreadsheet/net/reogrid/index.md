@@ -9,7 +9,7 @@ weight: 12
 
 ProductName: ReoGrid
 Githublink: https://github.com/unvell/ReoGrid
-ListingPage_Short_Description: Open source C# .NET Library allows to create, edit, process Excel XLSX spreadsheets. Export Excel XLSX File to CSV &amp; HTML.
+ListingPage_Short_Description: Open source C# .NET Library allows to create, edit, process Excel XLSX spreadsheets. Export Excel XLSX File to CSV & HTML.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -112,7 +112,7 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 <div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!-- <header><i class="fa fa-cubes"> &nbsp;</i></header>
 <ul>
-<li>Python 2.6 &amp; above</li>
+<li>Python 2.6 & above</li>
 </ul> --></div>
 <!--/left--><!--/right--></div>
 <!--/row-->
@@ -157,7 +157,7 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Export Excel XLSX File to CSV &amp; HTML</h2>
+<h2 class="h2title">Export Excel XLSX File to CSV & HTML</h2>
 <p>The open source component ReoGrid enables software developers to export Excel XLSX spreadsheets to other supported file formats inside their own .NET applications. Developers can easily load CSV files, export worksheets as CSV format, export worksheets as HTML or PDF, output spreadsheets to printers,s and so on. It is also possible to select a specified range of a row or grid rather than an entire worksheet and export it to other supported formats. It also supports exporting worksheets to RGF files with just a couple of lines of code.</p>
 
 {{< /SinglePage/PageBody/features/text >}}

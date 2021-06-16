@@ -17,7 +17,7 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Read, Write, Manipulate &amp; Convert Word files via Open Source .NET API."
+Image_H2_Text="Read, Write, Manipulate & Convert Word files via Open Source .NET API."
 Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""

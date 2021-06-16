@@ -9,7 +9,7 @@ weight: 11
 
 ProductName: NetOffice
 Githublink: https://github.com/NetOfficeFw/NetOffice
-ListingPage_Short_Description: Free .NET library that allows the developer to read, write &amp; manipulate Excel files via Open Source .NET API.
+ListingPage_Short_Description: Free .NET library that allows the developer to read, write & manipulate Excel files via Open Source .NET API.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -17,7 +17,7 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Read, Write, Manipulate &amp; Convert Excel files via Open Source .NET API."
+Image_H2_Text="Read, Write, Manipulate & Convert Excel files via Open Source .NET API."
 Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""
@@ -31,7 +31,7 @@ Header_H2_Text="Read, Write, Manipulate & Convert Excel files via Open Source .N
 
 
 
-<p>NetOffice API allows .NET developers to Read, Write, Manipulate &amp; Convert Excel files via open source .NET API. The API allows automating Microsoft Excel Spreadsheets and develop Microsoft Excel Add-ins. Using the API, the developer will use all the options enclosed in MS Office versions 2000, 2002, 2003, 2007, 2010, 2013 and 2016. The API relies on COM-architecture where you retrieve COM proxy objects in your application.</p>
+<p>NetOffice API allows .NET developers to Read, Write, Manipulate & Convert Excel files via open source .NET API. The API allows automating Microsoft Excel Spreadsheets and develop Microsoft Excel Add-ins. Using the API, the developer will use all the options enclosed in MS Office versions 2000, 2002, 2003, 2007, 2010, 2013 and 2016. The API relies on COM-architecture where you retrieve COM proxy objects in your application.</p>
 <p>In order to work with Microsoft Excel document, you need ExcelApi.dll with OfficeApi.ddl, VBIDEApi.dll, and NetOffice.dll as dependencies. All Office applications use types which are defined in other components/type libraries. These dependent type libraries are therefore given as an independent assembly. Each assembly also requires the NetOffice.dll assembly.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
