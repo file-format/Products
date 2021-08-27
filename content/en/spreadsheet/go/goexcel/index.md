@@ -75,7 +75,7 @@ Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li>XLSX</li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->

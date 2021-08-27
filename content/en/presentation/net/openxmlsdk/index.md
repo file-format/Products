@@ -78,13 +78,13 @@ Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET AP
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://wiki.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://wiki.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://wiki.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://wiki.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://wiki.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
+<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://wiki.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://wiki.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://wiki.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://wiki.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://wiki.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
+<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
 </ul>
 </div>
 <!--/right--></div>

@@ -84,7 +84,7 @@ Header_H2_Text="" >}}
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, CBZ</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, CBZ</li>
 </ul>
 </div>
 <!--/right--></div>

@@ -82,7 +82,7 @@ Header_H2_Text="An Open Source JavaScript API that allows to convert HTML DOM 
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://wiki.fileformat.com/web/html/">HTML</a>, WebGL</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, WebGL</li>
 </ul>
 </div>
 <!--/right--></div>

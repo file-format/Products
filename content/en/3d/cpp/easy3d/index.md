@@ -86,7 +86,7 @@ Header_H2_Text="A stable free C++ Library that provides support for 3D Modeling
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, OpenGL, GLSL</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, OpenGL, GLSL</li>
 </ul>
 </div>
 <!--/right--></div>

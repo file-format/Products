@@ -86,7 +86,7 @@ Header_H2_Text="Java Library that has provided functionality for drawing 3D Char
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, WebGL. <a href="https://docs.fileformat.com/3d/gltf/">glTF</a>, Collada</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, WebGL. <a href="https://docs.fileformat.com/3d/gltf/">glTF</a>, Collada</li>
 </ul>
 </div>
 <!--/right--></div>

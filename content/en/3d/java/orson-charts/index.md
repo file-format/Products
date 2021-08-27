@@ -81,7 +81,7 @@ Header_H2_Text="Generate and Mange a wide variety of 3D Charts that can be easil
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/image/png/">PNG</a>,<a href="https://wiki.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>

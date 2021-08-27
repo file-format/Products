@@ -82,7 +82,7 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, XLSX</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, XLSX</li>
 </ul>
 </div>
 <!--/right--></div>

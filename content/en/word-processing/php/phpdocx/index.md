@@ -76,17 +76,17 @@ Header_H2_Text="Open, Read, Write, Manipulate & Convert MS Word DOCX files to 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader/Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://wiki.fileformat.com/word-processing/odt/">ODT</a>,<a href="https://wiki.fileformat.com/word-processing/rtf/"> RTF</a>, <a href="https://wiki.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/odt/">ODT</a>,<a href="https://docs.fileformat.com/word-processing/rtf/"> RTF</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/doc/">DOC</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a></li>
 </ul>
 <header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>

@@ -78,7 +78,7 @@ Header_H2_Text="Generate simple Visio XML (VDX) files via Open Source Free .NET
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/image/vsd/">VSD</a>, <a href="https://wiki.fileformat.com/image/vdx/">VDX</a>, Text</li>
+<li><a href="https://docs.fileformat.com/image/vsd/">VSD</a>, <a href="https://docs.fileformat.com/image/vdx/">VDX</a>, Text</li>
 </ul>
 </div>
 <!--/right--></div>

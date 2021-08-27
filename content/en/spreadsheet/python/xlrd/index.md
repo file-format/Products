@@ -77,7 +77,7 @@ Header_H2_Text="Python library for reading and formatting XLS & XLSX file format
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li> <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>,  <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a>    </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>,  <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>    </li>
 </ul>
 </div>
 <!--/left-->

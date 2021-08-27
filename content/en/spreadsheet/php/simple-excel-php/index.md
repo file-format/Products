@@ -76,13 +76,13 @@ Header_H2_Text="Create, Parse & Convert b/t MS Excel XML, CSV, TSV, HTML & JSON 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/web/xml/">XML</a>, <a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a>, TSV, <a href="https://wiki.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/web/xml/">XML</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, TSV, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, XML, CSV, TSV, HTML</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, XML, CSV, TSV, HTML</li>
 </ul>
 </div>
 <!--/right--></div>

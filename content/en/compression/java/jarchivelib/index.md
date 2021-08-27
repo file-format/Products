@@ -77,13 +77,13 @@ Header_H2_Text="Generate & Extract  ZIP, TAR, and GZIP Archives via Open Source
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/rar/">RAR</a>, 7ZIP,ZIP<span style="font-size: 12.16px;">, </span>TAR<span style="font-size: 12.16px;">, </span><a style="font-size: 12.16px;" href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a><span style="font-size: 12.16px;">, </span><a style="font-size: 12.16px;" href="https://wiki.fileformat.com/compression/gz/">GZIP</a></li>
+<li><a href="https://docs.fileformat.com/compression/rar/">RAR</a>, 7ZIP,ZIP<span style="font-size: 12.16px;">, </span>TAR<span style="font-size: 12.16px;">, </span><a style="font-size: 12.16px;" href="https://docs.fileformat.com/compression/bz2/">BZIP2</a><span style="font-size: 12.16px;">, </span><a style="font-size: 12.16px;" href="https://docs.fileformat.com/compression/gz/">GZIP</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, <a href="https://wiki.fileformat.com/compression/tar/">TAR</a>, <a href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://wiki.fileformat.com/compression/gz/">GZIP</a></li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/tar/">TAR</a>, <a href="https://docs.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://docs.fileformat.com/compression/gz/">GZIP</a></li>
 </ul>
 </div>
 <!--/right--></div>

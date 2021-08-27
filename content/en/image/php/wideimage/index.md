@@ -79,13 +79,22 @@ Header_H2_Text="PHP Library that enables Software programmers to Load, Resize 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li>GIF, PNG, JPEG, BMP, GD,  GD2, TGA</li>
+<li>
+<a href="https://docs.fileformat.com/image/gif/">GIF</a>,
+<a href="https://docs.fileformat.com/image/png/">PNG</a>,
+<a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,
+<a href="https://docs.fileformat.com/image/bmp/">BMP</a>,
+<a href="https://docs.fileformat.com/image/tga/">TGA</a>, 
+GD, GD2 </li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://wiki.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://wiki.fileformat.com/image/png/">PNG</a>, <a href="https://wiki.fileformat.com/image/bmp/">BMP</a>, <a href="https://wiki.fileformat.com/image/tiff/">TIFF</a>, GD, GD2</li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  
+<a href="https://docs.fileformat.com/image/png/">PNG</a>, 
+<a href="https://docs.fileformat.com/image/bmp/">BMP</a>, 
+<a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, GD, GD2</li>
 </ul>
 </div>
 <!--/right--></div>

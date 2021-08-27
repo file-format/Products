@@ -81,7 +81,7 @@ Header_H2_Text="A minimalist PDF generator Go API that allows the developers to
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/PNG/">PNG</a></li>
+<li><a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/web/html/">PNG</a></li>
 </ul>
 </div>
 <!--/left-->

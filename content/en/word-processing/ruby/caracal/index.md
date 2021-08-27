@@ -84,7 +84,7 @@ Header_H2_Text="Open source Ruby library that gives programmers the capability
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/right--></div>

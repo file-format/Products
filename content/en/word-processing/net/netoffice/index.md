@@ -77,13 +77,13 @@ Header_H2_Text="Read, Write, Manipulate & Convert Word files via Open Source .NE
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>,  <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dot/">DOT</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>,  <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dot/">DOT</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a>,  <a href="https://docs.fileformat.com/word-processing/dotx/">DOTX</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>,  <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dot/">DOT</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>,  <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dot/">DOT</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a>,  <a href="https://docs.fileformat.com/word-processing/dotx/">DOTX</a></li>
 </ul>
 </div>
 <!--/right--></div>

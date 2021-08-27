@@ -79,7 +79,7 @@ Header_H2_Text="Open Source Free C Library to Generate, Modify, Remove, or Ext
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a></li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
 </div>
 <!--/left-->

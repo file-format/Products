@@ -81,7 +81,7 @@ Header_H2_Text="C Library for Reading/Writing streaming archives in TAR, ZIP, 7-
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/rar/">RAR</a>, 7Zip, <a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, <a href="https://wiki.fileformat.com/compression/tar/">TAR</a>, <a href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://wiki.fileformat.com/compression/gz/">GZIP</a>, PAX, CPIO</li>
+<li><a href="https://docs.fileformat.com/compression/rar/">RAR</a>, 7Zip, <a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/tar/">TAR</a>, <a href="https://docs.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://docs.fileformat.com/compression/gz/">GZIP</a>, PAX, CPIO</li>
 </ul>
 </div>
 <!--/left-->

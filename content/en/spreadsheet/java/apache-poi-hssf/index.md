@@ -101,13 +101,15 @@ Header_H2_Text="Open Source Java API allows to Read, Write & Convert Excel XLS
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/web/html/">HTML</a>, <a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a></li>
+<li><a href="https://docs.fileformat.com/web/html/">HTML</a>, 
+<a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, 
+<a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/right--></div>

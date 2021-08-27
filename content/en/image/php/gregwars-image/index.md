@@ -81,10 +81,10 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
 <li>
-<a href="https://wiki.fileformat.com/image/jpeg/">JPEG</a>, 
-<a href="https://wiki.fileformat.com/image/jpeg/">JPG</a>,
-<a href="https://wiki.fileformat.com/image/png/">PNG</a>, 
-<a href="https://wiki.fileformat.com/image/gif/">GIF</a>
+<a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
+<a href="https://docs.fileformat.com/image/jpg/">JPG</a>,
+<a href="https://docs.fileformat.com/image/png/">PNG</a>, 
+<a href="https://docs.fileformat.com/image/gif/">GIF</a>
 </li>
 </ul>
 </div>
@@ -92,10 +92,10 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li> 
-<a href="https://wiki.fileformat.com/image/jpeg/">JPEG</a>, 
-<a href="https://wiki.fileformat.com/image/jpeg/">JPG</a>,
-<a href="https://wiki.fileformat.com/image/png/">PNG</a>, 
-<a href="https://wiki.fileformat.com/image/gif/">GIF</a>
+<a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
+<a href="https://docs.fileformat.com/image/jpg/">JPG</a>,
+<a href="https://docs.fileformat.com/image/png/">PNG</a>, 
+<a href="https://docs.fileformat.com/image/gif/">GIF</a>
 </ul>
 </div>
 <!--/right--></div>
