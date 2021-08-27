@@ -77,7 +77,7 @@ Header_H2_Text="Open Source PHP Library allows developers to Create, List, updat
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, <a href="https://wiki.fileformat.com/compression/tar/">TAR</a>, <a href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a>, TBZ, TGZ</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/tar/">TAR</a>, <a href="https://docs.fileformat.com/compression/bz2/">BZIP2</a>, TBZ, TGZ</li>
 </ul>
 </div>
 <!--/left-->

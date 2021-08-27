@@ -83,13 +83,15 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/doc/">DOC</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Input Only</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/web/html/">HTML</a>,<a href="https://wiki.fileformat.com/page-description-language/xslfo/"> FO</a>, <a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/web/html/">HTML</a>,
+   <a href="https://docs.fileformat.com/page-description-language/xslfo/"> FO</a>, 
+   <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>

@@ -1,4 +1,4 @@
----
+    ---
 title: Open Source Java API for PDF - Read, Write & Convert Text to PDF File
 description: iText 7 -   An Open Source Free Java API for PDF Documents manipulation. Developers can read, write modify and Convert Text to PDF via Java library.
 keywords: open-source PDF library,  Java PDF,  Java  PDF Library, Open Source PDF Library, Java PDF programming, Java PDF APIs, Java PDF library, create  PDF Documents, convert Text from PDF, Extract data from PDF forms, convert PDF to JPEG, Free PDF ApI
@@ -82,13 +82,13 @@ Header_H2_Text="Java Library allows developers to Read, Write, Edit & Convert T
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://wiki.fileformat.com/image/png/">PNG</a>,<a href="https://wiki.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://wiki.fileformat.com/web/html/">HTML</a>, </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, </li>
 </ul>
 </div>
 <!--/right--></div>

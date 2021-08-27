@@ -76,7 +76,7 @@ Header_H2_Text="ExcelDataReader allows you read Microsoft Excel file formats usi
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/left-->

@@ -86,7 +86,7 @@ Header_H2_Text="Open Source Java Library that included support for Geometries 
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/3d/fbx/">FBX</a><span class="aCOpRe">, <a href="https://docs.fileformat.com/3d/obj/">OBJ</a>, 3DM</span></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/3d/fbx/">FBX</a><span class="aCOpRe">, <a href="https://docs.fileformat.com/3d/obj/">OBJ</a>, 3DM</span></li>
 </ul>
 </div>
 <!--/right--></div>

@@ -32,7 +32,7 @@ Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-sour
 
 
 <h2 class="h2title">What is NPOI?</h2>
-<p>NPOI is a .NET version of POI Java project. It is an open source .NET library to read and write Microsoft Excel file formats. <strong>NPOI.HSSF</strong> namespace provides the ability to manipulate <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a> file format, while <strong>NPOI.XSSF</strong> namespace allows you to create & modify <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a> files.</p>
+<p>NPOI is a .NET version of POI Java project. It is an open source .NET library to read and write Microsoft Excel file formats. <strong>NPOI.HSSF</strong> namespace provides the ability to manipulate <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a> file format, while <strong>NPOI.XSSF</strong> namespace allows you to create & modify <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> files.</p>
 <p>NPOI allows you to add text, insert hyperlinks, create & style cells & columns, insert images and read content from existing XLS & XLSX files without any external dependency.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -79,13 +79,13 @@ Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-sour
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://wiki.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>

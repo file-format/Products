@@ -89,7 +89,7 @@ Header_H2_Text="Free C++ API that provides supports for managing and manipula
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, OBJ, PLY, MESH, BF, DMAT, RBR, XML</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, OBJ, PLY, MESH, BF, DMAT, RBR, XML</li>
 </ul>
 </div>
 <!--/right--></div>

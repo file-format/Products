@@ -81,7 +81,7 @@ Header_H2_Text="Free C++ API that supports generic N-dimensional image containe
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/image/png/">PNG</a>,<a href="https://wiki.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://wiki.fileformat.com/image/bmp/">BMP</a>, <a href="https://wiki.fileformat.com/image/tiff/">TIFF</a></li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </div>
 <!--/right--></div>

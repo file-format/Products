@@ -80,7 +80,7 @@ Header_H2_Text="Open Source C Library to Create, Edit, Delete & Extract ZIP Arch
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, ZIP64</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, ZIP64</li>
 </ul>
 </div>
 <!--/left-->

@@ -92,7 +92,7 @@ Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Micros
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://wiki.fileformat.com/web/html/">, </a>XLSB</li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://docs.fileformat.com/web/html/">, </a>XLSB</li>
 </ul>
 </div>
 <!--/right--></div>

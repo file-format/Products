@@ -31,7 +31,7 @@ Header_H2_Text="Read, Write, Manipulate & Convert Word files, Create Tables in 
 
 
 
-<p>Open XML SDK is an open source API, developed by Microsoft and distributed under Microsoft open source code of conduct to manipulate Word Processing Documents including <a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a>,  <a href="https://wiki.fileformat.com/word-processing/dotx/">DOTX</a>,  <a href="https://wiki.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://wiki.fileformat.com/spreadsheet/dotm/">DOTM</a> file formats</p>
+<p>Open XML SDK is an open source API, developed by Microsoft and distributed under Microsoft open source code of conduct to manipulate Word Processing Documents including <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>,  <a href="https://docs.fileformat.com/word-processing/dotx/">DOTX</a>,  <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a> file formats</p>
 <p>Using the API, you can add text, header, footer, endnotes, footnotes, styles, themes, and more. It allows you to generate high-performance word documents and extract data from them. The API support various .NET platforms including, .NET 3.5, .NET 4.0, .NET 4.6, and .NET Standard 1.3.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -78,13 +78,13 @@ Header_H2_Text="Read, Write, Manipulate & Convert Word files, Create Tables in 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li>DOCX</li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a>,  <a href="https://wiki.fileformat.com/word-processing/dotx/">DOTX</a>,  <a href="https://wiki.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://wiki.fileformat.com/spreadsheet/dotm/">DOTM</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>,  <a href="https://docs.fileformat.com/word-processing/dotx/">DOTX</a>,  <a href="https://docs.fileformat.com/word-processing/docm/">DOCM</a>,  <a href="https://docs.fileformat.com/word-processing/dotm/">DOTM</a></li>
 </ul>
 </div>
 <!--/right--></div>

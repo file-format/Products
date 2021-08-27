@@ -93,7 +93,7 @@ Header_H2_Text="Read, Create, Merge & Filter Data in Excel XLSX / XLSM / XLTM Sp
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://wiki.fileformat.com/web/html/">, </a><a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a>,  <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, XLSM, XLTM</li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://docs.fileformat.com/web/html/">, </a><a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>,  <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, XLSM, XLTM</li>
 </ul>
 </div>
 <!--/right--></div>

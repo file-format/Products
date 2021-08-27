@@ -77,13 +77,32 @@ Header_H2_Text="Library to add Image Processing Capabilities to your Python Inte
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/dib/">DIB</a>, <a href="https://docs.fileformat.com/image/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a>ICNS</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a>, <a>IM</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>MSP</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a>PPM</a>, <a>SGI</a>, <a>SPIDER</a>, <a>TGA</a>, <a>WebP</a>, <a>XBM</a>, <!-- Reader Only --> <a>BLP</a>, <a>CUR</a>, <a>DCX</a>, <a>DDS</a>, <a>FLI</a>, <a>FLC</a>, <a>FPX</a>, <a>FTEX</a>, <a>GBR</a>, <a>GD</a>, <a>IMT</a>, <a>MCIDAS</a>, <a>MIC</a>, <a>MPO</a>, <a>PCD</a>, <a>PIXAR</a>, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a>WAL</a>, <a href="https://docs.fileformat.com/image/wmf/">EMF</a>, <a>XPM</a></li>
+<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/dib/">DIB</a>, 
+<a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, 
+<a href="https://docs.fileformat.com/image/gif/">GIF</a>, 
+<a href="https://docs.fileformat.com/image/ico/">ICO</a>, 
+<a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
+<a href="https://docs.fileformat.com/image/png/">PNG</a>,
+<a href="https://docs.fileformat.com/image/psd/">PSD</a>,
+<a href="https://docs.fileformat.com/image/wmf/">EMF</a>,  
+  ICNS, IM, MSP, PCX, PPM, SGI, SPIDER, TGA, WebP, XBM, BLP, CUR, DCX, DDS, FLI, FPX, FTEX, GBR, GD, IMT, MCIDAS, MIC, MPO, PCD, PIXAR, WAL, XPM
+</li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/dib/">DIB</a>, <a href="https://docs.fileformat.com/image/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a>ICNS</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a>, <a>IM</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>MSP</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a>PPM</a>, <a>SGI</a>, <a>SPIDER</a>, <a>TGA</a>, <a>WebP</a>, <a>XBM</a> <!-- Writer Only --> <a>PALM</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a>, <a>XV Thumbnails</a></li>
+<li>
+<a href="https://docs.fileformat.com/image/bmp/">BMP</a>, 
+<a href="https://docs.fileformat.com/image/dib/">DIB</a>,s
+ <a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, 
+ <a href="https://docs.fileformat.com/image/gif/">GIF</a>, 
+ <a href="https://docs.fileformat.com/image/ico/">ICO</a>, 
+ <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
+ <a href="https://docs.fileformat.com/image/png/">PNG</a>,  
+ <a href="https://docs.fileformat.com/pdf/">PDF</a>, 
+ ICNS, IM, MSP, PCX, PPM, SGI, SPIDER, TGA, WebP, XBM, PALM, XV Thumbnails
+ </li>
 </ul>
 </div>
 <!--/right--></div>

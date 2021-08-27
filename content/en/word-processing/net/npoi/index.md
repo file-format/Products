@@ -32,7 +32,7 @@ Header_H2_Text="Open Source .NET API allows to Read, Write, Manipulate & Convert
 
 
 <h2 class="h2title">What is NPOI?</h2>
-<p>NPOI is a .NET version of the POI Java Project. It is an open-source .NET library to read and write Microsoft<sup>®</sup> Office file formats. NPOI.XWPF namespace allows you to manipulate the <a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a> file format.</p>
+<p>NPOI is a .NET version of the POI Java Project. It is an open-source .NET library to read and write Microsoft<sup>®</sup> Office file formats. NPOI.XWPF namespace allows you to manipulate the <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a> file format.</p>
 <p>NPOI allows you to add text & paragraphs, insert hyperlinks, create & parse tables, insert images, and by using XWPFWordExtractor class you can also extract text from existing Word Processing Documents.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -77,13 +77,13 @@ Header_H2_Text="Open Source .NET API allows to Read, Write, Manipulate & Convert
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/docx/">DOCX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/right--></div>

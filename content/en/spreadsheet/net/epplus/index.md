@@ -83,14 +83,16 @@ Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Sour
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
 <li>
-<p><a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a>, XLSM, <a href="https://wiki.fileformat.com/spreadsheet/ods/">ODS</a></p>
+<p><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, XLSM, <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a></p>
 </li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/spreadsheet/xls/">TXT</a>,  <a href="https://wiki.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://wiki.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://wiki.fileformat.com/spreadsheet/csv/">CSV</a>, <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>, XLSM, XLSB, <a href="https://wiki.fileformat.com/web/html/">HTML</a>,  <a href="https://wiki.fileformat.com/word-processing/rtf/">RTF</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT</a>,  <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
+<a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>,
+ XLSM, XLSB, <a href="https://docs.fileformat.com/web/html/">HTML</a>,  <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a></li>
 </ul>
 </div>
 <!--/right--></div>

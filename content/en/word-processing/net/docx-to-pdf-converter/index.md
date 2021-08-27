@@ -79,7 +79,7 @@ Header_H2_Text="Open-Source Library to Convert DOCX to PDF" >}}
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>

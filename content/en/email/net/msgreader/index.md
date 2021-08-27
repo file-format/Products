@@ -75,13 +75,13 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/email/msg/">MSG</a>, <a href="https://wiki.fileformat.com/email/eml/">EML</a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG</a>, <a href="https://docs.fileformat.com/email/eml/">EML</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://wiki.fileformat.com/word-processing/rtf/">RTF</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a></li>
 </ul>
 </div>
 <!--/right--></div>

@@ -79,7 +79,7 @@ Header_H2_Text="Python library for writing MS Excel 97/2000/XP/2003 XLS files." 
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://wiki.fileformat.com/spreadsheet/xls/">XLS</a>   </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>   </li>
 </ul>
 </div>
 <!--/right--></div>

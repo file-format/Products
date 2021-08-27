@@ -82,13 +82,13 @@ Header_H2_Text="Java Mailing API that allows developer to add attachments to Em
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><span class="wikilink"><a href="https://wiki.fileformat.com/email/msg/">MSG</a>, <a href="https://wiki.fileformat.com/email/eml/">EML</a>, <a href="https://wiki.fileformat.com/email/pst/">PST</a></span></li>
+<li><span class="wikilink"><a href="https://docs.fileformat.com/email/msg/">MSG</a>, <a href="https://docs.fileformat.com/email/eml/">EML</a>, <a href="https://docs.fileformat.com/email/pst/">PST</a></span></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a>, <span class="wikilink">MSG, EML, PST</span></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <span class="wikilink">MSG, EML, PST</span></li>
 </ul>
 </div>
 <!--/right--></div>
