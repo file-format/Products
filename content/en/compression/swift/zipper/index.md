@@ -138,7 +138,7 @@ pod 'Zipper<br></code></pre>
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Zipping Files via Swift Library</h2>
 <p> The open source Zipper library has included support for zipping numerous kinds of files using a couple of lines of Swift code. First of all, you need to provide the complete address of the files and the location information on the disk for saving the ZIP archive. The library supports several important features such as creating ZIP archive, Editing an existing archive, add a particular file to it, remove files from an Archive, and many more.</p>
-
+s
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

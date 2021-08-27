@@ -89,7 +89,7 @@ Header_H2_Text="Create, Read & Manipulate popular compression file formats like
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, <a href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://wiki.fileformat.com/compression/gz/">GZIP</a>, ZIP64, BZIP2</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/bz2/">BZIP2</a>, <a href="https://docs.fileformat.com/compression/gz/">GZIP</a>, ZIP64, BZIP2</li>
 </ul>
 </div>
 <!--/right--></div>
