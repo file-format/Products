@@ -80,13 +80,13 @@ Header_H2_Text="Free PHP API that allows sending emails using SMTP, sendmail,
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/email/msg/">MSG</a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG</a></li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -109,7 +109,7 @@ Header_H2_Text="Free PHP API that allows sending emails using SMTP, sendmail,
 <div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="PHP Email library "><header>Swift Mailer</header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2 -->
-{{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
+{{< /SinglePage/PageBody/tab/diagram-carousel-item >}}s
 
 {{< /SinglePage/PageBody/tab/diagram-carousel-body-wrapper >}}
 

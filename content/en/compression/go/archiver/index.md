@@ -86,7 +86,7 @@ Header_H2_Text="Creating, Managing & Extracting Archives with ease using cross-p
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, <a href="https://wiki.fileformat.com/compression/bz2/">BZIP2</a>, TAR, RAR, Flate, GZIP, LZ4, Brotli</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/bz2/">BZIP2</a>, TAR, RAR, Flate, GZIP, LZ4, Brotli</li>
 </ul>
 </div>
 <!--/right--></div>

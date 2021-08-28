@@ -85,7 +85,7 @@ Header_H2_Text="Golang API for programmatically generating as well as reading 
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://wiki.fileformat.com/compression/zip/">ZIP</a>, GZIP</li>
+<li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, GZIP</li>
 </ul>
 </div>
 <!--/right--></div>
