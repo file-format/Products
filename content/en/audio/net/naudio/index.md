@@ -1,10 +1,9 @@
 ---
-title: Open Source Java API for Word Processing - Add Image & Table to DOCX
-description: DOCX4J - An Open Source Free Java API for Word Documents Processing.  Create & Edit, add text, Images & Table to Word DOCX files via Java library.
-keywords: DOCX4J API, Free Word API,  Free Java API, Free DOCX API, Open Source DOCX API, Free DOCX Java, Random Word API, Free Java Word processing , Word processing API, Open Source Word processing, Convert DOCX Free, Java Word .docx APIs,  Java Docx API, Java word API, create  .docx files, modify Word documents, add image to document, Open Source Java Libraries
+title: Open Source .NET API for Audio File Formats - Read & Write Metadata of Audio File Formats
+description: NAudio -  Open-Source API that enables software developers to read, play, record, convert & encode Audio File Formats using .NET applications.
+keywords: NAudio API, API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extact Metadata, Write MP3 Metata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
 draft: false
 weight: 1
-
 
 
 ProductName: NAudio
