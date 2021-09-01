@@ -83,13 +83,20 @@ Header_H2_Text="Open Source PHP API includes support for image comparison,  sm
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
+<li><a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  
+<a href="https://docs.fileformat.com/image/png/">PNG</a>, 
+<a href="https://docs.fileformat.com/image/bmp/">BMP</a>, 
+<a href="https://docs.fileformat.com/image/tiff/">TIFF</a> 
+</li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header><header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
+<li><a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,
+<a href="https://docs.fileformat.com/image/png/">PNG</a>,
+<a href="https://docs.fileformat.com/image/bmp/">BMP</a>,
+<a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </header></div>
 <!--/right--></div>
@@ -102,10 +109,6 @@ Header_H2_Text="Open Source PHP API includes support for image comparison,  sm
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
 <p>Grafika works with PHP &gt;= 5.3 & above</p>
-<ul>
-<li>PHP &gt;= 5.3 minimum, PHP &gt;= 7 recommended</li>
-<li><a href="http://php.net/manual/en/book.image.html">GD</a> library &gt;= 2.0.</li>
-</ul>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
 <div class="d1-col d1-right"> </div>
