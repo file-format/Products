@@ -111,8 +111,7 @@ GD, GD2 </li>
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>PHP &gt;= 5.2 and above</li>
-<li><a href="http://php.net/manual/en/book.image.html">GD</a> library &gt;= 2.0.</li>
+<p>PHP &gt;= 5.2 and above.<p>
 </ul>
 <!--/right--></div>
 <!--/left-->
