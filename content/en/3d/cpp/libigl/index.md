@@ -83,7 +83,7 @@ Header_H2_Text="Free C++ API that provides supports for managing and manipula
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/3d/obj/">OBJ</a>, <a href="https://docs.fileformat.com/3d/ply/">PLY</a>, MESH, BF, DMAT, RBR, <a href="https://wiki.fileformat.com/web/xml/">XML</a></li>
+<li><a href="https://docs.fileformat.com/3d/obj/">OBJ</a>, <a href="https://docs.fileformat.com/3d/ply/">PLY</a>, MESH, BF, DMAT, RBR, <a href="https://docs.fileformat.com/web/xml/">XML</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -125,8 +125,8 @@ Header_H2_Text="Free C++ API that provides supports for managing and manipula
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Getting Started with libigl</h2>
-<p>The easiest way to install libigl is by using GitHub. You can <a href="https://github.com/libigl/libigl/archive/master.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a successful installation. </p>
+<h2 class="h2title">Getting Started with libigl</h2>s
+<p>The easiest way to install libigl is by using GitHub. You can <a href="https://github.com/libigl/libigl/archive/refs/heads/main.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a successful installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

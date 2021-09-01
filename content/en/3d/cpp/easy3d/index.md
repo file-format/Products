@@ -123,7 +123,7 @@ Header_H2_Text="A stable free C++ Library that provides support for 3D Modeling
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Easy3D</h2>
-<p>The easiest way to install Easy3D is using GitHub. You can <a href="https://github.com/LiangliangNan/Easy3D/archive/master.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a successful installation. </p>
+<p>The easiest way to install Easy3D is using GitHub. You can <a href="https://github.com/LiangliangNan/Easy3D/archive/refs/heads/main.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a successful installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
