@@ -81,7 +81,7 @@ Header_H2_Text="HackMyResume is a command line and shell package that can be use
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a><a href="https://docs.fileformat.com/web/html/">HTML,</a>  <a href="https://docs.fileformat.com/word-processing/md/">Markdown</a>, <a href="https://docs.fileformat.com/page-description-language/tex/">LaTeX</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/web/json/">JSON</a>, <a href="https://docs.fileformat.com/programming/yaml//">YAML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">Plain Text</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a><a href="https://docs.fileformat.com/web/html/">HTML,</a>  <a href="https://docs.fileformat.com/word-processing/md/">Markdown</a>, <a href="https://docs.fileformat.com/page-description-language/tex/">LaTeX</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/web/json/">JSON</a>, <a href="https://docs.fileformat.com/programming/yaml/">YAML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">Plain Text</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a></li>
 </ul>
 </div>
 <!--/right--></div>
