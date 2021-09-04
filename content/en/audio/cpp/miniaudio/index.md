@@ -32,7 +32,7 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 
 
 <p>Miniaudio is a simple pure C single file audio playback and capture library that enables software apps to handle audio files in multiple ways. The great thing is that it is implemented as a single .H file; you just need to download it and ready to go.  The library fully supports low-level audio <em>functionality</em> and has no external dependencies.</p>
-<p>The Miniaudio supports working on multiple platforms including Windows, macOS, Linux, iOS, Android and Web, etc.  The library has included several important features such as playback, capture audio file, full-duplex, connectivity to multiple devices, automatic data conversion, a set of useful filter, create waveform, Noise generation, audio encoding, and decoding, supports custom backends, channel conversion, and channel mapping, resampling support and many more.</p>
+<p>The Miniaudio supports working on multiple platforms including Windows, macOS, Linux, iOS, Android and Web, etc.  The library has included several important features such as playback, capture audio file, full-duplex, connectivity to multiple devices, automatic data conversion, a set of useful filter, create waveform, Noise generation, audio encoding, and decoding, supports custom backend, channel conversion, and channel mapping, re-sampling support and many more.</p>
 <p>Miniaudio is very flexible provides ease of use for expert users as well as for beginners who are more interested in processing audio files. The library is open source and is available under the MIT license. The library is written in C but also can be compiled as C++, enabling it to work on almost all compilers.</p>
 <p><span style="font-size: 12.16px;">.</span></p>
 
@@ -120,12 +120,12 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Miniaudio</h2>
-<p>The easiest way to install Miniaudio is using <a href="https://github.com/mackron/miniaudio/archive/master.zip">GitHub</a>. Please use the following command for a complete installation.</p>
+<p>Please use the following command for a complete installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
+<h3>Install Miniaudio using GitHub</h3>
+<pre><code class="html">git clone https://github.com/mackron/miniaudio.git</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -139,9 +139,6 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -154,9 +151,6 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -169,9 +163,6 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -182,9 +173,6 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -196,9 +184,6 @@ Header_H2_Text="Free C Single file library that can be connected to multiple dev
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Miniaudio using  GitHub</h3>
-<pre><code class="html">git clone <a href="https://github.com/mackron/miniaudio.git">https://github.com/mackron/miniaudio.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

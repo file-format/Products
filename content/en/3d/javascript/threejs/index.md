@@ -129,8 +129,6 @@ Header_H2_Text="Open Source JavaScript API for reading, writing, and rendering 
 <h3><strong>Install three.js via NPM</strong></h3>
 <pre><code class="html">npm install --save three </code></pre>
 
-<p>You can <a href="https://github.com/mrdoob/three.js/archive/dev.zip">download</a> the compiled shared library from GitHub repository.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

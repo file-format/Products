@@ -109,7 +109,7 @@ GD, GD2 </li>
 <div class="d1-col d1-right">
 <ul>
 <li>PHP &gt;= 5.4 and above</li>
-<li><a href="http://php.net/manual/en/book.image.html">GD</a> library</li>
+<li><a href="https://www.php.net/manual/en/book.image.html">GD</a> library</li>
 </ul>
 <!--/right--></div>
 <!--/left-->
@@ -129,7 +129,7 @@ GD, GD2 </li>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Intervention Image</h2>
-<p>It requires PHP 5.4+ with <a href="http://www.php.net/gd">GD2 extension</a>. The best way to install Intervention Image is quickly and easily with <a href="http://getcomposer.org/">Composer</a>. Please use the following command.</p>
+<p>It requires PHP 5.4+ with <a href="https://www.php.net/manual/en/book.image.php">GD2 extension</a>. The best way to install Intervention Image is quickly and easily with <a href="https://getcomposer.org/">Composer</a>. Please use the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

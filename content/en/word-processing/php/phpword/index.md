@@ -1,6 +1,6 @@
 ---
 title: Open Source PHP Library for Microsoft Word DOC & DOCX -  PHPOffice
-description: PHPWord – Open Source Free PHP library for Microsoft Word DOC & DOCX fiels. Create, convert & modify Word documents as well as RTF & ODP files via PHP API.
+description: PHPWord – Open Source Free PHP library for Microsoft Word DOC & DOCX files. Create, convert & modify Word documents as well as RTF & ODP files via PHP API.
 keywords: PHPOffice, Free API, Free PHP API, Free API, Free DOCX API, Free DOC API, Open Source PHP API, Open Source DOCX API, Open Source DOC API, Convert DOCX Free, Create Docx using PHP, Convert DOCX using PHP, modify word files, convert word DOCX, add images  to DOCX
 draft: false
 weight: 5
@@ -106,10 +106,10 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 <div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3.3+</li>
-<li><a href="http://www.php.net/manual/en/xml.installation.php">XML Parser</a> extension</li>
-<li><a href="http://framework.zend.com/manual/current/en/modules/zend.escaper.introduction.html">Zend\Escaper</a> component</li>
+<li><a href="https://www.php.net/manual/en/xml.installation.php">XML Parser</a> extension</li>
+<li><a href="https://framework.zend.com/manual/2.4/en/modules/zend.escaper.introduction.html">Zend\Escaper</a> component</li>
 <li>Zend\Stdlib component</li>
-<li><a href="http://framework.zend.com/manual/current/en/modules/zend.validator.html">Zend\Validator</a> component</li>
+<li><a href="https://framework.zend.com/manual/2.4/en/modules/zend.validator.html">Zend\Validator</a> component</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -143,7 +143,6 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 {{< SinglePage/PageBody/features/code >}}
 <pre><code class="xml">                composer require zendframework/zend-escaper
     </code></pre>
-
 <ul>
 <ul>
 <ul>
@@ -233,7 +232,7 @@ $objWriter-&gt;save('DocumentProperties.docx');
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Containers to Organize Document Elements</h2>
-<p>PHPWord has objects called containers, which hold various elements (tables, text etc) of a document. There are 3 primary containers; sections, headers, and footers. Also, there are 3 elements which can act as containers; textruns, table cells, and footnotes.</p>
+<p>PHPWord has objects called containers, which hold various elements (tables, text etc) of a document. There are 3 primary containers; sections, headers, and footers. Also, there are 3 elements which can act as containers; textures, table cells, and footnotes.</p>
 <p>All the visible elements of a document need to be placed inside a section. You can assign page numbers, line numbers, change the layout to multi-column, create headers, and footers.</p>
 {{< /SinglePage/PageBody/features/text >}}
 

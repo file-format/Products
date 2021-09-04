@@ -1,6 +1,6 @@
 ---
 title: PHP PDF Library - Add Barcode, Custom Header/Footer & Tables in PDF
-description: TCPDF – Open source PHP Library to generate, modify PDF files.  Add 1D & 2D Barcodes, Tables, Headers & Footers & Bookmarks to PDF via PHP API.
+description: TCPDF – Open source PHP Library to generate, modify PDF files.  Add 1D & 2D Barcode, Tables, Headers & Footers & Bookmarks to PDF via PHP API.
 keywords: PDF API, PDF library, convert PDF files, PHP APIs ,  PHP PDF programming, render PDF Elements,  UTF-8 encoded HTML to PDF,  PHP  PDF Library, Open Source PDF Library, Extract PDF content , extract data from a PDF, manipulate PDF documents, add tables to PDF
 draft: false
 weight: 14
@@ -32,7 +32,7 @@ Header_H2_Text="Open Source PHP API to Generate PDF documents, Font subletting, 
 
 
 <p>The TCPDF is an open source PHP library that gives software developers the capability to generate PDF documents using PHP commands without any external dependencies. The great thing about TCPDF is that it is considered to be the only PHP-based library that includes complete support for UTF-8 Unicode and right-to-left languages.</p>
-<p>The library has included support for several important features such as creating PDF documents, font subletting, images &  graphic support, native support for JPEG, PNG and SVG images, 1D and 2D barcodes support, manage PDF page header and footer,  encryption and decryption support, PDF annotations,  table of content, text rendering modes, custom page formats, custom margins, page units and much more.</p>
+<p>The library has included support for several important features such as creating PDF documents, font subletting, images &  graphic support, native support for JPEG, PNG and SVG images, 1D and 2D barcode support, manage PDF page header and footer,  encryption and decryption support, PDF annotations,  table of content, text rendering modes, custom page formats, custom margins, page units and much more.</p>
 <p>The library is considered to be one of the most popular and the most used PHP libraries in the world because it has been included in the most popular PHP-based CMS and applications, including Joomla, Drupal, Moodle, phpMyAdmin, and so on.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -55,7 +55,7 @@ Header_H2_Text="Open Source PHP API to Generate PDF documents, Font subletting, 
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
 <li>Generate PDF</li>
-<li>Barcodes support</li>
+<li>Barcode support</li>
 <li>UTF-8 encoding</li>
 <li>RTL languages</li>
 <li>Add bookmarks</li>
@@ -124,7 +124,7 @@ Header_H2_Text="Open Source PHP API to Generate PDF documents, Font subletting, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with TCPDF</h2>
-<p>TCPDF is available at packagist.org, so you can use the <a href="http://getcomposer.org/download/">composer</a> to download this library and all dependencies. Please use the following command for a smooth installation.</p>
+<p>TCPDF is available at packagist.org, so you can use the <a href="https://getcomposer.org/download/">composer</a> to download this library and all dependencies. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -139,7 +139,7 @@ Header_H2_Text="Open Source PHP API to Generate PDF documents, Font subletting, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate PDF Documents using PHP Library</h2>
-<p>The free PHP library TCPDF has included the functionality that enables software programmers to programmatically create PDF documents inside their own PHP applications.  You can use utf-8 encoding as well as support for Right-To-Left languages.  Several important features like selecting font type and size, custom margins, units of measure, add barcodes, add a table, insert pages, move the page, delete pages, and much more.</p>
+<p>The free PHP library TCPDF has included the functionality that enables software programmers to programmatically create PDF documents inside their own PHP applications.  You can use utf-8 encoding as well as support for Right-To-Left languages.  Several important features like selecting font type and size, custom margins, units of measure, add barcode, add a table, insert pages, move the page, delete pages, and much more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -147,7 +147,7 @@ Header_H2_Text="Open Source PHP API to Generate PDF documents, Font subletting, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Barcode Supports in PDF Files via PHP</h2>
-<p>The open source PHP library provides functionality for including Barcodes inside PDF documents using a couple of lines of PHP code. Developers can use different types of 1D Barcode (CODE 39, CODE 128 AUTO, EAN 8, UPC-E, MSI, CODABAR, CODE 11, RMS4CC) and 2D Barcodes (QR-Code, Datamatrix ECC200, and PDF417) with ease. It also provides supports for features like setting Barcode height, Barcode alignment,  set margins, apply checksum, & more.</p>
+<p>The open source PHP library provides functionality for including Barcode inside PDF documents using a couple of lines of PHP code. Developers can use different types of 1D Barcode (CODE 39, CODE 128 AUTO, EAN 8, UPC-E, MSI, CODABAR, CODE 11, RMS4CC) and 2D Barcodes (QR-Code, Datamatrix ECC200, and PDF417) with ease. It also provides supports for features like setting Barcode height, Barcode alignment,  set margins, apply checksum, & more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

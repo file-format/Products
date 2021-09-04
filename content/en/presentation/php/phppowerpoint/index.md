@@ -100,7 +100,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>There are two ways to install PHPPowerPoint, i.e. via <a href="http://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
+<p>There are two ways to install PHPPowerPoint, i.e. via <a href="https://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -108,7 +108,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 <div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3+</li>
-<li><a href="http://php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
+<li><a href="https://www.php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
 </ul>
 </div>
 <!--/right--></div>

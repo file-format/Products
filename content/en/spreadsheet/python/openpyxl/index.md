@@ -9,7 +9,7 @@ weight: 28
 
 
 ProductName: Openpyxl
-Githublink: http://bitbucket.org/openpyxl/openpyxl/src
+Githublink: https://bitbucket.org/openpyxl/openpyxl/src/master/
 ListingPage_Short_Description: Python library to Read & Write Excel 2010 xlsx/xlsm files
 ListingPage_Product_Small_Image: listing-image.png 
 
@@ -32,8 +32,8 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 
 
 
-<p>Openpyxl is an open source python API for reading & wirting Microsoft Excel 2010 (XLSX/XLSM/XLTX/XLTM) file formats. The API allows the Python developer to read existing Excel files, create a new workbook, use number formats, use formulas, merger & un-merge cells, insert images and fold columns. Furthermore, the API allows you to manipulate your workbook in memory and there in no need to create a file on the file system.</p>
-<p>The API is rich with features for manipulating Microsoft Excel fileformat programatically. You can add charts, add/load & save comments, work with styles, table and more.</p>
+<p>Openpyxl is an open source python API for reading & writing Microsoft Excel 2010 (XLSX/XLSM/XLTX/XLTM) file formats. The API allows the Python developer to read existing Excel files, create a new workbook, use number formats, use formulas, merger & un-merge cells, insert images and fold columns. Furthermore, the API allows you to manipulate your workbook in memory and there in no need to create a file on the file system.</p>
+<p>The API is rich with features for manipulating Microsoft Excel file format programmatically. You can add charts, add/load & save comments, work with styles, table and more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -129,7 +129,7 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manipulating Excel Workbooks via Free Python API</h2>
-<p>Openpyxl API allows reading & wirting Microsoft Excel 2010 file formats using Python. The developers can easily open exisiting workbook using load_workbook() method and create a new workbook using workbook() method. You can use numbers formats, use forumlas, merge & unmmerge cells. insert images and more.</p>
+<p>Openpyxl API allows reading & writing Microsoft Excel 2010 file formats using Python. The developers can easily open existing workbook using load_workbook() method and create a new workbook using workbook() method. You can use numbers formats, use formulas, merge & unmerged cells. insert images and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -137,15 +137,15 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Charts is Excel using Free Python API</h2>
-<p>The Open Source spreadsheet library Openpyxl allows adding wide range of charts in your excel files programatically. You can add 2D Area Charts, 3D Area Charts, Vertical/Horizontal & Stacked Bar Charts, 3D Bar Charts, Bubble Charts, Line Charts, 3D Line Charts, Scatter Charts, Pie Charts, Projected Pie Charts, 3D Pie Charts, Doughnut Charts, Radar Charts, Stock Charts, and Surface Charts.</p>
+<p>The Open Source spreadsheet library Openpyxl allows adding wide range of charts in your excel files programmatically. You can add 2D Area Charts, 3D Area Charts, Vertical/Horizontal & Stacked Bar Charts, 3D Bar Charts, Bubble Charts, Line Charts, 3D Line Charts, Scatter Charts, Pie Charts, Projected Pie Charts, 3D Pie Charts, Doughnut Charts, Radar Charts, Stock Charts, and Surface Charts.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Sytle Excel Spreadsheets using Python</h2>
-<p>Openpyxl library allows developers the capability to style Excel Spreadsheets programatically. Using the API, you can set font, font size, color, underlining, set borders, align cells and more.</p>
+<h2 class="h2title">Style Excel Spreadsheets using Python</h2>
+<p>Openpyxl library allows developers the capability to style Excel Spreadsheets programmatically. Using the API, you can set font, font size, color, underlining, set borders, align cells and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

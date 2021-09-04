@@ -30,7 +30,6 @@ Header_H2_Text="Java Library that has provided functionality for drawing 3D Char
 {{< SinglePage/PageBody/tab/text >}}
 
 
-
 <p>Jzy3d is an open source Java plotting library that gives software developers the capability to create their own apps that can draw charts and 3d scientific data with just a couple of lines of Java code. The library supports several important features related to surfaces, scatter plots, bar charts, and a lot of other 3d primitives. You can easily customize the axis and chart layout with just a couple of Java commands.</p>
 <p>The API is very stable and can be easily integrated into any commercial or personal projects. It has included support for several important charts types such as surface charts, bar charts, scatter charts, 2D & 3D graphs charts, rich chart options, primitive types like spheres, triangles, polygons, and so on.</p>
 <p>The library has provided a very flexible layout that has included easy to ease chart layout settings such as color bars, contour functions, tooltips, lights, color mappers support for coloring objects, background images, 2D post renderers, and much more. You can also easily integrate the chart in your AWT, Swing, and SWT applications.   Several advanced features like 2d envelopes, Dual depth peeling, 3d line strip interpolation to smooth paths, Mouse interaction with objects, Thread Controllers, animation, and much more.</p>
@@ -123,7 +122,7 @@ Header_H2_Text="Java Library that has provided functionality for drawing 3D Char
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Jzy3d</h2>
-<p>The easiest way to install Jzy3d is by using GitHub. You can <a href="https://github.com/jzy3d/jzy3d-api/archive/master.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a smooth installation. </p>
+<p>The easiest way to install Jzy3d is by using GitHub.Please use the following command for a smooth installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
