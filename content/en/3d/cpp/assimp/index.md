@@ -128,7 +128,7 @@ Header_H2_Text="C++ API that provides supports for loading as well as processi
 <h3>Install Assimp via  cmake</h3>
 <pre><code class="html">cmake CMakeLists.txt</code></pre>
 
-<p>You can also install Assimp is using GitHub. You can <a href="https://github.com/assimp/assimp/archive/master.zip">download</a> the compiled shared library from GitHub repository.</p>
+<p>You can also install Assimp is using GitHub. You can <a href="https://github.com/assimp/assimp/archive/refs/heads/master.zip">download</a> the compiled shared library from GitHub repository.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

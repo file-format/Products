@@ -1,7 +1,7 @@
 ---
 title: PHP Class Library for Reading & Writing PPT, PPTX & ODP Presentations
 description: PHP Presentation - An Open Source Free PHP API for PowerPoint PPT, PPTX & ODP Presentations. Work with slides, shapes, plain & 3D charts via PHP library.
-keywords: Free PPTX library, Free PowerPoint, Free presenations API, PHP PowerPoint API, PHP PPT, PHP PPTX, PHP ODP API, PHP PPTX library, PHP PowerPoint API, create PPT Presentations, add slide in PPT, modify PowerPoint PPT, add slide to Presentations, add chart to PPTX, add shape to PPTX, 
+keywords: Free PPTX library, Free PowerPoint, Free presentations API, PHP PowerPoint API, PHP PPT, PHP PPTX, PHP ODP API, PHP PPTX library, PHP PowerPoint API, create PPT Presentations, add slide in PPT, modify PowerPoint PPT, add slide to Presentations, add chart to PPTX, add shape to PPTX, 
 draft: false
 weight: 4
 
@@ -97,7 +97,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>There are two ways to install PHPPresentation, i.e. via <a href="http://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
+<p>There are two ways to install PHPPresentation, i.e. via <a href="https://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -105,8 +105,8 @@ Header_H2_Text="" >}}
 <div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3+</li>
-<li><a href="http://php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
-<li><a href="http://www.php.net/manual/en/xml.installation.php">PHP XML Parser</a> extension</li>
+<li><a href="https://www.php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
+<li><a href="https://www.php.net/manual/en/xml.installation.php">PHP XML Parser</a> extension</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -124,7 +124,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PHPPresentation</h2>
-<p>To use PHPPresentation on your system, you need to install PHP version 5.1 or newer.  The recommended way to install the PHPPresentation library is through <a href="http://getcomposer.org/">composer</a>. Please add the following lines to your composer.json.</p>
+<p>To use PHPPresentation on your system, you need to install PHP version 5.1 or newer.  The recommended way to install the PHPPresentation library is through <a href="https://getcomposer.org/">composer</a>. Please add the following lines to your composer.json.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

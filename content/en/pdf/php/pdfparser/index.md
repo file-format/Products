@@ -119,7 +119,7 @@ Header_H2_Text="Free PHP API allows Developers to Parse PDF Files, Extract Data 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PDFParser</h2>
-<p>The PDFParser library will be automatically downloaded through the <a href="http://getcomposer.org/download/">composer</a> command line. Add PDFParser to your composer.json file.</p>
+<p>The PDFParser library will be automatically downloaded through the <a href="https://getcomposer.org/download/">composer</a> command line. Add PDFParser to your composer.json file.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

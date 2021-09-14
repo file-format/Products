@@ -123,7 +123,7 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with mPDF</h2>
-<p>The Official installation method for mPDF library is through <a href="http://getcomposer.org/download/">composer</a> packagist package mpdf/mpdf. Please use the following command for a smooth installation.</p>
+<p>The Official installation method for mPDF library is through <a href="https://getcomposer.org/download/">composer</a> packagist package mpdf/mpdf. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

@@ -126,7 +126,7 @@ Header_H2_Text="Free C++ API that provides supports for managing and manipula
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with libigl</h2>s
-<p>The easiest way to install libigl is by using GitHub. You can <a href="https://github.com/libigl/libigl/archive/refs/heads/main.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a successful installation. </p>
+<p>The easiest way to install libigl is by using GitHub. Please use the following command for a successful installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

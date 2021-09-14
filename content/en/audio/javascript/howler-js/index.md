@@ -120,12 +120,12 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with howler.js </h2>
-<p>The recommended way to install howler.js is using <a href="https://github.com/goldfire/howler.js/archive/master.zip">GitHub</a>. Please use the following command for the complete installation.</p>
+<p> Please use the following command for the complete installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install howler.js using  PyPI</h3>
-<pre><code class="html"> git clone https://github.com/goldfire/howler.js.git </code></pre>
+<pre><code class="html"> git clone https://github.com/mackron/miniaudio.git </code></pre>
 
 <p>You can also install it using NPMy; Please use the following command for the complete installation</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -134,13 +134,11 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Play MP3 & Control Multiple Sounds via JavaScript</h2>
-<p>The open source JavaScript library howler.js has provided support for playing MP3 as well as other popular Audio file formats using JavaScript commands. It is also possible to control multiple sounds at the same time inside JavaScript apps. You can easily control a specific sound by assigning a sound ID to it. For example, you can increase the volume of a sound, fade it out or increase the speed of it. It is also to automatically download an entire audio file or preload it using metadata and autoplay playback when sound is loaded.</p>
+<p>The open source JavaScript library howler.js has provided support for playing MP3 as well as other popular Audio file formats using JavaScript commands. It is also possible to control multiple sounds at the same time inside JavaScript apps. You can easily control a specific sound by assigning a sound ID to it. For example, you can increase the volume of a sound, fade it out or increase the speed of it. It is also to automatically download an entire audio file or reload it using metadata and autoplay playback when sound is loaded.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install howler.js using  PyPI</h3>
-<pre><code class="html"> git clone https://github.com/goldfire/howler.js.git </code></pre>
 
 <p>You can also install it using NPMy; Please use the following command for the complete installation</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -154,8 +152,6 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install howler.js using  PyPI</h3>
-<pre><code class="html"> git clone https://github.com/goldfire/howler.js.git </code></pre>
 
 <p>You can also install it using NPMy; Please use the following command for the complete installation</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -169,8 +165,6 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install howler.js using  PyPI</h3>
-<pre><code class="html"> git clone https://github.com/goldfire/howler.js.git </code></pre>
 
 <p>You can also install it using NPMy; Please use the following command for the complete installation</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -183,8 +177,6 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install howler.js using  PyPI</h3>
-<pre><code class="html"> git clone https://github.com/goldfire/howler.js.git </code></pre>
 
 <p>You can also install it using NPMy; Please use the following command for the complete installation</p>
 {{< /SinglePage/PageBody/features/code >}}

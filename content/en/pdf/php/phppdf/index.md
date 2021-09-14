@@ -58,7 +58,7 @@ Header_H2_Text="Open Source PHP API to Generate, Edit, and Process PDF Documen
 <li>XML to PDF</li>
 <li>UTF-8 encoding</li>
 <li>Add Bookmarks</li>
-<li>Barcodes support</li>
+<li>Barcode support</li>
 <li>CSS stylesheets</li>
 <li>Set page size</li>
 <li>Page orientation</li>
@@ -124,7 +124,7 @@ Header_H2_Text="Open Source PHP API to Generate, Edit, and Process PDF Documen
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PHPPdf</h2>
-<p>PHPPdf is available at packagist.org, so you can use the <a href="http://getcomposer.org/download/">composer</a> to download this library and all dependencies. Please use the following command for a smooth installation.</p>
+<p>PHPPdf is available at packagist.org, so you can use the <a href="https://getcomposer.org/download/">composer</a> to download this library and all dependencies. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -147,7 +147,7 @@ Header_H2_Text="Open Source PHP API to Generate, Edit, and Process PDF Documen
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Headers & Footers to PDF File</h2>
-<p><em>The</em> Hea<em>ders</em> and footers are the top and bottom sections of a PDF that gives a professional look to PDF documents. To make longer PDF documents organized and easier to read developers can use Headers and footers section of a PDF document.  The PHPPdf has included support for adding headers & footers to PDF documents. It supports features like adding repetitive header/footer, insert images in a header/footer, add page numbers, and much more.</p>
+<p>The headers and footers are the top and bottom sections of a PDF that gives a professional look to PDF documents. To make longer PDF documents organized and easier to read developers can use Headers and footers section of a PDF document.  The PHPPdf has included support for adding headers & footers to PDF documents. It supports features like adding repetitive header/footer, insert images in a header/footer, add page numbers, and much more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -155,7 +155,7 @@ Header_H2_Text="Open Source PHP API to Generate, Edit, and Process PDF Documen
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Barcode Supports in PDF Files via PHP</h2>
-<p>The PHPPdf library has included support for adding Barcodes to PDF documents using simple PHP commands. The library uses the Zend\Barcode library in order to generate barcodes. You can use different Barcode types like code128, code25, code25interleaved, code39, ean13, ean2, ean5, ean8, identcode, itf14, and many more.  You can easily set Barcode height, thin-width, checksum, thick-width & more.</p>
+<p>The PHPPdf library has included support for adding Barcodes to PDF documents using simple PHP commands. The library uses the Zend\Barcode library in order to generate barcode. You can use different Barcode types like code128, code25, code25interleaved, code39, ean13, ean2, ean5, ean8, identcode, itf14, and many more.  You can easily set Barcode height, thin-width, checksum, thick-width & more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

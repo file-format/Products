@@ -123,7 +123,7 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with CSCore</h2>
-<p>The recommended way to install CSCore is using <a href="https://github.com/filoe/cscore/archive/master.zip">GitHub</a>. Please use the following command for the complete installation.</p>
+<p>Please use the following command for the complete installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -142,9 +142,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
-<pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -157,9 +154,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
-<pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -172,9 +166,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
-<pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -187,9 +178,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
-<pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -201,9 +189,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
-<pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

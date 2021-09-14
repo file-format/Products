@@ -125,11 +125,6 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Librosa using  PyPI</h3>
-<pre><code class="html"> pip install librosa </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/librosa/librosa/archive/main.zip">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
@@ -141,10 +136,6 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Librosa using  PyPI</h3>
-<pre><code class="html"> pip install librosa </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/librosa/librosa/archive/main.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -157,11 +148,6 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Librosa using  PyPI</h3>
-<pre><code class="html"> pip install librosa </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/librosa/librosa/archive/main.zip">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
@@ -173,10 +159,7 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Librosa using  PyPI</h3>
-<pre><code class="html"> pip install librosa </code></pre>
 
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/librosa/librosa/archive/main.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -188,10 +171,6 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Librosa using  PyPI</h3>
-<pre><code class="html"> pip install librosa </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/librosa/librosa/archive/main.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

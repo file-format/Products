@@ -110,7 +110,7 @@ Header_H2_Text="Free C++ API that allows software developers to autoplay, record
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Maximilian</h2>
-<p>The easiest way to install Maximilian is using <a href="https://github.com/micknoise/Maximilian/archive/master.zip">GitHub</a>. Please use the following command for a complete installation.</p>
+<p> Please use the following command for a complete installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
