@@ -132,7 +132,6 @@ Header_H2_Text="Read, Write, Modify, Resize & Convert PNG, JPEG, GIF & TIFF Imag
 <h3><strong>Install ImageSharp via Nuget</strong></h3>
 <pre><code class="html">Install-Package SixLabors.ImageSharp -Version number </code></pre>
 
-You can also install it manually; download the latest release files directly from the  <a href="https://github.com/SixLabors/ImageSharp.git">GitHub repository</a>.
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

@@ -135,7 +135,6 @@ Header_H2_Text="Create, Read & Manipulate popular compression file formats like
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You can manually download the repository from <a href="https://github.com/DinoChiesa/DotNetZip.git">GitHub</a>.</p>
 <h2 class="h2title">Generate & Split ZIP Files via .NET Library</h2>
 <p>ZIP is one of the leading file formats that are used in the industry for compressing and decompressing files.  The Open Source library DotNetZip allows developers to generate a ZIP file with ease inside their own .NET applications. It also provides functionality for Splitting ZIP files. It also provides features for searching the contents of a ZIP file.</p>
 {{< /SinglePage/PageBody/features/text >}}

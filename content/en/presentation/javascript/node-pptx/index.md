@@ -131,7 +131,6 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 <h3>Install via npm command</h3>
 <pre><code class="html"> $ npm i nodejs-pptx </code></pre>
 
-You can manually download and install the package directly from <a href="https://github.com/heavysixer/node-pptx.git">GitHub</a>.
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
