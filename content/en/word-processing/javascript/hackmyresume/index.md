@@ -151,8 +151,6 @@ Header_H2_Text="HackMyResume is a command line and shell package that can be use
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install HackMyResume via npm</strong></h3>
 <pre><code class="html"> npm install hackmyresume -g </code></pre>
-<p>You can also download the directly from <a href="https://github.com/hacksalot/HackMyResume/archive/refs/heads/master.zip">GitHub</a> and install it.</p>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
