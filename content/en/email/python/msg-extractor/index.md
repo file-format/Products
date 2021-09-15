@@ -8,7 +8,7 @@ weight: 10
 
 
 ProductName: MSG-Extractor
-Githublink: https://github.com/mattgwwalker/msg-extractor
+Githublink: https://github.com/TeamMsgExtractor/msg-extractor
 ListingPage_Short_Description: Develop Python applications having the ability to read and access Microsoft Outlook MSG Files using open source Python libraries.
 ListingPage_Product_Small_Image: listing-image.png 
 
