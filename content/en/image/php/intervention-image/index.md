@@ -109,7 +109,7 @@ GD, GD2 </li>
 <div class="d1-col d1-right">
 <ul>
 <li>PHP &gt;= 5.4 and above</li>
-<li><a href="https://www.php.net/manual/en/book.image.html">GD</a> library</li>
+<li>GD library</li>
 </ul>
 <!--/right--></div>
 <!--/left-->
@@ -135,9 +135,6 @@ GD, GD2 </li>
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install WideImage via Composer</strong></h3>
 <pre><code class="html">$ php composer.phar require intervention/image </code></pre>
-
-<p>Download the <a href="https://github.com/smottt/WideImage/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

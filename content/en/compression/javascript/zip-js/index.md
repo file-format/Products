@@ -128,7 +128,6 @@ Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting
 <h3>Add ZIP.JS to HTML page</h3>
 <pre><code class="html"> script type="text/javascript" src="/lib/zip.js"&gt;&lt;/script&gt; </code></pre>
 
-<p>You can also manually <a href="https://github.com/gildas-lormeau/zip.js.git">download ZIP.JS</a>  from GitHub and install it on your system or clone the project with Git by running the command</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

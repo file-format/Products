@@ -127,7 +127,7 @@ Header_H2_Text="Java Library that has provided functionality for drawing 3D Char
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Jzy3d via GitHub</strong></h3>
-<pre><code class="html">git clone --depth=1 <a href="https://github.com/jzy3d/jzy3d-api.git">https://github.com/jzy3d/jzy3d-api.git</a> </code></pre>
+<pre><code class="html">git clone --depth=1 https://github.com/jzy3d/jzy3d-api.git </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

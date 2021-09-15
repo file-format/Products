@@ -133,7 +133,6 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 <h3>Install GoJS via npm</h3>
 <pre><code class="html">$ npm install gojs --save</code></pre>
 
-You can also manually download and install it from <a href="https://github.com/NorthwoodsSoftware/GoJS/archive/master.zip">GitHub</a>.
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

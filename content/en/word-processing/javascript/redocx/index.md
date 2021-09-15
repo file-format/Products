@@ -124,8 +124,6 @@ Header_H2_Text="Open Source JavaScript library to create, modify and convert Wor
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install redocx via npm</strong></h3>
 <pre><code class="html"> npm install --save react redocx </code></pre>
-<p>You can also download the directly from <a href="https://github.com/nitin42/redocx/archive/master.zip">GitHub</a> and install it.</p>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

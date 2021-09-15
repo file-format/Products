@@ -137,7 +137,6 @@ Header_H2_Text="Ruby API to work with Microsoft Excel compatible spreadsheets. I
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You can <a href="https://github.com/zdavatz/spreadsheet/archive/master.zip">download</a> the compiled shared library from GitHub repository and install it.</p>
 <h2 class="h2title">Generate New Excel Spreadsheet using Ruby</h2>
 <p>The open source library Ruby Spreadsheet has provided complete support for generating Microsoft Excel compatible spreadsheets using Ruby code. You can easily create a new workbook and add sheets to it with just a couple of lines of Ruby code. Once created you can insert contents to it and apply formatting to it. You can also insert new rows or columns, insert text or images, and so on.</p>
 

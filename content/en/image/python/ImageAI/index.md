@@ -76,13 +76,13 @@ Header_H2_Text="Open Source Python APIs to Develop Applications and Systems wit
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpg/">JPG</a>, </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
 </ul>
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpg/">JPG</a>, </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -134,7 +134,6 @@ Header_H2_Text="Open Source Python APIs to Develop Applications and Systems wit
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>Alternately please download the <a href="https://github.com/OlafenwaMoses/ImageAI/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
 <h2 class="h2title">Image Prediction via Python APIs</h2>
 <p>The open source ImageAI library enables software developers to add Image Prediction capabilities into their own python applications with just a couple of lines of code. The library has included 4 different algorithms and model types to perform image prediction, such as SqueezeNet, ResNet, InceptionV3, and DenseNet. Please do remember that each of these algorithms has separate model files that users need to use depending on the choice of the algorithm. The library also offers prediction speeds for all image prediction tasks such as normal by default, fast, faster, and fastest.</p>
 

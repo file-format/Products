@@ -129,7 +129,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Compile Draco library as a dynamic library</h3>
-<pre><code class="html">go get <a href="https://github.com/google/draco/archive/master.zip">https://github.com/google/draco/archive/master.zip</a><br></code></pre>
+<pre><code class="html">go get https://github.com/google/draco.git</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

@@ -77,8 +77,8 @@ Header_H2_Text="Free PHP API allows Developers to Parse PDF Files, Extract Data 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
-</ul>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
+</ul>s
 </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>

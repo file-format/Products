@@ -131,15 +131,13 @@ GD, GD2 </li>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with WideImage</h2>
-<p>It requires PHP 5.2+ with <a href="http://www.php.net/gd">GD2 extension</a>. You can easily install the WideImage library via PEAR. Please use the following command.</p>
+<p>It requires PHP 5.2+ with GD2 extension. You can easily install the WideImage library via PEAR. Please use the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install WideImage via PEAR</strong></h3>
 <pre><code class="html">pear channel-discover pear.kozak.si
 pear install kozak.si/WideImage </code></pre>
-
-<p>Download the <a href="https://github.com/smottt/WideImage/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

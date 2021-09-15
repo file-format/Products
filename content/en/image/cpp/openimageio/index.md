@@ -123,8 +123,8 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with OpenImageIO</h2>
-<p>You need to have C++11 and above for running the project smoothly. The code is hosted on <a href="https://github.com/OpenImageIO/oiio/archive/master.zip">GitHub</a> and you can easily download it.</p>
-<p>OpenImageIO build system is based upon <a href="http://www.cmake.org">CMake</a>. If need to install it on your system. <strong> </strong>After you build OpenImageIO, if you compiled with the EMBEDPLUGINS=0 flag you will need to set the environment variable OIIO_LIBRARY_PATH to point to the 'lib' directory where OpenImageIO is installed, or else it will not be able to find the plugins.</p>
+<p>You need to have C++11 and above for running the project smoothly.
+<p>OpenImageIO build system is based upon CMake. If need to install it on your system. After you build OpenImageIO, if you compiled with the EMBEDPLUGINS=0 flag you will need to set the environment variable OIIO_LIBRARY_PATH to point to the 'lib' directory where OpenImageIO is installed, or else it will not be able to find the plugins.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

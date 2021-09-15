@@ -120,8 +120,6 @@ Header_H2_Text="Open Source JavaScript Library that supports comparing PNG image
 <h3><strong>Install LooksSame via NPM</strong></h3>
 <pre><code class="html"> npm install looks-same </code></pre>
 
-<p>you can also download the <a href="https://github.com/gemini-testing/looks-same/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

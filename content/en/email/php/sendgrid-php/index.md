@@ -121,7 +121,6 @@ Header_H2_Text="Free PHP API that allows creating and sending email messages 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Sendgrid-php API via Composer </h3>
 <pre><code class="html">composer require sendgrid/sendgrid </code></pre>
-You can also <a href="https://github.com/sendgrid/sendgrid-php/archive/main.zip">download</a> it from GitHub and manually install it with ease.
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

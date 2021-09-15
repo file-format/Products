@@ -78,7 +78,7 @@ Header_H2_Text="Reseize Images Online using Free .NET API." >}}
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a> <a href="https://docs.fileformat.com/image/wmf/">WMF</a>,   <a href="https://wiki.fileformat.com/image/emf/">EMF</a>      </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a> <a href="https://docs.fileformat.com/image/wmf/">WMF</a>,   <a href="https://docs.fileformat.com/image/emf/">EMF</a>      </li>
 </ul>
 </div>
 <!--/left-->

@@ -132,8 +132,6 @@ make
 make test
 make install <br></code></pre>
 
-<p>You can also install libzip manually; download the latest release files directly from <a href="https://github.com/nih-at/libzip.git">GitHub</a> repository.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

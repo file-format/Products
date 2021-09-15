@@ -127,7 +127,7 @@ Header_H2_Text="Free Swift API provides the capability to handle image proces
 <h3><strong>Install SwiftImage </strong><strong>via Github </strong></h3>
 <pre><code class="html"> .package(url: "https://github.com/koher/swift-image.git", from: "0.7.0"),</code></pre>
 
-<p>You easily download the <a href="https://github.com/koher/swift-image/archive/refs/heads/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project or Clone the latest sources using the following command.</p>
+<p>Clone the latest sources using the following command.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

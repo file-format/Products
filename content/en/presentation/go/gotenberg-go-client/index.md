@@ -69,7 +69,7 @@ Header_H2_Text="Convert Microsoft Presentations to PDF via Free GO API " >}}
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/presentation/ppt/">PPT</a>, <a href="https://docs.fileformat.com/presentation/ppt">PPTX</a></li>
+<li><a href="https://docs.fileformat.com/presentation/ppt/">PPT</a>, <a href="https://docs.fileformat.com/presentation/ppt/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -112,7 +112,7 @@ Header_H2_Text="Convert Microsoft Presentations to PDF via Free GO API " >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Gotenberg Go client</h2>
-<p>The recommended way to install the Gotenberg Go client into your project is by using <a href="https://github.com/thecodingmachine/gotenberg-go-client.git">GitHub</a>. Please use the following command for a smooth installation.</p>
+<p>The recommended way to install the Gotenberg Go client into your project is by using Github. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

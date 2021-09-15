@@ -86,7 +86,7 @@ Header_H2_Text="Open Source C++ Library for Creating, Editing, Manipulating & P
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -128,8 +128,8 @@ Header_H2_Text="Open Source C++ Library for Creating, Editing, Manipulating & P
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PDF-Writer</h2>
-<p>The recommended method for building the library, and sample application, is to use CMake.  you can get it from <a href="http://www.cmake.org/cmake/resources/software.html">CMake web site</a> .  The library is dependent on Zlib, LibTiff, LibJpeg, FreeType, and LibPng.  This means that you should compile them too, before using the PDF library in a linked context.</p>
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/galkahana/PDF-Writer.git">GitHub repository</a>.</p>
+<p>The recommended method for building the library, and sample application, is to use CMake.  you can get it from CMake web site.  The library is dependent on Zlib, LibTiff, LibJpeg, FreeType, and LibPng.  This means that you should compile them too, before using the PDF library in a linked context.</p>
+<p>You can also install it manually; download the latest release files directly from GitHub repository.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

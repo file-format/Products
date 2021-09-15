@@ -128,8 +128,6 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 <h3>Install Pony via Rubygems</h3>
 <pre><code class="html"> gem install pony</code></pre>
 
-<p>You can also use <a href="https://github.com/benprew/pony/archive/master.zip">GitHub</a> to manually download and install the library. </p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

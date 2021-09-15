@@ -72,7 +72,7 @@ Header_H2_Text="Open Source Java API to Compare two PDF documents and store or 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -114,7 +114,7 @@ Header_H2_Text="Open Source Java API to Compare two PDF documents and store or 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PdfCompare</h2>
-<p>You can install it manually; download the latest release jar files directly from <a href="https://github.com/red6/pdfcompare/archive/master.zip">GitHub repository</a>. </p>
+<p>Please use the following command to add the maven dependency in your project.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

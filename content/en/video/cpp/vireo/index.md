@@ -119,7 +119,6 @@ $ make
 $ make install
 </code></pre>
 
-<p>You can also install Vireo is using <a href="https://github.com/twitter/vireo/archive/master.zip">GitHub</a>. Please use the following command for a complete installation.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

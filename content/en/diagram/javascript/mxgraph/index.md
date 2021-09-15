@@ -130,7 +130,6 @@ Header_H2_Text="Generate Interactive Graph and Charting Applications via Open S
 <h3>Install mxGraph via npm</h3>
 <pre><code class="html">npm install mxgraph --save</code></pre>
 
-You can also manually download and install it from <a href="https://github.com/jgraph/mxgraph.git">GitHub</a>.
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

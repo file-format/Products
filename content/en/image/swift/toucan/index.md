@@ -126,7 +126,7 @@ Header_H2_Text="Free Swift API that allows software developers to resize, crop
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Toucan</h2>
-<p>You easily download the Toucan library from the <a href="https://github.com/gavinbunney/Toucan/archive/develop.zip">Github repository</a>. Unpack the zip file and include the files in your project or Clone the latest sources with using the following command</p>
+<p>Clone the latest sources with using the following command.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -134,7 +134,7 @@ Header_H2_Text="Free Swift API that allows software developers to resize, crop
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Kingfisher via GitHub.</strong></h3>
-<pre><code class="html">$ git clone <a href="https://github.com/gavinbunney/Toucan.git">https://github.com/gavinbunney/Toucan.git</a> </code></pre>
+<pre><code class="html">$ git clone https://github.com/gavinbunney/Toucan.git </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

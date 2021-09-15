@@ -86,7 +86,7 @@ Header_H2_Text="Open, Read, Write, Manipulate & Convert MS Word DOCX files to 
 </ul>
 <header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -123,7 +123,7 @@ Header_H2_Text="Open, Read, Write, Manipulate & Convert MS Word DOCX files to 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PHPDocx</h2>
-<p>Please <a href="https://github.com/lpkapil/phpdocx/archive/master.zip">download </a>the ZIP package from the PHPDocx page and copy the files to the server path where you will use the data/software library. To start using the software library, it is required to add the license code and subdomain/domain/IP. </p>
+<p>Please <a href="https://github.com/lpkapil/phpdocx">download </a>the ZIP package from the PHPDocx page and copy the files to the server path where you will use the data/software library. To start using the software library, it is required to add the license code and subdomain/domain/IP. </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

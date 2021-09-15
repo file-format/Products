@@ -119,12 +119,12 @@ Header_H2_Text="Generate and Mange a wide variety of 3D Charts that can be easil
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Orson Charts</h2>
 <p><code class="html"></code></p>
-<p>The easiest and recommended way to install Orson Charts is via GitHub. Download the <a href="https://github.com/jfree/orson-charts/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
+<p>The easiest and recommended way to install Orson Charts is via GitHub. Please use the following command to install Orson Charts.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Orson Charts via GitHub</strong></h3>
-<pre><code class="html">go get -u https://github.com/jfree/orson-charts.git</code></pre>
+<pre><code class="html">gh repo clone jfree/orson-charts</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

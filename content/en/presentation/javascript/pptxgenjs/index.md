@@ -127,7 +127,7 @@ Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">How to Install PptxGenJS?</h2>
-<p>Download the latest release from <a href="https://github.com/gitbrent/PptxGenJS/releases/latest">GitHub</a> or use any of the below methods as per available package manager.</p>
+<p>Please use the following command to install using git.</p>s
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

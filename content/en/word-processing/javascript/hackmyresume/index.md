@@ -120,14 +120,13 @@ Header_H2_Text="HackMyResume is a command line and shell package that can be use
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install HackMyResume via npm</strong></h3>
 <pre><code class="html"> npm install hackmyresume -g </code></pre>
-<p>You can also download the directly from <a href="https://github.com/hacksalot/HackMyResume/archive/refs/heads/master.zip">GitHub</a> and install it.</p>
 
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
-{{< SinglePage/PageBody/features/text >}}
+{{< SinglePage/PageBody/features/text >}}s
 <h2 class="h2title">Generate Resume via JavaScript API</h2>
 <p>When it comes to generating your resume in Microsoft Word format, HackMyResume supports any PDF engine you already have installed however, for optimal performance it is preferred that one of the following PDF generators are installed: Phatom.js, wkhtmltopdf, WeasyPrint. In order to use HackMyResume your resume already has to be in FRESH or JSON Resume format after which the package will help generate your resume in different formats. Some basic commands that you can use are: new, build, convert, analyze, validate and peek.</p>
 

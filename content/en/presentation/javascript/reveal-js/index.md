@@ -130,7 +130,7 @@ Header_H2_Text="Open Source JavaScript API to create & manage powerful PowerPoi
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install reveal.js via GitHub</h3>
-<pre><code class="html">$ git clone <a href="https://github.com/hakimel/reveal.js.git">https://github.com/hakimel/reveal.js.git </a><br></code></pre>
+<pre><code class="html">$ git clone https://github.com/hakimel/reveal.js.git</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

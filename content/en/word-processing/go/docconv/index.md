@@ -109,7 +109,7 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Fr
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Docconv</h2>
-<p>The recommended way Docconv into your project is by using <a href="https://github.com/sajari/docconv.git">GitHub</a>. Please use the following command for a smooth installation.</p>
+<p>The recommended way Docconv into your project is by using GitHub. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

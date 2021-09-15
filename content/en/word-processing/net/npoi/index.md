@@ -106,7 +106,7 @@ Header_H2_Text="Open Source .NET API allows to Read, Write, Manipulate & Convert
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with NPOI</h2>
-<p>Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/tonyqus/npoi">GitHub</a> or install it from NuGet.</p>
+<p>Once you have met the prerequisites, you can install in using NuGet</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

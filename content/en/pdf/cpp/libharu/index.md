@@ -79,7 +79,7 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>

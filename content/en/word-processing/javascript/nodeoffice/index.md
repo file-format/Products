@@ -115,8 +115,6 @@ Header_H2_Text="Node office is a simple, easy-to-use package that can be install
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install NodeOffice via npm</strong></h3>
 <pre><code class="html">npm install office </code></pre>
-<p>You can also download the directly from <a href="https://github.com/dkiyatkin/node-office/archive/refs/heads/master.zip">GitHub</a> and install it.</p>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
