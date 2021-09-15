@@ -124,8 +124,6 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 <pre><code class="html"> npm install jszip <br></code></pre>
 <h3>Install via <strong>Bower</strong></h3>
 <pre><code class="html">bower install Stuk/jszip  </code></pre>
-<p>You can also manually <a href="http://github.com/Stuk/jszip/zipball/master">download JSZip</a> and need to include the file <code><span style="font-size: 10.0pt;">dist/jszip.js</span></code> or <code><span style="font-size: 10.0pt;">dist/jszip.min.js</span></code>.</p>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

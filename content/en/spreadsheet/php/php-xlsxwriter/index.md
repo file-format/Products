@@ -126,7 +126,7 @@ Header_H2_Text="create, edit and manage Excel-compatible spreadsheet in XLSX for
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install PHP_XLSXWriter via Git</h3>
-<pre><code class="html"> Clone <a href="https://github.com/mk-j/PHP_XLSXWriter.git">https://github.com/mk-j/PHP_XLSXWriter.git</a></code></pre>
+<pre><code class="html"> Clone https://github.com/mk-j/PHP_XLSXWriter.git</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

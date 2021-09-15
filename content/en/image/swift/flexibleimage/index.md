@@ -137,7 +137,7 @@ Header_H2_Text="Open source Swift API that allows software developers to apply 
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Kingfisher via GitHub.</strong></h3>
-<pre><code class="html">$ git <a href="https://github.com/kawoou/FlexibleImage.git">https://github.com/kawoou/FlexibleImage.git</a> </code></pre>
+<pre><code class="html">$ git https://github.com/kawoou/FlexibleImage.git</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

@@ -8,7 +8,7 @@ weight: 1
 
 
 ProductName: SheetJS JS-XLSX  
-Githublink: https://github.com/SheetJS/js-xlsx
+Githublink: https://github.com/SheetJS/sheetjs
 ListingPage_Short_Description: Pure JavaScript implementation allows software developers to export, read and write the most popular format of Excel spreadsheets inside web browsers and servers.
 ListingPage_Product_Small_Image: listing-image.png 
 

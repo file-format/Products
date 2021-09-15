@@ -118,7 +118,7 @@ Header_H2_Text="Open Source C Data Compression Library to Create Archiver that e
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with zlib</h2>
-<p>To run your project using zlib, you need to download the repository from <a href="https://github.com/madler/zlib.git">GitHub</a>. Use the following command to install it.</p>
+<p>To run your project using zlib, you need to download the repository from GitHub. Use the following command to install it.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
