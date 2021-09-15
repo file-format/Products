@@ -133,8 +133,6 @@ Header_H2_Text="Free Python API allows Developers to Export, Rotates, Merge and 
 <pre><code class="html"> python -m pip install pdfrw   
 </code></pre>
 
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/pmaupin/pdfrw.git">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
