@@ -123,12 +123,12 @@ Header_H2_Text="Open Source Java Library that included support for Geometries 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with iGeo</h2>
-<p>The easiest way to install iGeo is by using GitHub. You can <a href="https://github.com/sghr/iGeo/archive/master.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a smooth installation. </p>
+<p>The easiest way to install iGeo is by using GitHub. Please use the following command for a smooth installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install iGeo via GitHub</strong></h3>
-<pre><code class="html">git clone --depth=1 <a href="https://github.com/sghr/iGeo.git">https://github.com/sghr/iGeo.git</a> </code></pre>
+<pre><code class="html">git clone https://github.com/sghr/iGeo.git </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

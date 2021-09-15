@@ -8,7 +8,7 @@ weight: 3
 
 
 ProductName: NPOI
-Githublink: https://github.com/tonyqus/npoi
+Githublink: https://github.com/nissl-lab/npoi
 ListingPage_Short_Description: NPOI allows developers to create & manipulate XLS & XLSX using .NET applications.
 ListingPage_Product_Small_Image: listing-image.png 
 
@@ -108,7 +108,6 @@ Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-sour
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">How to Install NPOI?</h2>
-<p>Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/tonyqus/npoi">GitHub</a> or install from NuGet.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

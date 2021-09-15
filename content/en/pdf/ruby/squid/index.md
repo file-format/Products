@@ -77,7 +77,7 @@ Header_H2_Text="Free Ruby API that  gives software developers the ability to dr
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -125,7 +125,6 @@ Header_H2_Text="Free Ruby API that  gives software developers the ability to dr
 <h3>Install Squid via RubyGems</h3>
 <pre><code class="html">gem install squid <br></code></pre>
 
-<p>You easily download the <a href="https://github.com/Fullscreen/squid/archive/refs/heads/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project or Clone the latest sources with using the following command.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

@@ -122,7 +122,7 @@ Header_H2_Text="Open Source Go Library for Managing & Automating common Word 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with unioffice</h2>
-<p>The recommended way to unioffice into your project is by using <a href="https://github.com/unidoc/unioffice.git">GitHub</a>. Please use the following command for a smooth installation.</p>
+<p>The recommended way to unioffice into your project is by using GitHub. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

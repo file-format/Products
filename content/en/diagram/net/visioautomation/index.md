@@ -115,7 +115,7 @@ Header_H2_Text="Generate simple Visio XML (VDX) files via Open Source Free .NET
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with VisioAutomation</h2>
-<p>The code is hosted on <a href="https://github.com/saveenr/VisioAutomation/archive/master.zip">GitHub</a> and you can easily download it.</p>
+<p>Please use the following command to install VisioAutomation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

@@ -139,7 +139,6 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You can <a href="https://github.com/weshatheleopard/rubyXL/archive/master.zip">download</a> the compiled shared library from GitHub repository and install it.</p>
 <h2 class="h2title">Generate New Excel Workbook via Ruby</h2>
 <p>Microsoft Excel is a powerful tool that gives users the ability to organize and store their data in a better way. It is the most used spreadsheet program and plays an important role in many business activities, education tasks as well as individual data organization. The rubyXL library gives software programmers the capability to generate a new Excel workbook with just a couple of lines of code. You can easily add a new worksheet, assign name to the worksheet, delete the unwanted worksheet, and many more.</p>
 

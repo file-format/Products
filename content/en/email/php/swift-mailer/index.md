@@ -125,7 +125,6 @@ Header_H2_Text="Free PHP API that allows sending emails using SMTP, sendmail,
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Swift Mailer via GitHub </h3>
 <pre><code class="html">$ composer require "swiftmailer/swiftmailer:^6.0" <br></code></pre>
-You can also <a href="https://github.com/swiftmailer/swiftmailer/archive/master.zip">download</a> it from GitHub and manually install it with ease.
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

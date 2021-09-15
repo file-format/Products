@@ -80,7 +80,7 @@ Header_H2_Text=".NET Library for Reading Metadata from Images" >}}
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>,  <a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">HEIF</a>, <a href="https://docs.fileformat.com/image/bmp/">HEIC</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>JFIF</a>, <a>Netpbm</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://wiki.fileformat.com/image/psd/">PSD</a>, <a>TGA</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a>ARW </a>, <a>CR2 </a>, <a>NEF</a>, <a>ORF</a>, <a>RW2 </a>, <a>RWL </a>, <a>SRW </a>      </li>
+<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>,  <a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">HEIF</a>, <a href="https://docs.fileformat.com/image/bmp/">HEIC</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>JFIF</a>, <a>Netpbm</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a>TGA</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a>ARW </a>, <a>CR2 </a>, <a>NEF</a>, <a>ORF</a>, <a>RW2 </a>, <a>RWL </a>, <a>SRW </a>      </li>
 </ul>
 </div>
 <!--/left-->

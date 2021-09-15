@@ -122,7 +122,7 @@ Header_H2_Text="A General-purpose, Multidimensional Image Processing API that c
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with ImgLib2</h2>
-<p>The easiest and recommended way to install ImgLib2 is via GitHub. Download the <a href="https://github.com/imglib/imglib2/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
+<p>The easiest and recommended way to install ImgLib2 is via GitHub.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

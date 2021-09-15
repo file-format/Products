@@ -121,7 +121,7 @@ Header_H2_Text="Swift Library for included support for image loading, saving, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with SwiftGD</h2>
-<p>SwiftGD can be easily downloaded the <a href="https://github.com/twostraws/SwiftGD/archive/main.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project or Clone the latest sources using the following command.</p>
+<p>Clone the latest sources using the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

@@ -81,7 +81,7 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -129,8 +129,6 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install mPDF via composer</h3>
 <pre><code class="html">$ composer require mpdf/mpdf<br></code></pre>
-
-<p>You can also install it manually, download it from the <a href="https://github.com/smalot/pdfparser/archive/master.zip">GitHub repository</a>. Once done, unzip it and run the following command using the composer.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

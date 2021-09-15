@@ -71,7 +71,7 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/jpg/">JPG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
 </ul>
 </div>
 <!--/left-->

@@ -142,7 +142,7 @@ Header_H2_Text="Free Swift API that allows to customize image pipeline, resize
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You also download Nuke's <a href="https://github.com/kean/Nuke/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project or Clone the latest sources using the following command.</p>
+<p>Clone the latest sources using the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

@@ -139,7 +139,6 @@ Header_H2_Text="Free Python library for video processing, creating and inserting
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You can also install MoviePy is using <a href="https://github.com/Zulko/moviepy/archive/master.zip">GitHub</a>. Please use the following command for complete installation</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

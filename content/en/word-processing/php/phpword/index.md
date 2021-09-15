@@ -86,7 +86,7 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 </ul>
 <header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>

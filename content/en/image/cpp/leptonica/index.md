@@ -132,7 +132,7 @@ Header_H2_Text="Open Source C library enables developers to perform advanced i
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Leptonica</h2>
-<p>The easiest way to install Leptonica is by using via GitHub. You can <a href="https://github.com/DanBloomberg/leptonica/archive/master.zip">download</a> the compiled shared library from GitHub repository. Please use the following command for a smooth installation</p>
+<p>The easiest way to install Leptonica is by using via GitHub. Please use the following command for a smooth installation</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

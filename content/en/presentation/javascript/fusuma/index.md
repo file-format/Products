@@ -133,7 +133,6 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 <h3>Install Fusuma using NPM</h3>
 <pre><code class="html"> $ npm i fusuma -D </code></pre>
 
-<p>To install it manually, download the package from <a href="https://github.com/hiroppy/fusuma/archive/master.zip">GitHub</a>. Extract the package and install it to your machine.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

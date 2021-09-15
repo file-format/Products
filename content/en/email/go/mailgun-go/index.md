@@ -125,7 +125,7 @@ Header_H2_Text="GO Library that has included built-in support for polling and em
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with mailgun-go</h2>
-<p>The easiest way to install mailgun-go is via GitHub. Please first you need to <a href="https://github.com/mailgun/mailgun-go/archive/master.zip">download</a> it and then can easily install it using the following command for easy installation. .</p>
+<p>The easiest way to install mailgun-go is via GitHub. Please install it using the following command for easy installation. .</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

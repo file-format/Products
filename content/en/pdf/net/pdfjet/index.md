@@ -83,7 +83,7 @@ Header_H2_Text="Generate PDF documents, universal Reporting support in your web 
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -125,7 +125,6 @@ Header_H2_Text="Generate PDF documents, universal Reporting support in your web 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PDFjet for .NET</h2>
 <p>PDFjet for .NET requires .NET Framework Version 2.0 Software Development Kit or higher. PDFjet for .NET also complies with .NET Core 2.1.402.  PDFjet for .NET also compiles cleanly and works flawlessly on Linux with Mono v1.9 and higher.</p>
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/soster/pdfjet.git">GitHub repository</a>.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

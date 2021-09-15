@@ -122,7 +122,6 @@ Header_H2_Text="Free Ruby API that enables software developers to generate and 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-You can manually download it directly from <a href="https://github.com/ruby-docx/docx/archive/master.zip">GitHub</a> and install it on your system.
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

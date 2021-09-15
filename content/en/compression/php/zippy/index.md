@@ -127,8 +127,6 @@ Header_H2_Text="Open Source PHP Library allows developers to Create, List, updat
 <h3>Here is the command</h3>
 <pre><code class="html"> composer require alchemy/zippy<br></code></pre>
 
-<p>You can also install it manually; download the latest release files directly from <a href="https://github.com/alchemy-fr/Zippy.git">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

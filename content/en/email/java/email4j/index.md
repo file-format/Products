@@ -118,7 +118,7 @@ Header_H2_Text="Open Source Java library that supports access, read, send Email
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Email4J</h2>
-<p>The easiest way to install Email4J is via GitHub. Please first you need to <a href="https://github.com/bbottema/simple-java-mail/archive/develop.zip">download</a> it and then can easily install it using the following command for easy installation.</p>
+<p>The easiest way to install Email4J is via GitHub. Please install it using the following command for easy installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

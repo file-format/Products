@@ -50,7 +50,7 @@ Header_H2_Text="Open Source Java API enables programmers to compress a file or d
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
 <p>An overview of zt-zip features.</p>
-<div class="diagram1 d1-poi">
+<div class="diagram1 d1-poi">s
 <div class="d1-row">
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
@@ -122,7 +122,7 @@ Header_H2_Text="Open Source Java API enables programmers to compress a file or d
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with zt-zip</h2>
-<p>To run your project using zt-zip, firs of all you need to Java 1.5 & above. You can manually download the repository from <a href="https://github.com/zeroturnaround/zt-zip/archive/master.zip">GitHub</a>. Use the following command to install it.</p>
+<p>To run your project using zt-zip, firs of all you need to Java 1.5 & above. Use the following command to install it.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

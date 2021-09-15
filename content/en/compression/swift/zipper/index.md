@@ -130,7 +130,6 @@ Header_H2_Text="" >}}
 <pre><code class="html">use_frameworks!
 pod 'Zipper<br></code></pre>
 
-<p>You can easily install Zipper library from <a href="https://github.com/Meniny/Zipper/archive/master.zip">GitHub</a>. Download the latest release files directly from GitHub repository and please use the following command for creating a clone of the project on your system.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

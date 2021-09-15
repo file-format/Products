@@ -121,14 +121,13 @@ Header_H2_Text="Java Mailing API that allows developer to add attachments to Em
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Simple Java Mail</h2>
-<p>First of all, you need to install JDK 1.6 or higher. The easiest way to install Simple Java Mail t is via GitHub. Please first you need to <a href="https://github.com/bbottema/simple-java-mail/archive/develop.zip">download</a> it and then can easily install it.</p>
-<p>Dependency that needs to be added to pom.xml file is,</p>
+<p>First of all, you need to install JDK 1.6 or higher. You need to add the following maven dependency in pom.xml.
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Maven Dependency</h3>
 <pre><code class="html">&lt;dependency&gt;
-    &lt;groupId&gt;<strong>org.simplejavamail</strong>&lt;/groupId&gt;
+    &lt;groupId&gt;<strong>org.simplejavamail</strong>&lt;/groupId&gts;
     &lt;artifactId&gt;<strong>simple-java-mail</strong>&lt;/artifactId&gt;
     &lt;version&gt;<strong>6.4.3</strong>&lt;/version&gt;
 &lt;/dependency&gt;

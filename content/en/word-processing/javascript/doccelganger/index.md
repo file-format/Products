@@ -119,7 +119,6 @@ Header_H2_Text="Doccelganger is a node.js application that lets you convert Word
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Doccelganger via npm</strong></h3>
 <pre><code class="html">npm install doccelganger </code></pre>
-<p>You can also download the directly from <a href="https://github.com/btrinh/doccelganger/archive/refs/heads/master.zip">GitHub</a> and install it.</p>
 
 
 {{< /SinglePage/PageBody/features/code >}}

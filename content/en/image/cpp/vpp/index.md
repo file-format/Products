@@ -116,7 +116,7 @@ Header_H2_Text="Free C++ API that supports generic N-dimensional image containe
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Video++</h2>
-<p>You can easily install Vireo is using <a href="https://github.com/matt-42/vpp/archive/master.zip">GitHub</a>. Please use the following command for a complete installation. The Video++ is header-only so to access all the necessary features, you must include vpp.h header.  You also require to get Eigen3 and Boost on your system before install Video++.</p>
+<p>Please use the following command for a complete installation. The Video++ is header-only so to access all the necessary features, you must include vpp.h header.  You also require to get Eigen3 and Boost on your system before install Video++.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

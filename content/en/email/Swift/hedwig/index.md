@@ -123,7 +123,7 @@ Header_H2_Text="Free Swift API that allows developers to send messages with at
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Hedwig</h2>
-<p>The easiest way to install the Hedwig library is via GitHub. Please first need to <a href="https://github.com/onevcat/Hedwig/archive/master.zip">download</a> it and then can easily install it using the following command for easy installation.</p>
+<p>The easiest way to install the Hedwig library is via GitHub. Please install it using the following command for easy installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

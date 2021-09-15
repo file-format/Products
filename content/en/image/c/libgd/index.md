@@ -140,7 +140,7 @@ Header_H2_Text="Free C  API that enables developers to quickly draw images, a
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You easily download the <a href="https://github.com/libgd/libgd/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project or Clone the latest sources using the following command</p>
+<p>Clone the latest sources using the following command</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

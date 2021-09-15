@@ -125,8 +125,6 @@ Header_H2_Text="Python API that supports speech processing as well as recogniti
 <h3>Install SpeechPy using  PyPI</h3>
 <pre><code class="html"> pip install speechpy </code></pre>
 
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/astorfi/speechpy/archive/master.zip">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
@@ -134,14 +132,6 @@ Header_H2_Text="Python API that supports speech processing as well as recogniti
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Speech Recognition via Python</h2>
 <p>Speech Recognition is mainly concerned with the recognition and translation of spoken language into text by computers. The open source Python library SpeechPy enables software developers to create applications supporting speech recognition features.  It helps users to save time by speaking instead of typing. Thus helping users to communicate with their devices with less effort and making technological devices more accessible and easier to use.</p>
-
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install SpeechPy using  PyPI</h3>
-<pre><code class="html"> pip install speechpy </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/astorfi/speechpy/archive/master.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -151,13 +141,6 @@ Header_H2_Text="Python API that supports speech processing as well as recogniti
 <h2 class="h2title">Compute MFCC from Audio Signal</h2>
 <p>The Python library SpeechPy has provided complete support for computing MFCC features from an audio signal inside their own applications. The library has provided support for several important MFCC features such as sampling frequency of the signal, length of each frame in seconds,  step between successive frames in seconds, apply filters from filter-bank, number of FFT points, lowest band edge of mel filters, highest band edge of mel filters, Number of cepstral coefficients and more.</p>
 
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install SpeechPy using  PyPI</h3>
-<pre><code class="html"> pip install speechpy </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/astorfi/speechpy/archive/master.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -167,29 +150,11 @@ Header_H2_Text="Python API that supports speech processing as well as recogniti
 <h2 class="h2title">Extract Audio using Autoencoders</h2>
 <p>The open source Python library SpeechPy enables computer programmers to extract audio data using Python code. Autoencoder is a very effective learning technique for neural networks that learns efficient data representations. Autoencoder networks learn from each other how to compress data from the input layer into a shorter code, and then uncompress that code into whatever format best matches the original input.</p>
 
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install SpeechPy using  PyPI</h3>
-<pre><code class="html"> pip install speechpy </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/astorfi/speechpy/archive/master.zip">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
-
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install SpeechPy using  PyPI</h3>
-<pre><code class="html"> pip install speechpy </code></pre>
-
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/astorfi/speechpy/archive/master.zip">GitHub repository</a>.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

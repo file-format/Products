@@ -124,7 +124,6 @@ Header_H2_Text="PHP library that allows to attach and send multiple files, comp
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install PHPMailer API via Composer </h3>
 <pre><code class="html">composer require phpmailer/phpmailer <br></code></pre>
-You can also <a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">download</a> it from GitHub and manually install it with ease.
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

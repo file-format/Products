@@ -82,7 +82,7 @@ Header_H2_Text="Create, Manipulate, Convert & Process PDF Documents via Free C#
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -132,7 +132,6 @@ Header_H2_Text="Create, Manipulate, Convert & Process PDF Documents via Free C#
 <pre><code class="html"> Install-Package PdfSharp</code></pre>
 
 <p>With Visual Studio you can install the NuGet Package Manager to easily access NuGet packages. It works with VS 2012 Express as well as with the community editions of VS 2013 and VS 2015. In Visual Studio go to "Tools" =&gt; "Extensions and Updates..." to install the NuGet Package Manager if you do not have it yet. The NuGet Package Manager will download the package for you, install it, add a reference to your project.</p>
-<p>You can also install it manually; download the latest release files directly from the <a href="https://github.com/empira/PDFsharp/archive/master.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

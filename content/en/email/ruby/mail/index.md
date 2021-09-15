@@ -131,8 +131,6 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 <h3>Install Mail via Rubygems</h3>
 <pre><code class="html"># gem install mail</code></pre>
 
-<p>You can also use <a href="https://github.com/mikel/mail/archive/master.zip">GitHub</a> to manually download and install the library. </p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

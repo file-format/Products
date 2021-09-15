@@ -77,7 +77,7 @@ Header_H2_Text="Free Ruby PDF API that allows programmers to create & modify P
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/view/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
@@ -125,7 +125,6 @@ Header_H2_Text="Free Ruby PDF API that allows programmers to create & modify P
 <h3>Install Prawn via RubyGems</h3>
 <pre><code class="html">gem install prawn <br></code></pre>
 
-<p>You can also install it manually, download it from the <a href="https://github.com/prawnpdf/prawn/archive/master.zip">GitHub repository</a>.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

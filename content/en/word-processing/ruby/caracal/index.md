@@ -122,7 +122,6 @@ Header_H2_Text="Open source Ruby library that gives programmers the capability
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-You can manually download it directly from <a href="https://github.com/urvin-compliance/caracal/archive/master.zip">GitHub</a> and install it on your system.
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

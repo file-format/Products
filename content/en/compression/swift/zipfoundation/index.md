@@ -131,7 +131,7 @@ Header_H2_Text="" >}}
 <h3>Compile ZIP Foundation library via CocoaPods</h3>
 <pre><code class="html"> $ pod install</code></pre>
 
-<p>You can easily install ZIP Foundation library from GitHub. Download the latest release files directly from the <a href="https://github.com/weichsel/ZIPFoundation/archive/development.zip">GitHub</a> repository and please use the following command for creating clone of the project on your system.</p>
+<p>You can easily install ZIP Foundation library from GitHub. Please use the following command for creating clone of the project on your system.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

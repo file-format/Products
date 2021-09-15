@@ -141,7 +141,6 @@ export CC=/usr/bin/gcc-6
 export CXX=/usr/bin/g++-6
 </code></pre>
 
-<p>First Download the zip files from the Xlnt repository at <a href="https://github.com/tfussell/xlnt/archive/master.zip">GitHub</a> and then apply the following commands.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

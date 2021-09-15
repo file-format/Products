@@ -124,7 +124,6 @@ Header_H2_Text="Open Source .NET Library to Create, Edit, Split or Join & Manag
 <h3>Install DocX from NuGet</h3>
 <pre><code class="html"> Install-Package DocX -Version 1.5.0</code></pre>
 
-You can manually download it directly from <a href="https://github.com/xceedsoftware/DocX.git">GitHub</a> and install it on your system.
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

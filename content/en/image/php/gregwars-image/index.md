@@ -82,7 +82,7 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 <ul>
 <li>
 <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
-<a href="https://docs.fileformat.com/image/jpg/">JPG</a>,
+<a href="https://docs.fileformat.com/image/jpeg/">JPG</a>,
 <a href="https://docs.fileformat.com/image/png/">PNG</a>, 
 <a href="https://docs.fileformat.com/image/gif/">GIF</a>
 </li>
@@ -93,7 +93,7 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 <ul>
 <li> 
 <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
-<a href="https://docs.fileformat.com/image/jpg/">JPG</a>,
+<a href="https://docs.fileformat.com/image/jpeg/">JPG</a>,
 <a href="https://docs.fileformat.com/image/png/">PNG</a>, 
 <a href="https://docs.fileformat.com/image/gif/">GIF</a>
 </ul>
@@ -144,7 +144,6 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
     }
 }</code></pre>
 
-<p>Download the <a href="https://github.com/Gregwar/Image/archive/refs/heads/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

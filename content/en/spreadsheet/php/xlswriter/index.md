@@ -122,7 +122,7 @@ Header_H2_Text="Open Source PHP API to generate, read, modify and process XLSX s
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Xlswriter API</h2>
-<p>You can install Xlswriter, from GitHub with ease. First, you need to <a href="https://github.com/viest/php-ext-xlswriter/archive/master.zip">download</a> the source code and extract the downloaded content into your project. Please use the following command for a smooth installation. </p>
+<p>You can install Xlswriter, from GitHub with ease. Please use the following command for a smooth installation. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

@@ -120,7 +120,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with zip</h2>
-<p>It is recommended to build the library, via CMake. You can get it from <a href="http://www.cmake.org/cmake/resources/software.html">CMake web site</a> . Please use the following command to Compile zip library.</p>
+<p>It is recommended to build the library, via CMake. Please use the following command to Compile zip library.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

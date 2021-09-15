@@ -134,8 +134,6 @@ Header_H2_Text="Open Source PHP API includes support for image comparison,  sm
 <h3><strong>Install Grafika via composer</strong></h3>
 <pre><code class="html">$ composer require kosinix/grafika:dev-master --prefer-dist</code></pre>
 
-
-<p>Download the <a href="https://github.com/kosinix/grafika/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

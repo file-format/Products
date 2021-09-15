@@ -119,8 +119,6 @@ Header_H2_Text="JavaScript Library enables Software programmers to compare two i
 <h3><strong>Install pixelmatch via NPM</strong></h3>
 <pre><code class="html"> npm install pixelmatch </code></pre>
 
-<p>Download the <a href="https://github.com/mapbox/pixelmatch/archive/master.zip">zip file</a> from the Github repository. Unpack the zip file and include the files in your project.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

@@ -118,7 +118,7 @@ Header_H2_Text="C Library for Reading/Writing streaming archives in TAR, ZIP, 7-
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Libarchive</h2>
-<p>The <a href="https://github.com/libarchive/libarchive/archive/master.zip">libarchive distribution</a> contains a standard Autoconf-generated "configure" script that can be used to install libarchive, bsdtar, and bsdcpio on almost any POSIX-like system.</p>
+<p>The libarchive distribution contains a standard Autoconf-generated "configure" script that can be used to install libarchive, bsdtar, and bsdcpio on almost any POSIX-like system.</p>
 <p>A typical installation code is given below</p>
 {{< /SinglePage/PageBody/features/text >}}
 

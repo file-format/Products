@@ -140,7 +140,6 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>You can <a href="https://github.com/westonganger/spreadsheet_architect/archive/master.zip">download</a> the compiled shared library from the GitHub repository and install it.</p>
 <h2 class="h2title">Generate XLSX and ODS Spreadsheet via Ruby</h2>
 <p>The open source Ruby library Spreadsheet Architect has provided software developers the capability to generate XLSX and ODS documents with ease. You can easily add new sheets, update existing sheets, rename sheets, apply formatting to a range of cells, and much more. The library also provides support for editing the contents of a sheet with just a couple of lines of code.</p>
 
