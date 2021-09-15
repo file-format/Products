@@ -127,7 +127,7 @@ Header_H2_Text="Free C++ API for Emails generation & management. It supports se
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>install Mimetic via GitHub</h3>
-<pre><code class="html">go get <a href="https://github.com/tat/mimetic.git">https://github.com/tat/mimetic.git</a></code></pre>
+<pre><code class="html">go get https://github.com/tat/mimetic.git</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

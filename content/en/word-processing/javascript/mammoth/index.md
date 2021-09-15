@@ -140,8 +140,6 @@ Header_H2_Text="Semantically convert Word into HTML without worrying about the c
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Mammoth via npm</strong></h3>
 <pre><code class="html"> npm install mammoth </code></pre>
-<p>You can also download the directly from <a href="https://github.com/mwilliamson/mammoth.js/archive/refs/heads/master.zip">GitHub</a> and install it.</p>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

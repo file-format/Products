@@ -120,7 +120,7 @@ Header_H2_Text="Generate simple Visio XML (VDX) files via Open Source Free .NET
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install VisioAutomation via git command</h3>
-<pre><code class="html">git clone <a href="https://github.com/saveenr/VisioAutomation.git">https://github.com/saveenr/VisioAutomation.git</a></code></pre>
+<pre><code class="html">git clone https://github.com/saveenr/VisioAutomation.git</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
