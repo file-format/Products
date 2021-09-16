@@ -119,7 +119,6 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with JS-PPTX</h2>
-<p>You can download it directly from <a href="https://github.com/won21kr/js-pptx.git">GitHub.</a></p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
