@@ -126,7 +126,7 @@ Header_H2_Text="create, edit and manage Excel-compatible spreadsheet in XLSX for
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install PHP_XLSXWriter via Git</h3>
-<pre><code class="html"> Clone https://github.com/mk-j/PHP_XLSXWriter.git</code></pre>
+<pre><code class="html">gh repo clone mk-j/PHP_XLSXWriter</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -139,11 +139,6 @@ Header_H2_Text="create, edit and manage Excel-compatible spreadsheet in XLSX for
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PHP_XLSXWriter via Git</h3>
-<pre><code class="html"> Clone https://github.com/mk-j/PHP_XLSXWriter.git</code></pre>
-
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
@@ -154,11 +149,6 @@ Header_H2_Text="create, edit and manage Excel-compatible spreadsheet in XLSX for
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PHP_XLSXWriter via Git</h3>
-<pre><code class="html"> Clone https://github.com/mk-j/PHP_XLSXWriter.git</code></pre>
-
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
@@ -168,11 +158,6 @@ Header_H2_Text="create, edit and manage Excel-compatible spreadsheet in XLSX for
 <p>The open source PHP_XLSXWriter library gives software developers the capability to apply different kinds of cell formatting in their Excel XLSX document.  The library has provided support for basic as well as advanced cell formats such as string, integer, date, datetime, price, time, dollar, and more. The basic cell styles such as font, font-size, border style, border-color, fill, halign and valign have been available from the earlier versions.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PHP_XLSXWriter via Git</h3>
-<pre><code class="html"> Clone <a href="https://github.com/mk-j/PHP_XLSXWriter.git">https://github.com/mk-j/PHP_XLSXWriter.git</a></code></pre>
-
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

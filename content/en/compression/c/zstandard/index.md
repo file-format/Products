@@ -126,7 +126,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Zstandard library via GitHub</h3>
-<pre><code class="html">go get https://github.com/facebook/zstd.git</code></pre>
+<pre><code class="html">gh repo clone facebook/zstd</code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
