@@ -73,7 +73,7 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>JS-PPTX supports important compression file formats listed below.</p>
 <div class="diagram1 d2  d1-poi">
-<div class="d1-row">
+<div class="d1-row"> 
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
