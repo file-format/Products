@@ -120,7 +120,7 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with JS-PPTX</h2>
 {{< /SinglePage/PageBody/features/text >}}
-
+<p>Please use the following command to install JS-PPTX.</p>
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install via npm command</h3>
 <pre><code class="html"> npm install protobi/js-pptx </code></pre>
