@@ -126,9 +126,6 @@ Header_H2_Text="Open Source Free C Library to Generate, Modify, Remove, or Ext
 <h3>Build Minizip Library from CMake</h3>
 <pre><code class="html">cmake . -DMZ_BUILD_TEST=ON
 cmake --build <br></code></pre>
-
-<p>You can also install Minizip manually; download the latest release files directly from <a href="https://github.com/nmoinvaz/minizip">GitHub</a> repository.</p>
-
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
