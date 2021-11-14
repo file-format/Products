@@ -7,7 +7,7 @@ weight: 2
 
 ProductName: Java
 ListingPage_Title_Text:  Free Image  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Read, Write, Modify, and Convert Image File Formats via Java.
 ListingPage_Product_Small_Image: 
 
 

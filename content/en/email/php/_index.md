@@ -7,7 +7,7 @@ weight: 5
 
 ProductName: PHP
 ListingPage_Title_Text:  Free Email  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Open source PHP libraries to help develop application to parse & transmit email messages.
 ListingPage_Product_Small_Image: 
 
 

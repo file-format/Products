@@ -7,7 +7,7 @@ weight: 3
 
 ProductName: C++
 ListingPage_Title_Text:  Free Email  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Read, write & extract attachments from MSG & EML files via C++.
 ListingPage_Product_Small_Image: 
 
 

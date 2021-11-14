@@ -7,7 +7,7 @@ weight: 2
 
 ProductName: C++
 ListingPage_Title_Text:  Free Video APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Run, record, encode, edit or extract metadata from video files using open source C++ APIs.
 ListingPage_Product_Small_Image: 
 
 
