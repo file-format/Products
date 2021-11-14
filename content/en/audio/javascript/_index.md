@@ -18,7 +18,7 @@ ListingPage_Product_Small_Image:
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
 Image_H2_Text="Audio"
-Image_Tag_Text="File Format APIs for javaScript"
+Image_Tag_Text="File Format APIs for JavaScript"
 Image_Alt_Text=" "
 Image_title_Text=" "
 Header_H1_Text="Free JavaScript APIs for Audio File Formats"

@@ -17,7 +17,7 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Microsof Word<sup>®</sup> Processing "
+Image_H2_Text="Word Processing "
 Image_Tag_Text="File Format APIs for JavaScript"
 Image_Alt_Text=" "
 Image_title_Text=" "

@@ -7,7 +7,7 @@ weight: 2
 
 ProductName: Java
 ListingPage_Title_Text:  Free 3D  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Read, write & export 3D file formats via open source Java libraries.
 ListingPage_Product_Small_Image: 
 
 

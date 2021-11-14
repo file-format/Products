@@ -20,7 +20,7 @@ Image_Tag_Text="File Format APIs"
 Image_Alt_Text=" "
 Image_title_Text=" "
 Header_H1_Text="Open Source APIs for Video Files"
-Header_H2_Text="Play, Record ,Read, Extract Metadat & Video files via .NET Framework" >}}
+Header_H2_Text="Play, Record, Read, Extract Metadata & Video files via .NET Framework" >}}
 
 {{< ListingPage/PageBody/wrapper >}}
 {{< ListingPage/PageBody/dynamic-content type="level-one" title="Video File Format APIs Include" >}}

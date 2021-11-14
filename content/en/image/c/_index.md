@@ -7,7 +7,7 @@ weight: 3
 
 ProductName: C
 ListingPage_Title_Text:  Free Image  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Create, edit, compose, read, resize, flip, rotate, shear, transform and convert Bitmap images using open source C image processing library.
 ListingPage_Product_Small_Image: 
 
 

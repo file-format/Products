@@ -7,7 +7,7 @@ weight: 7
 
 ProductName: Go
 ListingPage_Title_Text:  Free Word Processing  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Most demanded open source Go APIs to process DOC & DOCX files.
 ListingPage_Product_Small_Image: 
 
 

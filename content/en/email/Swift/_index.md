@@ -7,7 +7,7 @@ weight: 8
 
 ProductName: Swift
 ListingPage_Title_Text:  Free Email  APIs for
-ListingPage_Short_Description: 
+ListingPage_Short_Description: Read, write & extract attachments from MSG files via Swift.
 ListingPage_Product_Small_Image: 
 
 
