@@ -9,7 +9,7 @@ weight: 6
 
 ProductName: MailKit
 Githublink: https://github.com/jstedfast/MailKit
-ListingPage_Short_Description: Open dource C# .NET library for generating message with attachments or encrypt/decrypt messages with PGP/MIME and ARC signatures.
+ListingPage_Short_Description: Open Source C# .NET library for generating message with attachments or encrypt/decrypt messages with PGP/MIME and ARC signatures.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
