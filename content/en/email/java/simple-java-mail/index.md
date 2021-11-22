@@ -9,7 +9,7 @@ weight: 7
 
 ProductName: Simple Java Mail  
 Githublink: https://github.com/bbottema/simple-java-mail
-ListingPage_Short_Description: Open dource Java library supports creating email message with attachments or encrypt/decrypt messages, CLI support, S/MIME support and advanced batch processing.
+ListingPage_Short_Description: Open Source Java library supports creating email message with attachments or encrypt/decrypt messages, CLI support, S/MIME support and advanced batch processing.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
