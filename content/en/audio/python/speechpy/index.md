@@ -9,7 +9,7 @@ weight: 1
 
 ProductName: SpeechPy
 Githublink: https://github.com/astorfi/speechpy
-ListingPage_Short_Description: Python Library for speech processing and recognition. It supports MFCCs & filter-bank energies alongside with log-energy of filter-banks..
+ListingPage_Short_Description: Python Library for speech processing and recognition. It supports MFCCs & filter-bank energies alongside with log-energy of filter-banks.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
