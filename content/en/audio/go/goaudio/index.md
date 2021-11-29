@@ -9,7 +9,7 @@ weight: 1
 
 ProductName: GoAudio
 Githublink: https://github.com/DylanMeeus/GoAudio
-ListingPage_Short_Description: Open-Source API that enables software developers Process WAV Files via Go Library.
+ListingPage_Short_Description: Open-Source API that enables software developers to process WAV Files via Go Library.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
