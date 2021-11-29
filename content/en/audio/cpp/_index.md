@@ -1,6 +1,6 @@
 ---
 title: Open Source C++ APIs for Audio and Music Files Processing
-description: Open Source APIs to enables programmers to  playback, record, mix, read & manipulate Audio file formats using C++
+description: Open source APIs to enables programmers to  playback, record, mix, read & manipulate Audio file formats using C++
 keywords: Free C++ API, Free Audio API, Open Source APIs for Audios, C++ Audio API, Create Free Audio, Convert Audio Free, Encode Audio Free, Convert MP3 Free, Free MP3 Converter, Free MP3 Encoder, C++ libraries for music
 draft: false
 weight: 1

@@ -7,7 +7,7 @@ weight: 3
 
 ProductName: Go
 ListingPage_Title_Text:  Free Audio APIs for
-ListingPage_Short_Description: Enables programmers to gnerate, save, play, record, convert & process Audio files inside their own Go apps.
+ListingPage_Short_Description: Enables programmers to generate, save, play, record, convert & process Audio files inside their own Go apps.
 ListingPage_Product_Small_Image: 
 
 
