@@ -22,7 +22,7 @@ Image_Tag_Text="File Format APIs for .NET"
 Image_Alt_Text=" "
 Image_title_Text=" "
 Header_H1_Text="Free .NET APIs for Audio File Formats"
-Header_H2_Text="Play, Read, Record, Convert, Encode & Manipulate Audio File Formats using open source .NET APIs." >}}
+Header_H2_Text="Play, Read, Record, Convert, Encode and Manipulate Audio File Formats using open source .NET APIs." >}}
 
 {{< ListingPage/PageBody/wrapper >}}
 {{< ListingPage/PageBody/dynamic-content type="level-two" title="Audio APIs for .NET Include" >}}
