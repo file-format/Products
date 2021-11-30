@@ -9,7 +9,7 @@ weight: 1
 
 ProductName: Maximilian
 Githublink: https://github.com/micknoise/Maximilian
-ListingPage_Short_Description: Open-Source creative C++ audio synthesis and signal processing library that allows programmers to create apps for handling and processing audio and music files.
+ListingPage_Short_Description: Open source creative C++ audio synthesis and signal processing library that allows programmers to create apps for handling and processing audio and music files.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
