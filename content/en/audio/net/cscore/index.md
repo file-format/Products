@@ -160,7 +160,7 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Audio Player Creation via .NETAPI</h2>
+<h2 class="h2title">Audio Player Creation via .NET API</h2>
 <p>The open source .NET library CSCore has included complete support for creating a basic audio player using .NET commands. The library has provided several features for creating audio players such as display playlist support, play audio, pause audio fie, move to next, switch to previous, manage volume controls and many more. It also supports options like full-screen view and displays playback progress in real-time.</p>
 
 {{< /SinglePage/PageBody/features/text >}}

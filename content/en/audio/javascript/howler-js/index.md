@@ -33,7 +33,7 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 <p>The howler.js is a very easy to use and powerful library that enables software developers to work with audio files inside their own JavaScript apps.  It is a single stable library that can be used to fulfill all your audio needs and can be used on all major platforms. One great feature is that it provides support for all codecs for full cross-browser compatibility. It is a pure audio library that has provided support for a wide range of file formats such as MP3, OGG, WAV, AAC, CAF, M4A, MP4, WEBA, FLAC, and many more.</p>
 <p>The Library is open source and is freely available under the MIT License for public use.  It can easily fulfill the majority of your audio needs. Howler.js falls back to HTML5 Audio and is tested in all the major browsers such as Google Chrome 7.0+, Internet Explorer 9.0+, Firefox 4.0+, Safari 5.1.4+, Mobile Safari 6.0+, Opera 12.0+, and Microsoft Edge.</p>
-<p>The library is very reliable and has included support for several important features related to handling audio files, such as playing audio files from standard formats<strong>,</strong> automatic caching, embedding with custom players, supports all major codecs, control sounds individually and in the groups, playback of multiple sounds, full control for fading or rate & volume, looping background music and so on.</p>
+<p>The library is very reliable and has included support for several important features related to handling audio files, such as playing audio files from standard formats, automatic caching, embedding with custom players, supports all major codecs, control sounds individually and in the groups, playback of multiple sounds, full control for fading or rate & volume, looping background music and so on.</p>
 <p><span style="font-size: 12.16px;">.</span></p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -61,7 +61,7 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 <li>Codec support</li>
 <li>Browser support</li>
 <li>Auto download</li>
-<li>Autoplay</li>
+<li>Auto-play</li>
 <li>HTML5 support</li>
 <li>Auto caching </li>
 <li>Handle edge</li>
@@ -134,7 +134,7 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Play MP3 & Control Multiple Sounds via JavaScript</h2>
-<p>The open source JavaScript library howler.js has provided support for playing MP3 as well as other popular Audio file formats using JavaScript commands. It is also possible to control multiple sounds at the same time inside JavaScript apps. You can easily control a specific sound by assigning a sound ID to it. For example, you can increase the volume of a sound, fade it out or increase the speed of it. It is also to automatically download an entire audio file or reload it using metadata and autoplay playback when sound is loaded.</p>
+<p>The open source JavaScript library howler.js provides support for playing MP3 as well as other popular Audio file formats using JavaScript commands. It is also possible to control multiple sounds at the same time inside JavaScript apps. You can easily control a specific sound by assigning a sound ID to it. For example, you can increase the volume of a sound, fade it out or increase the speed of it. It is also possible to automatically download an entire audio file or reload it using metadata and auto-play playback when sound is loaded.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -147,7 +147,7 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Load & Play Audio File simultaneously using JavaScript</h2>
-<p>The howler.js library allows software professionals to programmatically loading and playing audio files simultaneously inside their JavaScript applications. As the howler.js defaults to Web Audio API, which means a full audio file must be downloaded before beginning playback. It is also possible to force HTML5 Audio; it will begin playing as soon as it is able, even if the full file has downloaded.</p>
+<p>The howler.js library allows software professionals to programmatically load and play audio files simultaneously from their JavaScript applications. As the howler.js defaults to Web Audio API, which means a full audio file must be downloaded before beginning playback. It is also possible to force HTML5 Audio; it will begin playing as soon as it is able, even if the full file has downloaded.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 

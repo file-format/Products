@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Audio File Formats - Read & Write Metadata of Audio File Formats
 description: NAudio -  Open-Source API that enables software developers to read, play, record, convert & encode Audio File Formats using .NET applications.
-keywords: NAudio API, API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extact Metadata, Write MP3 Metata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
+keywords: NAudio API, API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
 draft: false
 weight: 1
 
@@ -21,7 +21,7 @@ Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""
 Header_H1_Text="Free.NET Library for Manipulating Audio File Formats"
-Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API." >}}
+Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -30,7 +30,7 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 
 
 
-<p>NAudio is an open source API to manipulate audio files programtically. The API allows the .NET Developer to read audio from different standards, playback audio, convert audio formats, record system audio and more. The API intends to provide a comprehensive set of useful utility classes by using which you can construct your own audio manipulation application.</p>
+<p>NAudio is an open source API to manipulate audio files programmtically. The API allows the .NET Developer to read audio from different standards, playback audio, convert audio formats, record system audio and more. The API intends to provide a comprehensive set of useful utility classes by using which you can construct your own audio manipulation application.</p>
 <p>Using the API, you can playback audio using Waveout, DirectSound, ASIO & WASAPI and can read audio from WAV, AIFF, MP3, G.711, ADPCM, WMA, AAC, MP4 and more. The API allows encoding audio using and ACM codec installed on your machine, you can mix and manipulate audio streams using 32-bit mixing engine.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -60,7 +60,7 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 <li>Create WMA</li>
 <li>Create AAC/MP4 Audio</li>
 <li>Support for UWP</li>
-<li>Work with soundcards</li>
+<li>Work with sound-cards</li>
 </ul>
 </div>
 <!--/left-->
@@ -106,7 +106,7 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with NAudio</h2>
-<p>The best way to install to insall NAudio is via NuGet you can run the following command and install NAudio in you application.</p>
+<p>The best way to install to install NAudio is via NuGet you can run the following command and install NAudio in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -120,7 +120,7 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Play Audio File using Free C# API</h2>
-<p>NAudio allows .NET programmers play aduio files from their own .NET applications. In order to play an audio file, first you need to open the file using AudioFileHeaer. After your file is successfully opened you can use WaveOutEvent as an output device to play audio. You can simply play audio by passing AudioFile to outPutDevice with Init method and call Play() method.</p>
+<p>NAudio allows .NET programmers play audio files from their own .NET applications. After your file is successfully opened you can use WaveOutEvent as an output device to play audio. You can simply play audio by passing AudioFile to outPutDevice with Init method and call Play() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -135,7 +135,7 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Free C# API to Convert MP3 to WAV file</h2>
-<p>The API allows the developers to convert MP3 files to other file formats. The devlopers can add MP4 conversion feature in their own applicaintion, if the ACM MP3 codec is present in the application machine. This codec is usually pre installed in most version of Windows. Converting MP3 to WAV is pretty simple you just need to open MP3 file using MP4FileReader and convert it using WaveFileWriter.CreateWaveFile() method.</p>
+<p>The API allows the developers to convert MP3 files to other file formats. The developers can add MP4 conversion feature in their own application, if the ACM MP3 codec is present in the application machine. This codec is usually pre installed in most version of Windows. Converting MP3 to WAV is pretty simple you just need to open MP3 file using MP4FileReader and convert it using WaveFileWriter.CreateWaveFile() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -149,8 +149,8 @@ Header_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Concatinate Multiple Audio Files via C#</h2>
-<p>The API allows the developers to concatinate multiple audio files into single audio file. The concatination process is pretty simple. You can load your multiple audio files using AudioFileReader() method and concatinate them using ConcatenatingSampleProvider() method.</p>
+<h2 class="h2title">Concatenate Multiple Audio Files via C#</h2>
+<p>The API allows the developers to Concatenate multiple audio files into single audio file. The Concatenation process is pretty simple. You can load your multiple audio files using AudioFileReader() method and Concatenate them using ConcatenatingSampleProvider() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 

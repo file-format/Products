@@ -32,7 +32,7 @@ Header_H2_Text="Convert & Process Audio files via .NET API." >}}
 
 
 <p>MediaToolkit is an open source API to manipulate audio files programmatically. The API allows the .NET Developer to effortlessly convert, slice and get metadata of audio files. 
-MediaTookit API is a wrapper for FFmpeg. It is a free multimedia framework containing multiple audio codecs.</p>
+MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework containing multiple audio codecs.</p>
 <p>Using the API, you can resolve audio metadata and transcode audio into other formats using parameters including Bit rate, Frame rate, Resolution, Aspect ratio, Seek position, Duration, Sample rate and Media Format.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
