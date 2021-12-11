@@ -128,12 +128,7 @@ Header_H2_Text="Free C++ API that allows software developers to auto-play, recor
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> git clone https://github.com/micknoise/Maximilian.git</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -143,12 +138,7 @@ Header_H2_Text="Free C++ API that allows software developers to auto-play, recor
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> git clone https://github.com/micknoise/Maximilian.git</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -159,12 +149,7 @@ Header_H2_Text="Free C++ API that allows software developers to auto-play, recor
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> git clone https://github.com/micknoise/Maximilian.git</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}

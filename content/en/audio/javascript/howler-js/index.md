@@ -164,23 +164,8 @@ Header_H2_Text="Free JavaScript library that provides support for playing audio 
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-
-<p>You can also install it using NPMy; Please use the following command for the complete installation</p>
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
-{{< SinglePage/PageBody/features/single-feature-content >}}
 
-{{< SinglePage/PageBody/features/text >}}
- 
-
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-
-<p>You can also install it using NPMy; Please use the following command for the complete installation</p>
-{{< /SinglePage/PageBody/features/code >}}
-{{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}
 {{< /SinglePage/PageLayout/wrapper >}}
