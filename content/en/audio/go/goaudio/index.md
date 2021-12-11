@@ -31,8 +31,8 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API." >}
 
 
 
-<p>GoAudio is an open source API to manipulate audio files programtically. Using the API, Go developer can curretly process WAVE files only. The developer can read & write WAVE files, create different waveforms using different types of oscillators. Furthermore, the API allows creating automation tracks and envelopes.</p>
-<p>Using the API, you can apply stereo panning, converted mono files to stereo and work with breakpoint files through linear interpolation. Moreover, the API allows extracing information from WAVE file format and allows writing down your own audio data in it.</p>
+<p>GoAudio is an open source API to manipulate audio files programmatically. Using the API, Go developer can currently process WAVE files only. The developer can read & write WAVE files, create different waveforms using different types of oscillators. Furthermore, the API allows creating automation tracks and envelopes.</p>
+<p>Using the API, you can apply stereo panning, converted mono files to stereo and work with breakpoint files through linear interpolation. Moreover, the API allows extracting information from WAVE file format and allows writing down your own audio data in it.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -107,7 +107,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API." >}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with GoAudio</h2>
-<p>TThe recommended way to unioffice into your project is by using GitHub. Please use the following command for a smooth installation.</p>
+<p>The recommended way to get GoAudio in your project is by using GitHub. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -122,7 +122,7 @@ go build -i github.com/DylanMeeus/GoAudio/...</code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create Audio Sine Wave via Free GO API</h2>
-<p>GoAudio allows GO developers to create audio sine waves from their own Go applications. In order to generate this, you can call math.Sin(x) method of the API and pass x as radians. To get the sine wave out of this method, you need to interate over a range.</p>
+<p>GoAudio allows GO developers to create audio sine waves from their own Go applications. In order to generate this, you can call math.Sin(x) method of the API and pass x as radians. To get the sine wave out of this method, you need to iterate over a range.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -130,7 +130,7 @@ go build -i github.com/DylanMeeus/GoAudio/...</code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate Sound using via Open-Source GO API</h2>
-<p>The API allows the developers to generate sounds direclty from your go application. First of all you need to setup sample rates and duration. A sample rate tells you how many samples per second are used to encode your sound. After that you need to set the frequency of the sound, you can use a frequency of 440HZ as pitch standard.</p>
+<p>The API allows the developers to generate sounds directly from your go application. First of all you need to setup sample rates and duration. A sample rate tells you how many samples per second are used to encode your sound. After that you need to set the frequency of the sound, you can use a frequency of 440HZ as pitch standard.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

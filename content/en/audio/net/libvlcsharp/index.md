@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Audio File Formats - Play, Render, Encode, and Stream Audio File Formats
 description: LibVlcSharp - An Open Source .NET API for Audio File Format. Play, Convert, Encode, Decode, & Manipulate Audio File Formats.
-keywords: LibVlcSharAPI, LibVLCSharp API, Free Aduio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Open Source AAC API, MPEG, TrueAudio, AMR, DV Audio, DTS, AC3, MPEG Layer 3, WAV C#, MP3 C#, Frre MP3 C#, OpenSource Audio API
+keywords: LibVlcSharpAPI, LibVLCSharp API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Open Source AAC API, MPEG, TrueAudio, AMR, DV Audio, DTS, AC3, MPEG Layer 3, WAV C#, MP3 C#, free MP3 C#, OpenSource Audio API
 draft: false
 weight: 1
 
@@ -31,8 +31,8 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 
 
-<p>LibVLCSharp is an open source API to render, ecnode and deco Audio file fromats. Using The API, you can not only play all type of audio file formats including MP3, MPEG, AAC, TrueAudio and more but, can also play them on any platform including Windows, Linux, Mac, Android, iOS and TVs. In short, the API supports most of the features supported by the VLC desktop app for free.</p>
-<p>LibVLCSharp is a free software released under the LGPL. The developer can create their own audio manipulation application using the API. The developers can work with a wide range of Audio file formats for metadata manipulation. Furthermore, you can play 3D audio playback, use audio filters, supports audio passthrough with APDIF and HDMI and more.</p>
+<p>LibVLCSharp is an open source API to render, encode and deco Audio file formats. Using The API, you can not only play all type of audio file formats including MP3, MPEG, AAC, TrueAudio and more but, can also play them on any platform including Windows, Linux, Mac, Android, iOS and TVs. In short, the API supports most of the features supported by the VLC desktop app for free.</p>
+<p>LibVLCSharp is a free software released under the LGPL. The developer can create their own audio manipulation application using the API. The developers can work with a wide range of Audio file formats for metadata manipulation. Furthermore, you can play 3D audio playback, use audio filters, supports audio passthrough with S/PDIF and HDMI and more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -56,9 +56,9 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 <li>Play Audio</li>
 <li>Cross Platform</li>
 <li>Efficient Decoding</li>
-<li>Playback Adudio</li>
+<li>Playback Audio</li>
 <li>HDR Support</li>
-<li>SPDIF Support</li>
+<li>S/PDIF Support</li>
 <li>HDMI Support</li>
 <li>Audio Filters</li>
 <li>3D Audio Playback</li>
@@ -107,7 +107,7 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with LibVLCSharp</h2>
-<p>The best way to install to insall LibVLCSharp is via NuGet you can run the following command and install LibVLCSharp in you application.</p>
+<p>The best way to install to install LibVLCSharp is via NuGet you can run the following command and install LibVLCSharp in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -121,7 +121,7 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Play Audio with Free C# API LibVlcSharp</h2>
-<p>LibVLCSharp allows .NET programmers to play all aduio file formats easily. In order to run an audio file format, the developer can start by initializing LibVLC main object, and then load audio file by using Media class that is responsible for proving information about the file format. Once you have your audio file loaded, you can open new instance of MediaPlayer to play the audio file using MediaPlayer.Play() method.</p>
+<p>LibVLCSharp allows .NET programmers to play all audio file formats easily. In order to run an audio file format, the developer can start by initializing LibVLC main object, and then load audio file by using Media class that is responsible for proving information about the file format. Once you have your audio file loaded, you can open new instance of MediaPlayer to play the audio file using MediaPlayer.Play() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -136,7 +136,7 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Retrieve Audio Track Info via C#</h2>
-<p>The open source API LibVLCSharp allows .NET developers to retrieve Audio track information programatically. In order to extract the information, first you need to load the file using the Media class and check if the file is a propert Audio track. After that, you can extract the track information by accessing Track properties like Track.Data.Channels, Track.Data.Rate and more.</p>
+<p>The open source API LibVLCSharp allows .NET developers to retrieve Audio track information programmatically. In order to extract the information, first you need to load the file using the Media class and check if the file is a proper Audio track. After that, you can extract the track information by accessing Track properties like Track.Data.Channels, Track.Data.Rate and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 

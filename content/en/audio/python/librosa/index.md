@@ -31,8 +31,8 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 
 
 
-<p>Librosa is very useful Python music and audio analysis library that helps software developers to build applications for working with audio and music file formats using Python. The library is very easy to use and can handle basic as well as advanced tasks related to audio and music processing. The library is open source and is freely available under the ISC License.</p>
-<p>The library provides a great deal of flexibility to expert users and at the same time also awesome to beginner users which are more interested in processing audio files.  The library has included support for several important features related to audio files processing and extraction such as load audio from disk, compute various spectrogram representations, harmonic-percussive source separation, generic spectrogram decomposition, loads and decodes the audio, Time-domain audio processing, sequential modeling, integrating harmonic-percussive separation, beat-synchronous and many more.</p>
+<p>Librosa is very useful Python music and audio analysis library that helps software developers to build applications for working with audio and music file formats using Python. The library is easy to use and can handle basic as well as advanced tasks related to audio and music processing. It is open source and freely available under the ISC License.</p>
+<p>The library provides a great deal of flexibility to expert users who may be interested in processing audio files.  The library has included support for several important features related to audio files processing and extraction such as load audio from disk, compute various spectrogram representations, harmonic-percussive source separation, generic spectrogram decomposition, loads and decodes the audio, Time-domain audio processing, sequential modeling, integrating harmonic-percussive separation, beat-synchronous and many more.</p>
 <p><span style="font-size: 12.16px;">.</span></p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -154,7 +154,7 @@ Header_H2_Text="Python API that allows developers to load and play audio from di
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Extract Audio Feature using Python</h2>
-<p>The open source Python library Librosa gives software developers the capability to load and extract audio features inside their own apps using Python commands. There are various ways to extract features from audio data, such as zero-crossing rate, spectral roll-off frequency, Mel-frequency cepstral coefficients (MFCC), Chroma Frequencies and many more.</p>
+<p>The open source Python library Librosa gives software developers the capability to load and extract audio features inside their own apps using Python commands. There are various ways to extract features from audio data, such as zero-crossing rate, spectral roll-off frequency, Mel-frequency Cepstral Coefficients (MFCC), Chroma Frequencies and many more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 

@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Free C++ API that allows software developers to autoplay, record, mix, apply filters & Convert their Audio files. It is cross-platform compatible and provides support for client-side browser-based applications."
+Image_H2_Text="Free C++ API that allows software developers to auto-play, record, mix, apply filters & Convert their Audio files. It is cross-platform compatible and provides support for client-side browser-based applications."
 Image_Tag_Text=""
 Image_Alt_Text=" "
 Image_title_Text=""
 Header_H1_Text="Open Source C++ Library for Audio Synthesis & Signal Processing"
-Header_H2_Text="Free C++ API that allows software developers to autoplay, record, mix, apply filters & Convert their Audio files. It is cross-platform compatible and provides support for client-side browser-based applications." >}}
+Header_H2_Text="Free C++ API that allows software developers to auto-play, record, mix, apply filters & Convert their Audio files. It is cross-platform compatible and provides support for client-side browser-based applications." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Free C++ API that allows software developers to autoplay, record
 
 
 <p>Maximilian is a powerful creative C++ audio synthesis and signal processing library that allows software developers to create their own applications for handling and processing audio and music files. The library is open source and is available under the MIT license with minimal dependencies. The library is cross-platform compatible and supports native implementations for MacOS, Windows, Linux, and iOS systems. It also provides support for client-side browser-based applications.</p>
-<p>The aim behind building the library was that other available C++ libraries were difficult to handle, over-engineered, restrictive licensing, and have many other dependencies. Keep all that in mind Maximilian was designed to be very simple to learn but yet very powerful and can be easily integrated with other creative toolkits, open frameworks, and best of all is free available.</p>
+<p>The aim behind building the library was that other available C++ libraries were difficult to handle, over-engineered, restrictive licensing, and have many other dependencies. Keep all that in mind Maximilian was designed to be very simple to learn but yet very powerful and can be easily integrated with other creative tool-kits, open frameworks, and best of all is free available.</p>
 <p>The API has a very simple syntax and can be used by those who have less expertise with a textual programming language as well as the expert level programmers who want to develop high-level audio applications quickly on multiple platforms.  The library has included support for several important features such as play audio files, recording, and looping support, manages WAV and OGG files, oscillators and filters selection, multichannel mixing, applying sound effects, granular synthesis, enveloping, advanced filter support, and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}

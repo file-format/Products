@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Audio File Formats - Read & Write Metadata of Audio File Formats
 description: TagLib-Sharp - An Open Source Free .NET API for Video File Format. Read and Write Metadata tags of Audio File Formats
-keywords: TagLib API, TagLib Sharp API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extact Metadata, Write MP3 Metata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
+keywords: TagLib API, TagLib Sharp API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
 
 draft: false
 weight: 1
@@ -32,8 +32,8 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 
 
-<p>Taglib-Sharp is an open source API developed for reading and writing metadata in audio file fromats. Using the API, you can read & write standard tags of audio file format and can also create and extract metadata of custom tags. The API is designed to extarct any format, any container the audio file format is using.</p>
-<p>TagLib-Sharp in free software relased under the LGPL. The developer can create their own metdata extraction & creation applications using the API. Futhermore, the API allows them to work with wide range of audio file formats for metadata manipulation.</p>
+<p>Taglib-Sharp is an open source API developed for reading and writing metadata in audio file formats. Using the API, you can read & write standard tags of audio file format and can also create and extract metadata of custom tags. The API is designed to extract any format, any container the audio file format is using.</p>
+<p>TagLib-Sharp in free software released under the LGPL. The developer can create their own metadata extraction & creation applications using the API. Futhermore, the API allows them to work with wide range of audio file formats for metadata manipulation.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -101,7 +101,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Taglib-Sharp</h2>
-<p>The best way to install to insall Taglib-Sharp is via NuGet you can run the following command and install Taglib-Sharp in you application.</p>
+<p>The best way to install to install Taglib-Sharp is via NuGet you can run the following command and install Taglib-Sharp in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -130,7 +130,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Free C# API to Write Audio Metadata Tags</h2>
-<p>The open source API TagLib-Sharp allows .NET developers to write standard aswell as custom metadata tags in audio file formats. In order to write you can read an audio file using TagLib.File.Create() method and new tag value using Tag.Tile property.</p>
+<p>The open source API TagLib-Sharp allows .NET developers to write standard as well as custom metadata tags in audio file formats. In order to write you can read an audio file using TagLib.File.Create() method and new tag value using Tag.Tile property.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
