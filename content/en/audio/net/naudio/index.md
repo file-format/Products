@@ -124,12 +124,6 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> Install-Package NAudio</code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -139,12 +133,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> Install-Package NAudio</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -154,12 +143,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install NAudio from NuGet</h3>
-<pre><code class="html"> Install-Package NAudio</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}

@@ -124,13 +124,6 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 <p>LibVLCSharp allows .NET programmers to play all audio file formats easily. In order to run an audio file format, the developer can start by initializing LibVLC main object, and then load audio file by using Media class that is responsible for proving information about the file format. Once you have your audio file loaded, you can open new instance of MediaPlayer to play the audio file using MediaPlayer.Play() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install LibVLCSharp from NuGet</h3>
-<pre><code class="html"> Install-Package LibVLCSharp -Version 3.4.8</code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -140,12 +133,6 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install LibVLCSharp from NuGet</h3>
-<pre><code class="html"> Install-Package LibVLCSharp -Version 3.4.8</code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}

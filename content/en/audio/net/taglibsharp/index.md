@@ -119,12 +119,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install Taglib-Sharp from NuGet</h3>
-<pre><code class="html"> Install-Package Taglib-Sharp</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -134,12 +129,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install Taglib-Sharp from NuGet</h3>
-<pre><code class="html"> Install-Package Taglib-Sharp</code></pre>
 
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}
