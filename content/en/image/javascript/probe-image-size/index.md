@@ -1,7 +1,7 @@
 ---
 title: JavaScript Library for Image Processing - Get image size without full download
 description: Probe-Image-Size – open source image processing library that allows Software programmers to get image size with downloading image via JavaScript Library
-keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library,  image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Get Image Size, Size, Image Size
+keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library, image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Get Image Size, Size, Image Size
 draft: false
 weight: 1
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Get image size without full download."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source JavaScript Library for Image Processing"
 Header_H2_Text="Get image size without full download." >}}
@@ -64,7 +64,7 @@ Header_H2_Text="Get image size without full download." >}}
 <li>hUnits</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Probe-Image-Size</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -73,15 +73,15 @@ Header_H2_Text="Get image size without full download." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Probe-Image-Size supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>  <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a>, <a href="https://docs.fileformat.com/image/avif/">AVIF</a>, <a href="https://docs.fileformat.com/image/heic/">HEIC</a>,</li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a>, <a href="https://docs.fileformat.com/image/avif/">AVIF</a>, <a href="https://docs.fileformat.com/image/heic/">HEIC</a>,</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Probe-Image-Size</header><footer><small></small></footer></div>
@@ -144,7 +144,7 @@ Header_H2_Text="Get image size without full download." >}}
 <pre><code class="c#">const probe = require('probe-image-size');
 // get by URL
 let result = await probe('http://example.com/image.jpg');
-                        </code></pre>
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

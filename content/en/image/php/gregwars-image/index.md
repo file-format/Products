@@ -1,7 +1,7 @@
 ---
 title: PHP Library to Manipulate Images – Load, Resize & Convert GIF, PNG, JPEG
 description: Gregwar's Image - Open Source free image manipulation PHP library allows programmers to load, crop, negate, sharp, merge colorize, fill and rotate images
-keywords: Gregwar's Image, Convert Image Free, Free Image Crop, Rotate Image, Free Image API, Rotate Image, image processing, PHP images, image processing library, PHP PNG API, PHP JPG, PHP image API, PHP Image creation, Modify images, Image filtering API, PHP  fade image , image filtering  API, image animation, 3d image  rendering, plasma effect, PHP Image, Display images, Transform images in PHP
+keywords: Gregwar's Image, Convert Image Free, Free Image Crop, Rotate Image, Free Image API, Rotate Image, image processing, PHP images, image processing library, PHP PNG API, PHP JPG, PHP image API, PHP Image creation, Modify images, Image filtering API, PHP fade image , image filtering API, image animation, 3d image rendering, plasma effect, PHP Image, Display images, Transform images in PHP
 draft: false
 weight: 17
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="PHP Library that enables Software programmers to resize, sharp, merge, colorize, fill and rotate images."
+Image_H2_Text="PHP Library that enables Software programmers to resize, sharp, merge, colorize, fill and rotate images."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source PHP API to Manipulate Images"
-Header_H2_Text="PHP Library that enables Software programmers to resize, sharp, merge, colorize, fill and rotate images." >}}
+Header_H1_Text="Open Source PHP API to Manipulate Images"
+Header_H2_Text="PHP Library that enables Software programmers to resize, sharp, merge, colorize, fill and rotate images." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -76,9 +76,9 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Gregwar's Image supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>
 <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
@@ -89,9 +89,9 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> 
+<li> 
 <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, 
 <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>,
 <a href="https://docs.fileformat.com/image/png/">PNG</a>, 
@@ -112,11 +112,11 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>PHP &gt;= 5.2 and above</li>
+<li>PHP &gt;= 5.2 and above</li>
 </ul>
 <!--/right--></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Gregwar's Image</header><footer><small></small></footer></div>
@@ -138,10 +138,10 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 {{< SinglePage/PageBody/features/code >}}
 <h3><strong>Install Gregwar's Image via Composer</strong></h3>
 <pre><code class="html">{
-    ...
-    "require": {
-        "gregwar/image": "2.*"
-    }
+ ...
+ "require": {
+  "gregwar/image":"2.*"
+ }
 }</code></pre>
 
 
@@ -161,12 +161,12 @@ Header_H2_Text="PHP Library that enables Software programmers to resize, sharp,
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Resize Image  via Free GO API</h3>
+<h3>Resize Image via Free GO API</h3>
 <pre><code class="php">Image::open('fileformat.png')
-     ->resize(100, 100)
-     ->negate()
-     ->save('output.jpg');
-     </code></pre>
+  ->resize(100, 100)
+  ->negate()
+  ->save('output.jpg');
+  </code></pre>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

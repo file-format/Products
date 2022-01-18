@@ -1,7 +1,7 @@
 ---
-title: Open Source .NET API for Audio File Formats - Read & Write Metadata of Audio File Formats
-description: NAudio -  Open-Source API that enables software developers to read, play, record, convert & encode Audio File Formats using .NET applications.
-keywords: NAudio API, API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
+title: Open Source .NET API for Audio File Formats
+description: NAudio - Read, play, record, convert & encode Audio File Formats using .NET applications.
+keywords: NAudio API, API, Free Audio API, Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
 draft: false
 weight: 1
 
@@ -16,11 +16,11 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Play, Reocord, Encode, Read & Convert Audio files via .NET API."
+Image_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Free.NET Library for Manipulating Audio File Formats"
+Header_H1_Text="Free.NET Library for Manipulating Audio File Formats"
 Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -30,7 +30,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 
 
 
-<p>NAudio is an open source API to manipulate audio files programmtically. The API allows the .NET Developer to read audio from different standards, playback audio, convert audio formats, record system audio and more. The API intends to provide a comprehensive set of useful utility classes by using which you can construct your own audio manipulation application.</p>
+<p>NAudio is an open source API to manipulate audio files programmatically. The API allows the .NET Developer to read audio from different standards, playback audio, convert audio formats, record system audio and more. The API intends to provide a comprehensive set of useful utility classes by using which you can construct your own audio manipulation application.</p>
 <p>Using the API, you can playback audio using Waveout, DirectSound, ASIO & WASAPI and can read audio from WAV, AIFF, MP3, G.711, ADPCM, WMA, AAC, MP4 and more. The API allows encoding audio using and ACM codec installed on your machine, you can mix and manipulate audio streams using 32-bit mixing engine.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -60,11 +60,11 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 <li>Create WMA</li>
 <li>Create AAC/MP4 Audio</li>
 <li>Support for UWP</li>
-<li>Work with sound-cards</li>
+<li>Works with Sound Cards</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>NAduio</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -72,18 +72,18 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>NAudio supports popular Audio file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>NAudio supports popular Audio file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>,  G.711 mu-law, G.711 a-law, MP4, WMA, ADPCM, G.722</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, G.711 mu-law, G.711 a-law, MP4, WMA, ADPCM, G.722</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MP4, WMA</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MP4, WMA</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -106,7 +106,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via .NET API." 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with NAudio</h2>
-<p>The best way to install to install NAudio is via NuGet you can run the following command and install NAudio in you application.</p>
+<p>The best way to install to install NAudio is via NuGet. Run the following command and install NAudio in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

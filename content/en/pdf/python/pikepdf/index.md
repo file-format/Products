@@ -1,6 +1,6 @@
 ---
 title: PDF Python Library – Merge/Split, Add Image & Copy Pages b/t PDFs
-description: PikePDF – Open source Python library supports PDF creation from the scratch.  It allows to Merge or Split PDF, Add Image & Copy Pages b/t PDFs via Python API.
+description: PikePDF – Open source Python library supports PDF creation from the scratch. It allows to Merge or Split PDF, Add Image & Copy Pages b/t PDFs via Python API.
 draft: false
 weight: 1
 
@@ -18,10 +18,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted PDFs. It supports PDF creation from the scratch, copying pages from one PDF to other, split or merge PDFs and many more."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python Library to Process PDF Files"
-Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted PDFs. It supports PDF creation from the scratch, copying pages from one PDF to other, split or merge PDFs and many more." >}}
+Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted PDFs. It supports PDF creation from the scratch, copying pages from one PDF to other, split or merge PDFs and many more." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -30,8 +30,8 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 
 
 
-<p>PikePDF is a very simple Python PDF library that allows software developers to work with PDF files inside Python applications. It is based on QPDF, a powerful PDF manipulation and repair library. PikePDF is a PDF content transformation library and provides low-level access to PDF files. This means users need knowledge of PDF internals and familiarity with PDF specs. The library is open source and is available under the MIT license for public use. The library is open source and is available under the MPL-2.0 License.</p>
-<p>The PikePDF provides support for linearizing PDFs and access to encrypted PDFs. It has included a very powerful set of features related PDF management such as PDF creation from the scratch, copy pages from one PDF to otherone, split or merge PDFs, image or text extraction from PDF, replacing content in PDF, PDF repairing support, page settings support, manage PDF metadata, work with password-protected, PDF XMP metadata editing, the transformation of existing PDFs and man more.</p>
+<p>PikePDF is a simple Python PDF library that allows software developers to work with PDF files inside Python applications. It is based on QPDF, a powerful PDF manipulation and repair library. PikePDF is a PDF content transformation library and provides low-level access to PDF files. This means users need knowledge of PDF internals and familiarity with PDF specs. The library is open source and is available under the MIT license for public use. The library is open source and is available under the MPL-2.0 License.</p>
+<p>The PikePDF provides support for linearizing PDFs and access to encrypted PDFs. It has included a powerful set of features related PDF management such as PDF creation from the scratch, copy pages from one PDF to otherone, split or merge PDFs, image or text extraction from PDF, replacing content in PDF, PDF repairing support, page settings support, manage PDF metadata, work with password-protected, PDF XMP metadata editing, the transformation of existing PDFs and man more.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -53,7 +53,7 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 <div class="d1-row">
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
-<li>Generate PDF</li>
+<li>Generate PDF</li>
 <li>Copy PDF pages</li>
 <li>Extract Images</li>
 <li>PDF repairing</li>
@@ -80,17 +80,17 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PikePDF supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -126,7 +126,7 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PikePDF</h2>
-<p>PikePDF requires Python 3.6 and higher.  You can install PikePDF using pip. Please use the following command to install it.</p>
+<p>PikePDF requires Python 3.6 and higher. You can install PikePDF using pip. Please use the following command to install it.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -149,7 +149,7 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">PDF Splitting & Merging via Python</h2>
-<p>The PDF PikePDF library gives software developers the power to access existing PDF files and split it into multiple PDF files with ease. While splitting PDF all we require is that the new PDFs must hold the destination pages.  The library also makes sure to transfer data associated with each page, so that every page stands on its own. The library also included support for merging or concatenating multiple PDF documents into a single one. It is also possible to reverse the order of the PDF pages with just a couple of lines of code.</p>
+<p>The PDF PikePDF library gives software developers the power to access existing PDF files and split it into multiple PDF files with ease. While splitting PDF all we require is that the new PDFs must hold the destination pages. The library also makes sure to transfer data associated with each page, so that e page stands on its own. The library also included support for merging or concatenating multiple PDF documents into a single one. It is also possible to reverse the order of the PDF pages with just a couple of lines of code.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -164,8 +164,8 @@ Header_H2_Text="Free Python API allows linearizing PDFs and accessing encrypted 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
- 
+ 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

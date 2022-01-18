@@ -1,7 +1,7 @@
 ---
 title: .NET API for Excel Spreadsheets - Read, Write & Export XLSX Files | EPPlus
 description: EPPlus - Open source .NET API allows to read, write & export Excel spreadsheets. Developer can add images & comments to cells in XLSX files via C# library.
-keywords: .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, Add Image in Excel cell, read spreadsheet files
+keywords: .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, Add Image in Excel cell, read spreadsheet files
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Source Free C# .NET Library."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text=".NET API for Excel Spreadsheets Manipulation "
+Header_H1_Text=".NET API for Excel Spreadsheets Manipulation"
 Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Source Free C# .NET Library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Sour
 
 
 <p>EPPlus is a pure .NET library that gives software developers the capability to read, write & export Excel 2007/2010 files in OOXML format.</p>
-<p>The project started with the source from ExcelPackage, which had basic functionality to read and write spreadsheets. EPPlus’s performance is much enhanced because it uses dictionaries to access spreadsheets cell data. The API provides cell access via ranges, cell merging, the addition of pictures, shapes & charts, hyperlinks & header/footer management, freeze panes, Pivot Table, data validation, worksheets & workbook protection, encryption or decryption and more. </p>
+<p>The project started with the source from ExcelPackage, which had basic functionality to read and write spreadsheets. EPPlus’s performance is much enhanced because it uses dictionaries to access spreadsheets cell data. The API provides cell access via ranges, cell merging, the addition of pictures, shapes & charts, hyperlinks & header/footer management, freeze panes, Pivot Table, data validation, worksheets & workbook protection, encryption or decryption and more. </p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -69,7 +69,7 @@ Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Sour
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>EPPlus</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -77,22 +77,22 @@ Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Sour
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>EPPlus supports popular Spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>EPPlus supports popular Spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>
-<p><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, XLSM, <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a></p>
+<p><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, XLSM, <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a></p>
 </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT</a>,  <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT</a>, <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
 <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>,
- XLSM, XLSB, <a href="https://docs.fileformat.com/web/html/">HTML</a>,  <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a></li>
+ XLSM, XLSB, <a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -115,7 +115,7 @@ Header_H2_Text="Read, Write, Edit & Export Excel Spreadsheet Files via Open Sour
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with EPPlus</h2>
-<p>You need to have .NET Framework 3.5 or above. Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/JanKallman/EPPlus">GitHub</a> or install from NuGet.</p>
+<p>You need to have .NET Framework 3.5 or above. Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/JanKallman/EPPlus">GitHub</a> or install from NuGet.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -139,7 +139,7 @@ ExcelPackage excelPackage = new ExcelPackage();
 // Add work sheet 
 ExcelWorksheet excelWorksheet = excelPackage.Workbook.Worksheets.Add("FileFormat");
 // Add data in cell
-excelWorksheet.Cells["A1"].Value = "File Format Developer Guide";
+excelWorksheet.Cells["A1"].Value ="File Format Developer Guide";
 // Save as XLSX file format
 excelPackage.SaveAs(new FileInfo("fileformat.xlsx"));
 </code></pre>
@@ -151,7 +151,7 @@ excelPackage.SaveAs(new FileInfo("fileformat.xlsx"));
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Image to Excel Sheet with C#</h2>
-<p>.NET programmers can add Image into an Excel Sheet using EPPlus open source C# library.  You can define picture width & height and the position where you want to place it. Developers can also modify the picture position and place it where they want it. Resizing columns and rows after using the available method will affect the size of the picture.</p>
+<p>.NET programmers can add Image into an Excel Sheet using EPPlus open source C# library. You can define picture width & height and the position where you want to place it. Developers can also modify the picture position and place it where they want it. Resizing columns and rows after using the available method will affect the size of the picture.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -174,7 +174,7 @@ excelPackage.SaveAs(new FileInfo("fileformat.xlsx"));
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Add Comments to Excel Cell</h2>
+<h2 class="h2title">Add Comments to Excel Cell</h2>
 <p>EPPlus API facilitates to add and modify comments in Excel cells. The API also supports features like adding a comment, moving comment box, display or hide comments, deleting a comment, comment formatting, etc.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -185,7 +185,7 @@ ExcelPackage excelPackage = new ExcelPackage();
 // Add work sheet 
 ExcelWorksheet excelWorksheet = excelPackage.Workbook.Worksheets.Add("FileFormat");
 // Add comment
-ExcelComment excelComment = excelWorksheet.Cells["A1"].AddComment("FileFormat.com", "Ali Ahmed");
+ExcelComment excelComment = excelWorksheet.Cells["A1"].AddComment("FileFormat.com","Ali Ahmed");
 // Set font to bold
 excelComment.Font.Bold = true;
 // Set font to Italic

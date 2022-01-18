@@ -1,7 +1,7 @@
 ---
 title: Read, Write & Edit Large ZIP Files via Open Source JavaScript Library
 description: Zip.JS - An Open Source JavaScript Library for Zipping and Unzipping Files. Read, write, delete & extract content of large ZIP files via JavaScript API.
-keywords: Free Compression APIs, Free library for ZIP,  JavaScript Compression, JavaScript compression API, compress files in JavaScript, decompress files JavaScript,  JavaScript Archive, JavaScript 7-zip, JavaScript GZip library, JavaScript  BZip2, JavaScript Zip programming, JavaScript TAR, create  ZIP archive, JavaScript compression Library, Open Source JavaScript Library
+keywords: Free Compression APIs, Free library for ZIP, JavaScript Compression, JavaScript compression API, compress files in JavaScript, decompress files JavaScript, JavaScript Archive, JavaScript 7-zip, JavaScript GZip library, JavaScript BZip2, JavaScript Zip programming, JavaScript TAR, create ZIP archive, JavaScript compression Library, Open Source JavaScript Library
 draft: false
 weight: 19
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting & Manipulating Large ZIP Files Online."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="JavaScript Library for Reading & Writing Large ZIP Files "
-Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting & Manipulating Large ZIP Files Online." >}}
+Header_H1_Text="JavaScript Library for Reading & Writing Large ZIP Files"
+Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting & Manipulating Large ZIP Files Online." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting
 
 
 
-<p>Zip.js is an Open Source JavaScript library allows software developers to ZIP and Unzip file inside their own applications. It provides a low-level API for reading and writing large zip files (up to 4GB with File writer API).  The library is fully compatible with all web browsers such as Chrome, Firefox, Safari 6 and Internet Explorer 10.</p>
-<p>The library can handle multiple types of data thanks to a generic API.  If you want to read a ZIP file and would like to store its files into a variable, you need to use a ZIP.Reader object for reading the compressed ZIP data. If you would like to write uncompressed file data into the variable then need to use a ZIP.Writer object.</p>
-<p>This library depends on Typed array (WebGL) and optionally you can use other APIs such as Web workers for spawning background workers running scripts in parallel to their main page, File API for programmatically selecting files and accessing their data,  File writer API for writing to files from web applications and File directories & system for navigating file system hierarchies.</p>
+<p>Zip.js is an Open Source JavaScript library allows software developers to ZIP and Unzip file inside their own applications. It provides a low-level API for reading and writing large zip files (up to 4GB with File writer API). The library is fully compatible with all web browsers such as Chrome, Firefox, Safari 6 and Internet Explorer 10.</p>
+<p>The library can handle multiple types of data thanks to a generic API. If you want to read a ZIP file and would like to store its files into a variable, you need to use a ZIP.Reader object for reading the compressed ZIP data. If you would like to write uncompressed file data into the variable then need to use a ZIP.Writer object.</p>
+<p>This library depends on Typed array (WebGL) and optionally you can use other APIs such as Web workers for spawning background workers running scripts in parallel to their main page, File API for programmatically selecting files and accessing their data, File writer API for writing to files from web applications and File directories & system for navigating file system hierarchies.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -76,15 +76,15 @@ Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Zip.js supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
@@ -105,7 +105,7 @@ Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting
 <ul>
 <li>JavaScript</li>
 </ul>
-</header><header> </header></div>
+</header><header> </header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Zip.js</header><footer><small></small></footer></div>
@@ -141,9 +141,9 @@ Header_H2_Text=" Open Source Free JavaScript API for Reading, Writing, Deleting
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title"> Writing Files to ZIP via JavaScript</h2>
+<h2 class="h2title"> Writing Files to ZIP via JavaScript</h2>
 <p>The ZIP.JS library enables software programmers to write data into the zip file. First of all you need to create a ZipWriter object to write output data. You can easily add a new entry into the ZIP by providing file name and location. Once the task is done the success callback function will inform about the successful entry and compression. In the end please do remember to close the opened zip and terminate the associated web workers.</p>
-<h2 class="h2title"> </h2>
+<h2 class="h2title"> </h2>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

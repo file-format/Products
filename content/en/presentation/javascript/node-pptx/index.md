@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript PowerPoint Library – Add Content to PPTX File
 description: Node-PPTX - Open Source free JavaScript library for PPTX Presentations. Add Content to PPTX, generate & convert PowerPoint Files on Server-Side via JavaScript API.
-keywords: Free PPTX API, Free PowerPoint library, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint, PowerPoint PPTX reader,  JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations writer, add Images presentation, Add Content to PPTX,  create PPTX slide, JavaScript PowerPoint library, modify PPTX files
+keywords: Free PPTX API, Free PowerPoint library, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint, PowerPoint PPTX reader, JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations writer, add Images presentation, Add Content to PPTX, create PPTX slide, JavaScript PowerPoint library, modify PPTX files
 draft: false
 weight: 12
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files on the Server-Side via JavaScript  API."
+Image_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files on the Server-Side via JavaScript API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source JavaScript Library for Microsoft<sup>®</sup> PPTX Presentations"
-Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files on the Server-Side via JavaScript  API." >}}
+Header_H1_Text="Open Source JavaScript Library for Microsoft<sup>®</sup> PPTX Presentations"
+Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files on the Server-Side via JavaScript API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 
 
 <h2 class="h2title">What is Node-PPTX?</h2>
-<p>Node-PPTX is an open-source pure JavaScript library that allows software developers to read, write, compose and manipulate PPTX files. The library provided functionality for creating a brand new file from scratch as well as modifying an existing PPTX file. The library offers very user-friendly features and provides the capability to generate presentations with just a couple of JavaScript commands.</p>
+<p>Node-PPTX is an open-source pure JavaScript library that allows software developers to read, write, compose and manipulate PPTX files. The library provided functionality for creating a brand new file from scratch as well as modifying an existing PPTX file. The library offers user-friendly features and provides the capability to generate presentations with just a couple of JavaScript commands.</p>
 <p>The library has provided support for several important features such as creating a presentation from scratch, modifying presentation, setting text direction, adding slides, removing slides, reordering slides, formatting options, applying master slides, adding slide numbers, adding content to slides and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -76,16 +76,16 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Node-PPTX supports important compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Node-PPTX supports important compression file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>PPTX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">,</a> <a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
@@ -104,11 +104,11 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 <div class="d1-row">
 <div class="d1-col d1-left">
 <ul>
-<li><em> </em>JavaScript</li>
+<li><em> </em>JavaScript</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Node-PPTX</header><footer><small></small></footer></div>
@@ -137,7 +137,7 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate PPTX Presentation from Scratch via JavaScript API</h2>
-<p>The open-source library Node-PPTX enables software programmers to generate a new PPTX presentation from scratch using a few lines of code. It also provides support to modify existing presentations with ease.  Developers can also add new slides, images, basic charts, shapes, etc. to their presentations. By using the following line of code you can easily generate PPTX from scratch.</p>
+<p>The open-source library Node-PPTX enables software programmers to generate a new PPTX presentation from scratch using a few lines of code. It also provides support to modify existing presentations with ease. Developers can also add new slides, images, basic charts, shapes, etc. to their presentations. By using the following line of code you can easily generate PPTX from scratch.</p>
 <h3>Create PPTX</h3>
 <ol>
 <li>Import Node-PPTX</li>
@@ -153,15 +153,15 @@ Header_H2_Text=" Generate, Update, Manipulate & Convert PowerPoint PPTX Files 
 let pptx = new PPTX.Composer();
 // add text in slide
 await pptx.compose(pres =&gt; {
-        pres.addSlide(slide =&gt; {
-        slide.addText(text =&gt; {
-        text.value('File Format Developer Guide');
-        });
-        });
+  pres.addSlide(slide =&gt; {
+  slide.addText(text =&gt; {
+  text.value('File Format Developer Guide');
+  });
+  });
 });
 
 await pptx.save(`./fileformat.pptx`);
-                    </code></pre>
+     </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

@@ -1,7 +1,7 @@
 ---
 title: Open Source PDF Ruby Library – Generate, Edit PDF from Plain HTML & CSS
 description: PDFKit - Open Source PDF Ruby Library allows Software Developers to Generate PDF Documents using Plain HTML & CSS. Create PDF files from a provided URL & save to disk.
-keywords: HTML to PDF, HTML + CSS to PDF, PDF library,  Ruby PDF,  Java  PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+keywords: HTML to PDF, HTML + CSS to PDF, PDF library, Ruby PDF, Java PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and output it as a PDF with high quality, Generate PDF document from a provided file or URL."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Ruby Library to Generate PDF from HTML"
-Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and output it as a PDF with high quality, Generate PDF document from a provided file or URL." >}}
+Header_H1_Text="Open Source Ruby Library to Generate PDF from HTML"
+Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and output it as a PDF with high quality, Generate PDF document from a provided file or URL." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 
 
 
-<p>Different types of businesses create a variety of documents on daily basis. Most of these documents contain very confidential or private data that needs to be protected. Portable document format (PDF) is a very useful and convenient way to keep your personal information safe while sharing it on the web. PDFKit is a very useful Ruby library that enables software developers to generate PDF files using plain HTML/CSS code.</p>
-<p>The library is very easy to use and uses wkhtmltopdf on the backend which uses WebKit to render HTML/CSS and output it as a PDF with high quality. The library is very flexible and allows users to generate PDF documents from a provided URL with ease.  The Library has included several important features for rendering PDF documents such as generating PDF from HTML code, modifying PDFs, adding styles to PDF, inserting header and footers, table page break, and many more.</p>
+<p>Different types of businesses create a variety of documents on daily basis. Most of these documents contain confidential or private data that needs to be protected. Portable document format (PDF) is a useful and convenient way to keep your personal information safe while sharing it on the web. PDFKit is a useful Ruby library that enables software developers to generate PDF files using plain HTML/CSS code.</p>
+<p>The library is easy to use and uses wkhtmltopdf on the backend which uses WebKit to render HTML/CSS and output it as a PDF with high quality. The library is flexible and allows users to generate PDF documents from a provided URL with ease. The Library has included several important features for rendering PDF documents such as generating PDF from HTML code, modifying PDFs, adding styles to PDF, inserting header and footers, table page break, and many more.</p>
 <p>The library has provided users lots of options to control how it creates PDFs inside their apps. You can configure those options globally as well as set them per page. You can use specially-named meta-tags on the page to control how a page's HTML is rendered into PDF.</p>
 <p>.</p>
 
@@ -57,7 +57,7 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 <ul>
 <li>Render PDF</li>
 <li>Generate PDF</li>
-<li>HtML to PDF</li>
+<li>HtML to PDF</li>
 <li>PDF encoding</li>
 <li>Modify PDFs</li>
 <li>Add styles</li>
@@ -74,17 +74,17 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PDFKit supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, PDF</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, PDF</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -120,7 +120,7 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PDFKit</h2>
-<p>To install the PDFKit on your system, please run the following command, </p>
+<p>To install the PDFKit on your system, please run the following command, </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -133,7 +133,7 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate PDF from HTML via Ruby</h2>
-<p>The open source Ruby library PDFKit enables software developers to generate PDF documents from HTML code inside their own applications. You can use CSS to apply different kinds of styles to your code and then can generate the PDF documents from it.  You can also easily set the size of the page by default A4 size is used.  You can also different kinds of options through Meta tags. It is also possible to pass cookies to PDFKit to scrape a website using hash.</p>
+<p>The open source Ruby library PDFKit enables software developers to generate PDF documents from HTML code inside their own applications. You can use CSS to apply different kinds of styles to your code and then can generate the PDF documents from it. You can also easily set the size of the page by default A4 size is used. You can also different kinds of options through Meta tags. It is also possible to pass cookies to PDFKit to scrape a website using hash.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -149,20 +149,20 @@ Header_H2_Text="Ruby PDF API that enables developers to render HTML/CSS and out
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Load and Parse PDF Data via Ruby API</h2>
-<p>The open source PDF library CombinePDF has included support for loading and parsing PDF files inside Ruby applications. As recommended, loading data from PDF files is easy. Developers can also parse PDF files from memory. It is very effective to load data from memory especially for data received via the internet or from a different library.   Same as parsing rendering can also be performed either to the memory or to a file.</p>
+<p>The open source PDF library CombinePDF supports loading and parsing PDF files inside Ruby applications. As recommended, loading data from PDF files is easy. Developers can also parse PDF files from memory. It is effective to load data from memory especially for data received via the internet or from a different library. Same as parsing rendering can also be performed either to the memory or to a file.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

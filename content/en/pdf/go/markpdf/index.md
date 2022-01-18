@@ -1,6 +1,6 @@
 ---
 title: Open Source Go Library for Adding Watermark in PDF Documents
-description: PDF library, MarkPDF, Mark PDF, PDF CPU, PDF Scripting, PDF Processing,  PDF CPU, Small PDF Library, Lightweight PDF Library,  Open Source PDF Library, Go PDF programming, Go PDF APIs, Go PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+description: PDF library, MarkPDF, Mark PDF, PDF CPU, PDF Scripting, PDF Processing, PDF CPU, Small PDF Library, Lightweight PDF Library, Open Source PDF Library, Go PDF programming, Go PDF APIs, Go PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 keywords: Mark PDF, Image Watermark, Text Watermark, Open Source Go Library allows Software Developers to create, edit, manage PDF Documents. You can insert layers, images & lists to PDF files via Go API.
 draft: false
 weight: 19
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="A tiny command line tool for watermarking PDF files using image or text"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Go Library for PDF Document Generation"
 Header_H2_Text="A tiny command line tool for watermarking PDF files using image or text" >}}
@@ -73,15 +73,15 @@ Header_H2_Text="A tiny command line tool for watermarking PDF files using image 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>MarkPDF supports the following file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/image/png/">PNG</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -100,7 +100,7 @@ Header_H2_Text="A tiny command line tool for watermarking PDF files using image 
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>Go 1.3 and above.</li>
+<li>Go 1.3 and above.</li>
 </ul>
 </div>
 </div>
@@ -118,12 +118,12 @@ Header_H2_Text="A tiny command line tool for watermarking PDF files using image 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with MarkPDF</h2>
-<p>To install the MarkPDF on your system, you need to download the latest stable <a href="https://github.com/ajaxray/markpdf/releases">release</a> then rename it and give it execute permission. </p>
+<p>To install the MarkPDF on your system, you need to download the latest stable <a href="https://github.com/ajaxray/markpdf/releases">release</a> then rename it and give it execute permission. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install MarkPDF via GitHub</h3>
-<pre><code class="html">mv markpdf_linux-amd64 markpdf  
+<pre><code class="html">mv markpdf_linux-amd64 markpdf 
 sudo chmod +x markpdf<br></code></pre>
 
 
@@ -133,7 +133,7 @@ sudo chmod +x markpdf<br></code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate PDF Document via Free Go Library</h2>
-<p>Generating PDF documents with Go is pretty simple. All you need to do is create a blank PDf document with A4 size by using pdf.NewPDF("A4") method of the API. You can set measurements of the doucment in centimeters using pdf.SetUnits("cm") method and similary draw grid in newly created PDF document using pdf.DrawUnitGrid() method.</p>
+<p>Generating PDF documents with Go is pretty simple. All you need to do is create a blank PDf document with A4 size by using pdf.NewPDF("A4") method of the API. You can set measurements of the doucment in centimeters using pdf.SetUnits("cm") method and Similarly draw grid in newly created PDF document using pdf.DrawUnitGrid() method.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -148,7 +148,7 @@ sudo chmod +x markpdf<br></code></pre>
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

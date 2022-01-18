@@ -6,7 +6,7 @@ draft: false
 weight: 4
 
 ProductName: PHP
-ListingPage_Title_Text:  Free Compression  APIs for
+ListingPage_Title_Text: Free Compression APIs for
 ListingPage_Short_Description: Open Source PHP APIs enables software developers to work with popular compression file formats like RAR, 7-zip, Zip, Tar, GZip, etc.
 ListingPage_Product_Small_Image: 
 
@@ -17,10 +17,10 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Compression "
+Image_H2_Text="Compression"
 Image_Tag_Text=" File Format APIs for PHP"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Open Source PHP APIs for Compression Files"
 Header_H2_Text="Work with popular compression file formats such as ZIP, TAR, RAR & GZIP via PHP" >}}
 

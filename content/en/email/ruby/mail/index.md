@@ -1,7 +1,7 @@
 ---
 title: Open Source Ruby Library - Email Messages Generation Parsing & Encoding
 description: Mail - Open Source Ruby API to Generate, Parse & Send Email messages with attachments to multiple users, encode email messages, POP3 and SMTP support & so on.
-keywords: Ruby mailing library, Ruby email API, free Ruby Library, Open Source email Library, Ruby  MSG  programming, Ruby Outlook MSG, Add Attachments to Email,  create  MSG email, Extract email messages, Ruby outlook, encode email messages, POP3 support, SMTP support, Parse Email messages, send attachments to multiple users, encode email messages
+keywords: Ruby mailing library, Ruby email API, free Ruby Library, Open Source email Library, Ruby MSG programming, Ruby Outlook MSG, Add Attachments to Email, create MSG email, Extract email messages, Ruby outlook, encode email messages, POP3 support, SMTP support, Parse Email messages, send attachments to multiple users, encode email messages
 draft: false
 weight: 20
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free Ruby API that allows Email messages generation & parsing, sending messages with attachments to multiple users, Twig integration, UTF-8 characters support, and so on."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Ruby Library for Email Messages "
-Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, sending messages with attachments to multiple users, Twig integration, UTF-8 characters support, and so on." >}}
+Header_H1_Text="Open Source Ruby Library for Email Messages"
+Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, sending messages with attachments to multiple users, Twig integration, UTF-8 characters support, and so on." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 
 
 
-<p>Mail is an open source Ruby library that gives software programmers the power to develop apps for email messages generation and receiving using Ruby code.  It is a pure ruby implementation and has provided several important features related to email messages generation and parsing such as access and read email messages, reading UTF-8 headers support, multipart email support, creating a multipart alternate email,  POP3 and SMTP support, Auto-encoding of non-US-ASCII bodies and much more.</p>
-<p>The modern version of Ruby has included more advanced features for handling text encoding that’s where Mailer library is very useful as it is designed to work with lower as well as a modern version of Ruby equally.  So it is now capable to handle email messages more efficiently. Developers can also create MIME emails with ease.</p>
-<p><span style="font-size: 12.16px;">. </span></p>
+<p>Mail is an open source Ruby library that gives software programmers the power to develop apps for email messages generation and receiving using Ruby code. It is a pure ruby implementation and has provided several important features related to email messages generation and parsing such as access and read email messages, reading UTF-8 headers support, multipart email support, creating a multipart alternate email, POP3 and SMTP support, Auto-encoding of non-US-ASCII bodies and much more.</p>
+<p>The modern version of Ruby has included more advanced features for handling text encoding that’s where Mailer library is useful as it is designed to work with lower as well as a modern version of Ruby equally. So it is now capable to handle email messages more efficiently. Developers can also create MIME emails with ease.</p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -55,12 +55,12 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
 <li>Send emails</li>
-<li>Parse emails </li>
+<li>Parse emails </li>
 <li>multipart email</li>
 <li>Read emails</li>
 <li>Add attachments</li>
 <li>Save attachment</li>
-<li>Email encoding</li>
+<li>Email encoding</li>
 <li>POP3 support</li>
 <li>UTF-8 headers</li>
 <li>SMPT support</li>
@@ -69,7 +69,7 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 </ul>
 </div>
 <!--/left -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Mail</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -78,17 +78,17 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Mail supports popular file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, MSG</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, MSG</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -103,7 +103,7 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 <p>Mail requires the following</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right">
 <ul>
 <li>Ruby SDK</li>
@@ -123,12 +123,12 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Getting Started with Mail</h2>
+<h2 class="h2title">Getting Started with Mail</h2>
 <p>The easiest way to install the Mail library is via RubyGems. Please use the following command for easy installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Mail via Rubygems</h3>
+<h3>Install Mail via Rubygems</h3>
 <pre><code class="html"># gem install mail</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -137,7 +137,7 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate and Send Emails via Ruby Library</h2>
-<p>The open source Mail library enables software programmers to create and manage email messages inside their apps using Ruby. It will automatically assign a unique random message ID to the email message. Once you provided all the required information, it will send the email message to all the recipients.  It also supports sending email messages to multiple users, attaching files, image embedding, and much more.</p>
+<p>The open source Mail library enables software programmers to create and manage email messages inside their apps using Ruby. It will automatically assign a unique random message ID to the email message. Once you provided all the required information, it will send the email message to all the recipients. It also supports sending email messages to multiple users, attaching files, image embedding, and much more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -145,7 +145,7 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Encode Email Messages via Ruby</h2>
-<p>Character encoding is a very useful technique used to send email messages with non-Latin data such as Arabic, Hebrew, Chinese, Japanese, and Russian, etc. The encoding standards say the email application how to interpret the text characters in your HTML or the body of the email. The open source Mail library has provided complete support for encoding email messages and decoding.</p>
+<p>Character encoding is a useful technique used to send email messages with non-Latin data such as Arabic, Hebrew, Chinese, Japanese, and Russian, etc. The encoding standards say the email application how to interpret the text characters in your HTML or the body of the email. The open source Mail library has provided complete support for encoding email messages and decoding.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -155,8 +155,8 @@ Header_H2_Text="Free Ruby API that allows Email messages generation & parsing, 
 <h2 class="h2title">Accessing and Reading Email Message</h2>
 <p>The open source Mail library has provided support for accessing and reading email messages inside Ruby applications. You can get email messages from POP as well as IMAP several with ease. There are several methods to access incoming emails such as the most recent emails, emails sorted by date, ascending or descending order, multipart email reading, extract attachments, and so on</p>
 <h2 class="h2title">Attaching and Share Files</h2>
-<p>The free Mail library has provided complete support for sending email messages with attachments using Ruby commands. This is a very useful feature that can be used to share files inside an organization with ease. You can also easily access and read the attached files with a couple of lines of code. It has provided support for attaching and sending files like PDF, Microsoft Word, Images, and many more.</p>
-<p> </p>
+<p>The free Mail library has provided complete support for sending email messages with attachments using Ruby commands. This is a useful feature that can be used to share files inside an organization with ease. You can also easily access and read the attached files with a couple of lines of code. It has provided support for attaching and sending files like PDF, Microsoft Word, Images, and many more.</p>
+<p> </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

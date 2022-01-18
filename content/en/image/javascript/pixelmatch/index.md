@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="JavaScript Library enables Software programmers to compare two images in multiple environments like Node or browsers etc."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source JavaScript API to Compare Images"
+Header_H1_Text="Open Source JavaScript API to Compare Images"
 Header_H2_Text="JavaScript Library enables Software programmers to compare two images in multiple environments like Node or browsers etc." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,9 +31,9 @@ Header_H2_Text="JavaScript Library enables Software programmers to compare two i
 
 
 
-<p>Sometimes it is required to compare two images to see how similar they are. It is a very complicated process and required good knowledge to accomplish it. The open source pixelmatch library can be a very useful choice for comparing two images in any environment.  As the library has no dependencies and works on raw typed arrays of image data, so can be used in multiple environments like Node or browsers, etc.</p>
-<p>The pixelmatch is very small in size and very simple to use but is a very fast pixel-level image comparison library. It is written in JavaScript and initially created to compare screenshots in tests. The library supports features like anti-aliased pixels detection and perceptual color difference metrics.</p>
-<p>The Anti-aliasing detection is a very useful feature because usually it has been observed that rendering the same data on different applications, devices, or operating systems can generate slightly dissimilar results. But mostly it is recommended to ignore these small differences or tests to capture more meaningful data.</p>
+<p>Sometimes it is required to compare two images to see how similar they are. It is a complicated process and required good knowledge to accomplish it. The open source pixelmatch library can be a useful choice for comparing two images in any environment. As the library has no dependencies and works on raw typed arrays of image data, so can be used in multiple environments like Node or browsers, etc.</p>
+<p>The pixelmatch is small in size and simple to use but is a fast pixel-level image comparison library. It is written in JavaScript and initially created to compare screenshots in tests. The library supports features like anti-aliased pixels detection and perceptual color difference metrics.</p>
+<p>The Anti-aliasing detection is a useful feature because usually it has been observed that rendering the same data on different applications, devices, or operating systems can generate slightly dissimilar results. But mostly it is recommended to ignore these small differences or tests to capture more meaningful data.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -67,17 +67,17 @@ Header_H2_Text="JavaScript Library enables Software programmers to compare two i
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>pixelmatch supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>GIF, PNG, JPEG, BMP</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -89,12 +89,12 @@ Header_H2_Text="JavaScript Library enables Software programmers to compare two i
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>pixelmatch can be used in multiple environments like Node or browsers etc.</p>
+<p>pixelmatch can be used in multiple environments like Node or browsers etc.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -133,20 +133,20 @@ Header_H2_Text="JavaScript Library enables Software programmers to compare two i
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Comparing Images via JavaScript Library</h2>
-<p>The open source library pixelmatch has provided complete functionality for comparing images inside JavaScript application with ease.  Software developers need to provide images data for comparing as well as the output place where it needs to write the image data with the differences. They also need to provide the dimension which is the width and height of the three images. You can use the threshold option that allows the images to be slightly different, which can be great in some cases. Please note that pixelmatch library needs that image must be of the same sizes.</p>
+<p>The open source library pixelmatch has provided complete functionality for comparing images inside JavaScript application with ease. Software developers need to provide images data for comparing as well as the output place where it needs to write the image data with the differences. They also need to provide the dimension which is the width and height of the three images. You can use the threshold option that allows the images to be slightly different, which can be great in some cases. Please note that pixelmatch library needs that image must be of the same sizes.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

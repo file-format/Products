@@ -15,15 +15,15 @@ Homepage_Intro_Text: Allow developers to read, create or edit PDF files using Ja
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="PDF "
+Image_H2_Text="PDF"
 Image_Tag_Text="File Format APIs"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Open Source APIs for PDF File Format"
-Header_H2_Text="Read, Write, Convert & Manipulate PDF Documents via Java & PHP." >}}
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Open Source APIs for PDF File Format"
+Header_H2_Text="Read, Write, Convert & Manipulate PDF Documents via Java & PHP." >}}
 
 {{< ListingPage/PageBody/wrapper >}}
-{{< ListingPage/PageBody/dynamic-content type="level-one" title="PDF File Format APIs Include" >}}
+{{< ListingPage/PageBody/dynamic-content type="level-one" title="PDF File Format APIs Include" >}}
 {{< /ListingPage/PageBody/wrapper >}}
 
 {{< /ListingPage/PageLayout/wrapper >}}

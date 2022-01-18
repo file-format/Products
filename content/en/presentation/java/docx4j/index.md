@@ -9,7 +9,7 @@ weight: 8
 
 ProductName: DOCX4J
 Githublink: https://github.com/plutext/docx4j
-ListingPage_Short_Description: DOCX4J allows creating, editing, manipulation & converting PPTX files via Java.
+ListingPage_Short_Description: DOCX4J allows creating, editing, manipulation & converting PPTX files via Java.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsoft Presentation files in Java applications."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Java API for PPTX Presentation Documents"
-Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsoft Presentation files in Java applications." >}}
+Header_H1_Text="Java API for PPTX Presentation Documents"
+Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsoft Presentation files in Java applications." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 
 
 
-<p>DOCX4J is similar to Microsoft's OpenXML SDK, but for Java. DOCX4J is JAXB-based open source(Apache v2) library for manipulating Microsoft Office file formats. It provides the functionality to read, write, edit and save Microsoft Office 2007 PPTX file format.  </p>
+<p>DOCX4J is similar to Microsoft's OpenXML SDK, but for Java. DOCX4J is JAXB-based open source(Apache v2) library for manipulating Microsoft Office file formats. It provides the functionality to read, write, edit and save Microsoft Office 2007 PPTX file format. </p>
 <p>Using the API you can generate Presentation documents, edit them, format the text & paragraphs, insert tables & images and manage other form elements and much more. Basically, its emphasis is on power, if the format supports it you can do it using the API.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -83,17 +83,17 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>DOCX4J supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/page-description-language/xslfo/">FO</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
+<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/page-description-language/xslfo/">FO</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -108,9 +108,9 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 <p>DOCX4J only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>DOCX4J</header><footer><small></small></footer></div>
@@ -148,7 +148,7 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 &lt;artifactId&gt;docx4j-JAXB-MOXy&lt;/artifactId&gt;
 &lt;version&gt;8.0.0&lt;/version&gt;
 &lt;/dependency&gt;
-    </code></pre>
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -157,7 +157,7 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate & Modify PPTX using Java</h2>
-<p>DOCX4J allows adding slides, specifying a layout for new slide, adding title and contents, inserting images and shapes, etc. Once done you can change the name of the existing presentation as well as can save it to the location of your choice.</p>
+<p>DOCX4J allows adding slides, specifying a layout for new slide, adding title and contents, inserting images and shapes, etc. Once done you can change the name of the existing presentation as well as can save it to the location of your choice.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -166,15 +166,15 @@ Header_H2_Text="Open Source solution to Create, Read, Edit and Convert Microsof
 PresentationMLPackage presentationMLPackage = PresentationMLPackage.createPackage();
 // Create main presentation
 MainPresentationPart pp = (MainPresentationPart) presentationMLPackage.getParts().getParts().get(new
-                PartName("/ppt/presentation.xml"));
+    PartName("/ppt/presentation.xml"));
 // Create slide layout
 SlideLayoutPart layoutPart = (SlideLayoutPart)
-        presentationMLPackage.getParts().getParts()
-                .get(new PartName("/ppt/slideLayouts/slideLayout2.xml"));
+  presentationMLPackage.getParts().getParts()
+    .get(new PartName("/ppt/slideLayouts/slideLayout2.xml"));
 // Save presentation
 presentationMLPackage.save(new File("FileFormat.pptx"));
-                                    
-                                </code></pre>
+         
+        </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -183,7 +183,7 @@ presentationMLPackage.save(new File("FileFormat.pptx"));
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Extract & Manipulate Slides using Java API</h2>
-<p>DOCX4J enables the software programmers to create & extract slides form PPTX file format. Software programmers can add a slide to an existing presentation with ease. Every slide in a presentation is based on a slide layout. lide layout is like a template for a slide, it allows users to inherit formatting choices, text boxes, titles or graphics, etc.</p>
+<p>DOCX4J enables the software programmers to create & extract slides form PPTX file format. Software programmers can add a slide to an existing presentation with ease. E slide in a presentation is based on a slide layout. lide layout is like a template for a slide, it allows users to inherit formatting choices, text boxes, titles or graphics, etc.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -191,7 +191,7 @@ presentationMLPackage.save(new File("FileFormat.pptx"));
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manipulating Charts using DOCX4J</h2>
-<p>DOCX4J provides the specialized class to add a single-series column chart, multi-series chart, bubble chart, Line chart, pie charts & more.</p>
+<p>DOCX4J provides the specialized class to add a single-series column chart, multi-series chart, bubble chart, Line chart, pie charts & more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

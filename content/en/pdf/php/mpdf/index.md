@@ -1,13 +1,13 @@
 ---
 title: PHP API – Create, Edit Password Protected PDF from UTF-8 Encoded HTML
 description: mPDF – An open source, free PHP Library to create, modify, and manipulate PDF documents. Create Password Protected PDF Documents from UTF-8 encoded HTML via PHP API.
-keywords: PDF API, PDF library, convert PDF files, PHP APIs ,  PHP PDF programming, render PDF Elements,  UTF-8 encoded HTML to PDF,  PHP  PDF Library, Open Source PDF Library, Extract PDF content , extract data from a PDF, manipulate PDF documents, add tables to PDF
+keywords: PDF API, PDF library, convert PDF files, PHP APIs , PHP PDF programming, render PDF Elements, UTF-8 encoded HTML to PDF, PHP PDF Library, Open Source PDF Library, Extract PDF content , extract data from a PDF, manipulate PDF documents, add tables to PDF
 draft: false
 weight: 10
 
 
 
-ProductName: mPDF  
+ProductName: mPDF 
 Githublink: https://github.com/mpdf/mpdf
 ListingPage_Short_Description: An open source, free PHP Library to create, modify, and manipulate PDF documents inside your own apps.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Headers & Footers to PDF Files via PHP API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source PHP Library for Processing PDF Files"
-Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Headers & Footers to PDF Files via PHP API." >}}
+Header_H1_Text="Open Source PHP Library for Processing PDF Files"
+Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Headers & Footers to PDF Files via PHP API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 
 
 
-<p>mPDF is an Open source PHP Library that enables users to create, modify, and manipulate PDF documents inside their own PHP application. The library supports PDF creation from UTF-8 encoded HTML and accepts UTF-8 encoded HTML.  It auto-detect RTL characters within a document and Transfers tables, lists, table cell alignment, justified text as well as full-text reversal for RTL characters. Moreover, it also auto-detects non-RTL characters and displays it in the original order.</p>
-<p>The library has included support for several important basic and advanced features for PDF documents management, such as PDF creation, Bookmarks, CSS style sheets, PDF Page layout, and orientation, inserting tables or nested tables, adding images ( JPG, GIF, PNG, SVG, BMP or WMF format, Text justification, PDF documents security, headers & footers, page numbering, and many more.</p>
+<p>mPDF is an Open source PHP Library that enables users to create, modify, and manipulate PDF documents inside their own PHP application. The library supports PDF creation from UTF-8 encoded HTML and accepts UTF-8 encoded HTML. It auto-detect RTL characters within a document and Transfers tables, lists, table cell alignment, justified text as well as full-text reversal for RTL characters. Moreover, it also auto-detects non-RTL characters and displays it in the original order.</p>
+<p>The library supports several important basic and advanced features for PDF documents management, such as PDF creation, Bookmarks, CSS style sheets, PDF Page layout, and orientation, inserting tables or nested tables, adding images ( JPG, GIF, PNG, SVG, BMP or WMF format, Text justification, PDF documents security, headers & footers, page numbering, and many more.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -77,17 +77,17 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>mPDF supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -99,7 +99,7 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>mPDF only requires PHP runtime.</p>
+<p>mPDF only requires PHP runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right"><!--<header><i class="fa fa-cubes">` </i></header-->
@@ -160,14 +160,14 @@ Header_H2_Text="Create, Modify, and Manipulate PDF Documents, Add Tables, Head
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create Password Protected PDF Documents</h2>
-<p>The mPDF library includes complete support for settings security of the PDF documents.  The library gives users the ability to determine whether the document is encrypted and what permissions are granted to the user.  It also enables you to set a password for opening the PDF document or to modify the PDF document.</p>
+<p>The mPDF library includes complete support for settings security of the PDF documents. The library gives users the ability to determine whether the document is encrypted and what permissions are granted to the user. It also enables you to set a password for opening the PDF document or to modify the PDF document.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

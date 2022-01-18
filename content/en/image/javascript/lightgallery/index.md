@@ -1,7 +1,7 @@
 ---
-title: JavaScript Library for Image Processing -  Responsive and Customizable Image Gallery Plugin
+title: JavaScript Library for Image Processing - Responsive and Customizable Image Gallery Plugin
 description: Lightgallery.js is a useful and open source image resizer and customizer.
-keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library,  image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images
+keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library, image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images
 draft: false
 weight: 1
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Lightgallery.js is a useful and open source image resizer and customizer."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Responsive and Customizable Image Gallery Plugin"
 Header_H2_Text="Lightgallery.js is a useful and open source image resizer and customizer." >}}
@@ -61,7 +61,7 @@ Header_H2_Text="Lightgallery.js is a useful and open source image resizer and cu
 <li>Rotate</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>LightGallery</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -70,15 +70,15 @@ Header_H2_Text="Lightgallery.js is a useful and open source image resizer and cu
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>LightGallery supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>  </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>LightGallery</header><footer><small></small></footer></div>
@@ -93,7 +93,7 @@ Header_H2_Text="Lightgallery.js is a useful and open source image resizer and cu
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 </ul>
 </div>
 <!--/right--></div>

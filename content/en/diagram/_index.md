@@ -15,10 +15,10 @@ Homepage_Intro_Text: Load, create or modify Microsoft Visio files from within Ja
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Diagram "
+Image_H2_Text="Diagram"
 Image_Tag_Text="File Format APIs for Java"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Dynamically Process Diagram Files"
 Header_H2_Text="Load, Convert & Modify Diagram files via Open Source libraries." >}}
 

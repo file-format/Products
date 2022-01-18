@@ -6,7 +6,7 @@ draft: false
 weight: 3
 
 ProductName: PHP
-ListingPage_Title_Text:  Free Presentation APIs for
+ListingPage_Title_Text: Free Presentation APIs for
 ListingPage_Short_Description: Read, write, modify & convert Microsoft PowerPoint files via open source PHP libraries.
 ListingPage_Product_Small_Image: 
 
@@ -19,13 +19,13 @@ ListingPage_Product_Small_Image:
 Header_Image="header-image.png"
 Image_H2_Text="Presentation"
 Image_Tag_Text="File Format APIs for PHP"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Process PPT, PPTX & ODP Files via PHP APIs"
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Process PPT, PPTX & ODP Files via PHP APIs"
 Header_H2_Text="Create, Edit, Manipulate & Convert Presentations to other formats with the help of Open Source Libraries." >}}
 
 {{< ListingPage/PageBody/wrapper >}}
-{{< ListingPage/PageBody/dynamic-content type="level-two" title="Presentation File Format APIs for PHP Include" >}}
+{{< ListingPage/PageBody/dynamic-content type="level-two" title="Presentation File Format APIs for PHP Include" >}}
 {{< /ListingPage/PageBody/wrapper >}}
 
 {{< /ListingPage/PageLayout/wrapper >}}

@@ -15,11 +15,11 @@ Homepage_Intro_Text: Open source image processing libraries for working with pop
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Image "
+Image_H2_Text="Image"
 Image_Tag_Text="File Format APIs"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Open Source APIs for Image Processing"
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Open Source APIs for Image Processing"
 Header_H2_Text="Read, Write, Convert & Manipulate popular Image File Formats." >}}
 
 {{< ListingPage/PageBody/wrapper >}}

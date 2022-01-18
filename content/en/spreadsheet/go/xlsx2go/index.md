@@ -1,7 +1,7 @@
 ---
 title: Free Go API to Handle Excel XLSX Spreadsheets Generation & Formatting
 description: Xlsx2Go - Open source Go API allows programmers to generate, format & manipulate Excel XLSX Spreadsheet File Formats. Append Rows, Columns & Sheets in worksheet.
-keywords: Free Go Excel, Free Excel library,  alternative to MS Excle, Go XLSX API, Go XLSX library,  Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel
+keywords: Free Go Excel, Free Excel library, alternative to MS Excle, Go XLSX API, Go XLSX library, Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel
 draft: false
 weight: 37
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation, formatting, and manipulation with ease via Open Source Go API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Go API for Handling Microsoft Excel XLSX Spreadsheets"
+Header_H1_Text="Go API for Handling Microsoft Excel XLSX Spreadsheets"
 Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation, formatting, and manipulation with ease via Open Source Go API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 
 
 
-<p>Xlsx2Go is open source pure go library that provides a very easy way to work with Microsoft Excel XLSX spreadsheets using Go language commands. The library is very stable and can perform speedy operations and gives a very reliable way to work with the XLSX spreadsheet using Golang. With just a couple of lines of code, you can manage several operations related to spreadsheet creation, formatting, and manipulation.</p>
-<p>The Xlsx2Go library has included support for several important features related to Excel spreadsheet processing, such as make a new spreadsheet, open, modify or delete an existing spreadsheet file,  add new  Excel sheet to a workbook, add new cells, format Excel cell, validate cells data, conditional formatting support, worksheet cells Merging and unmerging, embedded Images and photos, copy worksheets, copy rows or columns, and much more.</p>
+<p>Xlsx2Go is open source pure go library that provides a easy way to work with Microsoft Excel XLSX spreadsheets using Go language commands. The library is stable and can perform speedy operations and gives a reliable way to work with the XLSX spreadsheet using Golang. With just a couple of lines of code, you can manage several operations related to spreadsheet creation, formatting, and manipulation.</p>
+<p>The Xlsx2Go library supports several important features related to Excel spreadsheet processing, such as make a new spreadsheet, open, modify or delete an existing spreadsheet file, add new Excel sheet to a workbook, add new cells, format Excel cell, validate cells data, conditional formatting support, worksheet cells Merging and unmerging, embedded Images and photos, copy worksheets, copy rows or columns, and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -72,16 +72,16 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Xlsx2Go supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Xlsx2Go supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>,<a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
@@ -95,7 +95,7 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Xlsx2Go  only requires Go runtime.</p>
+<p>Xlsx2Go only requires Go runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right">
@@ -104,7 +104,7 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Xlsx2Go</header><footer><small></small></footer></div>
@@ -142,7 +142,7 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manage Cells and Rows in Excel Worksheet</h2>
-<p>The Free library Xlsx2Go has included several important features related to Cells and rows management inside Excel spreadsheets. You can easily insert new rows and cells,  merge rows and cells, add a comment to an excel cell, get all cells in a row, new cell creation, select a range of cells, apply styles to a range of cells,  add a hyperlink to a cell, set time and date in a cell, and many more.</p>
+<p>The Free library Xlsx2Go has included several important features related to Cells and rows management inside Excel spreadsheets. You can easily insert new rows and cells, merge rows and cells, add a comment to an Excel cell, get all cells in a row, new cell creation, select a range of cells, apply styles to a range of cells, add a hyperlink to a cell, set time and date in a cell, and many more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -158,7 +158,7 @@ Header_H2_Text="Pure Go Library that supports MS Excel XLSX Spreadsheet creation
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manage Spreadsheet Formatting</h2>
-<p>The Free library Xlsx2Go enables software developers to add styles for formatting their spreadsheet using Go commands.  Developers can easily create a new format to set font styles, font color, background color, and much more.  You can set formatting for a range of cells as well as the whole worksheet. You can also set default formatting for the row as well as a column with ease.  You can easily add images and photos to a worksheet</p>
+<p>The Free library Xlsx2Go enables software developers to add styles for formatting their spreadsheet using Go commands. Developers can easily create a new format to set font styles, font color, background color, and much more. You can set formatting for a range of cells as well as the whole worksheet. You can also set default formatting for the row as well as a column with ease. You can easily add images and photos to a worksheet</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

@@ -18,10 +18,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping, and Transforming the pages of PDF files, add custom data & Passwords to PDF."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Develop Apps to Work with PDFs via Python Library"
-Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping, and Transforming the pages of PDF files, add custom data & Passwords to PDF." >}}
+Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping, and Transforming the pages of PDF files, add custom data & Passwords to PDF." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -30,8 +30,8 @@ Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping
 
 
 
-<p>PyPDF2 is an open source pure Python library that provides the capability to work with PDF files inside Python applications without any external dependencies. The library has included support for numerous important PDF features such as merging multiple PDF files, extracting the content of PDF file, rotate PDF file pages by an angle, scaling of PDF pages, transforming the pages of PDF files, extracting images from PDF pages and many more.</p>
-<p>The open source programming library PyPDF2 is very easy <em>to </em>use and the source code is well documented and easy to understand. The library enables developers to read and extract PDF Files metadata such as the number of pages, author, creator, created and last updated time, etc. The library also supports encrypting and decrypting PDF files with just a couple of lines of Python code.</p>
+<p>PyPDF2 is an open source pure Python library that provides the capability to work with PDF files inside Python applications without any external dependencies. The library supports numerous important PDF features such as merging multiple PDF files, extracting the content of PDF file, rotate PDF file pages by an angle, scaling of PDF pages, transforming the pages of PDF files, extracting images from PDF pages and many more.</p>
+<p>The open source programming library PyPDF2 is easy <em>to </em>use and the source code is well documented and easy to understand. The library enables developers to read and extract PDF Files metadata such as the number of pages, author, creator, created and last updated time, etc. The library also supports encrypting and decrypting PDF files with just a couple of lines of Python code.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -78,17 +78,17 @@ Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PyPDF2 supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -128,8 +128,8 @@ Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install PyPDF2  via pip</h3>
-<pre><code class="html"> python -m pip install pypdf2   
+<h3>Install PyPDF2 via pip</h3>
+<pre><code class="html"> python -m pip install pypdf2 
 </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -164,7 +164,7 @@ Header_H2_Text="Open Source Python API capable of Splitting, Merging, Cropping
 <h2 class="h2title">Extract Metadata from PDF Files</h2>
 <p>The PyPDF2 library has included functionality for extracting Metadata from PDF documents by using a couple of Python commands. You can easily get information about the author, the creator app, number of pages, document title, and creation dates, etc. You can easily extract metadata of PDF documents and use it according to your needs.</p>
 
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

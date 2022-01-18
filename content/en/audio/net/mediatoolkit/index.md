@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Audio Processing - Convert and Process Audio Files
-description: MediaToolkit -  Open-Source API that enables software developers to convert and process Audio File Formats using .NET applications.
-keywords: MediaToolkit API, API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags, Convert Audio Free, Free Audio API, Process Audio API
+description: MediaToolkit - Open-Source API that enables software developers to convert and process Audio File Formats using .NET applications.
+keywords: MediaToolkit API, API, Free Audio API, Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags, Convert Audio Free, Free Audio API, Process Audio API
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Convert & Process Audio files via .NET API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Free.NET Library for Manipulating Audio File Formats"
+Header_H1_Text="Free.NET Library for Manipulating Audio File Formats"
 Header_H2_Text="Convert & Process Audio files via .NET API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,8 +31,7 @@ Header_H2_Text="Convert & Process Audio files via .NET API." >}}
 
 
 
-<p>MediaToolkit is an open source API to manipulate audio files programmatically. The API allows the .NET Developer to effortlessly convert, slice and get metadata of audio files. 
-MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework containing multiple audio codecs.</p>
+<p>MediaToolkit is an open source API to manipulate audio files programmatically. The API allows the .NET Developer to effortlessly convert, slice and get metadata of audio files. MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework containing multiple audio codecs.</p>
 <p>Using the API, you can resolve audio metadata and transcode audio into other formats using parameters including Bit rate, Frame rate, Resolution, Aspect ratio, Seek position, Duration, Sample rate and Media Format.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -55,11 +54,11 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 <div class="d1-col d1-left"><header>Features Overview</header>
 <ul>
 <li>Retrieve Metadata</li>
-<li>Transcode audio</li>
+<li>Transcode Audio</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>MediaToolkit</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -67,16 +66,16 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>MediaToolkit supports popular Audio file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>MediaToolkit supports popular Audio file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a></li>
 </ul>
@@ -90,7 +89,7 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>MediaToolkit package has no dependencies..</p>
+<p>MediaToolkit package has no dependencies.</p>
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< /SinglePage/PageBody/tab/diagram-carousel-body-wrapper >}}
@@ -101,7 +100,7 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with MediaToolkit</h2>
-<p>The best way to install MediaToolkit is via NuGet you can run the following command and install MediaToolkit in you application.</p>
+<p>The best way to install MediaToolkit is via NuGet. Run the following command and install MediaToolkit in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -116,7 +115,7 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Free C# API to Retrieve Audio Metadata</h2>
 <p>The API allows the developers to retrieve metadata of Audio file formats. The developers can extract audio metadata inside their own application. In order to get metadata of audio file format the API provides the GetMetadata() method. By using the following lines of code, you can easily get metadata of audio file format.</p>
-<h3>Retrieve Audio Metadata</h3>
+<h3>How to Retrieve Audio Metadata</h3>
 <ol>
 <li>Import MediaFile</li>
 <li>Initialize MediaToolkit's Engine and Get audio metadata using Engine.GetMetadata(inputFile) method and pass MediaFile as parameter</li>
@@ -125,11 +124,11 @@ MediaToolkit API is a wrapper for FFmpeg. It is a free multimedia framework cont
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Resize Image  via Free GO API</h3>
+<h3>Retrieve Audio Metadata via C#</h3>
 <pre><code class="c#">var inputFile = new MediaFile {Filename = @"C:\Path\Audio.mp3"};
 using (var engine = new Engine())
 {
-    engine.GetMetadata(inputFile);
+ engine.GetMetadata(inputFile);
 }
 Console.WriteLine(inputFile.Metadata.Duration);</code></pre>
 {{< /SinglePage/PageBody/features/code >}}

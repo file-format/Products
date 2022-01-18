@@ -1,7 +1,7 @@
 ---
 title: .NET API for Excel Spreadsheets - Import and Export Data from PDF File Format
 description: Magicodes.IE - Open source .NET API allows to Import and Export Data from PDF File Format
-keywords: .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, Add Image in Excel cell, read spreadsheet files, import PDF, export PDF
+keywords: .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, Add Image in Excel cell, read spreadsheet files, import PDF, export PDF
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open-Source API to Import and Export Data from Excel File Format"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text=".NET API for Microsoft<sup>®</sup> Excel Spreadsheets"
+Header_H1_Text=".NET API for Microsoft<sup>®</sup> Excel Spreadsheets"
 Header_H2_Text="Open-Source API to Import and Export Data from Excel File Format" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -66,7 +66,7 @@ Header_H2_Text="Open-Source API to Import and Export Data from Excel File Format
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Magicodes.IE</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -74,18 +74,18 @@ Header_H2_Text="Open-Source API to Import and Export Data from Excel File Format
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Magicodes.IE supports popular Spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Magicodes.IE supports popular Spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -135,13 +135,13 @@ Header_H2_Text="Open-Source API to Import and Export Data from Excel File Format
 <h3>Import data in Excel - C#</h3>
 <pre><code class="c#">// set filepath
 var filePath = ("filefoamt.xlsx");
-// import data                                           
+// import data           
 var result = await Importer.GenerateTemplate(filePath);
 // check that if data is not null
 result.ShouldNotBeNull();
 // check if output file existsa
 File.Exists(filePath).ShouldBeTrue();
-                        </code></pre>
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

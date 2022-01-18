@@ -1,7 +1,7 @@
 ---
 title: Open Source Ruby Library – Load, Parse & Merge PDF Files, Reduce Size
 description: HexaPDF - Open Source Ruby PDF library allows Software Developers to generate, edit & merge PDF files. Encrypt, Load, Parse & Reduce PDF Size via Ruby API.
-keywords: PDF library,  Ruby PDF,  Java  PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+keywords: PDF library, Ruby PDF, Java PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="HexaPDF"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Ruby Library for PDF Processing"
-Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of PDFs, add annotations, extract images & text via Open Source free Ruby library." >}}
+Header_H1_Text="Open Source Ruby Library for PDF Processing"
+Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of PDFs, add annotations, extract images & text via Open Source free Ruby library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -34,7 +34,7 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 <p>Portable Document Format (<em>PDF</em>) is a multi-platform file format that can be used to share and display documents in an electronic form independent of the software, hardware or operating system. HexaPDF is an open source PDF library that allows software developers to create powerful applications for working with PDF documents using Ruby code. It facilitates developers to create PDF files from scratch with minimum effort.</p>
 <p>HexaPDF is a pure Ruby library that was designed to provide ease of use and improved performance. The library has included several important features related to PDF documents generation as well as manipulation such as opening & reading existing PDFs, modifying existing PDF files, meta information & text extraction, extracting images and files from PDFs, merging PDF files, encrypting or decrypting PDF files, optimizing PDF files for smaller file size and many more.</p>
 <p>The library fully supports a high-level layer for composing a document of individual elements such as headers, paragraphs, links, emphasized text, and more. These elements are automatically adjusted, customized, and can be modified according to your needs. You can add additional element types with ease.</p>
-<p><span style="font-size: 12.16px;">.</span></p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -67,7 +67,7 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 <li>Header & Footer</li>
 <li>Add pages</li>
 <li>Draw shapes</li>
-<li>PDF annotation </li>
+<li>PDF annotation </li>
 </ul>
 </div>
 </div>
@@ -78,17 +78,17 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>HexaPDF supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -103,7 +103,7 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 <p>HexaPDF only requires Ruby runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i></header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i></header>
 <ul>
 <li>Ruby</li>
 </ul>
@@ -127,7 +127,7 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install HexaPDF using Rubygem</h3>
+<h3>Install HexaPDF using Rubygem</h3>
 <pre><code class="html"> $ gem install hexapdf </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -160,7 +160,7 @@ Header_H2_Text="Create & modify PDF documents, merge PDF files, reduce size of 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">PDF Encryption & Decrypting Support</h2>
-<p>The HexaPDF library allows developers to secure their PDF documents by applying encryption using Ruby code.  A PDF has built-in support for securing them by encrypting the content and assigning usage rights. During the PDF encryption, all strings and byte streams are encrypted and the metadata stream is exempted so that it can be extracted during the parsing of the PDF file. So anyone interested to view the PDF documents must provide the password.</p>
+<p>The HexaPDF library allows developers to secure their PDF documents by applying encryption using Ruby code. A PDF has built-in support for securing them by encrypting the content and assigning usage rights. During the PDF encryption, all strings and byte streams are encrypted and the metadata stream is exempted so that it can be extracted during the parsing of the PDF file. So anyone interested to view the PDF documents must provide the password.</p>
 
 
 {{< /SinglePage/PageBody/features/text >}}

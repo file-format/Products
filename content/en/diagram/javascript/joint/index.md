@@ -1,7 +1,7 @@
 ---
 title: JavaScript API – Create & Manage Different Diagrams, Charts & Elements
 description: JointJS – An Open Source JavaScript diagramming library that supports to build apps for creating & managing different diagrams, interactive elements & links handling.
-keywords: Diagramming library, Free Diagramming API , client side JavaScript diagramming, Render SVG diagram, render HTML Diagram, Free JavaScript Diagraming, JavaScript Diagram APIs,  JavaScript  UML API, JavaScript API, read Visio files in JavaScript, create graph, merge two graphs, create Diagrams, generate Charts, create Graphs
+keywords: Diagramming library, Free Diagramming API , client side JavaScript diagramming, Render SVG diagram, render HTML Diagram, Free JavaScript Diagraming, JavaScript Diagram APIs, JavaScript UML API, JavaScript API, read Visio files in JavaScript, create graph, merge two graphs, create Diagrams, generate Charts, create Graphs
 draft: false
 weight: 7
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source JavaScript Library to generate and manage basic as well as interactive diagrams, hierarchical diagrams, and links handling."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="JavaScript API to Create & Manage different Kinds of Diagrams"
-Header_H2_Text="Open Source JavaScript Library to generate and manage basic as well as interactive diagrams, hierarchical diagrams, and links handling." >}}
+Header_H1_Text="JavaScript API to Create & Manage different Kinds of Diagrams"
+Header_H2_Text="Open Source JavaScript Library to generate and manage basic as well as interactive diagrams, hierarchical diagrams, and links handling." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 
 
 
-<p>JointJS is a powerful JavaScript diagramming library that helps software developers to build applications for working with creating and managing different kinds of diagrams.  The library supports creating and managing basic as well as interactive diagrams using JavaScript commands. The library is open source and available under Mozilla Public License 2.0.</p>
-<p>The library is very easy to use and has included support for several important features, such as interactive elements and links handling, working with basic elements such as rect, circle, ellipse, text, image and path, diagram element connectivity via links, hierarchical diagrams support, serialization and deserialization support, using customizable links with labels and arrowheads, interactive elements and links support, MVC architecture and many more.</p>
-<p>The JointJS library can be used to develop applications that can be run on popular browsers such as Google Chrome, Firefox, Safari, Opera, IE 11, MSEdge, and so on.  You can use the latest The library also fully supports ready-to-use diagram elements of well-known diagrams such as ERD, Org chart, FSA, UML, PN, DEVS, and more.</p>
+<p>JointJS is a powerful JavaScript diagramming library that helps software developers to build applications for working with creating and managing different kinds of diagrams. The library supports creating and managing basic as well as interactive diagrams using JavaScript commands. The library is open source and available under Mozilla Public License 2.0.</p>
+<p>The library is easy to use and supports several important features, such as interactive elements and links handling, working with basic elements such as rect, circle, ellipse, text, image and path, diagram element connectivity via links, hierarchical diagrams support, serialization and deserialization support, using customizable links with labels and arrowheads, interactive elements and links support, MVC architecture and many more.</p>
+<p>The JointJS library can be used to develop applications that can be run on popular browsers such as Google Chrome, Firefox, Safari, Opera, IE 11, MSEdge, and so on. You can use the latest The library also fully supports ready-to-use diagram elements of well-known diagrams such as ERD, Org chart, FSA, UML, PN, DEVS, and more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -58,7 +58,7 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 <li>Create charts</li>
 <li>Managing diagram</li>
 <li>Serialization</li>
-<li>Deserialization </li>
+<li>Deserialization </li>
 <li>Sequence diagrams</li>
 <li>ER diagram</li>
 <li>UML Class diagram</li>
@@ -67,7 +67,7 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>JointJS</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -76,15 +76,15 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>JointJS supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
 </ul>
@@ -103,11 +103,11 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 <div class="d1-row">
 <div class="d1-col d1-left">
 <ul>
-<li><em> </em>JavaScript</li>
+<li><em> </em>JavaScript</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>JointJS</header><footer><small></small></footer></div>
@@ -127,7 +127,7 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install JointJS via NPM</h3>
+<h3>Install JointJS via NPM</h3>
 <pre><code class="html"> npm install</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -136,7 +136,7 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create and Manage Diagram via JavaScript API</h2>
-<p>The open source JointJS library allows software developers to create multiple types of diagrams with ease inside their own JavaScript apps.  The library has included support for built-in shapes which can be used to draw custom diagrams with ease. You can draw sequence diagrams, ER diagrams,  UML Class diagrams, UML statechart diagrams. You can also easily design logic circuits, organizational charts, Finite state machines, puzzles, chess, and much more.</p>
+<p>The open source JointJS library allows software developers to create multiple types of diagrams with ease inside their own JavaScript apps. The library supports built-in shapes which can be used to draw custom diagrams with ease. You can draw sequence diagrams, ER diagrams, UML Class diagrams, UML statechart diagrams. You can also easily design logic circuits, organizational charts, Finite state machines, puzzles, chess, and much more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -152,7 +152,7 @@ Header_H2_Text="Open Source JavaScript Library to generate and manage basic as 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create and Manage Charts via JavaScript</h2>
-<p>The JointJS library has provided complete support for generating as well as managing charts using JavaScript code. The library has included support for several types of charts such as Line, Bar, Area, Combo charts, Pie & Donut charts, and Knobs. The library also provides several functions related to charts manipulation such as resized, rotated, connected to other elements and so on.</p>
+<p>The JointJS library has provided complete support for generating as well as managing charts using JavaScript code. The library supports several types of charts such as Line, Bar, Area, Combo charts, Pie & Donut charts, and Knobs. The library also provides several functions related to charts manipulation such as resized, rotated, connected to other elements and so on.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

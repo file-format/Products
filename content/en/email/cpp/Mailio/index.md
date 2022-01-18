@@ -1,7 +1,7 @@
 ---
 title: Open Source C++ Email Library – Create, Send, Receive & Track Emails
 description: Mailio - Open Source C++ Email Library allows to create, rends, receive, search, & Email messages with Attachments supports SMTP, POP3, and IMAP protocols.
-keywords: C++ email, C++ Email API, C++ MSG, C++ EML, SMTP support, POP3 support, IMAP protocols, C++ email Library, Open Source outlook Library, C++ MSG programming, C++ MSG APIs, C++ MSG library, create  MSG Documents, EML C++ C++ Libraries, C++ outlook, C++ MSG, C++ EML, send email, receive emails, 
+keywords: C++ email, C++ Email API, C++ MSG, C++ EML, SMTP support, POP3 support, IMAP protocols, C++ email Library, Open Source outlook Library, C++ MSG programming, C++ MSG APIs, C++ MSG library, create MSG Documents, EML C++ C++ Libraries, C++ outlook, C++ MSG, C++ EML, send email, receive emails, 
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free C++ API for Generating Emails & supports MIME format as well as SMTP, POP3 and IMAP protocols. It allows message receiving, searching, getting mailbox statistics, managing folders, and more."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source C++ Library to Create & Manage Email Messages"
-Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as well as SMTP, POP3 and IMAP protocols. It allows message receiving, searching, getting mailbox statistics, managing folders, and more." >}}
+Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as well as SMTP, POP3 and IMAP protocols. It allows message receiving, searching, getting mailbox statistics, managing folders, and more." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as w
 
 
 
-<p>Mailio is a very powerful C++ library that enables software developers to work with email messages using C++ commands. The library is very easy to handle and can be used on multiple platforms. It is a C++ library for MIME format and fully supports SMTP, POP3, and IMAP protocols. The library supports recognition of different media types, including MIME messages embedded within another message. The MIME message supports the most common headers recognition such as subject, recipients, content type, and more.</p>
-<p>The library is very flexible and can be easily used on popular platforms like Linux, MacOS, Microsoft Windows, and more. POP3 is one of the most recent versions of a standard protocol for receiving e-mail. The Mailio has implemented POP3 supports message receiving and removal, getting mailbox statistics with plain and SSL (including START TLS) versions. The library has also implemented IMAP with message receiving, removal and search, getting mailbox statistics, managing folders, and more.</p>
+<p>Mailio is a powerful C++ library that enables software developers to work with email messages using C++ commands. The library is easy to handle and can be used on multiple platforms. It is a C++ library for MIME format and fully supports SMTP, POP3, and IMAP protocols. The library supports recognition of different media types, including MIME messages embedded within another message. The MIME message supports the most common headers recognition such as subject, recipients, content type, and more.</p>
+<p>The library is flexible and can be easily used on popular platforms like Linux, MacOS, Microsoft Windows, and more. POP3 is one of the most recent versions of a standard protocol for receiving e-mail. The Mailio has implemented POP3 supports message receiving and removal, getting mailbox statistics with plain and SSL (including START TLS) versions. The library has also implemented IMAP with message receiving, removal and search, getting mailbox statistics, managing folders, and more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -48,7 +48,7 @@ Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as w
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of Mailio features.</p>
+<p>An overview of Mailio features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right"><header>Features Overview</header>
@@ -66,50 +66,50 @@ Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as w
 </ul>
 </div>
 <!--/left -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
-<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
+<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Mailio  supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Mailio supports popular compression file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
+<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Mailio only requires  C++ runtime.</p>
+<p>Mailio only requires C++ runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!--<header><i class="fa fa-cubes">` </i></header-->
 <ul>
 <li>C++.</li>
 </ul>
 </div>
 <!--/left
-    <div class="d1-col d1-right">&nbsp;</div>--> <!--/right--></div>
+ <div class="d1-col d1-right">&nbsp;</div>--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
+<div class="d1-logo" style="border: none;"><!--<img src="/templates/fileformat/images/product-logos/compression/net/sharpcompress-header.png" alt="Compression APIs for .NET" />--><header>Mailio </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2 -->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
@@ -121,7 +121,7 @@ Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as w
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Getting Started with Mailio </h2>
+<h2 class="h2title">Getting Started with Mailio </h2>
 <p>The easiest way to install Mailio is via CMake. From the terminal go into the directory where the library is downloaded, and execute, the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -151,7 +151,7 @@ Header_H2_Text="Free C++ API for Generating Emails & supports MIME format as w
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Searching Email Messages using C++</h2>
-<p>The Free Mailio library gives software developers the power to search email messages with just a couple of lines of C++ code. First, you need to provide the correct credentials for connecting with IMAP server. After that, you can search email messages by providing the message title, message date, sender name, and many more.  The library will display all the message related to your query and will display it as list.</p>
+<p>The Free Mailio library gives software developers the power to search email messages with just a couple of lines of C++ code. First, you need to provide the correct credentials for connecting with IMAP server. After that, you can search email messages by providing the message title, message date, sender name, and many more. The library will display all the message related to your query and will display it as list.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

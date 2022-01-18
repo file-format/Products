@@ -1,13 +1,13 @@
 ---
 title: Open Source C++ API for MS Word – Open, Read & Update DOCX Documents
 description: DuckX - Open Source C++ API for Microsoft Office Word DOCX. Create, open, read, update, export, insert table and Images to Word DOCX documents via C++ library.
-keywords: Free C++ API, Free Word Processing API,  C++  DOCX, C++ Word processing, C++ Word processing APIs, C++ Doc API, C++ .docx API, C++ word library, create  Word Documents, modify Word documents, add image to word files, insert Images to Word DOCX, Open Source C++ Libraries, Open Source Word processing
+keywords: Free C++ API, Free Word Processing API, C++ DOCX, C++ Word processing, C++ Word processing APIs, C++ Doc API, C++ .docx API, C++ word library, create Word Documents, modify Word documents, add image to word files, insert Images to Word DOCX, Open Source C++ Libraries, Open Source Word processing
 draft: false
 weight: 10
 
 
 
-ProductName: DuckX  
+ProductName: DuckX 
 Githublink: https://github.com/amiremohamadi/DuckX
 ListingPage_Short_Description: An Open Source Library allows to manipulating Word DOCX file format inside C++ applications.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="DuckX"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source C++ API for Word OOXML Documents"
-Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX Files inside C++ Applications." >}}
+Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX Files inside C++ Applications." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX
 
 
 <p>DuckX is an Open Source free C++ Library that enables software developers to work with Microsoft Word (DOCX) inside their own applications. The API can read, write and edit MS Word documents, which have the <em>.docx</em> file extension.</p>
-<p>The API is very stable and provides supports for many important word processing features such as creating and saving DOCX document, paragraph addition, heading, inserting text, adding tables, adding images, paragraph styles, applying text formatting and much more.</p>
+<p>The API is stable and provides supports for many important word processing features such as creating and saving DOCX document, paragraph addition, heading, inserting text, adding tables, adding images, paragraph styles, applying text formatting and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -63,7 +63,7 @@ Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>DuckX</header><footer><small></small></footer></div>
@@ -73,15 +73,15 @@ Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>DuckX supports Microsoft Word Office Open XML file format.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -100,7 +100,7 @@ Header_H2_Text=" Create, Read, Update and Export Microsoft Office Word DOCX
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-cubes"> C++ 3.4 & above</i></header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>DuckX</header><footer><small></small></footer></div>
@@ -144,7 +144,7 @@ cmake --build;
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Insert Table inside Word DOCX File</h2>
-<p>DuckX library gives developers the capability to insert tables into a Word DOCX Document inside C++ applications. MS Word tables play a very important role in laying out well-formatted data. Tables are a good way of presenting data in rows and columns. They are very simple to insert and manipulate in Word files.</p>
+<p>DuckX library gives developers the capability to insert tables into a Word DOCX Document inside C++ applications. MS Word tables play a important role in laying out well-formatted data. Tables are a good way of presenting data in rows and columns. They are simple to insert and manipulate in Word files.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -159,13 +159,13 @@ cmake --build;
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

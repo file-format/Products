@@ -1,7 +1,7 @@
 ---
 title: Open Source Ruby API – Generate & Send Email Messages with Custom Headers
 description: Pony - Open Source Ruby library to generate & Send email messages with custom headers and attachment. Handle emails with both text or HTML bodies & encryption.
-keywords: Ruby mailing library, Ruby email API, free Ruby Library, Open Source email Library, Ruby  MSG  programming, Ruby Outlook MSG, Add Attachments to Email,  create  MSG email, Extract email messages, Ruby outlook, encode email messages, POP3 support, SMTP support, Parse Email messages, send attachments to multiple users, encode email messages
+keywords: Ruby mailing library, Ruby email API, free Ruby Library, Open Source email Library, Ruby MSG programming, Ruby Outlook MSG, Add Attachments to Email, create MSG email, Extract email messages, Ruby outlook, encode email messages, POP3 support, SMTP support, Parse Email messages, send attachments to multiple users, encode email messages
 draft: false
 weight: 21
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Free Ruby Library that enables developers to send an email message with a single command, add attachments & custom headers to email messages,  and so on."
+Image_H2_Text="Free Ruby Library that enables developers to send an email message with a single command, add attachments & custom headers to email messages, and so on."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Ruby API to Generate & Send Emails "
-Header_H2_Text="Free Ruby Library that enables developers to send an email message with a single command, add attachments & custom headers to email messages,  and so on." >}}
+Header_H1_Text="Open Source Ruby API to Generate & Send Emails"
+Header_H2_Text="Free Ruby Library that enables developers to send an email message with a single command, add attachments & custom headers to email messages, and so on." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 
 
 
-<p>Pony is a very useful library that gives software programmers the ability to manage their email messages right from their own applications using Ruby commands. The library is very powerful and like PHP's mail() function sends an email message with just a single Ruby command. It also supports the use of SMTP to localhost. The library is open source and is freely available under the MIT License for public use.</p>
-<p>The library is very stable and can be easily integrated with other applications. There are several important features part of the library that makes developers job easy such as sending email messages, add attachments to email messages, use custom mail headers, handling mails with both text and HTML bodies, send an email message via cc and bcc options, encryption and decryption support and many more.</p>
-<p><span style="font-size: 12.16px;">. </span></p>
+<p>Pony is a useful library that gives software programmers the ability to manage their email messages right from their own applications using Ruby commands. The library is powerful and like PHP's mail() function sends an email message with just a single Ruby command. It also supports the use of SMTP to localhost. The library is open source and is freely available under the MIT License for public use.</p>
+<p>The library is stable and can be easily integrated with other applications. There are several important features part of the library that makes developers job easy such as sending email messages, add attachments to email messages, use custom mail headers, handling mails with both text and HTML bodies, send an email message via cc and bcc options, encryption and decryption support and many more.</p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -59,14 +59,14 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 <li>Read emails</li>
 <li>Add attachments</li>
 <li>Save attachment</li>
-<li>Email encoding</li>
+<li>Email encoding</li>
 <li>UTF-8 headers</li>
 <li>SMPT support</li>
 <li>IMAP support</li>
 </ul>
 </div>
 <!--/left -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Pony</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -75,17 +75,17 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Pony supports popular file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, MSG</li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, MSG</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -100,10 +100,10 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 <p>Pony requires the following</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right">
 <ul>
-<li>Ruby SDK</li>
+<li>Ruby SDK</li>
 </ul>
 </div>
 </div>
@@ -125,7 +125,7 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Pony via Rubygems</h3>
+<h3>Install Pony via Rubygems</h3>
 <pre><code class="html"> gem install pony</code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -142,7 +142,7 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Send Emails with Attachments via Ruby</h2>
-<p>Sometimes an organization needs to share all the necessary documents with their team members quickly and with the lesser expense. The Pony library makes their job easy by enabling them to send emails with attachments using a couple of lines of Ruby code. The library also supports accessing and viewing the attached files.  You can easily attach single or multiple files using the attachments option.</p>
+<p>Sometimes an organization needs to share all the necessary documents with their team members quickly and with the lesser expense. The Pony library makes their job easy by enabling them to send emails with attachments using a couple of lines of Ruby code. The library also supports accessing and viewing the attached files. You can easily attach single or multiple files using the attachments option.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -150,8 +150,8 @@ Header_H2_Text="Free Ruby Library that enables developers to send an email mess
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Custom Mail Headers Support</h2>
-<p>Email headers are a very useful part of the email messages that is used to see information about email sender, location, and receiver, message server, and so on. The open source Pony library has provided support for specifying custom mail headers using Ruby code. You can add options for each part of the letter in the text as well as in HTML</p>
-<h2 class="h2title"> </h2>
+<p>Email headers are a useful part of the email messages that is used to see information about email sender, location, and receiver, message server, and so on. The open source Pony library has provided support for specifying custom mail headers using Ruby code. You can add options for each part of the letter in the text as well as in HTML</p>
+<h2 class="h2title"> </h2>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

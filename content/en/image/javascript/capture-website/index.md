@@ -1,7 +1,7 @@
 ---
 title: JavaScript Library for Image Processing - capture screenshots of websites
 description: Capture Website – open source image processing library that allows Software programme to capture screenshots of websites
-keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library,  image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Capture Screenshot
+keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library, image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Capture Screenshot
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="JavaScript API for capturing screenshots of websites"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source JavaScript Library for Image Processing"
-Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
+Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -63,7 +63,7 @@ Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 <li>Emulate Device</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Capture-Website</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -72,11 +72,11 @@ Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Capture-Website supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-arrows-v "> </i>Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-arrows-v"> </i>Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a></li>
 </ul>
@@ -95,7 +95,7 @@ Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 <li>Puppeteer</li>
 </ul>
 </div>
@@ -140,9 +140,9 @@ Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 {{< SinglePage/PageBody/features/code >}}
 <h3>Capture Screenshots of Website in JavaScript</h3>
 <pre><code class="c#">import captureWebsite from 'capture-website';
-        await captureWebsite.file('https://fileformat.com', 'screenshot.png');
-                                                
-                       </code></pre>
+  await captureWebsite.file('https://fileformat.com', 'screenshot.png');
+            
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -163,12 +163,12 @@ Header_H2_Text="JavaScript API for capturing screenshots of websites" >}}
 {{< SinglePage/PageBody/features/code >}}
 <h3>Emulate Screenshots of Website in JavaScript</h3>
 <pre><code class="c#">import captureWebsite from 'capture-website';
-        
-        await captureWebsite.file('https://fileformat.com', 'screenshot.png', {
-                emulateDevice: 'iPhone X'
-        });
-                                                
-                       </code></pre>
+  
+  await captureWebsite.file('https://fileformat.com', 'screenshot.png', {
+    emulateDevice: 'iPhone X'
+  });
+            
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

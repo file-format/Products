@@ -6,7 +6,7 @@ draft: false
 weight: 3
 
 ProductName: Go
-ListingPage_Title_Text:  Free Audio APIs for
+ListingPage_Title_Text: Free Audio APIs for
 ListingPage_Short_Description: Enables programmers to generate, save, play, record, convert & process Audio files inside their own Go apps.
 ListingPage_Product_Small_Image: 
 
@@ -19,8 +19,8 @@ ListingPage_Product_Small_Image:
 Header_Image="header-image.png"
 Image_H2_Text="Audio"
 Image_Tag_Text="File Format APIs for GO"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Free GO APIs for Audio File Formats"
 Header_H2_Text="Play, Read, Record, Convert, Encode & Manipulate Audio File Formats using open source GO APIs." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Open Source Swift Compression Library - Create, Read & Modify ZIP Archives
 description: Zipper - open source Swift compression library that allows to zip or unzip archives, create, read, edit ZIP archive, add or delete files in Swift Apps.
-keywords: Free ZIP library, Swift ZIP, Swift Compression, compress files, decompress files, ZIP Swift API, Swift compression Library, Open Source Swift Library, Swift  Zip programming, create  zip archives, Opening zip archives, Modify ZIP archives, save archive to a file, List zip archive, password protected ZIP archives
+keywords: Free ZIP library, Swift ZIP, Swift Compression, compress files, decompress files, ZIP Swift API, Swift compression Library, Open Source Swift Library, Swift Zip programming, create zip archives, Opening zip archives, Modify ZIP archives, save archive to a file, List zip archive, password protected ZIP archives
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Zipper"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Swift Library to Create ZIP archives"
+Header_H1_Text="Open Source Swift Library to Create ZIP archives"
 Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,8 +31,8 @@ Header_H2_Text="" >}}
 
 
 
-<p>The Zipper library enables software developers to work with ZIP archives from within their own Swift applications.  The library is very stable and can effortlessly handle big task with couple of Swift commands. The library can be easily run on multiple platforms such as Linux, iOS, macOS, tvOS, watchOS and more. The Zipper library is open-sourced software and is available under the MIT license.</p>
-<p>The API is well documented and is very easy to use. It has included several important features related to ZIP archives, such as creating ZIP archive files, reading existing ZIP archive, access and modify existing ZIP archives, access individual entry in an archive, adding new entries, removing an entry from  the archive, extract a documents to a specified path, better error handling for unsuccessful operations and may more.</p>
+<p>The Zipper library enables software developers to work with ZIP archives from within their own Swift applications. The library is stable and can effortlessly handle big task with couple of Swift commands. The library can be easily run on multiple platforms such as Linux, iOS, macOS, tvOS, watchOS and more. The Zipper library is open-sourced software and is available under the MIT license.</p>
+<p>The API is well documented and is easy to use. It has included several important features related to ZIP archives, such as creating ZIP archive files, reading existing ZIP archive, access and modify existing ZIP archives, access individual entry in an archive, adding new entries, removing an entry from the archive, extract a documents to a specified path, better error handling for unsuccessful operations and may more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -51,7 +51,7 @@ Header_H2_Text="" >}}
 <p>An overview of Zipper features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header>Overview</header>
 <ul>
@@ -75,15 +75,15 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Zipper supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>ZIP</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
@@ -100,9 +100,9 @@ Header_H2_Text="" >}}
 <p>Zipper only requires Swift runtime for smooth working.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>Swift</li>
 </ul>
@@ -126,7 +126,7 @@ Header_H2_Text="" >}}
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Compile Zipper library via CocoaPods</h3>
+<h3>Compile Zipper library via CocoaPods</h3>
 <pre><code class="html">use_frameworks!
 pod 'Zipper<br></code></pre>
 
@@ -136,7 +136,7 @@ pod 'Zipper<br></code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Zipping Files via Swift Library</h2>
-<p> The open source Zipper library has included support for zipping numerous kinds of files using a couple of lines of Swift code. First of all, you need to provide the complete address of the files and the location information on the disk for saving the ZIP archive. The library supports several important features such as creating ZIP archive, Editing an existing archive, add a particular file to it, remove files from an Archive, and many more.</p>
+<p> The open source Zipper library supports zipping numerous kinds of files using a couple of lines of Swift code. First of all, you need to provide the complete address of the files and the location information on the disk for saving the ZIP archive. The library supports several important features such as creating ZIP archive, Editing an existing archive, add a particular file to it, remove files from an Archive, and many more.</p>
 s
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -152,7 +152,7 @@ s
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Access, Add or Remove Individual Entries</h2>
-<p>The open source Zipper library enables Software developers to easily access and extract particular entries in the ZIP archive with just a couple of lines of code. It also facilitates the Programmer to add a new file to an existing archive or replace or delete a file in an existing ZIP archive with ease. The library is has provided very user friendly methods and you require just a couple of lines of code to achieve this task.</p>
+<p>The open source Zipper library enables Software developers to easily access and extract particular entries in the ZIP archive with just a couple of lines of code. It also facilitates the Programmer to add a new file to an existing archive or replace or delete a file in an existing ZIP archive with ease. The library is has provided user friendly methods and you require just a couple of lines of code to achieve this task.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

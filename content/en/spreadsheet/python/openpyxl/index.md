@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Excel Spreadsheets - Read & Create Spreadsheet
 description: Openpyxl– An open source Free Python API for managing Google Sheets. Developers can create, modify, share and parse Excel XML Spreadsheets via Python library.
-keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files,  generate Excel files
+keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files, generate Excel files
 
 draft: false
 weight: 28
@@ -20,7 +20,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Spreadsheets"
 Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
@@ -74,18 +74,18 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Openpyxl supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Openpyxl supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>,  <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a>, <a href="https://docs.fileformat.com/spreadsheet/xltx/">XLTX</a>, <a href="https://docs.fileformat.com/spreadsheet/xltm/">XLTM</a>    </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a>, <a href="https://docs.fileformat.com/spreadsheet/xltx/">XLTX</a>, <a href="https://docs.fileformat.com/spreadsheet/xltm/">XLTM</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>,  <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a>, <a href="https://docs.fileformat.com/spreadsheet/xltx/">XLTX</a>, <a href="https://docs.fileformat.com/spreadsheet/xltm/">XLTM</a>    </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a>, <a href="https://docs.fileformat.com/spreadsheet/xltx/">XLTX</a>, <a href="https://docs.fileformat.com/spreadsheet/xltm/">XLTM</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -100,7 +100,7 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 <p>Openpyxl supports Python 2.7, 3.4, 3.5, 3.6 and 3.7</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Openpyxl</header><footer><small></small></footer></div>
@@ -137,7 +137,7 @@ Header_H2_Text="Python library to Read & Write Excel 2010 xlsx/xlsm files." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Charts is Excel using Free Python API</h2>
-<p>The Open Source spreadsheet library Openpyxl allows adding wide range of charts in your excel files programmatically. You can add 2D Area Charts, 3D Area Charts, Vertical/Horizontal & Stacked Bar Charts, 3D Bar Charts, Bubble Charts, Line Charts, 3D Line Charts, Scatter Charts, Pie Charts, Projected Pie Charts, 3D Pie Charts, Doughnut Charts, Radar Charts, Stock Charts, and Surface Charts.</p>
+<p>The Open Source spreadsheet library Openpyxl allows adding wide range of charts in your excel files programmatically. You can add 2D Area Charts, 3D Area Charts, Vertical/Horizontal & Stacked Bar Charts, 3D Bar Charts, Bubble Charts, Line Charts, 3D Line Charts, Scatter Charts, Pie Charts, Projected Pie Charts, 3D Pie Charts, Doughnut Charts, Radar Charts, Stock Charts, and Surface Charts.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

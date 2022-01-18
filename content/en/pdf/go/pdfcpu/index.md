@@ -1,6 +1,6 @@
 ---
 title: Open Source Go Library for Batch Processing and Scripting PDF Documents
-description: PDF library, PDF CPU, PDF Scripting, PDF Processing,  PDF CPU, Small PDF Library, Lightweight PDF Library,  Open Source PDF Library, Go PDF programming, Go PDF APIs, Go PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+description: PDF library, PDF CPU, PDF Scripting, PDF Processing, PDF CPU, Small PDF Library, Lightweight PDF Library, Open Source PDF Library, Go PDF programming, Go PDF APIs, Go PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 keywords: PDFCPU, PDF CPU - Open Source Go Library allows Software Developers to create, edit, manage PDF Documents. You can insert layers, images & lists to PDF files via Go API.
 draft: false
 weight: 18
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Documents."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Go Library for PDF Document Generation"
 Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Documents." >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Docume
 
 
 <p>PDFCPU is and open source comprehensive PDF processing library written in Go. It is built for batch processing and scripting PDF documents via command line interface. Furhtermore, the API makes it simple to intergrate PDF documents in your applicaitons using GO. The API makes it simple to create and manipulated PDF doucments with wide range of command set.</p>
-<p>Using the API, you can add attachments in to your PDF document, change owner and user password, encrypt & decrypt data. The API allows adding or removing pages from PDF document, you can rotate, trim, split and validate your PDF using the API aswell. Furhtermore, the API allows adding keywords and optimizing PDF documents.</p>
+<p>Using the API, you can add attachments in to your PDF document, change owner and user password, encrypt & decrypt data. The API allows adding or removing pages from PDF document, you can rotate, trim, split and validate your PDF using the API as well. Furhtermore, the API allows adding keywords and optimizing PDF documents.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -77,15 +77,15 @@ Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Docume
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PDFCPU supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -104,7 +104,7 @@ Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Docume
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>Go 1.14 and above.</li>
+<li>Go 1.14 and above.</li>
 </ul>
 </div>
 </div>
@@ -122,7 +122,7 @@ Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Docume
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PDFCPU</h2>
-<p>To install the PDFCPU on your system, please run the following command. </p>
+<p>To install the PDFCPU on your system, please run the following command. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -166,15 +166,15 @@ Header_H2_Text="Open Source Go API for Batch Processing and Scripting PDF Docume
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<pre><code class="html">pdfcpu properties add     [-v(erbose)|vv] [-q(uiet)] [-upw userpw] [-opw ownerpw] inFile nameValuePair...<br></code></pre>
+<pre><code class="html">pdfcpu properties add  [-v(erbose)|vv] [-q(uiet)] [-upw userpw] [-opw ownerpw] inFile nameValuePair...<br></code></pre>
 
-<p>Similary, you can remove specific PDF document properties by using the following command.</p>
+<p>Similarly, you can remove specific PDF document properties by using the following command.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

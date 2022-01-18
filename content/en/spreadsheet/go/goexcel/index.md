@@ -1,7 +1,7 @@
 ---
 title: Read Office Excel XLSX Spreadsheets via Go API
 description: Go-Excel Open source Go API allows reading Office Excel XLSX spreadsheet. 
-keywords: Free Go Excel, Free Excel library,  alternative to MS Excle, Go XLSX API, Go XLSX library,  Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel
+keywords: Free Go Excel, Free Excel library, alternative to MS Excle, Go XLSX API, Go XLSX library, Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel
 draft: false
 weight: 35
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read XLSX documents via Open Source Go API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Go Library for Reading Excel XLSX Files"
+Header_H1_Text="Open Source Go Library for Reading Excel XLSX Files"
 Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -70,16 +70,16 @@ Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Go-Excel supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Go-Excel supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>unioffice</header><footer><small></small></footer></div>
@@ -89,7 +89,7 @@ Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>unioffice only requires Go runtime.</p>
+<p>unioffice only requires Go runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right">
@@ -98,7 +98,7 @@ Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Go-Excel</header><footer><small></small></footer></div>
@@ -136,7 +136,7 @@ Header_H2_Text="Read XLSX documents via Open Source Go API." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Advance methods to Read Excel via GO API</h2>
-<p>The open souurce API Go-Excel provides basic as well as advance methods to read excel files. You can use th index row as title, every row before the tittle row will be ignored and default title row is set to 0. You can skip the empty rows, skip column larger than the title. The API allows setting empty cells with default values and you can set default values by using unmarshal via encoding.BinaryUnmarshaler</p>
+<p>The open source API Go-Excel provides basic as well as advance methods to read excel files. You can use th index row as title, e row before the tittle row will be ignored and default title row is set to 0. You can skip the empty rows, skip column larger than the title. The API allows setting empty cells with default values and you can set default values by using unmarshal via encoding.BinaryUnmarshaler</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

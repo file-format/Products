@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript API – Generate & Edit Word DOCX from Templates
 description: docxtemplater - Open Source JavaScript API to generate & edit word DOCX from templates. Use modules for inserting tables, adding footnote & manage Images in Docx.
-keywords: JavaScript DOCX, JavaScript Word processing, JavaScript Word processing APIs, JavaScript Doc API, JavaScript .doc API, JavaScript word library, create  Word Documents, modify Word documents, add image to word files, Open Source JavaScript Libraries, Open Source Word processing
+keywords: JavaScript DOCX, JavaScript Word processing, JavaScript Word processing APIs, JavaScript Doc API, JavaScript .doc API, JavaScript word library, create Word Documents, modify Word documents, add image to word files, Open Source JavaScript Libraries, Open Source Word processing
 draft: false
 weight: 3
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="<strong>docxtemplater</strong>"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Generate Word DOCX from Templates via JavaScript"
-Header_H2_Text="JavaScript library to create, modify & convert Microsoft<sup>®</sup> Word DOCX files. " >}}
+Header_H1_Text="Generate Word DOCX from Templates via JavaScript"
+Header_H2_Text="JavaScript library to create, modify & convert Microsoft<sup>®</sup> Word DOCX files." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -52,7 +52,7 @@ Header_H2_Text="JavaScript library to create, modify & convert Microsoft<sup>®
 <p>An overview of docxtemplater features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -70,49 +70,49 @@ Header_H2_Text="JavaScript library to create, modify & convert Microsoft<sup>®
 </div>
 <!--/right --></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library "><header>docxtemplater</header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library"><header>docxtemplater</header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>docxtemplater supports popular Microsoft Word file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>docxtemplater supports popular Microsoft Word file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>DOCX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, 
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, 
 <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library "><header>docxtemplater</header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library"><header>docxtemplater</header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>docxtemplater only requires  Java run-time.</p>
+<p>docxtemplater only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
 <ul>
 <li>Node</li>
-<li>Browser  </li>
+<li>Browser </li>
 </ul>
 </div>
 <!--/left--><!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library "><header>docxtemplater</header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-white" src='listing-image.png' alt="docxtemplater library"><header>docxtemplater</header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2 -->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
@@ -129,8 +129,8 @@ Header_H2_Text="JavaScript library to create, modify & convert Microsoft<sup>®
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install docxtemplater via npm</h3>
-<pre><code class="html"> npm install docxtemplater pizzip  </code></pre>
+<h3>Install docxtemplater via npm</h3>
+<pre><code class="html"> npm install docxtemplater pizzip </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

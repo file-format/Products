@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Video File Formats - Render, Encode and Stream Video File Format
 description: LibVLCSharp - An Open Source Free .NET API for Video File Format. Render, Encode and Stream Video File Format
-keywords: LibVLCSharp API, TagLib Sharp API, Free Audio API,  Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
+keywords: LibVLCSharp API, TagLib Sharp API, Free Audio API, Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
 draft: false
 weight: 2
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Render, Encode and Stream Audio File Format."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Free .NET Library for Manipulating Audio Documents"
+Header_H1_Text="Free .NET Library for Manipulating Audio Documents"
 Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -65,7 +65,7 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>LibVLCSharp</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -73,18 +73,18 @@ Header_H2_Text="Render, Encode and Stream Audio File Format." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>LibVLCSharp supports popular Audio file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>LibVLCSharp supports popular Audio file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MPEG Layer 1/2, - MPEG Layer 3, - MPEG-4 part3, Vorbis, AC3 - A/52, E-AC-3, MLP / TrueHD&gt;3, DTS, WMA 1/2, WMA 3, FLAC, ALAC, Speex, Musepack / MPC, ATRAC 3, Mod, TrueAudio, APE, Real Audio, Alaw/µlaw, AMR (3GPP), MIDI, LPCM, ADPCM, QCELP, DV Audio, QDM2/QDMC, MACE.</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MPEG Layer 1/2, - MPEG Layer 3, - MPEG-4 part3, Vorbis, AC3 - A/52, E-AC-3, MLP / TrueHD&gt;3, DTS, WMA 1/2, WMA 3, FLAC, ALAC, Speex, Musepack / MPC, ATRAC 3, Mod, TrueAudio, APE, Real Audio, Alaw/µlaw, AMR (3GPP), MIDI, LPCM, ADPCM, QCELP, DV Audio, QDM2/QDMC, MACE.</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MPEG Layer 1/2, - MPEG Layer 3, - MPEG-4 part3, Vorbis, AC3 - A/52, E-AC-3, MLP / TrueHD&gt;3, DTS, WMA 1/2, WMA 3, FLAC, ALAC, Speex, Musepack / MPC, ATRAC 3, Mod, TrueAudio, APE, Real Audio, Alaw/µlaw, AMR (3GPP), MIDI, LPCM, ADPCM, QCELP, DV Audio, QDM2/QDMC, MACE.</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, MPEG Layer 1/2, - MPEG Layer 3, - MPEG-4 part3, Vorbis, AC3 - A/52, E-AC-3, MLP / TrueHD&gt;3, DTS, WMA 1/2, WMA 3, FLAC, ALAC, Speex, Musepack / MPC, ATRAC 3, Mod, TrueAudio, APE, Real Audio, Alaw/µlaw, AMR (3GPP), MIDI, LPCM, ADPCM, QCELP, DV Audio, QDM2/QDMC, MACE.</li>
 </ul>
 </div>
 <!--/right--></div>

@@ -6,7 +6,7 @@ draft: false
 weight: 2
 
 ProductName: Java
-ListingPage_Title_Text:  Free Word Processing  APIs for
+ListingPage_Title_Text: Free Word Processing APIs for
 ListingPage_Short_Description: It enables Java developers to create, edit and convert Word documents to other popular file formats from their own Java applications.
 ListingPage_Product_Small_Image: 
 
@@ -17,10 +17,10 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Word Processing "
+Image_H2_Text="Word Processing"
 Image_Tag_Text="File Format APIs for Java"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Read, Write, Edit & Convert Word Documents"
 Header_H2_Text="Choose the most suitable Open Source Java Library to process DOC & DOCX files in your own applications." >}}
 

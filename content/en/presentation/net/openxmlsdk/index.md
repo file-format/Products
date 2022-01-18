@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET Library for Presentation Document | Open XML SDK
-description: Open Source  .NET Library for working with PowerPoint presentations files. Developers can create, modify & manipulate Presentation Documents using C# API. 
-keywords: Free PowerPoint API, Open Source API, Open Source .NET API, Open Source Presentation API, .NET Presentation, alternative to MS PowerPoint, .NET PPT API, .NET PPTX API, .NET PPTM, .NET PPTX,  C# Presentation API, .NET Presentation Library, C# Presentation API, Create Presentation,  Read PPTX, Modify PPT
+description: Open Source .NET Library for working with PowerPoint presentations files. Developers can create, modify & manipulate Presentation Documents using C# API. 
+keywords: Free PowerPoint API, Open Source API, Open Source .NET API, Open Source Presentation API, .NET Presentation, alternative to MS PowerPoint, .NET PPT API, .NET PPTX API, .NET PPTM, .NET PPTX, C# Presentation API, .NET Presentation Library, C# Presentation API, Create Presentation, Read PPTX, Modify PPT
 draft: false
 weight: 7
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text=".NET Library for Manipulating Presentation Documents"
+Header_H1_Text=".NET Library for Manipulating Presentation Documents"
 Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -65,7 +65,7 @@ Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET AP
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Open XML SDK</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -73,18 +73,18 @@ Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET AP
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Open XML SDK supports popular Presentation file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Open XML SDK supports popular Presentation file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
+<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>, <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>, <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM, <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>, <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>, SLDX, SLDM, THMX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>,  <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>,  <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>,  <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM,  <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>,  <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>,  SLDX,  SLDM, THMX</li>
+<li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/presentation/pptm/">PPTM</a>, <a href="https://docs.fileformat.com/presentation/potx/">POTX</a>, <a href="https://docs.fileformat.com/presentation/potm/">POTM</a>, PPAM, <a href="https://docs.fileformat.com/presentation/ppsx/">PPSX</a>, <a href="https://docs.fileformat.com/presentation/ppsm/">PPSM</a>, SLDX, SLDM, THMX</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -107,7 +107,7 @@ Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET AP
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Open XML SDK</h2>
-<p>You need to have .NET Framework 3.5 or above. Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/OfficeDev/Open-XML-SDK">GitHub</a> or install from NuGet.</p>
+<p>You need to have .NET Framework 3.5 or above. Once you have met the prerequisites, you can manually download the repository from <a href="https://github.com/OfficeDev/Open-XML-SDK">GitHub</a> or install from NuGet.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -128,9 +128,9 @@ Header_H2_Text="Read, Write, Manipulate & Convert Presentation files via .NET AP
 <h3>Create PPTX - C#</h3>
 <pre><code class="c#">using (PresentationDocument doc = PresentationDocument.Create("Presentation.pptx", PresentationDocumentType.Presentation))
 {
-    // Insert other code here.
+ // Insert other code here.
 }
-                        </code></pre>
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

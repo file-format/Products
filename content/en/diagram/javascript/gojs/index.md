@@ -1,13 +1,13 @@
 ---
 title: Open Source JavaScript API – Generate & Edit Diagrams, Charts & Graphs
 description: GoJS – Open Source JavaScript API to generate & manipulate diagrams, charts & graphs in web browser or Node. Use built-in layouts such as tree layout, radial & more.
-keywords: iagramming library, Free Diagramming API , client side JavaScript diagramming, Render SVG diagram, render HTML Diagram, Free JavaScript Diagraming, JavaScript Diagram APIs,  JavaScript  UML API, JavaScript API, read Visio files in JavaScript, create graph, merge two graphs, create Diagrams, generate Charts, create Graphs
+keywords: iagramming library, Free Diagramming API , client side JavaScript diagramming, Render SVG diagram, render HTML Diagram, Free JavaScript Diagraming, JavaScript Diagram APIs, JavaScript UML API, JavaScript API, read Visio files in JavaScript, create graph, merge two graphs, create Diagrams, generate Charts, create Graphs
 draft: false
 weight: 5
 
 
 
-ProductName: GoJS  
+ProductName: GoJS 
 Githublink: https://github.com/NorthwoodsSoftware/GoJS
 ListingPage_Short_Description: Enables software developers to generate and manipulate diagrams, charts as well as graphs inside their own JavaScript applications..
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="GoJS"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Generate & Manipulate Diagrams via JavaScript API"
 Header_H2_Text="Open Source JavaScript Library that allows developers to create and process diagrams, charts as well as graphs inside their own JavaScript applications." >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 
 
 
-<p>A very powerful JavaScript library that gives software developers the ability to generate and manipulate diagrams, charts as well as graphs inside their own JavaScript applications. The library has included support for built-in layouts such as tree layout, radial as well as layered digraph layout, and some custom layouts. The library can be easily used in a web browser or server-side in Node or Puppeteer.</p>
-<p>The GoJS library is very flexible and allows developers to make a number of different types of diagrams, such as flowcharts, medical diagrams, organizational charts, design tools, planning tools, state charts, Sankey diagrams, industrial processes, visual languages, and so on.</p>
-<p>The library offers very powerful interactive features such as drag and drop elements of a diagram, copy and paste contents, tooltips, context menus, using templates, data binding support, event handlers, automatic layouts, applying customizable animations, and many more.  You can also render the HTML Canvas element and export it to SVG as well as other image formats.</p>
+<p>A powerful JavaScript library that gives software developers the ability to generate and manipulate diagrams, charts as well as graphs inside their own JavaScript applications. The library supports built-in layouts such as tree layout, radial as well as layered digraph layout, and some custom layouts. The library can be easily used in a web browser or server-side in Node or Puppeteer.</p>
+<p>The GoJS library is flexible and allows developers to make a number of different types of diagrams, such as flowcharts, medical diagrams, organizational charts, design tools, planning tools, state charts, Sankey diagrams, industrial processes, visual languages, and so on.</p>
+<p>The library offers powerful interactive features such as drag and drop elements of a diagram, copy and paste contents, tooltips, context menus, using templates, data binding support, event handlers, automatic layouts, applying customizable animations, and many more. You can also render the HTML Canvas element and export it to SVG as well as other image formats.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -55,11 +55,11 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 <div class="d1-col d1-left"><header>Feature Overview</header>
 <ul>
 <li>Generate Diagram</li>
-<li>Create charts</li>
-<li>Manage graphs</li>
+<li>Create charts</li>
+<li>Manage graphs</li>
 <li>Edit Diagram</li>
 <li>Display graphs</li>
-<li>Use templates</li>
+<li>Use templates</li>
 </ul>
 </div>
 <!--/left-->
@@ -81,18 +81,18 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>GoJS supports Diagrams format as well as it can export data to common file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<p>GoJS supports Diagrams format as well as it can export data to common file formats.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a>, PNG, JPEG HTML</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>,  <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -139,7 +139,7 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Draw Flowcharts via JavaScript API</h2>
-<p>The open source GoJS library has provided support for building several Diagram types and showcase specific features and layouts. You can draw flowcharts with a couple of lines of JavaScript code. The library has included support for Palettes, Linkable nodes, Drag/Drop behavior, Text Editing, and the use of Node Template Maps for drawing flowchart Diagrams.  You can also modify the existing diagram and diagram node as well as Textblock with ease.</p>
+<p>The open source GoJS library has provided support for building several Diagram types and showcase specific features and layouts. You can draw flowcharts with a couple of lines of JavaScript code. The library supports Palettes, Linkable nodes, Drag/Drop behavior, Text Editing, and the use of Node Template Maps for drawing flowchart Diagrams. You can also modify the existing diagram and diagram node as well as Textblock with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -155,7 +155,7 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate Logic Circuit via JavaScript</h2>
-<p>Logic gates are the basic building blocks of any digital system. A logic gate is an ideal model of computation or a physical electronic device implementing a Boolean function. The library is very feature-rich and has provided several important functions for circuit making using gates and wires. It very user-friendly and helps users to manage diagrams with ease. A Palette is provided that allows you to drag and drop new nodes and manage your diagram. You can easily update each node according to type which uses the color of the links into the node to determine the color of those exiting it.</p>
+<p>Logic gates are the basic building blocks of any digital system. A logic gate is an ideal model of computation or a physical electronic device implementing a Boolean function. The library is feature-rich and has provided several important functions for circuit making using gates and wires. It user-friendly and helps users to manage diagrams with ease. A Palette is provided that allows you to drag and drop new nodes and manage your diagram. You can easily update each node according to type which uses the color of the links into the node to determine the color of those exiting it.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -163,7 +163,7 @@ Header_H2_Text="Open Source JavaScript Library that allows developers to create 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Draw & Position Diagram Elements</h2>
-<p>The open source GoJS library enables software developers to easily draw and position the diagram elements inside their own JavaScript applications. The library allows developers to select and position the selected Parts of a diagram relative to each other with just a couple of lines of code. You can also easily handle the arrow keys and uses a "paste offset" so that pasting objects will cascade them rather than place them on top of one another.</p>
+<p>The open source GoJS library enables software developers to easily draw and position the diagram elements inside their own JavaScript applications. The library allows developers to select and position the selected Parts of a diagram relative to each other with just a couple of lines of code. You can also easily handle the arrow keys and uses a"paste offset" so that pasting objects will cascade them rather than place them on top of one another.</p>
 
 
 {{< /SinglePage/PageBody/features/text >}}

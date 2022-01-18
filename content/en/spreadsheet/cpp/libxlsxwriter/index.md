@@ -1,5 +1,5 @@
 ---
-title: Open Source C API  Process XLSX Spreadsheet, Use Charts & VBA Macros
+title: Open Source C API Process XLSX Spreadsheet, Use Charts & VBA Macros
 description: Libxlsxwriter - Open source Free C API to Create or Edit Excel XLSX Spreadsheet, Manage Charts, VBA Macros, Excel Data validation inside Excel Worksheet.
 
 draft: false
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and XLSX Spreadsheet files, merging spreadsheets, adding charts to worksheet via Open Source C API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source C Library for Excel Spreadsheets"
-Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and XLSX Spreadsheet files, merging spreadsheets, adding charts to worksheet via Open Source C API." >}}
+Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and XLSX Spreadsheet files, merging spreadsheets, adding charts to worksheet via Open Source C API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and
 
 
 
-<p>Libxlsxwriter is an open source C library that can be used to work with Microsoft Excel 2007 as well as Excel XLSX file inside your own applications. The Libxlsxwriter library is very compatible with Excel XLSX files and allows developers to create, modify, and process XLSX spreadsheets with ease. The library working smoothly on leading platforms like Linux, FreeBSD, OpenBSD, OS X, iOS, and Windows. It can compile for 32 as well as for 64 bit.</p>
-<p>The open source Libxlsxwriter library is well optimized and can properly work with large spreadsheet files. It has included support for several important features, such as   Merging spreadsheet cells, defined names, Autofilters support, adding Charts to worksheet page, data validation and drop-down lists, adding PNG/JPEG images, adding cell comments, working with VBA macros, add or remove the column from a sheet, and many more.</p>
+<p>Libxlsxwriter is an open source C library that can be used to work with Microsoft Excel 2007 as well as Excel XLSX file inside your own applications. The Libxlsxwriter library is compatible with Excel XLSX files and allows developers to create, modify, and process XLSX spreadsheets with ease. The library working smoothly on leading platforms like Linux, FreeBSD, OpenBSD, OS X, iOS, and Windows. It can compile for 32 as well as for 64 bit.</p>
+<p>The open source Libxlsxwriter library is well optimized and can properly work with large spreadsheet files. It supports several important features, such as Merging spreadsheet cells, defined names, Autofilters support, adding Charts to worksheet page, data validation and drop-down lists, adding PNG/JPEG images, adding cell comments, working with VBA macros, add or remove the column from a sheet, and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -83,17 +83,17 @@ Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Libxlsxwriter supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>XLS, XLSX</li>
+<li>XLS, XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -108,9 +108,9 @@ Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and
 <p>Libxlsxwriter only requires C runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>C</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>C</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Libxlsxwriter</header><footer><small></small></footer></div>
@@ -133,7 +133,7 @@ Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and
 <h3>Install libxlsxwriter via CRAN</h3>
 <pre><code class="html"> cmake $SOURCE_DIR $FLAGS </code></pre>
 <p>Clone the libxlsxwriter source code repository from GitHub. Please use the following code.</p>
-<h3>Install libxlsxwriter via GitHub</h3>
+<h3>Install libxlsxwriter via GitHub</h3>
 <pre><code class="html">it clone https://github.com/jmcnamara/libxlsxwriter.git
 # Or use your preferred protocol instead of https </code></pre>
 
@@ -156,7 +156,7 @@ Header_H2_Text="Create, Edit, Manipulate, and Convert Microsoft Excel 2007 and
 <h2 class="h2title">Work with Excel Data Validation</h2>
 <p>Data validation is an Excel feature that lets developers control what users enter into an Excel cell. For example, you can restrict users to enter a number between 1 and 6 or making sure the text entry in a cell is less than 25 characters. The Libxlsxwriter API provides numerous options to validate user input such as Any Value, Whole Number, Decimal, List, Date, Time, Text length, or custom formula.</p>
 <h2 class="h2title">Working with VBA Macros</h2>
-<p>The Libxlsxwriter API gives software developers the ease to add a VBA file containing functions or macros to an XLSX workbook. Excel files that contain functions and macros should use an XLSM extension or else Excel will complain and possibly not open the file.  The VBA macros normally refer to workbook and worksheet objects. If the VBA codenames aren't specified explicitly then libxlsxwriter will use the Excel defaults of ThisWorkbook and Sheet1, Sheet2, etc.</p>
+<p>The Libxlsxwriter API gives software developers the ease to add a VBA file containing functions or macros to an XLSX workbook. Excel files that contain functions and macros should use an XLSM extension or else Excel will complain and possibly not open the file. The VBA macros normally refer to workbook and worksheet objects. If the VBA codenames aren't specified explicitly then libxlsxwriter will use the Excel defaults of ThisWorkbook and Sheet1, Sheet2, etc.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

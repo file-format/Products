@@ -1,7 +1,7 @@
 ---
 title: Create, Read, & Process Excel XLSX Spreadsheets via C# .NET library
 description: Simplexcel - Open source C# .NET Library allows to create, edit, read, process Excel XLSX spreadsheets; Create Hyperlinks to an Excel Cell using C# API.
-keywords: Free .NET Excel, Free Excel library,  alternative to MS Excle, .NET XLSX API, .NET XLSX library,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel, 
+keywords: Free .NET Excel, Free Excel library, alternative to MS Excle, .NET XLSX API, .NET XLSX library, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel, 
 draft: false
 weight: 10
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Free .NET Library that enables software developers to Read, Write & Manipulate  Excel XLSX Spreadsheets with ease."
+Image_H2_Text="Free .NET Library that enables software developers to Read, Write & Manipulate Excel XLSX Spreadsheets with ease."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source .NET Library for Handling Excel Spreadsheets  "
-Header_H2_Text="Free .NET Library that enables software developers to Read, Write & Manipulate  Excel XLSX Spreadsheets with ease." >}}
+Header_H1_Text="Open Source .NET Library for Handling Excel Spreadsheets"
+Header_H2_Text="Free .NET Library that enables software developers to Read, Write & Manipulate Excel XLSX Spreadsheets with ease." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Free .NET Library that enables software developers to Read, Writ
 
 
 
-<p>Simplexcel is an Open source .NET library that provides functionality for working with Excel XLSX spreadsheet via .NET.  The library mainly focuses on the most common features and tasks that can help the developer to create a spreadsheet. The library has provided complete support for ASP.NET and Windows Services.</p>
-<p>The open source Simplexcel library gives software to generate Excel 2007+ workbooks in their native XLSX format without relying on COM interop. The library has included support for several important features relate to Excel XLSX creation and manipulation, such as creating Excel workbook, Add sheets to a workbook,  reading Excel documents, create new cells, add cell ranges, format cells,  add and manage rows, create Hyperlinks for a cell, specify compression level, save the file to a Stream and many more. </p>
+<p>Simplexcel is an Open source .NET library that provides functionality for working with Excel XLSX spreadsheet via .NET. The library mainly focuses on the most common features and tasks that can help the developer to create a spreadsheet. The library has provided complete support for ASP.NET and Windows Services.</p>
+<p>The open source Simplexcel library gives software to generate Excel 2007+ workbooks in their native XLSX format without relying on COM interop. The library supports several important features relate to Excel XLSX creation and manipulation, such as creating Excel workbook, Add sheets to a workbook, reading Excel documents, create new cells, add cell ranges, format cells, add and manage rows, create Hyperlinks for a cell, specify compression level, save the file to a Stream and many more. </p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -71,18 +71,18 @@ Header_H2_Text="Free .NET Library that enables software developers to Read, Writ
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Simplexcel supports popular Spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Simplexcel supports popular Spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -109,7 +109,7 @@ Header_H2_Text="Free .NET Library that enables software developers to Read, Writ
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Simplexcel  from NuGet</h3>
+<h3>Install Simplexcel from NuGet</h3>
 <pre><code class="html"> Install-Package Simplexcel</code></pre>
 
 
@@ -135,7 +135,7 @@ Header_H2_Text="Free .NET Library that enables software developers to Read, Writ
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Page Setup Properties for a Worksheet</h2>
-<p>The open source Simplexcel library enables software developers to set and apply page setup properties for a Worksheet inside their own .NET applications.  Page set-up settings affect the way the users see a worksheet. It controls the worksheet features like paper size, page orientation, page headers and margins, and gridlines.</p>
+<p>The open source Simplexcel library enables software developers to set and apply page setup properties for a Worksheet inside their own .NET applications. Page set-up settings affect the way the users see a worksheet. It controls the worksheet features like paper size, page orientation, page headers and margins, and gridlines.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -143,7 +143,7 @@ Header_H2_Text="Free .NET Library that enables software developers to Read, Writ
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Freeze Panes in a worksheet</h2>
-<p>The open source Simplexcel library has provided the capability for freezing panes in a worksheet using couple C# .NET commands. Freeze panes is a very useful feature while working on multiple worksheets, You can keep an area of a worksheet visible while you scroll to another area of the worksheet. At the moment, it is being kept simple; you can either freeze the first row or the leftmost column (A) of a worksheet.</p>
+<p>The open source Simplexcel library has provided the capability for freezing panes in a worksheet using couple C# .NET commands. Freeze panes is a useful feature while working on multiple worksheets, You can keep an area of a worksheet visible while you scroll to another area of the worksheet. At the moment, it is being kept simple; you can either freeze the first row or the leftmost column (A) of a worksheet.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

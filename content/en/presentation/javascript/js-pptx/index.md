@@ -1,7 +1,7 @@
 ---
 title: JavaScript API for PPTX Presentations - Generate & Convert Excel Files
 description: JS-PPTX- Open source Free JavaScript API for PowerPoint PPTX presentations. Generate, Edit & Convert PPTX Files, Add Charts, Slides & Images via JavaScript API.
-keywords: Free PPTX API, PowerPoint API, Free PPTX API, powerpoint PPTX library, microsoft office API, Office Open XML, JavaScript PPTX API, JavaScript PPTX, JavaScript  presentation API, create PPTX slide, modify PPTX files, add image to presentation, add slides to PPTX, insert Charts in PPTX, Open Source JavaScript Libraries
+keywords: Free PPTX API, PowerPoint API, Free PPTX API, powerpoint PPTX library, microsoft office API, Office Open XML, JavaScript PPTX API, JavaScript PPTX, JavaScript presentation API, create PPTX slide, modify PPTX files, add image to presentation, add slides to PPTX, insert Charts in PPTX, Open Source JavaScript Libraries
 
 draft: false
 weight: 10
@@ -20,9 +20,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Convert PPTX Files, Add Charts, Slides & Images."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="JavaScript API to Generate PPTX Presentation"
+Header_H1_Text="JavaScript API to Generate PPTX Presentation"
 Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Convert PPTX Files, Add Charts, Slides & Images." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -32,8 +32,8 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 
 
 
-<p>JS-PPTX is an Open Source pure JavaScript library that provides functionality for reading, writing and editing PowerPoint PPTX presentations inside their own JavaScript applications. Developers require Node.js or a web browser for running it smoothly. The API is very user-friendly and gives developers the power to create a presentation with just a couple of JavaScript commands.</p>
-<p>The API allows reading, writing and editing presentations on all popular web browsers such as Chrome, Firefox, and IE. It includes support for several important features such as read an existing presentation, add slide, shape, and charts,  insert tables as well as Text to slides and much more.</p>
+<p>JS-PPTX is an Open Source pure JavaScript library that provides functionality for reading, writing and editing PowerPoint PPTX presentations inside their own JavaScript applications. Developers require Node.js or a web browser for running it smoothly. The API is user-friendly and gives developers the power to create a presentation with just a couple of JavaScript commands.</p>
+<p>The API allows reading, writing and editing presentations on all popular web browsers such as Chrome, Firefox, and IE. It includes support for several important features such as read an existing presentation, add slide, shape, and charts, insert tables as well as Text to slides and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -71,16 +71,16 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>JS-PPTX supports important compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>JS-PPTX supports important compression file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row"> 
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">,</a> <a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
@@ -99,11 +99,11 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 <div class="d1-row">
 <div class="d1-col d1-left">
 <ul>
-<li><em> </em>JavaScript</li>
+<li><em> </em>JavaScript</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>JS-PPTX</header><footer><small></small></footer></div>
@@ -135,7 +135,7 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate New PowerPoint PPTX Presentation using JavaScript API</h2>
-<p>JS-PPTX library enables software professional to create a new PowerPoint PPTX presentation. You can provide the location and name for the new file.  After the presentation creation developers can create a new worksheet with the desired number of rows and columns. The API also provides the ability to add a new slide, charts, tables, shapes, images, etc.</p>
+<p>JS-PPTX library enables software professional to create a new PowerPoint PPTX presentation. You can provide the location and name for the new file. After the presentation creation developers can create a new worksheet with the desired number of rows and columns. The API also provides the ability to add a new slide, charts, tables, shapes, images, etc.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -150,7 +150,7 @@ Header_H2_Text="Open Source JavaScript PowerPoint Library to Create, Edit & Conv
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Adding Charts to a PowerPoint Presentation</h2>
-<p>The JS-PPTX API gives software developers the ability to add a chart to a PowerPoint PPTX Presentation inside their own JavaScript applications. First, you need to generate a temporary excel file for storing the chart's data. After that, you can write the header using the series name and can write the category column in the first column.  Now you can write the data in the desired columns and rows to complete the task.</p>
+<p>The JS-PPTX API gives software developers the ability to add a chart to a PowerPoint PPTX Presentation inside their own JavaScript applications. First, you need to generate a temporary Excel file for storing the chart's data. After that, you can write the header using the series name and can write the category column in the first column. Now you can write the data in the desired columns and rows to complete the task.</p>
 
 
 {{< /SinglePage/PageBody/features/text >}}

@@ -1,7 +1,7 @@
 ---
 title: Create HTML Presentations & Landings via Open Source JavaScript API
 description: WebSlides - Open source Free JavaScript API for HTML presentations. Generate & edit web presentations, landings, add videos & images via JavaScript library.
-keywords: Free Web API, Free PowerPoint Library, Web presentations, JavaScript HTML PPTX, JavaScript PowerPoint , JavaScript web presentation, add long-forms in presentation, Microsoft office API,  JavaScript web API, JavaScript presentations API, create landings pages, convert HTML to presentations , add Images presentation, add Charts to presentation,  create web slide, JavaScript PowerPoint library, modify web slide
+keywords: Free Web API, Free PowerPoint Library, Web presentations, JavaScript HTML PPTX, JavaScript PowerPoint , JavaScript web presentation, add long-forms in presentation, Microsoft office API, JavaScript web API, JavaScript presentations API, create landings pages, convert HTML to presentations , add Images presentation, add Charts to presentation, create web slide, JavaScript PowerPoint library, modify web slide
 
 draft: false
 weight: 11
@@ -20,10 +20,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landings, & Long-forms in JavaScript applications."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="JavaScript Library for Creating HTML Presentations"
-Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landings, & Long-forms in JavaScript applications." >}}
+Header_H1_Text="JavaScript Library for Creating HTML Presentations"
+Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landings, & Long-forms in JavaScript applications." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,8 +32,8 @@ Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landi
 
 
 
-<p>WebSlides is an Open Source library that provides the easiest way to make HTML presentations and long-forms. It is a small and compact library with a nice set of ready-to-use components, which developers can use to build professional and good-looking web presentations. It makes HTML presentations easy, the code is clean, scalable and well documented.  </p>
-<p>Presentations are one of the best ways to show information to the viewers. There are some amazing tools out there that help to create some attractive presentations. WebSlides works better, faster and uses intuitive markup with popular naming conventions.  The API helps to create beautiful HTML & CSS presentations in a very easy way.</p>
+<p>WebSlides is an Open Source library that provides the easiest way to make HTML presentations and long-forms. It is a small and compact library with a nice set of ready-to-use components, which developers can use to build professional and good-looking web presentations. It makes HTML presentations easy, the code is clean, scalable and well documented. </p>
+<p>Presentations are one of the best ways to show information to the viewers. There are some amazing tools out there that help to create some attractive presentations. WebSlides works better, faster and uses intuitive markup with popular naming conventions. The API helps to create beautiful HTML & CSS presentations in a easy way.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -80,17 +80,17 @@ Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landi
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>WebSlides supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>HTML</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/web/html/">HTML</a>, CSS, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/web/html/">HTML</a>, CSS, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -105,9 +105,9 @@ Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landi
 <p>WebSlides only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>WebSlides</header><footer><small></small></footer></div>
@@ -148,7 +148,7 @@ Header_H2_Text="Open Source API to Create, Read & Edit HTML Presentation, Landi
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Videos to HTML Presentation</h2>
-<p>WebSlides library gives Software developers to easily embed videos into their HTML presentations with very ease. It just requires a couple of commands to perform this task. WebSlides is a charming solution for making HTML presentations and mainly focuses on the features that have to do with the sliding and presentation itself.</p>
+<p>WebSlides library gives Software developers to easily embed videos into their HTML presentations with ease. It just requires a couple of commands to perform this task. WebSlides is a charming solution for making HTML presentations and mainly focuses on the features that have to do with the sliding and presentation itself.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

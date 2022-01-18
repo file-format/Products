@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API "
+Image_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source PHP Library for Converting Microsoft<sup>®</sup> Presentation Files"
-Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API " >}}
+Header_H1_Text="Open Source PHP Library for Converting Microsoft<sup>®</sup> Presentation Files"
+Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -64,15 +64,15 @@ Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Gotenberg PHP Client supports popular Microsoft PowerPoint formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/ppt/">PPT</a>, <a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -95,7 +95,7 @@ Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;">=<header>Gotenberg Go client</header><footer><small></small></footer></div>
@@ -117,7 +117,7 @@ Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Gotenberg PHP Client via Composer</h3>
 <pre><code class="html">$ composer require thecodingmachine/gotenberg-php-client
-                                                        </code></pre>
+              </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -139,12 +139,12 @@ Header_H2_Text="Convert Microsoft Presentation Documents to PDF via Free PHP API
 <h3>Convert PPTX to PDF via Free PHP API</h3>
 <pre><code class="php">$client = new Client('http://localhost:3000', new \Http\Adapter\Guzzle6\Client());
 $file = [
-        DocumentFactory::makeFromPath('document.pptx', '/path/to/file')
+  DocumentFactory::makeFromPath('document.pptx', '/path/to/file')
 ];
 $request = new OfficeRequest($file);
 $dest = 'fileformat.pdf';
 $client-&gt;store($request, $dest);
-                                                        </code></pre>
+              </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

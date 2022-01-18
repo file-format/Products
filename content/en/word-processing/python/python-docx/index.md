@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Word Processing - Create & Edit Word DOCX
 description: Python-DOCX - Open Source Python API for Word Processing (DOCX) documents. Create, modify and Manipulate, Add table & images to Word files via Python library.
-keywords: Python DOCX, Free API, Open Source API, Free Python API, Free DOCX API, Open Source DOCX API, Python Word processing, Python Word processing APIs, Python Docx API, Python .doc API, Python word library, create  Word Documents, modify Word documents, add image to word files, Open Source Python Libraries, Open Source Word processing
+keywords: Python DOCX, Free API, Open Source API, Free Python API, Free DOCX API, Open Source DOCX API, Python Word processing, Python Word processing APIs, Python Docx API, Python .doc API, Python word library, create Word Documents, modify Word documents, add image to word files, Open Source Python Libraries, Open Source Word processing
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source Python Library for Managing MS Word files, add Table & Images to Word DOCX files & more."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Python API to Create & Edit Microsoft<sup>®</sup> Word Documents"
-Header_H2_Text="Open Source Python Library for Managing MS Word files, add Table & Images to Word DOCX files & more." >}}
+Header_H1_Text="Python API to Create & Edit Microsoft<sup>®</sup> Word Documents"
+Header_H2_Text="Open Source Python Library for Managing MS Word files, add Table & Images to Word DOCX files & more." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -33,7 +33,7 @@ Header_H2_Text="Open Source Python Library for Managing MS Word files, add Tabl
 
 <h2 class="h2title">What is Python-DOCX?</h2>
 <p>Python-DOCX is an Open Source Python library that gives software developers the capability to work with Microsoft Word (Docx) inside their own applications. The API can create and modify Word documents, which have the <em>.docx</em> file extension</p>
-<p>The API is very productive and supports several important word processing features such as opening a document, adding a paragraph, adding a heading, adding a page break, adding a table, inserting images, applying a paragraph style, text formatting and much more.</p>
+<p>The API is productive and supports several important word processing features such as opening a document, adding a paragraph, adding a heading, adding a page break, adding a table, inserting images, applying a paragraph style, text formatting and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -68,7 +68,7 @@ Header_H2_Text="Open Source Python Library for Managing MS Word files, add Tabl
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>SharpCompress</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -77,15 +77,15 @@ Header_H2_Text="Open Source Python Library for Managing MS Word files, add Tabl
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Python-DOCX supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>,<a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
@@ -109,7 +109,7 @@ Header_H2_Text="Open Source Python Library for Managing MS Word files, add Tabl
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Python-DOCX</header><footer><small></small></footer></div>
@@ -125,12 +125,12 @@ Header_H2_Text="Open Source Python Library for Managing MS Word files, add Tabl
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Python-DOCX</h2>
-<p>Python-DOCX is hosted on PyPI, so It is very simple to install it.  It can be installed with pip using the following command.</p>
+<p>Python-DOCX is hosted on PyPI, so It is simple to install it. It can be installed with pip using the following command.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Python-DOCX via pip command</h3>
-<pre><code class="html"> pip install python-docx  </code></pre>
+<pre><code class="html"> pip install python-docx </code></pre>
 
 <p>It can also be installed via easy_install but is not recommended.</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -163,7 +163,7 @@ p.add_run(' and some ')
 p.add_run('italic.').italic = True
 // save word document
 document.save('demo.docx')
-                                    </code></pre>
+         </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -180,7 +180,7 @@ document.save('demo.docx')
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Images to Word DOCX Files</h2>
-<p>Python-DOCX provides Software programmers the ability to insert images inside their Word DOCX document. To add an image you need to provide the name and location of the image. By default, the added image appears at the native size. You can specify both the width and height of the image. The Inches and Cm classes are provided to let you specify measurements in convenient units.</p>
+<p>Python-DOCX provides Software programmers the ability to insert images inside their Word DOCX document. To add an image you need to provide the name and location of the image. By default, the added image appears at the native size. You can specify both the width and height of the image. The Inches and Cm classes are provided to let you specify measurements in convenient units.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Video File Formats - Read & Write Metadata of Video File Formats
 description: TagLib-Sharp - An Open Source Free .NET API for Video File Format. Read and Write Metadata tags of video file formats
-keywords: TagLib API, TagLib Sharp API, Free Audio API,  Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
+keywords: TagLib API, TagLib Sharp API, Free Audio API, Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read & Write Metadata of video File Format."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text=".NET Library for Manipulating video Documents"
+Header_H1_Text=".NET Library for Manipulating video Documents"
 Header_H2_Text="Read & Write Metadata of video File Format." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -58,7 +58,7 @@ Header_H2_Text="Read & Write Metadata of video File Format." >}}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Taglib-Sharp</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -66,18 +66,18 @@ Header_H2_Text="Read & Write Metadata of video File Format." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Taglib-Sharp supports popular video file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Taglib-Sharp supports popular video file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/video/mkv/">MKV</a>, <a href="https://docs.fileformat.com/video/avi/">AVI</a>, <a href="https://docs.fileformat.com/video/wmv/">WMV</a>, <a href="https://docs.fileformat.com/video/mp4/">MP4</a>, <a href="https://docs.fileformat.com/video/asf/">ASF</a>,<a href="https://docs.fileformat.com/audio/m4a/">MPEG</a>, OGV</li>
+<li><a href="https://docs.fileformat.com/video/mkv/">MKV</a>, <a href="https://docs.fileformat.com/video/avi/">AVI</a>, <a href="https://docs.fileformat.com/video/wmv/">WMV</a>, <a href="https://docs.fileformat.com/video/mp4/">MP4</a>, <a href="https://docs.fileformat.com/video/asf/">ASF</a>,<a href="https://docs.fileformat.com/audio/m4a/">MPEG</a>, OGV</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/video/mkv/">MKV</a>, <a href="https://docs.fileformat.com/video/avi/">AVI</a>, <a href="https://docs.fileformat.com/video/wmv/">WMV</a>, <a href="https://docs.fileformat.com/video/mp4/">MP4</a>, <a href="https://docs.fileformat.com/video/asf/">ASF</a>,<a href="https://docs.fileformat.com/audio/m4a/">MPEG</a>, OGV</li>
+<li><a href="https://docs.fileformat.com/video/mkv/">MKV</a>, <a href="https://docs.fileformat.com/video/avi/">AVI</a>, <a href="https://docs.fileformat.com/video/wmv/">WMV</a>, <a href="https://docs.fileformat.com/video/mp4/">MP4</a>, <a href="https://docs.fileformat.com/video/asf/">ASF</a>,<a href="https://docs.fileformat.com/audio/m4a/">MPEG</a>, OGV</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -129,7 +129,7 @@ Header_H2_Text="Read & Write Metadata of video File Format." >}}
 string title = tfile.Tag.Title;
 TimeSpan duration = tfile.Properties.Duration;
 Console.WriteLine("Title: {0}, duration: {1}", title, duration);
-                                                            </code></pre>
+               </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -148,7 +148,7 @@ Console.WriteLine("Title: {0}, duration: {1}", title, duration);
 string title = tfile.Tag.Title;
 TimeSpan duration = tfile.Properties.Duration;
 Console.WriteLine("Title: {0}, duration: {1}", title, duration);
-                                                            </code></pre>
+               </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

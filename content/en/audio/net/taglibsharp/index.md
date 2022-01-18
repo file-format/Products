@@ -1,7 +1,7 @@
 ---
-title: Open Source .NET API for Audio File Formats - Read & Write Metadata of Audio File Formats
-description: TagLib-Sharp - An Open Source Free .NET API for Video File Format. Read and Write Metadata tags of Audio File Formats
-keywords: TagLib API, TagLib Sharp API, Free Audio API,  Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
+title: Open Source .NET API for Audio File Formats
+description: TagLib-Sharp - Read and Write Metadata Tags for Audio File Formats
+keywords: TagLib API, TagLib Sharp API, Free Audio API, Free .NET API, Free MP3 API, Open Source MP3 API, Free MP3 Audio, Extract Metadata, Write MP3 Metadata, Extract Audio Metadata, Write Audio Metadata, .NET Audio Tags, Audio Tags, Custom Audio Tags, Free MP3 Tags
 
 draft: false
 weight: 1
@@ -20,7 +20,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read & Write Metadata of Audio File Format."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Free .NET Library to Handle Metadata of Audio Documents"
 Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
@@ -59,7 +59,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Taglib-Sharp</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -67,18 +67,18 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Taglib-Sharp supports popular Audio file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Taglib-Sharp supports popular Audio file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, AA, AAX, AIFF, APE, DSF, FLAC, M4A, M4B, M4P, MPC, MPP, OGG, OGA, WMA, WV, WEBM</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, AA, AAX, AIFF, APE, DSF, FLAC, M4A, M4B, M4P, MPC, MPP, OGG, OGA, WMA, WV, WEBM</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/aac/">AAC</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, AA, AAX, AIFF, APE, DSF, FLAC, M4A, M4B, M4P, MPC, MPP, OGG, OGA, WMA, WV, WEBM</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/aac/">AAC</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, AA, AAX, AIFF, APE, DSF, FLAC, M4A, M4B, M4P, MPC, MPP, OGG, OGA, WMA, WV, WEBM</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -101,7 +101,7 @@ Header_H2_Text="Read & Write Metadata of Audio File Format." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Taglib-Sharp</h2>
-<p>The best way to install to install Taglib-Sharp is via NuGet you can run the following command and install Taglib-Sharp in you application.</p>
+<p>The best way to install to install Taglib-Sharp is via NuGet. Run the following command and install Taglib-Sharp in you application.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

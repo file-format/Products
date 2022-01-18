@@ -1,7 +1,7 @@
 ---
 title: Open Source Ruby Excel API – Create, Modify & Parse XLSX Spreadsheet
-description:  RubyXL- Open Source Ruby Excel XLSX API to create, modify and parse Excel Spreadsheet. Manage rows and columns, Excel XLSX customization & adding new worksheets to a workbook.
-keywords: Ruby Excel, Ruby Spreadsheet,  Ruby Excel programming, Ruby Excel APIs, Ruby .xls, Ruby .xlsx, Ruby .xlsx API, Ruby .xls library, Ruby Excel library, create  Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files, Open Source Excel Library, Ruby .xlsx file format, Open Source Excel Library
+description: RubyXL- Open Source Ruby Excel XLSX API to create, modify and parse Excel Spreadsheet. Manage rows and columns, Excel XLSX customization & adding new worksheets to a workbook.
+keywords: Ruby Excel, Ruby Spreadsheet, Ruby Excel programming, Ruby Excel APIs, Ruby .xls, Ruby .xlsx, Ruby .xlsx API, Ruby .xls library, Ruby Excel library, create Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files, Open Source Excel Library, Ruby .xlsx file format, Open Source Excel Library
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free Ruby Library working with Excel XLSX file formats. It supports speedy parsing of XLSX file formats, generating a new workbook, reading existing XLSX files & so on."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Ruby API for Excel Spreadsheet Processing  "
-Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It supports speedy parsing of XLSX file formats, generating a new workbook, reading existing XLSX files & so on." >}}
+Header_H1_Text="Open Source Ruby API for Excel Spreadsheet Processing"
+Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It supports speedy parsing of XLSX file formats, generating a new workbook, reading existing XLSX files & so on." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 
 
 
-<p>The rubyXL is a leading Ruby library for working with Excel XLSX file formats. The library has included very useful function for a very speedy parsing of XLSX file formats inside Ruby applications. The library is capable of parsing the entire OOXML structure and can easily open, read and modify files created by MS Excel. The library is open source and is freely available under the MIT license for general public.</p>
-<p>The rubyXL library has included very useful functions related to Excel XLSX files creation and customization such as reading existing XLSX files, accessing a particular row or column of a spreadsheet, generating a new workbook, accessing and managing new cell properties, insert and manage new rows and columns, adding new worksheets to a workbook, renaming worksheets, change formatting and styles of cell, rows or columns, enhanced borders, merging cells, delete worksheet rows or columns and many more</p>
+<p>The rubyXL is a leading Ruby library for working with Excel XLSX file formats. The library has included useful function for a speedy parsing of XLSX file formats inside Ruby applications. The library is capable of parsing the entire OOXML structure and can easily open, read and modify files created by MS Excel. The library is open source and is freely available under the MIT license for general public.</p>
+<p>The rubyXL library has included useful functions related to Excel XLSX files creation and customization such as reading existing XLSX files, accessing a particular row or column of a spreadsheet, generating a new workbook, accessing and managing new cell properties, insert and manage new rows and columns, adding new worksheets to a workbook, renaming worksheets, change formatting and styles of cell, rows or columns, enhanced borders, merging cells, delete worksheet rows or columns and many more</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -83,17 +83,17 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>rubyXL supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -108,9 +108,9 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 <p>The rubyXL library only requires Ruby runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Ruby</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Ruby</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>rubyXL</header><footer><small></small></footer></div>
@@ -148,7 +148,7 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manage Columns and Rows via Ruby</h2>
-<p>The open source rubyXL library has included several important features related to managing rows and columns inside an Excel spreadsheet. The library has provided support for inserting new rows or columns, changing row height, modifying column width, change fonts inside a row or column, change alignment,  delete a set of rows or  columns, modify cells format, and so on</p>
+<p>The open source rubyXL library has included several important features related to managing rows and columns inside an Excel spreadsheet. The library has provided support for inserting new rows or columns, changing row height, modifying column width, change fonts inside a row or column, change alignment, delete a set of rows or columns, modify cells format, and so on</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -171,7 +171,7 @@ Header_H2_Text="Free Ruby Library working with Excel XLSX file formats. It suppo
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

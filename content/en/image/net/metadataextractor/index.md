@@ -1,5 +1,5 @@
 ---
-title: fileformat - Open Source APIs for Images - MetadataExtractor
+title: Open Source APIs for Images - MetadataExtractor
 
 
 draft: false
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text=".NET Library for Reading Metadata from Images"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source .NET API for Images"
 Header_H2_Text=".NET Library for Reading Metadata from Images" >}}
@@ -75,16 +75,16 @@ Header_H2_Text=".NET Library for Reading Metadata from Images" >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>MetadataExtractor supports popular image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>MetadataExtractor supports popular image file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>,  <a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">HEIF</a>, <a href="https://docs.fileformat.com/image/bmp/">HEIC</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>JFIF</a>, <a>Netpbm</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a>TGA</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a>ARW </a>, <a>CR2 </a>, <a>NEF</a>, <a>ORF</a>, <a>RW2 </a>, <a>RWL </a>, <a>SRW </a>      </li>
+<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/page-description-language/eps/">EPS</a>, <a href="https://docs.fileformat.com/image/gif/">HEIF</a>, <a href="https://docs.fileformat.com/image/bmp/">HEIC</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a>JFIF</a>, <a>Netpbm</a>, <a>PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a>TGA</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>, <a>ARW </a>, <a>CR2 </a>, <a>NEF</a>, <a>ORF</a>, <a>RW2 </a>, <a>RWL </a>, <a>SRW </a>  </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>MetadataExtractor</header><footer><small></small></footer></div>
@@ -97,7 +97,7 @@ Header_H2_Text=".NET Library for Reading Metadata from Images" >}}
 <p>MetadataExtractor targerts .NET Framework 3.5, 4.5 and .NET Standard 1.3, 2.0.</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>MetadataExtractor</header><footer><small></small></footer></div>

@@ -1,7 +1,7 @@
 ---
 title: Open Source Image Processing PHP API – Create, Modify & Resize Images
-description: Intervention Image - open Source PHP image processing to Create, Read, Modify, Resize  & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease.
-keywords: image processing, PHP images, image processing library, PHP PNG API, PHP JPG, PHP image API, PHP Image creation, Modify images, Image filtering API, PHP  fade image , image filtering  API, image animation, 3d image  rendering, plasma effect, PHP Image Binarization, Display images, Transform images in PHP
+description: Intervention Image - open Source PHP image processing to Create, Read, Modify, Resize & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease.
+keywords: image processing, PHP images, image processing library, PHP PNG API, PHP JPG, PHP image API, PHP Image creation, Modify images, Image filtering API, PHP fade image , image filtering API, image animation, 3d image rendering, plasma effect, PHP Image Binarization, Display images, Transform images in PHP
 draft: false
 weight: 18
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, Resize  & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease."
+Image_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, Resize & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="PHP Library for Image Manipulation & Processing"
-Header_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, Resize  & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease." >}}
+Header_H1_Text="PHP Library for Image Manipulation & Processing"
+Header_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, Resize & Crop JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP images with ease." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, R
 
 
 
-<p>Intervention Image is an open source PHP image manipulation and processing library that gives software developers the ability to create, modify, and compose images inside their own PHP application. Intervention Image has optional support for Laravel and comes with a Service Provider and Facades for easy integration. The library is very stable and helps you to manage every task in an easy way and with minimum code.</p>
-<p>The library has provided supports for two most common image processing libraries GD Library and Imagick<strong>.</strong> It has provided support for many popular image file formats such as JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP and many more. The readable image formats depend on the chosen driver (GD or Imagick) and your local configuration.</p>
-<p>The library has included support for several important image processing features, such as creating images from the scratch, reading existing images, editing existing images, create image thumbnails, apply effects to images, add watermarks to images, format large image files,  resize images according to your needs, draw text and shape on images,  retrieve image information and much more.</p>
+<p>Intervention Image is an open source PHP image manipulation and processing library that gives software developers the ability to create, modify, and compose images inside their own PHP application. Intervention Image has optional support for Laravel and comes with a Service Provider and Facades for easy integration. The library is stable and helps you to manage e task in an easy way and with minimum code.</p>
+<p>The library has provided supports for two most common image processing libraries GD Library and Imagick. It has provided support for many popular image file formats such as JPEG, PNG, GIF, TIF, BMP, ICO, PSD, WebP and many more. The readable image formats depend on the chosen driver (GD or Imagick) and your local configuration.</p>
+<p>The library supports several important image processing features, such as creating images from the scratch, reading existing images, editing existing images, create image thumbnails, apply effects to images, add watermarks to images, format large image files, resize images according to your needs, draw text and shape on images, retrieve image information and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -64,7 +64,7 @@ Header_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, R
 <li>Apply watermark</li>
 <li>Save to browser</li>
 <li>Display images</li>
-<li>Draw text </li>
+<li>Draw text </li>
 </ul>
 </div>
 </div>
@@ -75,9 +75,9 @@ Header_H2_Text="Open Source PHP Library that allows to Create, Read, Modify, R
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Intervention Image supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>
 <a href="https://docs.fileformat.com/image/gif/">GIF</a>,
@@ -89,9 +89,9 @@ GD, GD2 </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, GD, GD2</li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, GD, GD2</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -113,7 +113,7 @@ GD, GD2 </li>
 </ul>
 <!--/right--></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Intervention Image</header><footer><small></small></footer></div>
@@ -141,15 +141,15 @@ GD, GD2 </li>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create New Images via via PHP</h2>
-<p>The open source Intervention Image library enables software developer to create a new empty image instance using PHP commands inside their own applications. Developers can provide custom width, height, and can also define a background color of their choice.  If the color is not defined the default canvas background will be used which is transparent.</p>
+<p>The open source Intervention Image library enables software developer to create a new empty image instance using PHP commands inside their own applications. Developers can provide custom width, height, and can also define a background color of their choice. If the color is not defined the default canvas background will be used which is transparent.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Reading Images via PHP API</h2>
-<p>The Free Intervention Image library has provided support for reading different types of images inside JavaScript application with ease. You need to provide a complete path of the image and the rest will be easily performed by the library.  You can also provide URL to the image and it can easily read it out for you. It can also read binary image data, base64 encoded image data, and more.</p>
+<h2 class="h2title">Reading Images via PHP API</h2>
+<p>The Free Intervention Image library has provided support for reading different types of images inside JavaScript application with ease. You need to provide a complete path of the image and the rest will be easily performed by the library. You can also provide URL to the image and it can easily read it out for you. It can also read binary image data, base64 encoded image data, and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -166,7 +166,7 @@ GD, GD2 </li>
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

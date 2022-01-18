@@ -1,7 +1,7 @@
 ---
 title: Open Source C++ Library for PDF – Generate & Manipulate PDF Documents
 description: Open Source C++ Library to create, edit, Manipulate & convert PDF files in native C++ applications.
-keywords: C++ PDF, open source PDF, process PDF in C++,  cpp PDF API,  C ++ PDF Library, Open Source PDF Library, C++ PDF programming, C++ PDF API, Embed Images in PDF, C++ PDF  API, generate  PDF Documents, manipulate PDF files, PDF export , PDF manipulation
+keywords: C++ PDF, open source PDF, process PDF in C++, cpp PDF API, C ++ PDF Library, Open Source PDF Library, C++ PDF programming, C++ PDF API, Embed Images in PDF, C++ PDF API, generate PDF Documents, manipulate PDF files, PDF export , PDF manipulation
 draft: false
 weight: 6
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="LibHaru"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source C++ Library for PDF Documents"
-Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source C++ API." >}}
+Header_H1_Text="Open Source C++ Library for PDF Documents"
+Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source C++ API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -33,7 +33,7 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 
 <p>LibHaru is an open source C++ library that enables software developers to generate PDF file format, currently, the API doesn't allow reading or edited existing PDF documents. Using the API you can generate PDF file - add text, lines, and annotations int it. Furthermore, you can also add images of PNG and JPEG format in the document. LibHaru also allows compressing the PDF document with the deflate-decode format and generates encrypted PDF documents.</p>
 <p>LibHaru is written ANSI-C and can work both as static-library and shared-library. To use it with a C++ program you can compile it with any C++ compiler and use it as a static-library.</p>
-<p><span style="font-size: 12.16px;">.</span></p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -64,7 +64,7 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="LibHaru"><header>LibHaru</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -73,11 +73,11 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>LibHaru supports PDF formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -94,8 +94,8 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 <p>LibHaru requires the following libraries</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i> Mandatory</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i> Mandatory</header>
 <ul>
 <li><a href="https://www.zlib.net/">Zlib</a></li>
 <li><a href="http://www.libpng.org/">LibPng</a></li>
@@ -117,7 +117,7 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with LibHaru</h2>
-<p>LibHaru is written in ANSI-C and to use it with C++, you can compile it with any compliant C++ compiler. First of all, you can download and extract the latest version of the API. There are several kinds of makefile, for every compiler, in the script directory. Build the library with an appropriate makefile.</p>
+<p>LibHaru is written in ANSI-C and to use it with C++, you can compile it with any compliant C++ compiler. First of all, you can download and extract the latest version of the API. There are several kinds of makefile, for e compiler, in the script directory. Build the library with an appropriate makefile.</p>
 <p>After you unpack the library in your desired folder, you can cd into the folder and run the following command to make a lib file</p>
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -146,7 +146,7 @@ Header_H2_Text="Generate, Edit, Manipulate & Convert PDF Files via Open Source 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

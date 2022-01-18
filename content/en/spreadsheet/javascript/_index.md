@@ -6,7 +6,7 @@ draft: false
 weight: 4
 
 ProductName: JavaScript
-ListingPage_Title_Text:  Free Spreadsheet  APIs for
+ListingPage_Title_Text: Free Spreadsheet APIs for
 ListingPage_Short_Description: Create, edit, & export Microsoft Excel spreadsheets via open-source JavaScript libraries.
 ListingPage_Product_Small_Image: 
 
@@ -17,11 +17,11 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Spreadsheet "
+Image_H2_Text="Spreadsheet"
 Image_Tag_Text="File Format APIs for JavaScript"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Open Source JavaScript APIs for Spreadsheets"
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Open Source JavaScript APIs for Spreadsheets"
 Header_H2_Text="Read, Write & Manipulate Microsoft Excel files via JavaScript." >}}
 
 {{< ListingPage/PageBody/wrapper >}}

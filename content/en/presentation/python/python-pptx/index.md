@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source Python library to Create, Modify & Export Microsoft PowerPoint PPTX files."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Python API to Generate PowerPoint PPTX Presentation"
-Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft PowerPoint PPTX files." >}}
+Header_H1_Text="Python API to Generate PowerPoint PPTX Presentation"
+Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft PowerPoint PPTX files." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -75,15 +75,15 @@ Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Python-PPTX supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">,</a> <a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
@@ -109,7 +109,7 @@ Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Python-PPTX</header><footer><small></small></footer></div>
@@ -130,7 +130,7 @@ Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>pip command</h3>
-<pre><code class="html"> pip install python-pptx  </code></pre>
+<pre><code class="html"> pip install python-pptx </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -138,7 +138,7 @@ Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<p>lxml package and Pillow both are required for Python-PPTX to run smoothly. The charting features depend on XlsxWriter. Both pip and easy_install will take care of satisfying these dependencies for you. If you want to install it using setup.py then you will require installing the dependencies yourself.<code class="html"><br></code></p>
+<p>lxml package and Pillow both are required for Python-PPTX to run smoothly. The charting features depend on XlsxWriter. Both pip and easy_install will take care of satisfying these dependencies for you. If you want to install it using setup.py then you will require installing the dependencies yourself.</p>
 <h2 class="h2title">Generate & Modify PowerPoint PPTX Presentation using Python API</h2>
 <p>Python-PPTX API provides functionality for new PowerPoint PPTX presentations creation as well as modification inside Python applications. Software developers can easily modify an existing presentation by opening the existing presentation. It allows adding slides, specifying a layout for new slide, adding title and contents, inserting images and shapes, etc. Once done you can change the name of the existing presentation as well as can save it to the location of your choice.</p>
 
@@ -148,12 +148,12 @@ Header_H2_Text="Open Source Python library to Create, Modify & Export Microsoft
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Working with PPTX Slide and Images</h2>
-<p>Python-PPTX is a great library for using Python to create dynamic PowerPoint slides. Software programmers can add a slide to an existing presentation with ease. Every slide in a presentation is based on a slide layout.  Slide layout is like a template for a slide, it allows users to inherit formatting choices, text boxes, titles or graphics, etc.</p>
+<p>Python-PPTX is a great library for using Python to create dynamic PowerPoint slides. Software programmers can add a slide to an existing presentation with ease. E slide in a presentation is based on a slide layout. Slide layout is like a template for a slide, it allows users to inherit formatting choices, text boxes, titles or graphics, etc.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h2 class="h2title">Adding & Modifying Charts to A Presentation</h2>
-<p>Python-PPTX API allows software developers to add charts to a slide and also modify existing ones inside their own applications. The API supports the most common chart types other than 3D types. You can add a single-series column chart, multi-series chart, bubble chart, Line chart, pie charts & more. By default, the colors assigned to each series in a chart are the theme colors Accent 1 through Accent 6, in that order.  You can also assign specific colors to data points in pie, bar, line segment for at least some chart types.  The easiest and suggested way will be to change the theme colors in your starting “template” presentation.</p>
+<p>Python-PPTX API allows software developers to add charts to a slide and also modify existing ones inside their own applications. The API supports the most common chart types other than 3D types. You can add a single-series column chart, multi-series chart, bubble chart, Line chart, pie charts & more. By default, the colors assigned to each series in a chart are the theme colors Accent 1 through Accent 6, in that order. You can also assign specific colors to data points in pie, bar, line segment for at least some chart types. The easiest and suggested way will be to change the theme colors in your starting “template” presentation.</p>
 
 
 {{< /SinglePage/PageBody/features/code >}}

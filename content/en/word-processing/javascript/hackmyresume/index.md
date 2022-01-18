@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript API for Word Processing - Easy to Use Command line package to Generate Word
 description: HackMyResume is a command line and shell package that can be used to create and generate resumes in different file formats
-keywords: HackMyResume,  Create DOCX, Create Resume, Free Resume, Resume API, Analyze Resume, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
+keywords: HackMyResume, Create DOCX, Create Resume, Free Resume, Resume API, Analyze Resume, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
 draft: false
 weight: 5
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="HackMyResume is a command line and shell package that can be used to create and generate resumes in different file formats."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Easy to Use Command line package to Generate Microsoft<sup>®</sup> Word Resumes"
 Header_H2_Text="HackMyResume is a command line and shell package that can be used to create and generate resumes in different file formats." >}}
@@ -71,17 +71,17 @@ Header_H2_Text="HackMyResume is a command line and shell package that can be use
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>HackMyResume supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/web/json/">JSON</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a><a href="https://docs.fileformat.com/web/html/">HTML,</a>  <a href="https://docs.fileformat.com/word-processing/md/">Markdown</a>, <a href="https://docs.fileformat.com/page-description-language/tex/">LaTeX</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/web/json/">JSON</a>, <a href="https://docs.fileformat.com/programming/yaml/">YAML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">Plain Text</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a><a href="https://docs.fileformat.com/web/html/">HTML,</a> <a href="https://docs.fileformat.com/word-processing/md/">Markdown</a>, <a href="https://docs.fileformat.com/page-description-language/tex/">LaTeX</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a>, <a href="https://docs.fileformat.com/web/json/">JSON</a>, <a href="https://docs.fileformat.com/programming/yaml/">YAML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">Plain Text</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -96,9 +96,9 @@ Header_H2_Text="HackMyResume is a command line and shell package that can be use
 <p>HackMyResume only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>redocx</header><footer><small></small></footer></div>

@@ -1,7 +1,7 @@
 ---
 title: JavaScript Library for Image Processing - Grab Color Platte from Images
 description: Color Thief – open source image processing library that allows Software programmers to get color platte from images via JavaScript Library
-keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library,  image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API
+keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library, image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="JavaScript API for grabbing color palette from images."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source JavaScript Library for Image Processing"
-Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
+Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 
 
 <h2 class="h2title">What is Color Thief?</h2>
-<p>Color Thief is a very simple lightweight image processing library that enables software developers to grab color from images using JavaScript. It is a pure JavaScript library that can work on Node as well as in-browser without any external dependencies. The API Gets the dominant color from the image. Color is returned as an array of three integers representing red, green, and blue values. While working in the browser, you need to use HTML image for processing and while using the Node you need to use the URL of the image.</p>
+<p>Color Thief is a simple lightweight image processing library that enables software developers to grab color from images using JavaScript. It is a pure JavaScript library that can work on Node as well as in-browser without any external dependencies. The API Gets the dominant color from the image. Color is returned as an array of three integers representing red, green, and blue values. While working in the browser, you need to use HTML image for processing and while using the Node you need to use the URL of the image.</p>
 <p>The Color Thief package includes multiple distribution files to support different environments and build processes. color-thief.js is the main file for processing the images, color-thief.mjs is used for modern browsers as well as Webpack and Rollup and color-thief.umd.js is used for simple script tag loading.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -58,7 +58,7 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 <li>Get Color Palette(</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Color Thief</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -67,15 +67,15 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Color Thief supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Color Thief</header><footer><small></small></footer></div>
@@ -90,7 +90,7 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -137,7 +137,7 @@ Header_H2_Text="JavaScript API for grabbing color palette from images." >}}
 ColorThief.getColor(img)
 .then(color =&gt; { console.log(color) })
 .catch(err =&gt; { console.log(err) })
-               </code></pre>
+    </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -161,7 +161,7 @@ ColorThief.getColor(img)
 ColorThief.getPalette(img, 5)
 .then(palette =&gt; { console.log(palette) })
 .catch(err =&gt; { console.log(err) })
-               </code></pre>
+    </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

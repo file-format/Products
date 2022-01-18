@@ -15,11 +15,11 @@ Homepage_Intro_Text: Open source .NET library for working with popular compressi
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Compression "
+Image_H2_Text="Compression"
 Image_Tag_Text="File Format APIs"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Open Source APIs for Archiver File Formats"
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Open Source APIs for Archive File Formats"
 Header_H2_Text="Work with popular compression file formats via .NET." >}}
 
 {{< ListingPage/PageBody/wrapper >}}

@@ -1,7 +1,7 @@
 ---
 title: Open Source Go Library to Convert DOCX to Plain Text
 description: Docconv - Convert Microsoft Word Processing Documents to Plain Text via Free GO API
-keywords: Go DOCX, Go Word processing, Go Word processing APIs, Go Doc API, Go .docx API, Go word library, create  Word Documents, modify Word documents, add image to word files, Open Source JavaScript Libraries, Open Source Word processing, Open Source Go Library, Convert DOCX, DOCX to  Plain Text
+keywords: Go DOCX, Go Word processing, Go Word processing APIs, Go Doc API, Go .docx API, Go word library, create Word Documents, modify Word documents, add image to word files, Open Source JavaScript Libraries, Open Source Word processing, Open Source Go Library, Convert DOCX, DOCX to Plain Text
 draft: false
 weight: 1
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Free GO API "
+Image_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Free GO API"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Go Library for Converting Microsoft<sup>®</sup> Word Processing Files"
-Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Free GO API " >}}
+Header_H1_Text="Open Source Go Library for Converting Microsoft<sup>®</sup> Word Processing Files"
+Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Free GO API" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -66,15 +66,15 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Fr
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Docconv supports popular Microsoft Word formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/doc/">DOC</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-arrows-v "> </i>Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-arrows-v"> </i>Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
@@ -88,12 +88,12 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Fr
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Docconv only requires Go runtime.</p>
+<p>Docconv only requires Go runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><br><header>Docconv</header><footer><small></small></footer></div>
@@ -116,7 +116,7 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Fr
 <h3>Install Docconv via GitHub</h3>
 <pre><code class="html">$ go get code.sajari.com/docconv/...
 
-                                                </code></pre>
+            </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -140,13 +140,13 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to Plain Text via Fr
 <pre><code class="go">// create a new client
 c := client.New()
 // convert DOCX to Text
-res, err := client.ConvertPath(c, "fileformat.docx")
+res, err := client.ConvertPath(c,"fileformat.docx")
 if err != nil {
-        log.Fatal(err)
+  log.Fatal(err)
 }
 // print output
 fmt.Println(res)
-                                                </code></pre>
+            </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

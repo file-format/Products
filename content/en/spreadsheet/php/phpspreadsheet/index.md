@@ -1,7 +1,7 @@
 ---
 title: Open Source PHP Spreadsheet API - Create & Apply Excel AutoFilters
 description: PHP-Spreadsheet - An Open Source Free PHP API for Excel XLS & XLSX Spreadsheets. Create & apply AutoFilters & use Formula Calculation Engine via Java Library.
-keywords: Free APIs, Free PHP API, Open Source PHP API,  PHP Excel, PHP Spreadsheet, Open Source Excel APIs, Open Source PHP APIs, Free XLSX API, Free XLS API, Create XLSX Free, Convert XLSX Free, Create XLS using PHP, Convert XLSX using PHP, PHP Excel programming, PHP Excel APIs, PHP .xls, PHP .xlsx, PHP .xlsx API, PHP .xls library, PHP Excel library, create  Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files
+keywords: Free APIs, Free PHP API, Open Source PHP API, PHP Excel, PHP Spreadsheet, Open Source Excel APIs, Open Source PHP APIs, Free XLSX API, Free XLS API, Create XLSX Free, Convert XLSX Free, Create XLS using PHP, Convert XLSX using PHP, PHP Excel programming, PHP Excel APIs, PHP .xls, PHP .xlsx, PHP .xlsx API, PHP .xls library, PHP Excel library, create Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files
 draft: false
 weight: 1
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PHPSpreadsheet"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source PHP Library for Spreadsheet Files"
 Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffice Calc files." >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 
 
 
-<p>PHPSpreadsheet is an open-source library that includes a set of classes to allow you to interact with and utilize various spreadsheet file formats of Microsoft Excel and LibreOffice Calc. PHPSpreadsheet supports spreadsheets which contain one or more worksheets, containing cells to hold data of various types, such as, numbers, formula, image, etc.</p>
+<p>PHPSpreadsheet is an open-source library that includes a set of classes to allow you to interact with and utilize various spreadsheet file formats of Microsoft Excel and LibreOffice Calc. PHPSpreadsheet supports spreadsheets which contain one or more worksheets, containing cells to hold data of various types, such as, numbers, formula, image, etc.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -50,9 +50,9 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 <p>An overview of PHPSpreadsheet features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
+<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
 <ul>
 <li>Cells</li>
 <li>Spreadsheets</li>
@@ -71,9 +71,9 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PHPSpreadsheet supports popular Microsoft Excel & LibreOffice Calc file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader/Writer</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader/Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
 <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, 
@@ -82,11 +82,11 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Reader</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a>, Gnumeric, SYLK</li>
 </ul>
-<header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -103,9 +103,9 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 <p>PHPSpreadsheet is installed via <a href="https://getcomposer.org/">Composer</a>. Use composer to install PhpSpreadsheet into your project.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>PHP</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>PHP</header>
 <ul>
 <li>PHP version 7.1 or newer</li>
 </ul>
@@ -125,15 +125,15 @@ Header_H2_Text="Read, Write, Manipulate and Process Microsoft Excel & LibreOffic
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PHPSpreadsheet</h2>
-<p>First of all you need to have PHP version 7.1 or newer to develop using PhpSpreadsheet.  The recommend way to install PhpSpreadsheet into your project is by using <a href="https://getcomposer.org">composer</a>. Open the terminal in your project root directory and run the command:</p>
+<p>First of all you need to have PHP version 7.1 or newer to develop using PhpSpreadsheet. The recommend way to install PhpSpreadsheet into your project is by using <a href="https://getcomposer.org">composer</a>. Open the terminal in your project root directory and run the command:</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Here is the command</h3>
-<pre><code class="html"> composer require phpoffice/phpspreadsheet  </code></pre>
+<pre><code class="html"> composer require phpoffice/phpspreadsheet </code></pre>
 
 
-<p>Composer offers a convenient installer that you can execute directly from the command line. Feel free to download this file or review it on <a href="https://github.com/composer/getcomposer.org/blob/master/web/installer">GitHub.</a> There are two ways to install Composer. Install it locally as part of your project, or globally as a system wide executable.<code class="html"><br></code></p>
+<p>Composer offers a convenient installer that you can execute directly from the command line. Feel free to download this file or review it on <a href="https://github.com/composer/getcomposer.org/blob/master/web/installer">GitHub.</a> There are two ways to install Composer. Install it locally as part of your project, or globally as a system wide executable.</p>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -190,12 +190,12 @@ $spreadsheet-&gt;getActiveSheet()-&gt;setAutoFilter($spreadsheet-&gt;getActiveSh
 $autoFilter = $spreadsheet-&gt;getActiveSheet()-&gt;getAutoFilter();
 // Filter the Country column on a filter value of Germany
 $autoFilter-&gt;getColumn('C')
-    -&gt;setFilterType(Column::AUTOFILTER_FILTERTYPE_FILTER)
-    -&gt;createRule()
-    -&gt;setRule(
-        Rule::AUTOFILTER_COLUMN_RULE_EQUAL,
-        'Germany'
-    );
+ -&gt;setFilterType(Column::AUTOFILTER_FILTERTYPE_FILTER)
+ -&gt;createRule()
+ -&gt;setRule(
+  Rule::AUTOFILTER_COLUMN_RULE_EQUAL,
+  'Germany'
+ );
 // Save file
 $writer = new Xlsx($spreadsheet);
 $writer-&gt;save('Filter.xlsx');

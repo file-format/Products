@@ -1,13 +1,13 @@
 ---
 title: Open Source Java Library for DOCX Files | DOCX4J
 description: POI- XWPF Library - Create, manipulate, convert and edit Word .docx documents via Java library
-keywords: Java Word processing , Word processing API, Open Source Word processing, Java Word .docx APIs,  Java Docx API, Java word API, create  .docx files, modify Word documents, add image to document, Open Source Java Libraries
+keywords: Java Word processing , Word processing API, Open Source Word processing, Java Word .docx APIs, Java Docx API, Java word API, create .docx files, modify Word documents, add image to document, Open Source Java Libraries
 draft: false
 weight: 9
 
 
 
-ProductName: DOCX4J  
+ProductName: DOCX4J 
 Githublink: https://github.com/plutext/docx4j
 ListingPage_Short_Description: DOCX4J allows manipulating DOCX file format using your Java applications.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add text & tables via Java Libray."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Java API for Word DOCX Documents"
-Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add text & tables via Java Libray." >}}
+Header_H1_Text="Open Source Java API for Word DOCX Documents"
+Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add text & tables via Java Libray." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add t
 
 
 
-<p>DOCX4J is JAXB-based open source(Apache v2) library for manipulating Microsoft Office file formats. It provides the functionality to read, write, edit & and save Microsoft Word 2007 DOCX file format.  </p>
+<p>DOCX4J is JAXB-based open source(Apache v2) library for manipulating Microsoft Office file formats. It provides the functionality to read, write, edit & and save Microsoft Word 2007 DOCX file format. </p>
 <p>DOCX4J is similar to Microsoft's OpenXML SDK, but for Java. It uses JAXB to create the in-memory object representation. Using the API you can generate Mircosoft Office documents, edit them, format the text & paragraphs, insert tables & images and manage other form elements and much more. Basically, its emphasis is on power, if the format supports it you can do it using the API.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -83,15 +83,15 @@ Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add t
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>DOCX4J supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/page-description-language/xslfo/">FO</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -108,9 +108,9 @@ Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add t
 <p>DOCX4J only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>DOCX4J</header><footer><small></small></footer></div>
@@ -148,7 +148,7 @@ Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add t
 &lt;artifactId&gt;docx4j-JAXB-MOXy&lt;/artifactId&gt;
 &lt;version&gt;8.0.0&lt;/version&gt;
 &lt;/dependency&gt;
-    </code></pre>
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -157,7 +157,7 @@ Header_H2_Text="Create, Read, Edit and Convert Microsoft Word DOCX files, add t
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Paragraph, Image & Table to Word Documents</h2>
-<p>DOCX4J allows the developers to add paragraphs & images to Word documents. The API also provides the feature to add tables to DOCX document while making it possible to create simple and nested tables with user-defined data.</p>
+<p>DOCX4J allows the developers to add paragraphs & images to Word documents. The API also provides the feature to add tables to DOCX document while making it possible to create simple and nested tables with user-defined data.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -170,8 +170,8 @@ MainDocumentPart mainDocumentPart = wordPackage.getMainDocumentPart();
 mainDocumentPart.addParagraphOfText("Open Source Java API for Word DOCX Documents");
 // Save file
 wordPackage.save(new File("FileFormat.docx"));
-                                    
-                                </code></pre>
+         
+        </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -180,7 +180,7 @@ wordPackage.save(new File("FileFormat.docx"));
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Extract Text from DOCX</h2>
-<p>DOCX4J provides the specialized class to extract data from Microsoft Word DOCX documents with just a few lines of code. In the same way, it can also extract headings, footnotes, table data and so on from a Word file.</p>
+<p>DOCX4J provides the specialized class to extract data from Microsoft Word DOCX documents with just a few lines of code. In the same way, it can also extract headings, footnotes, table data and so on from a Word file.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -190,15 +190,15 @@ WordprocessingMLPackage wordMLPackage = WordprocessingMLPackage.load(new File("F
 // Load main document part
 MainDocumentPart mainDocumentPart = wordMLPackage.getMainDocumentPart();
 // Extract nodes
-String textNodesXPath = "//w:t";
+String textNodesXPath ="//w:t";
 List&lt;Object&gt; textNodes= mainDocumentPart.getJAXBNodesViaXPath(textNodesXPath, true);
 // Print text
 for (Object obj : textNodes) {
-    Text text = (Text) ((JAXBElement) obj).getValue();
-    String textValue = text.getValue();
-    System.out.println(textValue);
-}                                  
-                                </code></pre>
+ Text text = (Text) ((JAXBElement) obj).getValue();
+ String textValue = text.getValue();
+ System.out.println(textValue);
+}         
+        </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -207,7 +207,7 @@ for (Object obj : textNodes) {
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate & Edit Word Documents using Java API</h2>
-<p>DOCX4J enables the software programmers to create new Word Documents in DOCX file format. Developers can also load an existing Microsoft Word DOCX file to edit it according to their application needs. It allows to add new paragraphs, insert text, apply text alignment & borders, change text styling and more.</p>
+<p>DOCX4J enables the software programmers to create new Word Documents in DOCX file format. Developers can also load an existing Microsoft Word DOCX file to edit it according to their application needs. It allows to add new paragraphs, insert text, apply text alignment & borders, change text styling and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Google Sheets - Create & Share Spreadsheet
 description: Xlwings– An open source Free Python API for managing Google Sheets. Developers can create, modify, share and parse Excel XML Spreadsheets via Python library.
-keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files,  generate Excel files
+keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files, generate Excel files
 
 draft: false
 weight: 29
@@ -20,7 +20,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Python library for reading and formatting XLS & XLSX file format."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Spreadsheets"
 Header_H2_Text="Python library for reading and formatting XLS & XLSX file format." >}}
@@ -33,7 +33,7 @@ Header_H2_Text="Python library for reading and formatting XLS & XLSX file format
 
 
 <p>Xlrd is an open source python API for reading & formatting Microsoft Excel (XLS, XLSX) file format. The API allows the Python developer to read Excel files, handle unicodes in it, manage dates, format cells & columns, use constant, foumulas, macros and more. Furthermore, the API provides loading worksheets on demand functionality that allows developers to save memory by loading only the required sheets.</p>
-<p>The devloper no more maintains the API, and corrupted & non-standard Excel file will not work with this API. The API will ignore VBA modules, comments, hyperlinks, autofilters, advance filters and few other excel features aswell.</p>
+<p>The devloper no more maintains the API, and corrupted & non-standard Excel file will not work with this API. The API will ignore VBA modules, comments, hyperlinks, autofilters, advance filters and few other excel features as well.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -72,16 +72,16 @@ Header_H2_Text="Python library for reading and formatting XLS & XLSX file format
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Xlrd supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Xlrd supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>,  <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>    </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Xlrd</header><footer><small></small></footer></div>
@@ -94,7 +94,7 @@ Header_H2_Text="Python library for reading and formatting XLS & XLSX file format
 <p>Xlrd requires Python 2.7 or 3.4+.</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Xlrd</header><footer><small></small></footer></div>
@@ -131,7 +131,7 @@ Header_H2_Text="Python library for reading and formatting XLS & XLSX file format
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Load Worksheets on Demand using Python</h2>
-<p>The Open Source spreadsheet library Xlrd allows software developers to load worksheets on demand. The functionality reduces memory usage and loads only required worksheets. You can use on-demand load functionality by using on_demang argument.</p>
+<p>The Open Source spreadsheet library Xlrd allows software developers to load worksheets on demand. The functionality reduces memory usage and loads only required worksheets. You can use on-demand load functionality by using on_demang argument.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

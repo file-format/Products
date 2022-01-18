@@ -1,7 +1,7 @@
 ---
 title: JavaScript Library for PowerPoint – Add Image & Charts to PPTX Files
 description: Open source Free JavaScript Library for PowerPoint presentations. Software developers can create, modify & manipulate PPTX files via JavaScript API.
-keywords: Free PowerPoint, Free PPTX API, officegen, powerpoint PPTX, microsoft office, office 2007, Office Open XML, JavaScript PPTX API, JavaScript PPTX, JavaScript  presentation, create PPTX slide, JavaScript PowerPoint library, modify PPTX files, add image to presentation, Open Source JavaScript Libraries
+keywords: Free PowerPoint, Free PPTX API, officegen, powerpoint PPTX, microsoft office, office 2007, Office Open XML, JavaScript PPTX API, JavaScript PPTX, JavaScript presentation, create PPTX slide, JavaScript PowerPoint library, modify PPTX files, add image to presentation, Open Source JavaScript Libraries
 draft: false
 weight: 3
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Officegen-PPTX"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="JavaScript Library for PowerPoint Presentations"
-Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX Presentations." >}}
+Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX Presentations." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 
 
 
-<p>Open Source pure JavaScript API that allows computer programmers to generate PowerPoint (PPTX) presentation for Microsoft Office 2007 and later.<strong>  </strong>The great thing about Officegen is that it can work in several environments. It can be used in all those environments that support Node.js including Linux, OSX and Windows.</p>
-<p>Several important features are fully supported by Officegen-PPTX for generating Microsoft PowerPoint document (.pptx file) such as adding slides, creating native charts, Adding images, hidden slides support, slide layouts support, adding date,  time and current slide number, add fonts, colors, and background, etc.</p>
+<p>Open Source pure JavaScript API that allows computer programmers to generate PowerPoint (PPTX) presentation for Microsoft Office 2007 and later. The great thing about Officegen is that it can work in several environments. It can be used in all those environments that support Node.js including Linux, OSX and Windows.</p>
+<p>Several important features are fully supported by Officegen-PPTX for generating Microsoft PowerPoint document (.pptx file) such as adding slides, creating native charts, Adding images, hidden slides support, slide layouts support, adding date, time and current slide number, add fonts, colors, and background, etc.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -51,7 +51,7 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 <p>An overview of Officegen-PPTX features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -65,9 +65,9 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 <li>Add colors</li>
 <li>Add background</li>
 <li>rotate objects</li>
-<li>Hide  slides</li>
+<li>Hide slides</li>
 <li>Add date</li>
-<li>Add  time</li>
+<li>Add time</li>
 <li>Slide number</li>
 </ul>
 </div>
@@ -80,15 +80,15 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Officegen-PPTX supports popular MS PowerPoint file formats as shown below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/presentation/odp/">ODP</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">, PPTX</a></li>
 </ul>
@@ -102,14 +102,14 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Officegen-PPTX requires  Java run-time or NodeJS.</p>
+<p>Officegen-PPTX requires Java run-time or NodeJS.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Runs-in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Runs-in</header>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS  </li>
+<li>NodeJS </li>
 </ul>
 </div>
 <!--/left--><!--/right--></div>
@@ -127,12 +127,12 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Officegen</h2>
-<p>The most recent release of officegen can be used by directly installing it from the officegen repository by calling the below command. </p>
+<p>The most recent release of officegen can be used by directly installing it from the officegen repository by calling the below command. </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install using officegen repository</h3>
-<pre><code class="html"> $ npm install Ziv-Barber/officegen#master  </code></pre>
+<h3>Install using officegen repository</h3>
+<pre><code class="html"> $ npm install Ziv-Barber/officegen#master </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -140,7 +140,7 @@ Header_H2_Text="Open Source JavaScript API to Read, Write, Edit & Convert PPTX 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">JavaScript Library to Create PowerPoint PPTX Presentation</h2>
-<p>Officegen-PPTX API allows developers to create a PowerPoint 2007 presentation inside their own JavaScript applications. It is necessary to create at least one slide in your PPTX or PPSX presentation file. Once the slide is created you can place different objects, such as text box, shapes, images, etc</p>
+<p>Officegen-PPTX API allows developers to create a PowerPoint 2007 presentation inside their own JavaScript applications. It is necessary to create at least one slide in your PPTX or PPSX presentation file. Once the slide is created you can place different objects, such as text box, shapes, images, etc</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -206,26 +206,26 @@ slide = pptx.makeNewSlide();
 slide.name = 'Chart slide';
 slide.back = 'ffffff';
 slide.addChart(
-  {   title: 'Column chart',
-          renderType: 'column',
-          valAxisTitle: 'Costs/Revenues ($)',
-          catAxisTitle: 'Category',
-          valAxisNumFmt: '$0',
-                valAxisMaxValue: 24,
-    data:  [ // each item is one serie
-    {
-      name: 'Income',
-      labels: ['2005', '2006', '2007', '2008', '2009'],
-      values: [23.5, 26.2, 30.1, 29.5, 24.6],
-      color: 'ff0000' // optional
-    },
-    {
-      name: 'Expense',
-      labels: ['2005', '2006', '2007', '2008', '2009'],
-      values: [18.1, 22.8, 23.9, 25.1, 25],
-      color: '00ff00' // optional
-    }]
-  }
+ { title: 'Column chart',
+   renderType: 'column',
+   valAxisTitle: 'Costs/Revenues ($)',
+   catAxisTitle: 'Category',
+   valAxisNumFmt: '$0',
+    valAxisMaxValue: 24,
+ data: [ // each item is one serie
+ {
+  name: 'Income',
+  labels: ['2005', '2006', '2007', '2008', '2009'],
+  values: [23.5, 26.2, 30.1, 29.5, 24.6],
+  color: 'ff0000' // optional
+ },
+ {
+  name: 'Expense',
+  labels: ['2005', '2006', '2007', '2008', '2009'],
+  values: [18.1, 22.8, 23.9, 25.1, 25],
+  color: '00ff00' // optional
+ }]
+ }
 )
 // Set save path
 let out = fs.createWriteStream('Chart.pptx')
@@ -239,7 +239,7 @@ pptx.generate(out)
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

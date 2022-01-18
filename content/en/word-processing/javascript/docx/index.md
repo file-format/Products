@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Docx"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Generate & Manage Word DOCX via JavaScript Library"
-Header_H2_Text="Open Source JavaScript Library to create, modify & convert Microsoft Word DOCX Documents. Add paragraph, headers & footers, Tables, bullet and numbers inside Word files." >}}
+Header_H1_Text="Generate & Manage Word DOCX via JavaScript Library"
+Header_H2_Text="Open Source JavaScript Library to create, modify & convert Microsoft Word DOCX Documents. Add paragraph, headers & footers, Tables, bullet and numbers inside Word files." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 
 
 
-<p>Docx is an open source JavaScript API that provides the capability to generate and manage Word DOCX files inside their own JavaScript application with ease. The library can smoothly work for Node as well as on the Browser. The library is very stable and easy to use. With just a couple of lines of code, developers can create and manipulate word documents without any external dependencies.</p>
-<p>The Docx API has included support for several important features related to working with Word documents such as creating Word documents, modifying DOCX files, add a paragraph to a word file, add and manage headers & footers, insert and edit tables, bullet and numbering support, Table of content creation, set document margins, set page size, text alignment, Manage fonts and font sizes, document sections creation and many more.</p>
+<p>Docx is an open source JavaScript API that provides the capability to generate and manage Word DOCX files inside their own JavaScript application with ease. The library can smoothly work for Node as well as on the Browser. The library is stable and easy to use. With just a couple of lines of code, developers can create and manipulate word documents without any external dependencies.</p>
+<p>The Docx API supports several important features related to working with Word documents such as creating Word documents, modifying DOCX files, add a paragraph to a word file, add and manage headers & footers, insert and edit tables, bullet and numbering support, Table of content creation, set document margins, set page size, text alignment, Manage fonts and font sizes, document sections creation and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -51,7 +51,7 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 <p>An overview of Docx features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -74,18 +74,18 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Docx supports popular Microsoft Word file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Docx supports popular Microsoft Word file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></a> <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></a> <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -97,14 +97,14 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Docx only requires  Java run-time.</p>
+<p>Docx only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS  </li>
+<li>NodeJS </li>
 </ul>
 </div>
 <!--/left--><!--/right--></div>
@@ -127,7 +127,7 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Officegen-DOCX via npm</h3>
-<pre><code class="html">npm install --save docx  </code></pre>
+<pre><code class="html">npm install --save docx </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -152,7 +152,7 @@ Header_H2_Text="Open Source JavaScript Library to create, modify & convert Micro
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Manage Tables inside a Word File</h2>
-<p>Tables are one of the most common formatting elements that we are using in Microsoft Word. Tables help users to organize their content in different ways. The open source DOCX library gives software developers the capability to use tables inside their own JavaScript applications. The library supports adding a row to tables, repeat table row, add cells to table, set the width of a cell, add text to a cell, adding the nested table, merging cells together, add columns, add a border to a table,  merge columns, and many more.</p>
+<p>Tables are one of the most common formatting elements that we are using in Microsoft Word. Tables help users to organize their content in different ways. The open source DOCX library gives software developers the capability to use tables inside their own JavaScript applications. The library supports adding a row to tables, repeat table row, add cells to table, set the width of a cell, add text to a cell, adding the nested table, merging cells together, add columns, add a border to a table, merge columns, and many more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
