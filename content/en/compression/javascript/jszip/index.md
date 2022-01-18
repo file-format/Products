@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript API for Compression – Extract Images from ZIP
-description: JSZip - Open Source free compression API  for JavaScript programmers. Create, Read & Manipulate ZIP files, extract Image from ZIP File via JavaScript library
-keywords: JavaScript Compression, Free Compression API, Free ZIP library, JavaScript compression API, compress files in JavaScript, decompress files JavaScript,  ZIP JavaScript Archive, JavaScript  BZip2, JavaScript BZip2,  JavaScript ZIP programming, create  ZIP archive, JavaScript compression Library, Open Source JavaScript Library
+description: JSZip - Open Source free compression API for JavaScript programmers. Create, Read & Manipulate ZIP files, extract Image from ZIP File via JavaScript library
+keywords: JavaScript Compression, Free Compression API, Free ZIP library, JavaScript compression API, compress files in JavaScript, decompress files JavaScript, ZIP JavaScript Archive, JavaScript BZip2, JavaScript BZip2, JavaScript ZIP programming, create ZIP archive, JavaScript compression Library, Open Source JavaScript Library
 draft: false
 weight: 18
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Few Lines of Code via JavaScript API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source JavaScript Library for Compression Files "
-Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Few Lines of Code via JavaScript API." >}}
+Header_H1_Text="Open Source JavaScript Library for Compression Files"
+Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Few Lines of Code via JavaScript API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 
 
 
-<p>An Open Source very simple and stable JavaScript library that gives software professionals the capability to create, read and modify ZIP files inside their own JavaScript applications. The API is very user-friendly and useful. It gives you the power to select and download images from a gallery with ease.</p>
+<p>An Open Source simple and stable JavaScript library that gives software professionals the capability to create, read and modify ZIP files inside their own JavaScript applications. The API is user-friendly and useful. It gives you the power to select and download images from a gallery with ease.</p>
 <p>The JSZip instance represents a set of files. That allows you to add them, remove them or modify them. It also supports generating a ZIP file by importing an existing zip file. Moreover, it also supports lower memory consumption and Improved webworker compatibility. The great thing is it happens to smoothly work in all major browsers and generate a ZIP file with a few lines of code.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -71,15 +71,15 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>JSZip supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a></li>
 </ul>
@@ -100,7 +100,7 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 <ul>
 <li>JavaScript</li>
 </ul>
-</header><header> </header></div>
+</header><header> </header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>JSZip</header><footer><small></small></footer></div>
@@ -123,7 +123,7 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 <h3>Install via <strong>npm</strong></h3>
 <pre><code class="html"> npm install jszip <br></code></pre>
 <h3>Install via <strong>Bower</strong></h3>
-<pre><code class="html">bower install Stuk/jszip  </code></pre>
+<pre><code class="html">bower install Stuk/jszip </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -141,7 +141,7 @@ Header_H2_Text="Programmatically Create, Modify & Manipulate ZIP Files using Fe
 <h2 class="h2title">Load and Read ZIP File via JavaScript</h2>
 <p>JSZip library enables software programmers to load and read ZIP files with a really easy simple way inside your own JavaScript applications. The API supports advanced features like caching a ZIP file locally, extracting its contents, and share within a service worker. The API makes sure that the ZIP files can be read and generated without any need for a server.</p>
 <h2 class="h2title">Extract Image from ZIP File</h2>
-<p>The JSZip library gives software developers the capability to extract their images from a single ZIP file, instead of separately reading every image from the server. For using this you need to include the jszip_min.js file as one of your &lt;script&gt; files along with hanis_min.js.</p>
+<p>The JSZip library gives software developers the capability to extract their images from a single ZIP file, instead of separately reading e image from the server. For using this you need to include the jszip_min.js file as one of your &lt;script&gt; files along with hanis_min.js.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

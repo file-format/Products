@@ -1,5 +1,5 @@
 ---
-title: fileformat - Image Processing API for Python - Neural Enhance
+title: Image Processing API for Python - Neural Enhance
 
 
 draft: false
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Super Resolution for Images using Deep Learning"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open-Source Python API for Images"
 Header_H2_Text="Super Resolution for Images using Deep Learning" >}}
@@ -67,17 +67,17 @@ Header_H2_Text="Super Resolution for Images using Deep Learning" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Neural Enhance supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, </li>
 </ul>
 </div>s
 <!--/right--></div>
@@ -92,7 +92,7 @@ Header_H2_Text="Super Resolution for Images using Deep Learning" >}}
 <p>Neural Enhance works with Python 3.4+</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Neural Enhance</header><footer><small></small></footer></div>
@@ -134,8 +134,8 @@ Header_H2_Text="Super Resolution for Images using Deep Learning" >}}
 <h3>Enhance Images</h3>
 <pre><code class="c#"># Run the super-resolution script to repair JPEG artefacts, zoom factor 1:1.
 python3 enhance.py --type=photo --model=repair --zoom=1 broken.jpg
-                                                                
-                                </code></pre>
+                
+        </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -144,7 +144,7 @@ python3 enhance.py --type=photo --model=repair --zoom=1 broken.jpg
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Training Super-Resolution Images via Python</h2>
-<p>The Open Source image library Neural Enhance training your images using your own way. The API comes with default pre-trained models, you can train your own process by using parameters based on your image dataset. You can train your model by using perceptual loss from paper, train your model using an adversarial setup, and more.</p>
+<p>The Open Source image library Neural Enhance training your images using your own way. The API comes with default pre-trained models, you can train your own process by using parameters based on your image dataset. You can train your model by using perceptual loss from paper, train your model using an adversarial setup, and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

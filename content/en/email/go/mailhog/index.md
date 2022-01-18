@@ -1,7 +1,7 @@
 ---
 title: Open Source GO Library for Testing Email Messages
 description: MailHog- Open Source Go Library for IMAP, POP3 & SMTP. Generate Message with Attachments, Encrypt/Decrypt Messages with PGP/MIME.
-keywords: Free Go library,  GO API, GO MSG Library, Open Source outlook Library, GO POP3 library, create  MSG Documents, SMTPGO .GO Libraries, GO outlook, GO IMAP, GO EML, c-sharp, email, mime, mime-parser, dkim, smime, smtp, imap, pop3, imap-client, pop3-client, smtp-client
+keywords: Free Go library, GO API, GO MSG Library, Open Source outlook Library, GO POP3 library, create MSG Documents, SMTPGO .GO Libraries, GO outlook, GO IMAP, GO EML, c-sharp, email, mime, mime-parser, dkim, smime, smtp, imap, pop3, imap-client, pop3-client, smtp-client
 draft: false
 weight: 15
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free Email Testing Tool for developer, developed in GO."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Go Library for Testing Email Messages"
+Header_H1_Text="Open Source Go Library for Testing Email Messages"
 Header_H2_Text="Free Email Testing Tool for developer, developed in GO." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Free Email Testing Tool for developer, developed in GO." >}}
 
 
 
-<p>MailHog is an Open Source email testing tool for developers. You can configure your applictions to use MailHog for SMTP delivery, you can reterive email messages with the JSON API or view them in the web UI. You can also end messages to real SMTP servers.</p>
+<p>MailHog is an Open Source email testing tool for developers. You can configure your applictions to use MailHog for SMTP deli, you can reterive email messages with the JSON API or view them in the web UI. You can also end messages to real SMTP servers.</p>
 <p>MailHog implement ESMTP server implementation, supports SMTP AUTH and PIPELINING, provides Web interface to view text or HTML emails, display real time email updates and releases emails to real SMTP servers. Furthermore, the API supports multipart MIME & allows downlading indiviual MEME parts. MailHog uses In-memory message storage and uses MongoDB and file based storage for message persistence.</p>
-<p><span style="font-size: 12.16px;">. </span></p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -65,7 +65,7 @@ Header_H2_Text="Free Email Testing Tool for developer, developed in GO." >}}
 </ul>
 </div>
 <!--/left -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Email</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -74,15 +74,15 @@ Header_H2_Text="Free Email Testing Tool for developer, developed in GO." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Email supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG </a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
@@ -99,7 +99,7 @@ Header_H2_Text="Free Email Testing Tool for developer, developed in GO." >}}
 <p>MailHog Requires Go 1.4+ to build..</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right">
 <ul>
 <li>Go v1.4 or above.</li>
@@ -140,15 +140,15 @@ You can start running MailHog in MacOs by running mailhog in the command line.
 {{< SinglePage/PageBody/features/code >}}
 <pre><code class="html">{
 "server name": {
-    "name": "server name",
-    "host": "...",
-    "port": "587",
-    "email": "...",
-    "username": "...",
-    "password": "...",
-    "mechanism": "PLAIN"
+ "name":"server name",
+ "host":"...",
+ "port":"587",
+ "email":"...",
+ "username":"...",
+ "password":"...",
+ "mechanism":"PLAIN"
 }
-                        }</code></pre>
+      }</code></pre>
 <p>In the JSON file, only name, host and port are requried to send SMPT email.</p>
 
 

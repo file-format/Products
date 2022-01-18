@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript Presentation API - Create & Convert HTML to PPTX
 description: PptxGenJS - Open Source free JavaScript API for PowerPoint Presentation files. Developers can create, edit PPTX, convert HTML to PPTX or add Images or Charts.
-keywords: Free PPTX API, Free PowerPoint, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint , JavaScript PowerPoint PPTX, Microsoft office JavaScript,  JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations, convert HTML to PPTX, add Images presentation, add Charts in PPTX file,  create PPTX slide, JavaScript PowerPoint library, modify PPTX files
+keywords: Free PPTX API, Free PowerPoint, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint , JavaScript PowerPoint PPTX, Microsoft office JavaScript, JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations, convert HTML to PPTX, add Images presentation, add Charts in PPTX file, create PPTX slide, JavaScript PowerPoint library, modify PPTX files
 draft: false
 weight: 6
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PptxGenJS"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="JavaScript Library for PPTX Presentations"
-Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</sup> PPTX in web apps." >}}
+Header_H1_Text="JavaScript Library for PPTX Presentations"
+Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</sup> PPTX in web apps." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -52,7 +52,7 @@ Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</
 <p>An overview of PptxGenJS features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -80,15 +80,15 @@ Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PptxGenJS supports popular Microsoft PowerPoint file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">, PPTX</a></li>
 </ul>
@@ -102,14 +102,14 @@ Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>PptxGenJS only requires  Java run-time.</p>
+<p>PptxGenJS only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run-in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run-in</header>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS  </li>
+<li>NodeJS </li>
 </ul>
 </div>
 <!--/left--><!--/right--></div>
@@ -149,7 +149,7 @@ Header_H2_Text="Open source free library to create & modify PowerPoint<sup>®</
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Images & Charts to PPTX Slide</h2>
-<p>Images and charts bring great value to a presentation.  Software programmers can easily add images and charts into a presentation Slide with the help of PptxGenJS API. There are several options available for image addition such as add image by local URL, image from remote URL, image by data (pre-encoded base64) and Image with Hyperlink, etc. It also supports cropping and scaling an image.</p>
+<p>Images and charts bring great value to a presentation. Software programmers can easily add images and charts into a presentation Slide with the help of PptxGenJS API. There are several options available for image addition such as add image by local URL, image from remote URL, image by data (pre-encoded base64) and Image with Hyperlink, etc. It also supports cropping and scaling an image.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

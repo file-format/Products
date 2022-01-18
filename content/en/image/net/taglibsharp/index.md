@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Image File Formats - Read & Write Metadata of Image File Formats
 description: TagLib-Sharp - An Open Source Free .NET API for Video File Format. Read and Write Metadata tags of image file formats
-keywords: TagLib API, TagLib Sharp API, Free Image API,  Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
+keywords: TagLib API, TagLib Sharp API, Free Image API, Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 Audio
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read & Write Metadata of Image File Format."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text=".NET Library for Manipulating Image Documents"
+Header_H1_Text=".NET Library for Manipulating Image Documents"
 Header_H2_Text="Read & Write Metadata of Image File Format." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -59,7 +59,7 @@ Header_H2_Text="Read & Write Metadata of Image File Format." >}}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Taglib-Sharp</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -67,18 +67,18 @@ Header_H2_Text="Read & Write Metadata of Image File Format." >}}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Taglib-Sharp supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Taglib-Sharp supports popular Image file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>,  <a href="https://docs.fileformat.com/image/gif/">GIF</a>,  <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="#">PBM</a>,  <a href="#">PPM</a>,  <a href="#">PNM</a>,  <a href="#">PCX</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>,  <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>,  <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
+<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="#">PBM</a>, <a href="#">PPM</a>, <a href="#">PNM</a>, <a href="#">PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>,  <a href="https://docs.fileformat.com/image/gif/">GIF</a>,  <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="#">PBM</a>,  <a href="#">PPM</a>,  <a href="#">PNM</a>,  <a href="#">PCX</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>,  <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>,  <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
+<li><a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="#">PBM</a>, <a href="#">PPM</a>, <a href="#">PNM</a>, <a href="#">PCX</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, <a href="https://docs.fileformat.com/page-description-language/svg/">SVG</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -135,7 +135,7 @@ string make = image.ImageTag.Make;
 string model = image.ImageTag.Model;
 // print properties
 Console.WriteLine("Make: {0}, Model: {1}", title, model);
-                                    </code></pre>
+         </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

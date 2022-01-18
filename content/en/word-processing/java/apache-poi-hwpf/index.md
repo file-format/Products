@@ -1,7 +1,7 @@
 ---
 title: Open Source Java Library for Office Word Binary Documents Processing
 description: POI HWPF - Open Source free Java library for MS word binary documents processing. Create, modify or add custom header & footer to Word DOC files via Java API.
-keywords: Free Word API, random word api free, Convert Word Document Free, Open Source API, Open Source Word API. Java Word processing, Java Word processing APIs, Java Doc API, Java .doc API, Java word library, create  Word Documents, modify Word documents, add image to word files, Open Source Java Libraries, Open Source Word processing
+keywords: Free Word API, random word api free, Convert Word Document Free, Open Source API, Open Source Word API. Java Word processing, Java Word processing APIs, Java Doc API, Java .doc API, Java word library, create Word Documents, modify Word documents, add image to word files, Open Source Java Libraries, Open Source Word processing
 draft: false
 weight: 2
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image_class:
 Header_Image="header-image.png"
 Image_H2_Text="Apache POI HWPF"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Process Microsoft Word Binary Documents"
+Header_H1_Text="Process Microsoft Word Binary Documents"
 Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Java Library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 
 
 
-<p>Apache POI HWPF is a Apache POI port for Microsoft Word DOC file format. <span style="font-size: 10.0pt; font-family: 'Arial','sans-serif';">It</span> provides functionality for reading and writing DOC files without needing any additional libraries. It also provides limited read only support for the older Word 6 and Word 95 file formats. At this stage, HWPF is mainly concerned with formatted text. It provides basic text extraction, specific text extraction, access of header & footers and changing text features.</p>
-<p>It facilitates developers to create MS-Word Documents with the ability to manipulate paragraphs, add different styles to text, add a table, extract text and much more.</p>
+<p>Apache POI HWPF is a Apache POI port for Microsoft Word DOC file format. It provides functionality for reading and writing DOC files without needing any additional libraries. It also provides limited read only support for the older Word 6 and Word 95 file formats. At this stage, HWPF is mainly concerned with formatted text. It provides basic text extraction, specific text extraction, access of header & footers and changing text features.</p>
+<p>It facilitates developers to create MS-Word Documents with the ability to manipulate paragraphs, add different styles to text, add a table, extract text and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -69,34 +69,34 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF  </header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Apache POI HWPF supports popular Microsoft Word file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Input/Output</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Input Only</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Input Only</header>
 <ul>
 <li><a href="https://docs.fileformat.com/web/html/">HTML</a>,
-   <a href="https://docs.fileformat.com/page-description-language/xslfo/"> FO</a>, 
-   <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+ <a href="https://docs.fileformat.com/page-description-language/xslfo/"> FO</a>, 
+ <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF  </header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
@@ -106,12 +106,12 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 <p>Apache POI-HWPF only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF  </header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache POI"><header>Apache POI HWPF </header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2 -->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
@@ -131,12 +131,12 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 {{< SinglePage/PageBody/features/code >}}
 <h3>Apache POI Maven Dependency</h3>
 <pre><code class="html">&lt;!-- https://mvnrepository.com/artifact/org.apache.poi/poi --&gt;
-    &lt;dependency&gt;
-        &lt;groupId&gt;org.apache.poi&lt;/groupId&gt;
-        &lt;artifactId&gt;poi-scratchpad&lt;/artifactId&gt;
-        &lt;version&gt;4.0.0&lt;/version&gt;
-    &lt;/dependency&gt;
-    </code></pre>
+ &lt;dependency&gt;
+  &lt;groupId&gt;org.apache.poi&lt;/groupId&gt;
+  &lt;artifactId&gt;poi-scratchpad&lt;/artifactId&gt;
+  &lt;version&gt;4.0.0&lt;/version&gt;
+ &lt;/dependency&gt;
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -154,9 +154,9 @@ Header_H2_Text="Create, Read, Manipulate & Convert DOC files via Open Source Jav
 HWPFDocument doc = new HWPFDocument(new FileInputStream("empty.doc"));
 Range range = doc.getRange();
 // inset text
-CharacterRun run = range.insertAfter("File Format Developer Guide -  " +
-"Learn about computer files that you come across in " +
-"your daily work at: www.fileformat.com ");
+CharacterRun run = range.insertAfter("File Format Developer Guide -" +
+"Learn about computer files that you come across in" +
+"your daily work at: www.fileformat.com");
 OutputStream out = new FileOutputStream("document.pdf");
 // save document
 doc.write(out);
@@ -183,12 +183,12 @@ WordToHtmlConverter wordToHtmlConverter = new WordToHtmlConverter(newDocument );
 wordToHtmlConverter.processDocument( wordDocument );
 StringWriter stringWriter = new StringWriter();
 Transformer transformer = TransformerFactory.newInstance().newTransformer();
-transformer.setOutputProperty( OutputKeys.INDENT, "yes" );
-transformer.setOutputProperty( OutputKeys.ENCODING, "utf-8" );
-transformer.setOutputProperty( OutputKeys.METHOD, "html" );
+transformer.setOutputProperty( OutputKeys.INDENT,"yes" );
+transformer.setOutputProperty( OutputKeys.ENCODING,"utf-8" );
+transformer.setOutputProperty( OutputKeys.METHOD,"html" );
 transformer.transform(
-        new DOMSource( wordToHtmlConverter.getDocument() ),
-        new StreamResult( stringWriter ) );
+  new DOMSource( wordToHtmlConverter.getDocument() ),
+  new StreamResult( stringWriter ) );
 // get html
 String html = stringWriter.toString();</code></pre>
 
@@ -221,14 +221,14 @@ System.out.println(extractor.getText());
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Custom Header & Footer to DOC</h2>
-<p>Apache POI HWPF enables Java developers to create custom headers and footers inside Word documents. Apache POI HWPF is described as "moderately functional". </p>
+<p>Apache POI HWPF enables Java developers to create custom headers and footers inside Word documents. Apache POI HWPF is described as"moderately functional". </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

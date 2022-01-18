@@ -1,13 +1,13 @@
 ---
 title: Merge, Crop & Resize Images, Add Animations via GO Image Manipulation API
-description: Mergi  – Open Source e Go API that allows to Add Watermarks & Apply Animations to images.  Merge, Crop & Resize Images via Advanced Image Manipulation GO API.
-keywords: image processing, Go images, image processing library, Go PNG API, Go JPG, Go image API, Go Image creation, Modify images, Image filtering API, Go  fade image , Add Watermarks & Apply Animation,  image filtering  API, image animation, 3d image  rendering
+description: Mergi – Open Source e Go API that allows to Add Watermarks & Apply Animations to images. Merge, Crop & Resize Images via Advanced Image Manipulation GO API.
+keywords: image processing, Go images, image processing library, Go PNG API, Go JPG, Go image API, Go Image creation, Modify images, Image filtering API, Go fade image , Add Watermarks & Apply Animation, image filtering API, image animation, 3d image rendering
 draft: false
 weight: 32
 
 
 
-ProductName: Mergi  
+ProductName: Mergi 
 Githublink: https://github.com/noelyahan/mergi
 ListingPage_Short_Description: An Advanced Go image processing library that programmatically merge, crop, and resize images.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Leptonica"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="GO API for Advanced Image Manipulation"
+Header_H1_Text="GO API for Advanced Image Manipulation"
 Header_H2_Text="Open Source Go library to programmatically merge, crop, and resize images. You can add watermarks and animation to images inside your own apps." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Open Source Go library to programmatically merge, crop, and resi
 
 
 
-<p>Mergi is a powerful go library that provides the capability to process images programmatically using GO language.  The library is well-organized and can be easily integrated to perform numerous operations with just a couple of lines of Go code.  The library is freely available under MIT license and can be used inside your projects with ease.</p>
+<p>Mergi is a powerful go library that provides the capability to process images programmatically using GO language. The library is well-organized and can be easily integrated to perform numerous operations with just a couple of lines of Go code. The library is freely available under MIT license and can be used inside your projects with ease.</p>
 <p>The open source Mergi library has included complete support for several important image processing features such as merging images, image cropping support, resizing images, add watermarks to your images, image animation facility, easing images, add transition to images, and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -48,7 +48,7 @@ Header_H2_Text="Open Source Go library to programmatically merge, crop, and resi
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of Mergi features.</p>
+<p>An overview of Mergi features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-left"><header>Feature Overview</header>
@@ -77,18 +77,18 @@ Header_H2_Text="Open Source Go library to programmatically merge, crop, and resi
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Mergi supports Word processing as well as it can export data to common file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Mergi supports Word processing as well as it can export data to common file formats.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>JPEG, PNG, TIFF, BMP</li>
+<li>JPEG, PNG, TIFF, BMP</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -101,14 +101,14 @@ Header_H2_Text="Open Source Go library to programmatically merge, crop, and resi
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
 <p>Mergi only requires Go runtime to be installed.</p>
-<p> </p>
+<p> </p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!-- <header><i class="fa fa-cubes"> &nbsp;</i></header>
-    <ul>
-    <li>Python 2.6 & above</li>
-    </ul> --></div>
+ <ul>
+ <li>Python 2.6 & above</li>
+ </ul> --></div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
 <div class="d1-logo"><img style="border: 1px solid #9289d7; border-radius: 50%;" src='listing-image.png' alt="Mergi library"><header>Mergi</header><footer><small></small></footer></div>

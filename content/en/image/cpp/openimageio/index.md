@@ -1,7 +1,7 @@
 ---
 title: Open Source C++ Image API – Work with PNG, JPEG, BMP &TIFF Formats
-description: OpenImageIO - An Open Source Free C++ API for image processing.  Read, Write, process & convert image formats like TIFF, PNG, JPEG, PSD & GIF via C++ library.
-keywords: Free image API, Free library for images, image processing,  create image C++, C++ images, image processing library, C++ PNG API, C++ JPG, C++ image API,  C++ Image creation, Modify images, Image filtering API, C++  fade image , image filtering  API, image animation, 2d image
+description: OpenImageIO - An Open Source Free C++ API for image processing. Read, Write, process & convert image formats like TIFF, PNG, JPEG, PSD & GIF via C++ library.
+keywords: Free image API, Free library for images, image processing, create image C++, C++ images, image processing library, C++ PNG API, C++ JPG, C++ image API, C++ Image creation, Modify images, Image filtering API, C++ fade image , image filtering API, image animation, 2d image
 draft: false
 weight: 2
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP, TIFF & many more via Free C++ Library."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Image Processing & Conversion via Open Source C++ API"
-Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP, TIFF & many more via Free C++ Library." >}}
+Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP, TIFF & many more via Free C++ Library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 
 
 
-<p>OpenImageIO is a powerful image processing library gives software developers the ability to read, write and process popular image file formats inside C++ applications. It provides support for several popular image formats through plugins. It provides support for popular image formats like OpenEXR, TIFF, JPEG/JFIF, PNG, BMP, JPEG-2000, ICO, PNM, DPX, IFF, Field3D, Ptex, Photoshop PSD, GIF & several more.</p>
+<p>OpenImageIO is a powerful image processing library gives software developers the ability to read, write and process popular image file formats inside C++ applications. It provides support for several popular image formats through plugins. It provides support for popular image formats like OpenEXR, TIFF, JPEG/JFIF, PNG, BMP, JPEG-2000, ICO, PNM, DPX, IFF, Field3D, Ptex, Photoshop PSD, GIF & several more.</p>
 <p>OpenImageIO library is widely used in the animation and VFX studios all over the world and is also integrated into numerous commercial products. OpenImageIO library comes with several command-line image tools that demonstrate features like converting image formats to others, compare two images, print detailed information, search images for match metadata, simple image viewer, and more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -72,18 +72,18 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>OpenImageIO supports popular image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>OpenImageIO supports popular image file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>PNG, JPEG, BMP, TIFF, TGA, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a href="https://docs.fileformat.com/image/dicom/">DICOM</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a></li>
+<li>PNG, JPEG, BMP, TIFF, TGA, <a href="https://docs.fileformat.com/image/psd/">PSD</a>, <a href="https://docs.fileformat.com/image/dicom/">DICOM</a>, <a href="https://docs.fileformat.com/image/ico/">ICO</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -107,7 +107,7 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>OpenImageIO</header><footer><small></small></footer></div>
@@ -138,7 +138,7 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Reading and Writing images via C++ API</h2>
-<p>OpenImageIO library allows programmers to read & write images as well as control the way that later images will be externally produced in the output. Normally, all images read by the library are read into an ImageBuf backed by an underlying ImageCache, and are automatically converted to float pixels for inner storage.  While writing images, it just outputs the current image to the named file. The image processing library does not remove the present image from the image stack; it simply saves a copy of it.</p>
+<p>OpenImageIO library allows programmers to read & write images as well as control the way that later images will be externally produced in the output. Normally, all images read by the library are read into an ImageBuf backed by an underlying ImageCache, and are automatically converted to float pixels for inner storage. While writing images, it just outputs the current image to the named file. The image processing library does not remove the present image from the image stack; it simply saves a copy of it.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -146,7 +146,7 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Converting Image to other Formats</h2>
-<p>OpenImageIO library provides features for converting images to other popular file formats.  It is very easy to convert among supported image formats. The iconvert utility will read an image and then write the image to a new supported file format.  It will simply infer the file format from the file extension. You can include an image caption, description, keywords, or metadata.</p>
+<p>OpenImageIO library provides features for converting images to other popular file formats. It is easy to convert among supported image formats. The iconvert utility will read an image and then write the image to a new supported file format. It will simply infer the file format from the file extension. You can include an image caption, description, keywords, or metadata.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -154,7 +154,7 @@ Header_H2_Text="Read, Write & Convert Popular Image Formats Like PNG, JPEG, BMP,
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Change Image Metadata via C++</h2>
-<p>OpenImageIO API enables software developers to change current image metadata inside their own C++ applications via open source API.   It provides commands that modify the metadata of the existing image, but do not change its pixel values. The good thing is that only the current image (image at the top of the stack) is affected, but not down the stack. You can also add or clear keywords, add caption or description, Removes any metadata and more.</p>
+<p>OpenImageIO API enables software developers to change current image metadata inside their own C++ applications via open source API. It provides commands that modify the metadata of the existing image, but do not change its pixel values. The good thing is that only the current image (image at the top of the stack) is affected, but not down the stack. You can also add or clear keywords, add caption or description, Removes any metadata and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

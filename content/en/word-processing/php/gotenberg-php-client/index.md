@@ -1,7 +1,7 @@
 ---
 title: Open Source PHP Library to Convert DOCX and DOC to PDF
 description: Gotenberg PHP Client – Open Source Free PHP library for Microsoft Word DOC & DOCX files. Convert DOC and DOCX to PDF for free.
-keywords: Gotenberg PHP Client , Free API, Free PHP API, Free API, Free DOCX API, Free DOC API, Open Source PHP API, Open Source DOCX API, Open Source DOC API, Convert DOCX Free, Create Docx using PHP, Convert DOCX using PHP, modify word files, convert word DOCX, add images  to DOCX, Convert DOCX to PDF, DOC to PDF, DOCX to PDF Free. Free DOCX Converter
+keywords: Gotenberg PHP Client , Free API, Free PHP API, Free API, Free DOCX API, Free DOC API, Open Source PHP API, Open Source DOCX API, Open Source DOC API, Convert DOCX Free, Create Docx using PHP, Convert DOCX using PHP, modify word files, convert word DOCX, add images to DOCX, Convert DOCX to PDF, DOC to PDF, DOCX to PDF Free. Free DOCX Converter
 draft: false
 weight: 1
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO API "
+Image_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO API"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Go Library for Converting Microsoft<sup>®</sup> Word Processing Files"
-Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO API " >}}
+Header_H1_Text="Open Source Go Library for Converting Microsoft<sup>®</sup> Word Processing Files"
+Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO API" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -65,15 +65,15 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO A
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Gotenberg Go client supports popular Microsoft Word formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>, <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -87,7 +87,7 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO A
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Gotenberg Go client only requires Go runtime.</p>
+<p>Gotenberg Go client only requires Go runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right">
@@ -96,7 +96,7 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO A
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><br><header>Gotenberg Go client</header><footer><small></small></footer></div>
@@ -118,7 +118,7 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO A
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install Gotenberg Go client via GitHub</h3>
 <pre><code class="html">$ go get -u github.com/thecodingmachine/gotenberg-go-client/v7
-                                                    </code></pre>
+             </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -138,13 +138,13 @@ Header_H2_Text="Convert Microsoft Word Processing Documents to PDF via Free GO A
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Convert DOCX to PDF via Free GO API</h3>
-<pre><code class="go">c := &gotenberg.Client{Hostname: "http://localhost:3000"}
-doc, _ := gotenberg.NewDocumentFromPath("document.docx", "/path/to/file")
-doc2, _ := gotenberg.NewDocumentFromPath("document2.docx", "/path/to/file")
+<pre><code class="go">c := &gotenberg.Client{Hostname:"http://localhost:3000"}
+doc, _ := gotenberg.NewDocumentFromPath("document.docx","/path/to/file")
+doc2, _ := gotenberg.NewDocumentFromPath("document2.docx","/path/to/file")
 req := gotenberg.NewOfficeRequest(doc, doc2)
-dest := "result.pdf"
+dest :="result.pdf"
 c.Store(req, dest)
-                                                    </code></pre>
+             </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

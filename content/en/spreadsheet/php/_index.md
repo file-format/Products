@@ -6,7 +6,7 @@ draft: false
 weight: 3
 
 ProductName: PHP
-ListingPage_Title_Text:  Free Spreadsheet  APIs for
+ListingPage_Title_Text: Free Spreadsheet APIs for
 ListingPage_Short_Description: Read, write, modify & convert Microsoft Excel and OpenOffice Calc files via open-source PHP libraries.
 ListingPage_Product_Small_Image: 
 
@@ -17,11 +17,11 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Spreadsheet "
+Image_H2_Text="Spreadsheet"
 Image_Tag_Text="File Format APIs for PHP"
-Image_Alt_Text=" "
-Image_title_Text=" "
-Header_H1_Text="Process Spreadsheet Files via PHP APIs"
+Image_Alt_Text=""
+Image_title_Text=""
+Header_H1_Text="Process Spreadsheet Files via PHP APIs"
 Header_H2_Text="Read, Write, Manipulate & Convert ODS, XLSX, XLS, CSV & HTML files." >}}
 
 {{< ListingPage/PageBody/wrapper >}}

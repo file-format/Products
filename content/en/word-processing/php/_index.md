@@ -6,7 +6,7 @@ draft: false
 weight: 3
 
 ProductName: PHP
-ListingPage_Title_Text:  Free Word Processing  APIs for
+ListingPage_Title_Text: Free Word Processing APIs for
 ListingPage_Short_Description: Develop PHP applications having the ability to create, edit and convert Microsoft Word documents using open source libraries.
 ListingPage_Product_Small_Image: 
 
@@ -17,15 +17,15 @@ ListingPage_Product_Small_Image:
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Word Processing "
+Image_H2_Text="Word Processing"
 Image_Tag_Text="File Format APIs for PHP"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Process Word File Formats via PHP APIs"
 Header_H2_Text="Read, Write, Manipulate & Convert Microsoft Word documents to PDF, OOXML, RTF, HTML & more." >}}
 
 {{< ListingPage/PageBody/wrapper >}}
-{{< ListingPage/PageBody/dynamic-content type="level-two" title="Word Processing File Format APIs for PHP Include" >}}
+{{< ListingPage/PageBody/dynamic-content type="level-two" title="Word Processing File Format APIs for PHP Include" >}}
 {{< /ListingPage/PageBody/wrapper >}}
 
 {{< /ListingPage/PageLayout/wrapper >}}

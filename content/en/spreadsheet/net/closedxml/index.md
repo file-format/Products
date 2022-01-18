@@ -1,7 +1,7 @@
 ---
 title: ClosedXML – Read & Write Excel Files Using .NET
 description: FastExcel - Open Source Fast .NET Library for XLSX Spreadsheets. Generate, Edit, manage Rows or Cells and add Comments to Excel files in a fast way via C# API.
-keywords: Free .NET Excel, Free Excel library,  alternative to MS Excle, .NET XLSX API, .NET XLSX library,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel, 
+keywords: Free .NET Excel, Free Excel library, alternative to MS Excle, .NET XLSX API, .NET XLSX library, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel, 
 draft: false
 weight: 5
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Excel Documents"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source .NET Library for Manipulating Excel Spreadsheets"
 Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Excel Documents" >}}
@@ -32,7 +32,7 @@ Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Exc
 
 
 <p>ClosedXML is an open source C# API for reading, manipulating and writing Microsoft Excel 2007+ (.xlsx, .xlsm) documnents. The API allows you to create Excel files without using the Excel application, and read files using the enhanced features.</p>
-<p>Using the API you can style your workbooks by using background coloring and cell bordering. You can add, remove and move your worksheets and manage datatypes inside excel.</p>
+<p>Using the API you can style your workbooks by using background coloring and cell bordering. You can add, remove and move your worksheets and manage datatypes inside Excel.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -71,15 +71,15 @@ Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Exc
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>ClosedXML supports popular formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a></li>
 </ul>
@@ -118,7 +118,7 @@ Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Exc
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create New Workbooks for Free using C#</h2>
-<p>CLosedXML allows C# .NET developers to create new excel worksheets. You can create a blank workbook using the XLWorkbook() method. You can add worksheets in your workbook and add cells and columns in it.</p>
+<p>CLosedXML allows C# .NET developers to create new Excel worksheets. You can create a blank workbook using the XLWorkbook() method. You can add worksheets in your workbook and add cells and columns in it.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -126,7 +126,7 @@ Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Exc
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Style Excel Sheets using C#</h2>
-<p>The API also allows styling your excel sheets. The API is enriched with styling features including aligment, border, fill, font, number format, styling rows and columns more.</p>
+<p>The API also allows styling your Excel sheets. The API is enriched with styling features including aligment, border, fill, font, number format, styling rows and columns more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -134,7 +134,7 @@ Header_H2_Text="ClosedXML allows you to read, manipulate and write Microsoft Exc
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Using Auto Filters in Excel using C#</h2>
-<p>ClosedXML also allows using filters inside your excel worksheets. You can apply filter to a specific range, apply filter to values and create your own custom filters aswell.</p>
+<p>ClosedXML also allows using filters inside your Excel worksheets. You can apply filter to a specific range, apply filter to values and create your own custom filters as well.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

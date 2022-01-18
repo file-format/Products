@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript API for Word - Easily Parse Microsoft Word with Node Office
 description: Node office is a simple, easy to use package that can be installed to parse Word Processing Documents
-keywords: NodeOffice, Parse DOC, Parse DOCX Convert, DOC to HTML, DOCX to HTML,  Create DOCX, Free Convert, Conversion API, HTML Generation API, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
+keywords: NodeOffice, Parse DOC, Parse DOCX Convert, DOC to HTML, DOCX to HTML, Create DOCX, Free Convert, Conversion API, HTML Generation API, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
 draft: false
 weight: 7
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Node office is a simple, easy-to-use package that can be installed to parse Word Processing Documents."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Easily Parse Microsoft<sup>®</sup> Word with Node Office"
 Header_H2_Text="Node office is a simple, easy-to-use package that can be installed to parse Word Processing Documents." >}}
@@ -66,17 +66,17 @@ Header_H2_Text="Node office is a simple, easy-to-use package that can be install
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>NodeOffice supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>, <a href="https://docs.fileformat.com/word-processing/odt/">ODT</a></li>
+<li> <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/doc/">DOC</a>, <a href="https://docs.fileformat.com/word-processing/odt/">ODT</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> </li>
+<li> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -91,9 +91,9 @@ Header_H2_Text="Node office is a simple, easy-to-use package that can be install
 <p>NodeOffice requires the following.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>xlhtml, unoconv</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>xlhtml, unoconv</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>NodeOffice</header><footer><small></small></footer></div>
@@ -134,9 +134,9 @@ Header_H2_Text="Node office is a simple, easy-to-use package that can be install
 <h3>Parse DOCX - JavaScript</h3>
 <pre><code class="c#">var office = require('office');
 office.parse('word.docx', function(err, data) {
-        console.log(data);
+  console.log(data);
 });
-                        </code></pre>
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

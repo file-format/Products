@@ -9,7 +9,7 @@ weight: 4
 
 ProductName: PHPPresentation
 Githublink: https://github.com/PHPOffice/PHPPresentation
-ListingPage_Short_Description: Add presentation processing capabilities such as creation, editing, formatting, conversion & much more into your PHP applications.
+ListingPage_Short_Description: Add presentation processing capabilities such as creation, editing, formatting, conversion & much more into your PHP applications.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PHPPresentation"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="PHP Class Library for Presentation Formats"
 Header_H2_Text="" >}}
@@ -32,7 +32,7 @@ Header_H2_Text="" >}}
 
 
 <h2 class="h2title">What is PHPPresentation?</h2>
-<p>PHPPresentation is a collection of classes provided as an open-source PHP library that lets you perform read and write operations on different Microsoft PowerPoint and OpenOffice presentation file formats. Using PHPPresentation library, you can work with presentation slides, shapes, formatting styles, plain and 3D charts, slide comments and drawing objects.</p>
+<p>PHPPresentation is a collection of classes provided as an open-source PHP library that lets you perform read and write operations on different Microsoft PowerPoint and OpenOffice presentation file formats. Using PHPPresentation library, you can work with presentation slides, shapes, formatting styles, plain and 3D charts, slide comments and drawing objects.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -51,7 +51,7 @@ Header_H2_Text="" >}}
 <p>An overview of PHPPresentation features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header>Overview</header>
 <ul>
@@ -75,15 +75,15 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PHPPresentation supports popular Microsoft PowerPoint & OpenOffice file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/presentation/odp/">ODP</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/ppt/">PPT</a></li>
 </ul>
@@ -100,9 +100,9 @@ Header_H2_Text="" >}}
 <p>There are two ways to install PHPPresentation, i.e. via <a href="https://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3+</li>
 <li><a href="https://www.php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
@@ -124,19 +124,19 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with PHPPresentation</h2>
-<p>To use PHPPresentation on your system, you need to install PHP version 5.1 or newer.  The recommended way to install the PHPPresentation library is through <a href="https://getcomposer.org/">composer</a>. Please add the following lines to your composer.json.</p>
+<p>To use PHPPresentation on your system, you need to install PHP version 5.1 or newer. The recommended way to install the PHPPresentation library is through <a href="https://getcomposer.org/">composer</a>. Please add the following lines to your composer.json.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Here is the command</h3>
 <pre><code class="html"> {
-    "require": {
-       "phpoffice/phppresentation": "dev-master"
-    }
+ "require": {
+  "phpoffice/phppresentation":"dev-master"
+ }
 }<br></code></pre>
 
 
-<p>Composer offers a convenient installer that you can execute directly from the command line. Feel free to download this file or review it on <a href="https://github.com/composer/getcomposer.org/blob/master/web/installer">GitHub.</a> There are two ways to install Composer. Install it locally as part of your project, or globally as a system-wide executable.</p>
+<p>Composer offers a convenient installer that you can execute directly from the command line. Feel free to download this file or review it on <a href="https://github.com/composer/getcomposer.org/blob/master/web/installer">GitHub.</a> There are two ways to install Composer. Install it locally as part of your project, or globally as a system-wide executable.</p>
 <p>You can also manually install PHPPresentation by downloading the latest release from the Github <a href="https://github.com/PHPOffice/PHPPresentation/releases">releases page</a> . Please do register the autoloader if you do not use composer in your project.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

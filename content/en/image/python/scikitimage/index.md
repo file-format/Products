@@ -1,5 +1,5 @@
 ---
-title: fileformat - Image Processing API for Python - Scikit Image
+title: Image Processing API for Python - Scikit Image
 
 
 draft: false
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Scientific Image Analysis in Python."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Images"
 Header_H2_Text="Scientific Image Analysis in Python." >}}
@@ -74,15 +74,15 @@ Header_H2_Text="Scientific Image Analysis in Python." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Sikit-Image supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Scikit-Image</header><footer><small></small></footer></div>
@@ -95,7 +95,7 @@ Header_H2_Text="Scientific Image Analysis in Python." >}}
 <p>Sikit-Image works with Python 3.x</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Sikit-Image</header><footer><small></small></footer></div>
@@ -132,7 +132,7 @@ Header_H2_Text="Scientific Image Analysis in Python." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Geometrical Transformations Using Free Python API</h2>
-<p>The Open Source image library Scikit-Image allows working geometrical transformations of images via python. Using the API, you can rescale, resize, & downscale images, build image pyramids, and swirl image. Furthermore, you can compare two images using structural similarity index, transform images using homographies to preserve the alignmet of the points and more.</p>
+<p>The Open Source image library Scikit-Image allows working geometrical transformations of images via python. Using the API, you can rescale, resize, & downscale images, build image pyramids, and swirl image. Furthermore, you can compare two images using structural similarity index, transform images using homographies to preserve the alignmet of the points and more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

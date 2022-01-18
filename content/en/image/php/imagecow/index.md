@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Create & manipulate responsive images via PHP commands. Rotate, crop, resizes image keeping the aspect ratio and image conversion to other formats via PHP. "
+Image_H2_Text="Create & manipulate responsive images via PHP commands. Rotate, crop, resizes image keeping the aspect ratio and image conversion to other formats via PHP."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source PHP API for Processing Image "
-Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate, crop, resizes image keeping the aspect ratio and image conversion to other formats via PHP. " >}}
+Header_H1_Text="Open Source PHP API for Processing Image"
+Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate, crop, resizes image keeping the aspect ratio and image conversion to other formats via PHP." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate,�
 
 
 
-<p>Imagecow is a very powerful and stable open source library for handling image processing capabilities inside PHP applications. The library is very useful for creating and manipulating responsive images. The library is very simple, fast, and easy to use. The library uses GD2 or Imagick libraries and can be extended with more if required.</p>
-<p>This Imagecow open source PHP library gives developers the ability to manipulate images to the web. The API has provided support for several advanced image processing features such as rotate images, generate responsive images,  resizes image keeping the aspect ratio, image conversion to other formats,  cropping images,  image cloning, apply watermark on the image, apply image compression quality, Draw text along a path and many more.</p>
+<p>Imagecow is a powerful and stable open source library for handling image processing capabilities inside PHP applications. The library is useful for creating and manipulating responsive images. The library is simple, fast, and easy to use. The library uses GD2 or Imagick libraries and can be extended with more if required.</p>
+<p>This Imagecow open source PHP library gives developers the ability to manipulate images to the web. The API has provided support for several advanced image processing features such as rotate images, generate responsive images, resizes image keeping the aspect ratio, image conversion to other formats, cropping images, image cloning, apply watermark on the image, apply image compression quality, Draw text along a path and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -74,17 +74,17 @@ Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate,�
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Imagecow supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header><header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header><header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a> </li>
 </ul>
 </header></div>
 <!--/right--></div>
@@ -97,10 +97,10 @@ Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate,�
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
 <p>Sikit-Image works with PHP 5.3 & above.</p>
-<p> </p>
+<p> </p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Sikit-Image</header><footer><small></small></footer></div>
@@ -137,7 +137,7 @@ Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate,�
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Resize Images using PHP API</h2>
-<p>Knowing how to resize images is very useful and helps to reduce the file size as much as possible and keep the image quality. The Imagecow library allows PHP programmers to resize images inside their own applications. You can resize the image keeping the aspect ratio, You need to provide the new max-width of the image as well as the new max-height of the image. The Imagecow supports calculating the most important parts of the image to crop and resizeCrop automatically.</p>
+<p>Knowing how to resize images is useful and helps to reduce the file size as much as possible and keep the image quality. The Imagecow library allows PHP programmers to resize images inside their own applications. You can resize the image keeping the aspect ratio, You need to provide the new max-width of the image as well as the new max-height of the image. The Imagecow supports calculating the most important parts of the image to crop and resizeCrop automatically.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -153,7 +153,7 @@ Header_H2_Text="Create & manipulate responsive images via PHP commands. Rotate,�
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Applying Watermark on Image</h2>
-<p>The open source library Imagecow has provided functionality for applying watermark on the image inside their own applications. You can add watermark to your digital photos to protect it and prohibit people from using the images without your permission.  Developers can programmatically add watermark to an image and can configure the position and opacity with ease.</p>
+<p>The open source library Imagecow has provided functionality for applying watermark on the image inside their own applications. You can add watermark to your digital photos to protect it and prohibit people from using the images without your permission. Developers can programmatically add watermark to an image and can configure the position and opacity with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

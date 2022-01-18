@@ -1,13 +1,13 @@
 ---
 title: Java API for PDF – Add, Extract Images, Split or Merge PDF Documents
 description: Apache PDFBox – An Open Source Java API for working with PDF files. Create, split or merge PDF documents, add, extract images to PDF via Java library.
-keywords: Java PDF,  Java  PDF Library, Open Source PDF Library, Java PDF programming, Java PDF APIs, Java PDF library, Add image to PDF, Extract PDF Images, Split or Merge PDFs,  create  PDF Documents, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms
+keywords: Java PDF, Java PDF Library, Open Source PDF Library, Java PDF programming, Java PDF APIs, Java PDF library, Add image to PDF, Extract PDF Images, Split or Merge PDFs, create PDF Documents, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms
 draft: false
 weight: 2
 
 
 
-ProductName: Apache PDFBox  
+ProductName: Apache PDFBox 
 Githublink: https://github.com/apache/pdfbox
 ListingPage_Short_Description: Java library for PDF format. It allows developers to handle simple & complex PDF Documents from their own Java applications.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Apache PDFBox"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Java API for PDF Documents Processing"
-Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge PDF Documents inside Java applications." >}}
+Header_H1_Text="Java API for PDF Documents Processing"
+Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge PDF Documents inside Java applications." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -65,7 +65,7 @@ Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge P
 </ul>
 </div>
 <!--/left--> <!--<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="Apache PDFBox" /><header>Apache PDFBox</header><footer><small></small></footer></div> -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo"><img class="bg-dark" src='listing-image.png' alt="Apache PDFBox"><header>Apache PDFBox</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -74,15 +74,15 @@ Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge P
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Apache PDFBox provides support for important PDF formats as listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a></li>
 </ul>
@@ -99,9 +99,9 @@ Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge P
 <p>Apache PDFBox only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Java</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo"><img class="bg-dark" src='listing-image.png' alt="Apache PDFBox"><header>Apache PDFBox</header><footer><small></small></footer></div>
@@ -122,16 +122,16 @@ Header_H2_Text="Open Source Java Library to Create, Print & Split or Merge P
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Installation command</h3>
-<pre><code class="html"> mvn clean instal  </code></pre>
+<pre><code class="html"> mvn clean instal </code></pre>
 
-<p>The command will compile Java sources & going to package the binary classes into jar packages by default.</p>
+<p>The command will compile Java sources & going to package the binary classes into jar packages by default.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Java API to Create and Modify New PDF Documents</h2>
-<p>Apache PDFBox allows programmers to generate a new PDF document from scratch. After creating the document, developers can save the document in the desired location. PDF is one of the most commonly used file formats nowadays. <em>PDF</em> document are compatible across various platforms and represents a document independently of the hardware, operating system, and application software used to create it. PDFBox also facilitates developers to modify existing PDF documents. Developers can add new pages as well as text to an existing page documents.</p>
+<p>Apache PDFBox allows programmers to generate a new PDF document from scratch. After creating the document, developers can save the document in the desired location. PDF is one of the most commonly used file formats nowadays. <em>PDF</em> document are compatible across various platforms and represents a document independently of the hardware, operating system, and application software used to create it. PDFBox also facilitates developers to modify existing PDF documents. Developers can add new pages as well as text to an existing page documents.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -151,7 +151,7 @@ document.close();
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Splitting and Merging PDF Documents using Java Library</h2>
-<p>Apache PDFBox provides the capability to merge multiple PDF documents into a single PDF document. To merge multiple documents first you need to load existing PDF documents and then set a path to the destination file.  After that developers can add all the source PDF files in the sequence they would like to find in the final merged PDF file. We can split the given PDF document into multiple PDF files. This Splitter class is used to split the given PDF document into several other separate documents.</p>
+<p>Apache PDFBox provides the capability to merge multiple PDF documents into a single PDF document. To merge multiple documents first you need to load existing PDF documents and then set a path to the destination file. After that developers can add all the source PDF files in the sequence they would like to find in the final merged PDF file. We can split the given PDF document into multiple PDF files. This Splitter class is used to split the given PDF document into several other separate documents.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}

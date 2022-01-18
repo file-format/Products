@@ -1,7 +1,7 @@
 ---
 title: Generate, Edit & Manipulate Office Excel XLSX Spreadsheets via Go API
 description: Unioffice - Open source Go API allows reading, writing & editing Office Excel XLSX spreadsheet. Add multiple charts, images & tables in a worksheets via PHP library.
-keywords: Free Go Excel, Free Excel library,  alternative to MS Excle, Go XLSX API, Go XLSX library,  Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel
+keywords: Free Go Excel, Free Excel library, alternative to MS Excle, Go XLSX API, Go XLSX library, Go Excel API, Go Excel Library, Go XLSM, Go XLTM API, Go Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel
 draft: false
 weight: 34
 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source Go API. Add multiple charts, images, and tables inside your spreadsheets. "
+Image_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source Go API. Add multiple charts, images, and tables inside your spreadsheets."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source Go Library for Creating Excel XLSX Files"
-Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source Go API. Add multiple charts, images, and tables inside your spreadsheets. " >}}
+Header_H1_Text="Open Source Go Library for Creating Excel XLSX Files"
+Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source Go API. Add multiple charts, images, and tables inside your spreadsheets." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 
 
 
-<p>Unioffice is an open source pure go library that gives software developers the capability to generate, modify, and manipulate Office Excel XLSX documents inside their own Go applications. The library is very stable and provides the highest degree of productivity with very little effort and cost.</p>
+<p>Unioffice is an open source pure go library that gives software developers the capability to generate, modify, and manipulate Office Excel XLSX documents inside their own Go applications. The library is stable and provides the highest degree of productivity with little effort and cost.</p>
 <p>The open source unioffice library fully supports several important features related to Excel spreadsheet creation and modifications, such as create new Excel sheet from the scratch, creating cells with various number/date/time formats, Excel Cell formatting, Cell validation support, Retrieve cell values as formatted by Excel, conditional formatting, Merge and unmerge cells, data validation including combo box dropdowns, Embedded Images and much more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -71,16 +71,16 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>unioffice supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>unioffice supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, XLSX</li>
 </ul>
@@ -94,7 +94,7 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>unioffice only requires Go runtime.</p>
+<p>unioffice only requires Go runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
 <div class="d1-col d1-right">
@@ -103,7 +103,7 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>unioffice</header><footer><small></small></footer></div>
@@ -119,13 +119,13 @@ Header_H2_Text="Read, Write, Edit Microsoft Excel XLSX documents via Open Source
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with unioffice</h2>
-<p>The recommended way to unioffice into your project is by using Github. Please use the following command for a smooth installation.</p>
+<p>The recommended way to unioffice into your project is by using Github. Please use the following command for a smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install unioffice via GitHub</h3>
 <pre><code class="html">go get github.com/unidoc/unioffice/
-go build -i github.com/unidoc/unioffice/...  </code></pre>
+go build -i github.com/unidoc/unioffice/... </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -134,7 +134,7 @@ go build -i github.com/unidoc/unioffice/...  </code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Excel XLSX Creation via Go API</h2>
-<p>The Open source library unioffice allows computer programmers to create an Excel XLSX spreadsheet inside their own Go applications. It gives you the capability to add new sheet to your existing Excel documents and assign name to a sheet and save the file to the path of your choice. It also provides support for several important features such as add new rows and columns to a sheet, define the number of rows and columns, set the default value of a cell,  and more.  You can also open and modify the existing spreadsheet with ease.</p>
+<p>The Open source library unioffice allows computer programmers to create an Excel XLSX spreadsheet inside their own Go applications. It gives you the capability to add new sheet to your existing Excel documents and assign name to a sheet and save the file to the path of your choice. It also provides support for several important features such as add new rows and columns to a sheet, define the number of rows and columns, set the default value of a cell, and more. You can also open and modify the existing spreadsheet with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -142,7 +142,7 @@ go build -i github.com/unidoc/unioffice/...  </code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Multiple Charts to an Excel XLSX File</h2>
-<p>The unioffice library has provided support for adding charts to an Excel spreadsheet with just a couple of lines of code.  You can create charts based on the available data in your worksheet as well as without the availability of any data at all. Charts give you the capability to visually display data in different formats such as Bar, Column, Pie, Line, Area or Radar, etc. Developers can easily select from the available chart options and can control its values.</p>
+<p>The unioffice library has provided support for adding charts to an Excel spreadsheet with just a couple of lines of code. You can create charts based on the available data in your worksheet as well as without the availability of any data at all. Charts give you the capability to visually display data in different formats such as Bar, Column, Pie, Line, Area or Radar, etc. Developers can easily select from the available chart options and can control its values.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -158,7 +158,7 @@ go build -i github.com/unidoc/unioffice/...  </code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Apply Conditional Formatting on Spreadsheet’s Cells</h2>
-<p>Conditional Formatting is a useful feature that helps Excel users to apply a format to a cell or a range of cells based on certain criteria. The unioffice library has provided functionality that enables software developers to apply conditional formatting to their spreadsheet with just a couple of Go commands. The library has included support for conditionally formatting cells, styling, gradients, icons, data bar & more to come.</p>
+<p>Conditional Formatting is a useful feature that helps Excel users to apply a format to a cell or a range of cells based on certain criteria. The unioffice library has provided functionality that enables software developers to apply conditional formatting to their spreadsheet with just a couple of Go commands. The library supports conditionally formatting cells, styling, gradients, icons, data bar & more to come.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

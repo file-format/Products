@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Officegen-DOCX"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source JavaScript Library for Word Processing "
-Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Documents via Open Source APIs." >}}
+Header_H1_Text="Open Source JavaScript Library for Word Processing"
+Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Documents via Open Source APIs." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Docu
 
 
 <h2 class="h2title">What is Officegen-DOCX?</h2>
-<p>Officegen-DOCX is an Open Source JavaScript library that allows software developers to work with Office Open XML files and create Word (Docx) for MS Office 2007 & later inside their own JavaScript applications.<strong>  </strong>Officegen-DOCX is very flexible and can be used on several environments. The environments that supporting Node.js  are fully compatible with it,  such as Linux, OSX and Windows.</p>
+<p>Officegen-DOCX is an Open Source JavaScript library that allows software developers to work with Office Open XML files and create Word (Docx) for MS Office 2007 & later inside their own JavaScript applications. Officegen-DOCX is flexible and can be used on several environments. The environments that supporting Node.js are fully compatible with it, such as Linux, OSX and Windows.</p>
 <p>It also supports several Word processing features for Microsoft Word document (DOCX file) such as creating Word document, add one or more paragraphs, add images, header and footer support, bookmarks and hyperlinks support.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -52,7 +52,7 @@ Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Docu
 <p>An overview of Officegen-DOCX features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -75,16 +75,16 @@ Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Docu
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Officegen-DOCX supports popular Microsoft Word file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Officegen-DOCX supports popular Microsoft Word file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
@@ -98,14 +98,14 @@ Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Docu
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Officegen-DOCX only requires  Java run-time.</p>
+<p>Officegen-DOCX only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run in</header>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS  </li>
+<li>NodeJS </li>
 </ul>
 </div>
 <!--/left--> <!--/right--></div>
@@ -128,14 +128,14 @@ Header_H2_Text="Create, Modify & Convert Microsoft<sup>®</sup> Word DOCX Docu
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install using officegen repository</h3>
-<pre><code class="html"> $ npm install Ziv-Barber/officegen#master  </code></pre>
+<pre><code class="html"> $ npm install Ziv-Barber/officegen#master </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Create Word Document via Free JavaScript API</h2>
+<h2 class="h2title">Create Word Document via Free JavaScript API</h2>
 <p>Officegen-DOCX enables software programmers to create a new Word DOCX Document inside JavaScript applications. It also enables developers to alter an existing Microsoft Word Documents according to their needs. You also can insert paragraphs, add images, align text or objects, add headers and footer, bookmarks and hyperlinks support, change font styles and more. The following simple lines of code can create Word document in JavaScript.</p>
 <ol>
 <li>Instantiate officegen</li>
@@ -155,7 +155,7 @@ let docx = officegen('docx')
 let out = fs.createWriteStream('empty.docx')
 // Save
 docx.generate(out)
-        </code></pre>
+  </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -181,7 +181,7 @@ pObj.addImage('sample.jpg')
 let out = fs.createWriteStream('image.docx')
 // Save 
 docx.generate(out)
-        </code></pre>
+  </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -189,7 +189,7 @@ docx.generate(out)
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Add Paragraphs to Word DOCX Files </h2>
+<h2 class="h2title">Add Paragraphs to Word DOCX Files </h2>
 <p>Officegen-DOCX enables computer programmers to add contents in their Word DOCX files inside their own JavaScript applications. The API support adding one or more paragraphs to the word documents. It also facilitates you to set the fonts, colors, and alignment etc. for your contents with ease.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
@@ -208,7 +208,7 @@ pObj.addText('FileFormat Developer Guide')
 let out = fs.createWriteStream('fileformat.docx')
 // Save
 docx.generate(out)
-        </code></pre>
+  </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -216,7 +216,7 @@ docx.generate(out)
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

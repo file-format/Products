@@ -1,5 +1,5 @@
 ---
-title: fileformat - Image Processing API for Python - NudePy
+title: Image Processing API for Python - NudePy
 
 
 draft: false
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Image Nudity Detection with Python"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open-Source Python API for Images"
 Header_H2_Text="Image Nudity Detection with Python" >}}
@@ -67,15 +67,15 @@ Header_H2_Text="Image Nudity Detection with Python" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Nude.Py supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/jpeg/">JPG</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Nude.Py</header><footer><small></small></footer></div>
@@ -88,7 +88,7 @@ Header_H2_Text="Image Nudity Detection with Python" >}}
 <p>Nude.Py works with Python 2.7+ or 3.3+ and requires Cython and Pillow</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Nude.Py</header><footer><small></small></footer></div>
@@ -131,7 +131,7 @@ Header_H2_Text="Image Nudity Detection with Python" >}}
 from nude import Nude
 
 print(nude.is_nude('Image.jpg'))
-                </code></pre>
+    </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

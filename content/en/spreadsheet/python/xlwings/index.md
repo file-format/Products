@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Google Sheets - Create & Share Spreadsheet
 description: Xlwings– An open source Free Python API for managing Google Sheets. Developers can create, modify, share and parse Excel XML Spreadsheets via Python library.
-keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files,  generate Excel files
+keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files, generate Excel files
 
 draft: false
 weight: 27
@@ -20,7 +20,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Python library that makes it easy to call Python from Excel and vice versa."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Google Sheets"
 Header_H2_Text="Python library that makes it easy to call Python from Excel and vice versa." >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Python library that makes it easy to call Python from Excel and 
 
 
 
-<p>Xlwings is an open source python API for manipulating Excel file format. Using the API you can automate excel from pyton to produce reports, write UDFs(user defined funcitons), write macros, and control Excel remotely. Furthermore, the API allows manipulating data structures like cells, lists, range, NumPy arrays, panda data frames, and panda series.  </p>
+<p>Xlwings is an open source python API for manipulating Excel file format. Using the API you can automate excel from pyton to produce reports, write UDFs(user defined funcitons), write macros, and control Excel remotely. Furthermore, the API allows manipulating data structures like cells, lists, range, NumPy arrays, panda data frames, and panda series. </p>
 <p>Xlwings requires installtion of Microsoft Excel, so everything works on Windows and macOS except that the UDFs only work on Windows.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -73,18 +73,18 @@ Header_H2_Text="Python library that makes it easy to call Python from Excel and 
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Xlwings supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Xlwings supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>  <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a> </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> <a href="https://docs.fileformat.com/spreadsheet/xlsm/">XLSM</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>  <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSM</a> </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSM</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -99,7 +99,7 @@ Header_H2_Text="Python library that makes it easy to call Python from Excel and 
 <p>Xlwings requires Python 3.5+ and Microsoft Excel.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Xlwings</header><footer><small></small></footer></div>
@@ -136,7 +136,7 @@ Header_H2_Text="Python library that makes it easy to call Python from Excel and 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Call Python from Excel</h2>
-<p>The Open Source spreadsheet library Xlwings allows software developers to communicated with Python via Excel. You can call python funcitons inside your excel either by using Run button of Xlwings Excel Add-In or by using the RunPython VBA funciton. The good thing about using Excel Add-In is that you dont need your workbooks to be macro-enabled, and you can save it as xlsx.</p>
+<p>The Open Source spreadsheet library Xlwings allows software developers to communicated with Python via Excel. You can call python funcitons inside your excel either by using Run button of Xlwings Excel Add-In or by using the RunPython VBA funciton. The good thing about using Excel Add-In is that you dont need your workbooks to be macro-enabled, and you can save it as xlsx.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

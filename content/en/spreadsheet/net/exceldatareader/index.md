@@ -1,7 +1,7 @@
 ---
 title: ExcelDataReader – Read XLS, XLSX & CSV Documents
 description: FastExcel - Open Source Fast .NET Library for XLSX Spreadsheets. Generate, Edit, manage Rows or Cells and add Comments to Excel files in a fast way via C# API.
-keywords: Free .NET Excel, Free Excel library,  alternative to MS Excle, .NET XLSX API, .NET XLSX library,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel, 
+keywords: Free .NET Excel, Free Excel library, alternative to MS Excle, .NET XLSX API, .NET XLSX library, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel, 
 draft: false
 weight: 6
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="ExcelDataReader allows you read Microsoft Excel file formats using C#."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source .NET Library for Reading Excel Spreadsheets  "
+Header_H1_Text="Open Source .NET Library for Reading Excel Spreadsheets"
 Header_H2_Text="ExcelDataReader allows you read Microsoft Excel file formats using C#." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -72,15 +72,15 @@ Header_H2_Text="ExcelDataReader allows you read Microsoft Excel file formats usi
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>ExcelDataReader supports popular formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>ExcelDataReader</header><footer><small></small></footer></div>

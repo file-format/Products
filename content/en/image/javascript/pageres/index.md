@@ -1,7 +1,7 @@
 ---
 title: JavaScript Library for Image Processing - Capture screenshots of websites in various resolutions
 description: Pageres – open source image processing library that allows Software programmers to capture screenshots of websites via JavaScript Library
-keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library,  image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Screenshot, Capture Screenshots
+keywords: JavaScript Image Processing, Tiny JavaScript Library, Tiny Image Processing Library, image processing, JavaScript images, image processing library, JavaScript PNG API, JavaScript JPG, JavaScript image API, JavaScript Image creation, Modify images, Get color from image, get color, get image color, color, JavaScript Color API, Screenshot, Capture Screenshots
 draft: false
 weight: 1
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Capture screenshots of websites in various resolutions."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source JavaScript Library for Image Processing"
 Header_H2_Text="Capture screenshots of websites in various resolutions." >}}
@@ -63,7 +63,7 @@ Header_H2_Text="Capture screenshots of websites in various resolutions." >}}
 <li>Time</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Pageres</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -72,13 +72,13 @@ Header_H2_Text="Capture screenshots of websites in various resolutions." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Pageres supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li>  <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -95,7 +95,7 @@ Header_H2_Text="Capture screenshots of websites in various resolutions." >}}
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -140,15 +140,15 @@ Header_H2_Text="Capture screenshots of websites in various resolutions." >}}
 <pre><code class="c#">const Pageres = require('pageres');
 
 (async () =&gt; {
-        await new Pageres({delay: 2})
-                .src('https://products.fileformat.com', ['480x320', '1024x768', 'iphone 5s'], {crop: true})
-                .dest(__dirname)
-                .run();
+  await new Pageres({delay: 2})
+    .src('https://products.fileformat.com', ['480x320', '1024x768', 'iphone 5s'], {crop: true})
+    .dest(__dirname)
+    .run();
 
-        console.log('Finished generating screenshots!');
+  console.log('Finished generating screenshots!');
 })();
 });
-                        </code></pre>
+      </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

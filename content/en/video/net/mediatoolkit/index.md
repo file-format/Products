@@ -1,7 +1,7 @@
 ---
 title: Open Source .NET API for Video Processing - Convert and Process Video Files
 description: MediaToolkit - Open-Source API that enables software developers to convert and process Video File Formats using .NET applications.
-keywords: MediaToolkit API, API, Free Video API,  Free .NET API, Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 .NET, Random .NET API, Free .NET Video, Free Video API
+keywords: MediaToolkit API, API, Free Video API, Free .NET API, Free .NET API, Free MP4 API, Open Source MP4 API, Free MP4 .NET, Random .NET API, Free .NET Video, Free Video API
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Convert & Process Video files via .NET API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Free.NET Library for Manipulating Video File Formats"
+Header_H1_Text="Free.NET Library for Manipulating Video File Formats"
 Header_H2_Text="Convert & Process Video files via .NET API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -59,7 +59,7 @@ MediaTookit API is a wrapper for FFmpeg. It is a free multimedia framework conta
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>MediaToolkit</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -68,15 +68,15 @@ MediaTookit API is a wrapper for FFmpeg. It is a free multimedia framework conta
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>MediaToolkit supports video file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a></li>
 </ul>
@@ -125,11 +125,11 @@ MediaTookit API is a wrapper for FFmpeg. It is a free multimedia framework conta
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Resize Image  via Free GO API</h3>
+<h3>Resize Image via Free GO API</h3>
 <pre><code class="c#">var inputFile = new MediaFile {Filename = @"C:\Path\Audio.mp3"};
 using (var engine = new Engine())
 {
-    engine.GetMetadata(inputFile);
+ engine.GetMetadata(inputFile);
 }
 Console.WriteLine(inputFile.Metadata.Duration);</code></pre>
 {{< /SinglePage/PageBody/features/code >}}

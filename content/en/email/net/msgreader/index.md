@@ -1,13 +1,13 @@
 ---
 title: .NET Library for Outlook MSG Files – Read & Convert MSG as Text | MSGReader
 description: MSGReader - An Open Source C# .NET library for MS Outlook MSG files. Developers can create, read, modify & convert Outlook MSG and EML files via .NET API.
-keywords: .NET MSG, .NET EML, Free .NET MSG API,  .NET MSG Library, Open Source outlook Library, .NET MSG programming, .NET MSG APIs, .NET MSG library, create  MSG Documents, EML C# .NET Libraries, C# outlook, C# MSG, C# EML, convert Outlook MSG, convert Outlook EML
+keywords: .NET MSG, .NET EML, Free .NET MSG API, .NET MSG Library, Open Source outlook Library, .NET MSG programming, .NET MSG APIs, .NET MSG library, create MSG Documents, EML C# .NET Libraries, C# outlook, C# MSG, C# EML, convert Outlook MSG, convert Outlook EML
 draft: false
 weight: 2
 
 
 
-ProductName: MSGReader  
+ProductName: MSGReader 
 Githublink: https://github.com/Sicos1977/MSGReader
 ListingPage_Short_Description: Open Source C# .NET library that supports reading Outlook MSG and EML files without installing MS outlook. You can easily read properties from an Outlook MSG and EML messages.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="MSGReader"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text=".NET Library for Outlook MSG Files Processing"
-Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook MSG and EML files." >}}
+Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook MSG and EML files." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 
 
 <p>MSGReader is Open Source C# .NET library for reading Outlook MSG and EML files. It enables developers to read outlook MSG and EML files without using Microsoft Outlook. The most common outlook objects such as E-mail, Appointment, Task, Contact card & Sticky note are fully supported. All body types in MSG files, such as Text, HTML, HTML embedded into RTF and RTF are also supported.</p>
-<p>There are a few options available for manipulation of MSG files in MSGReader.  It allows developers to remove attachments from email message; they can also save the file to a new one. </p>
+<p>There are a few options available for manipulation of MSG files in MSGReader. It allows developers to remove attachments from email message; they can also save the file to a new one. </p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -48,10 +48,10 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of MSGReader features.</p>
+<p>An overview of MSGReader features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
 <li>Read outlook MSG</li>
@@ -70,16 +70,16 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>MSGReader supports popular Microsoft Outlook file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>MSGReader supports popular Microsoft Outlook file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/email/msg/">MSG</a>, <a href="https://docs.fileformat.com/email/eml/">EML</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/word-processing/rtf/">RTF</a></li>
 </ul>
@@ -96,7 +96,7 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 <p>MSGReader only requires .NETFramework.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!--<header><i class="fa fa-cubes">` </i></header-->
 <ul>
 <li>.NETFramework 3.5</li>
@@ -126,7 +126,7 @@ Header_H2_Text="Open Source C# .NET API to Read, Write and Convert MS Outlook M
 <pre><code class="html"> Install-Package MSGReader </code></pre>
 
 <p>Using MSGReader from a COM based language like VB script or VB6.</p>
-<p>First you need to download the latest version and then open the MSGReader project, set Platform target to X86 & then build the code in release mode, Get "MsgReader.dll" file from BuildOutput folder & Copy the file to the desired location. After that Register the file for COM interop using the following command.</p>
+<p>First you need to download the latest version and then open the MSGReader project, set Platform target to X86 & then build the code in release mode, Get"MsgReader.dll" file from BuildOutput folder & Copy the file to the desired location. After that Register the file for COM interop using the following command.</p>
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}

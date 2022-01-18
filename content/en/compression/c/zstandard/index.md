@@ -1,7 +1,7 @@
 ---
-title: Open Source C Compression Library – Speedy & Better Compression Ratios
-description: Zstandard - Open Source C library for fast real-time compression & decompression. It supports better small Data compression, high compression ratios & more.
-keywords: open source C API,  Free C library, C ZIP API, C Compression API, compress files via C API, decompress files, ZIP C API, C compression Library, Open Source C Library, C Zip programming, create  zip archives, Opening zip archives, create BZIP2 archives, save archive to a file, List zip archive, RAR Archive, Small Data compression, special mode for small data
+title: Open Source C Compression Library for Speedy & Better Compression Ratio
+description: Zstandard supports better data compression with high compression ratios
+keywords: open source C API, Free C library, C ZIP API, C Compression API, compress files via C API, decompress files, ZIP C API, C compression Library, Open Source C Library, C Zip programming, create zip archives, Opening zip archives, create BZIP2 archives, save archive to a file, List zip archive, RAR Archive, Small Data compression, special mode for small data
 draft: false
 weight: 15
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Zstandard"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="C Library for Powerful and Fast Compression "
+Header_H1_Text="C Library for Powerful and Fast Compression"
 Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,9 +31,9 @@ Header_H2_Text="" >}}
 
 
 
-<p>Zstandard is an open source C compression library that provides a powerful and fast algorithm for high compression ratios inside C applications. The library offers a very wide range of speed and is available under dual BSD and GPLv2 licensed. The library supports dictionary compression mode which is very useful for small data compression.</p>
+<p>Zstandard is an open source C compression library that provides a powerful and fast algorithm for high compression ratios inside C applications. The library offers a wide range of speed and is available under dual BSD and GPLv2 licensed. The library supports dictionary compression mode which is useful for small data compression.</p>
 <p>The Zstandard library target real-time compression scenarios at zlib-level and better compression ratios. The library supports regular compression levels from 1 up 22. Please remember that Levels 20 and higher must be used with care, as much more memory is required for smooth working.</p>
-<p>The API is very stable, well documented, and very easy to handle. It has included support for several important functions related to compression and decompression, streaming compression as well as decompression, dictionary helper functions, frame sizing, better memory management. The library also supports advanced functions for compression and decompression, Buffer-less and synchronous inner streaming functions, buffer-less streaming compression, and decompression (synchronous mode).</p>
+<p>The API is stable, well documented, and easy to handle. It supports several important functions related to compression and decompression, streaming compression as well as decompression, dictionary helper functions, frame sizing, better memory management. The library also supports advanced functions for compression and decompression, Buffer-less and synchronous inner streaming functions, buffer-less streaming compression, and decompression (synchronous mode).</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -49,20 +49,20 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of zip features.</p>
+<p>An overview of zip features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header>Overview</header>
 <ul>
-<li>Compress data</li>
-<li>Decompress data</li>
+<li>Compress Data</li>
+<li>Decompress Data</li>
 <li>Multi-threaded Compression</li>
 <li>Small Data Compression</li>
 <li>Modify ZIP-archives</li>
 <li>Append File</li>
-<li>Extract specific entry</li>
+<li>Extract Specific Entry</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -74,15 +74,15 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Zstandard supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>ZIP, TAR</li>
+<li>ZIP, TAR</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/compression/zip/">ZIP</a>, <a href="https://docs.fileformat.com/compression/tar/">TAR</a></li>
 </ul>
@@ -99,9 +99,9 @@ Header_H2_Text="" >}}
 <p>Zstandard only requires Go runtime for smooth running.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>C</li>
 </ul>
@@ -121,11 +121,11 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with Zstandard</h2>
-<p>The recommended way to install Zstandard is from GitHub, please use the following command for smooth installation.</p>
+<p>The recommended way to install Zstandard is from GitHub. Use the following command for smooth installation.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Zstandard library via GitHub</h3>
+<h3>Install Zstandard Library via GitHub</h3>
 <pre><code class="html">gh repo clone facebook/zstd</code></pre>
 
 
@@ -135,7 +135,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Compression and Decompression via C API</h2>
-<p>The open source library Zstandard has included several important functions for compression and decompression. The library offers in-memory compression and decompression functions.  It offers several compression levels that extend the speed and ratio preferences. You can easily compress or decompress a single file as well as multiple files in a single command. With the new release, the decompression speed has been further improved.</p>
+<p>The open source library Zstandard has included several important functions for compression and decompression. The library offers in-memory compression and decompression functions. It offers several compression levels that extend the speed and ratio preferences. You can easily compress or decompress a single file as well as multiple files in a single command. With the new release, the decompression speed has been further improved.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -151,7 +151,7 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Small Data Compression and Decompression</h2>
-<p>Usually, it has been seen that it is always very difficult to compress or decompress a smaller amount of data. It is a very common problem faced by most compression programs. The Zstandard library has improved this by offering a training mode which allows users to choose a selected type of data. Thus few samples are used with a small amount of data in the training module to tune the program. The result of the training module is stored in a file called the dictionary, which is used in the future before any compression and decompression. It has been observed that the compression algorithm learns from the past data that how to compress future data. Thus using the dictionary concept the compression and decompression ratio on small data has been greatly improved.</p>
+<p>Usually, it has been seen that it is always difficult to compress or decompress a smaller amount of data. It is a common problem faced by most compression programs. The Zstandard library has improved this by offering a training mode which allows users to choose a selected type of data. Thus few samples are used with a small amount of data in the training module to tune the program. The result of the training module is stored in a file called the dictionary, which is used in the future before any compression and decompression. It has been observed that the compression algorithm learns from the past data that how to compress future data. Thus using the dictionary concept the compression and decompression ratio on small data has been greatly improved.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

@@ -1,13 +1,13 @@
 ---
 title: Open Source Go Library to Import, Modify & Save PDF Documents
 description: gopdf is an open source Go library enables Developers to Import PDF via URL, Modify & Save existing PDFs. Generate new PDFs, insert Images to PDF via Go API.
-keywords: PDF library,  Go PDF,  Java  PDF Library, Open Source PDF Library, Java PDF programming, Java PDF APIs, Java PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+keywords: PDF library, Go PDF, Java PDF Library, Open Source PDF Library, Java PDF programming, Java PDF APIs, Java PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 draft: false
 weight: 20
 
 
 
-ProductName: gopdf  
+ProductName: gopdf 
 Githublink: https://github.com/signintech/gopdf
 ListingPage_Short_Description: Open Source Go library that enables Developers to Import PDF via URL, Modify & Save existing PDFs.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Go Library that gives software developers the ability to Import, Modify, Manipulate & Save PDF Documents."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Go API for Creating & Processing PDF Document"
-Header_H2_Text="Go Library that gives software developers the ability to Import, Modify, Manipulate & Save PDF Documents." >}}
+Header_H2_Text="Go Library that gives software developers the ability to Import, Modify, Manipulate & Save PDF Documents." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Go Library that gives software developers the ability to Import
 
 
 
-<p>The gopdf is an open Source Go library that has included functionality for working with PDF documents inside Go applications. The library helps developers to generate and modify PDF files with just a couple of lines of Go code.  The library has included embedding of Unicode sub-font for popular languages like Chinese, Japanese, Korean, etc.</p>
-<p>The library is very stable and very easy to use. It has included several important features related to PDF creation and management such as print text, add and replace images, use links inside PDF, add a page to PDF, Draw a line, oval, or polygon to the PDF page, image or text rotation, set transparency for text, Font kerning, generate password-protected PDF files and much more.</p>
+<p>The gopdf is an open Source Go library that has included functionality for working with PDF documents inside Go applications. The library helps developers to generate and modify PDF files with just a couple of lines of Go code. The library has included embedding of Unicode sub-font for popular languages like Chinese, Japanese, Korean, etc.</p>
+<p>The library is stable and easy to use. It has included several important features related to PDF creation and management such as print text, add and replace images, use links inside PDF, add a page to PDF, Draw a line, oval, or polygon to the PDF page, image or text rotation, set transparency for text, Font kerning, generate password-protected PDF files and much more.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -55,7 +55,7 @@ Header_H2_Text="Go Library that gives software developers the ability to Import
 <div class="d1-col d1-right"><header>Features Overview</header>
 <ul>
 <li>Generate PDFs</li>
-<li>Modify PDFs</li>
+<li>Modify PDFs</li>
 <li>Manage paragraph</li>
 <li>Auto page breaks</li>
 <li>Insert table</li>
@@ -76,17 +76,17 @@ Header_H2_Text="Go Library that gives software developers the ability to Import
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>gopdf supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -103,7 +103,7 @@ Header_H2_Text="Go Library that gives software developers the ability to Import
 <div class="d1-row">
 <div class="d1-col d1-right"><!--<header><i class="fa fa-cubes">` </i></header-->
 <ul>
-<li>Go 1.3 and above.</li>
+<li>Go 1.3 and above.</li>
 </ul>
 </div>
 <!--/left
@@ -152,14 +152,14 @@ Header_H2_Text="Go Library that gives software developers the ability to Import
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Import & Modify Existing PDF</h2>
-<p>The open source gopdf library enables software programmers to import an existing PDF document and make changes to it with ease using Go command. The DownloadFile function will download a file via URL to a local file. It is very useful because it will not load the whole file and only specific page into the memory. Once you make the changes and satisfied you can save it again with ease.</p>
+<p>The open source gopdf library enables software programmers to import an existing PDF document and make changes to it with ease using Go command. The DownloadFile function will download a file via URL to a local file. It is useful because it will not load the whole file and only specific page into the memory. Once you make the changes and satisfied you can save it again with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

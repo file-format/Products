@@ -1,7 +1,7 @@
 ---
 title: Fast C# .NET Library for Spreadsheets – Excel XLSX File to CSV & HTML
 description: ReoGrid - Open source C# .NET Library allows to create, edit, process Excel XLSX spreadsheets. Add charts to worksheet, export Excel XLSX File to CSV & HTML.
-keywords: Free .NET Excel, Free Excel library,  alternative to MS Excle, .NET XLSX API, .NET XLSX library,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel
+keywords: Free .NET Excel, Free Excel library, alternative to MS Excle, .NET XLSX API, .NET XLSX library, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel
 draft: false
 weight: 12
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="ReoGrid"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="C# .NET Library for Fast XLSX Spreadsheets "
-Header_H2_Text="Open Source C# API allows to create, read, modify & export Microsoft Excel XLSX Spreadsheet, manage worksheets, row and column settings and so on." >}}
+Header_H1_Text="C# .NET Library for Fast XLSX Spreadsheets"
+Header_H2_Text="Open Source C# API allows to create, read, modify & export Microsoft Excel XLSX Spreadsheet, manage worksheets, row and column settings and so on." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 
 
 
-<p>A powerful open source .NET spreadsheet component that enables software apps to create and manage Excel file formats with ease. The library is very lightweight and can perform several operations with lesser time and cost. It can process spreadsheet-related tasks up to 300 times faster than similar products.</p>
-<p>ReoGrid API supports multiple platforms and works on both Windows Form and WPF. It is very feature-rich and has included several important features related to Excel Spreadsheet creation and management, such as generate new workbook from scratch, manage worksheets, row, and column settings, Cell styles support, borders handling, Cell value and data formats, use formulas, insert and manage Images, using floating objects, add charts or graphs and much more.</p>
-<p>ReoGrid uses an optimized memory management model as well as enhanced cell memory usage. It split down larger spreadsheets into smaller parts and thus memory allocations and release are performed on these small parts making the process faster.  The library also uses an optimized border algorithm that quickly recognizes where to start drawing the borders.</p>
+<p>A powerful open source .NET spreadsheet component that enables software apps to create and manage Excel file formats with ease. The library is lightweight and can perform several operations with lesser time and cost. It can process spreadsheet-related tasks up to 300 times faster than similar products.</p>
+<p>ReoGrid API supports multiple platforms and works on both Windows Form and WPF. It is feature-rich and has included several important features related to Excel Spreadsheet creation and management, such as generate new workbook from scratch, manage worksheets, row, and column settings, Cell styles support, borders handling, Cell value and data formats, use formulas, insert and manage Images, using floating objects, add charts or graphs and much more.</p>
+<p>ReoGrid uses an optimized memory management model as well as enhanced cell memory usage. It split down larger spreadsheets into smaller parts and thus memory allocations and release are performed on these small parts making the process faster. The library also uses an optimized border algorithm that quickly recognizes where to start drawing the borders.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -60,7 +60,7 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 <li>Add comments</li>
 <li>Cell ranges</li>
 <li>Excel to CSV</li>
-<li>Excel to HTML</li>
+<li>Excel to HTML</li>
 </ul>
 </div>
 <div class="d1-col d1-left"><header>Feature Overview</header>
@@ -82,16 +82,16 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>ReoGrid supports Excel spreadsheet format as well as it can export data to common file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<p>ReoGrid supports Excel spreadsheet format as well as it can export data to common file formats.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://docs.fileformat.com/web/html/">, </a><a href="https://docs.fileformat.com/spreadsheet/xlsb/">XLSB</a></li>
 </ul>
@@ -105,11 +105,11 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>ReoGrid requires .NET runtime.</p>
+<p>ReoGrid requires .NET runtime.</p>
 <p>.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!-- <header><i class="fa fa-cubes"> &nbsp;</i></header>
 <ul>
 <li>Python 2.6 & above</li>
@@ -133,7 +133,7 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
+<h3>Install via NuGet</h3>
 <pre><code class="html">PM&gt; Install-Package unvell.ReoGrid.dll </code></pre>
 
 
@@ -143,16 +143,10 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Excel Workbook Creation via .NET API</h2>
-<p>The open source library ReoGrid enables software developers to generate a new Excel workbook with just a couple of lines of C# code. The library also allows to add a new worksheet, assign names to worksheets, delete unwanted sheets, move worksheets,s and so on. The library also makes it easy to access worksheets and supports managing cell data, styles, borders, outlines, ranges, formula calculation and etc. </p>
+<p>The open source library ReoGrid enables software developers to generate a new Excel workbook with just a couple of lines of C# code. The library also allows to add a new worksheet, assign names to worksheets, delete unwanted sheets, move worksheets,s and so on. The library also makes it easy to access worksheets and supports managing cell data, styles, borders, outlines, ranges, formula calculation and etc. </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
-<pre><code class="html">PM&gt; Install-Package unvell.ReoGrid.dll </code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -162,41 +156,15 @@ Header_H2_Text="Open Source C# API allows to create, read, modify & export Mic
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
-<pre><code class="html">PM&gt; Install-Package unvell.ReoGrid.dll </code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Adding Charts to a Worksheet</h2>
-<p>The ReoGrid component has provided very strong support for handling charts inside an Excel worksheet. It allows to display chart on a worksheet and saving into or loading from an Excel file. There are different types of charts supported inside a worksheet such as Line Chart, Column Chart, Bar Chart Pro, Area Chart, Pie Chart, Doughnut Chart, and so on. You can also easily modify your charts with ease.</p>
+<p>The ReoGrid component has provided strong support for handling charts inside an Excel worksheet. It allows to display chart on a worksheet and saving into or loading from an Excel file. There are different types of charts supported inside a worksheet such as Line Chart, Column Chart, Bar Chart Pro, Area Chart, Pie Chart, Doughnut Chart, and so on. You can also easily modify your charts with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
-<pre><code class="html">PM&gt; Install-Package unvell.ReoGrid.dll </code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
-{{< /SinglePage/PageBody/features/single-feature-content >}}
-{{< SinglePage/PageBody/features/single-feature-content >}}
-
-{{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title"> </h2>
- 
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
-<pre><code class="html">PM&gt; Install-Package unvell.ReoGrid.dll </code></pre>
-
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}

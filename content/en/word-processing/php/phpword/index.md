@@ -1,7 +1,7 @@
 ---
-title: Open Source PHP Library for Microsoft Word DOC & DOCX -  PHPOffice
+title: Open Source PHP Library for Microsoft Word DOC & DOCX - PHPOffice
 description: PHPWord – Open Source Free PHP library for Microsoft Word DOC & DOCX files. Create, convert & modify Word documents as well as RTF & ODP files via PHP API.
-keywords: PHPOffice, Free API, Free PHP API, Free API, Free DOCX API, Free DOC API, Open Source PHP API, Open Source DOCX API, Open Source DOC API, Convert DOCX Free, Create Docx using PHP, Convert DOCX using PHP, modify word files, convert word DOCX, add images  to DOCX
+keywords: PHPOffice, Free API, Free PHP API, Free API, Free DOCX API, Free DOC API, Open Source PHP API, Open Source DOCX API, Open Source DOC API, Convert DOCX Free, Create Docx using PHP, Convert DOCX using PHP, modify word files, convert word DOCX, add images to DOCX
 draft: false
 weight: 5
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PHPWord"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source PHP Library for Microsoft<sup>®</sup> Word Documents"
-Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTML files to PDF format via PHP API." >}}
+Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTML files to PDF format via PHP API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -51,9 +51,9 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 <p>An overview of PHPWord features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
+<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
 <ul>
 <li>Set document properties</li>
 <li>Create document sections</li>
@@ -72,19 +72,19 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PHPWord supports popular Microsoft Word & OpenOffice file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader/Writer</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader/Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a>, <a href="https://docs.fileformat.com/word-processing/odt/">ODT</a>,<a href="https://docs.fileformat.com/word-processing/rtf/"> RTF</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Reader</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/doc/">DOC</a></li>
 </ul>
-<header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
@@ -101,9 +101,9 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 <p>PHPWord is installed via <a href="https://getcomposer.org/">Composer</a>. You just need to <a href="https://getcomposer.org/doc/04-schema.md#package-links">add a dependency on</a> PHPWord into your package.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3.3+</li>
 <li><a href="https://www.php.net/manual/en/xml.installation.php">XML Parser</a> extension</li>
@@ -141,8 +141,8 @@ Header_H2_Text="Read, Write, Process & Convert MS Word DOC, DOCX, ODT, RTF & HTM
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<pre><code class="xml">                composer require zendframework/zend-escaper
-    </code></pre>
+<pre><code class="xml">    composer require zendframework/zend-escaper
+ </code></pre>
 <ul>
 <ul>
 <ul>
@@ -178,15 +178,15 @@ $phpWord = new \PhpOffice\PhpWord\PhpWord();
 $section = $phpWord-&gt;addSection();
 // Add Text element to the Section
 $section-&gt;addText(
-    'File Format Developer Guide - '
-    . 'Learn about computer files that you come across in '
-    . 'your daily work at: www.fileformat.com'
+ 'File Format Developer Guide - '
+ . 'Learn about computer files that you come across in '
+ . 'your daily work at: www.fileformat.com'
 );
 
 // Save document
 $objWriter = \PhpOffice\PhpWord\IOFactory::createWriter($phpWord, 'Word2007');
 $objWriter-&gt;save('HelloWorld.docx');
-    </code></pre>
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -223,7 +223,7 @@ $properties-&gt;setSubject('PHPWord');
 // Save document
 $objWriter = \PhpOffice\PhpWord\IOFactory::createWriter($phpWord, 'Word2007');
 $objWriter-&gt;save('DocumentProperties.docx');
-    </code></pre>
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}

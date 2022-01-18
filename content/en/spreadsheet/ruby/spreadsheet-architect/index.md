@@ -1,7 +1,7 @@
 ---
 title: Open Source Ruby Spreadsheet API –Create Excel XLSX, ODS, or CSV Files
 description: Spreadsheet Architect- Open Source Ruby API to generate & handle XLSX, ODS, or CSV spreadsheets documents, generate multi-sheet spreadsheets files & add rows.
-keywords: Ruby Excel, Ruby Spreadsheet,  Ruby Excel programming, Ruby Excel APIs, Ruby .xls, Ruby .xlsx, Ruby .xlsx API, Ruby .xls library, Ruby Excel library, create  Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files, Open Source Excel Library, Ruby .xlsx file format, Open Source Excel Library
+keywords: Ruby Excel, Ruby Spreadsheet, Ruby Excel programming, Ruby Excel APIs, Ruby .xls, Ruby .xlsx, Ruby .xlsx API, Ruby .xls library, Ruby Excel library, create Excel Spreadsheet, add sheet to workbook, add cells to sheet, modify Excel documents, add chart to Excel files, Open Source Excel Library, Ruby .xlsx file format, Open Source Excel Library
 draft: false
 weight: 1
 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV spreadsheets documents, generate multi-sheet spreadsheets files, add rows and columns using Ruby commands."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Ruby Spreadsheet Library to Create XLSX, ODS, or CSV Files   "
-Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV spreadsheets documents, generate multi-sheet spreadsheets files, add rows and columns using Ruby commands." >}}
+Header_H1_Text="Ruby Spreadsheet Library to Create XLSX, ODS, or CSV Files "
+Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV spreadsheets documents, generate multi-sheet spreadsheets files, add rows and columns using Ruby commands." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,9 +31,9 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 
 
 
-<p>The open source Ruby library Spreadsheet Architect is very useful for the creation and handling of spreadsheet documents using Ruby commands. The library has included support for the creation of XLSX, ODS, or CSV spreadsheets with ease.  The library allows spreadsheet creation from ActiveRecord relations, plain Ruby objects, or tabular data.</p>
-<p>The Spreadsheet Architect library is very stable and easy to use. It has included several important features related to spreadsheet management, such as create a new spreadsheet file from the scratch, create a spreadsheet from custom data, generate the header, insert rows and columns,  apply styles to spreadsheets cells, add new worksheets, add new cells, customize cell data and so on.</p>
-<p>Using Spreadsheet Architect library developers can generate multi-sheet spreadsheets document with just a couple of lines of code.  All the features related to basic formatting can be easily applied such as bold, italic, underline, text alignment, applying text and cell color, font size, and many more. It has also provided some style aliases that can be easily used inside your applications.</p>
+<p>The open source Ruby library Spreadsheet Architect is useful for the creation and handling of spreadsheet documents using Ruby commands. The library supports the creation of XLSX, ODS, or CSV spreadsheets with ease. The library allows spreadsheet creation from ActiveRecord relations, plain Ruby objects, or tabular data.</p>
+<p>The Spreadsheet Architect library is stable and easy to use. It has included several important features related to spreadsheet management, such as create a new spreadsheet file from the scratch, create a spreadsheet from custom data, generate the header, insert rows and columns, apply styles to spreadsheets cells, add new worksheets, add new cells, customize cell data and so on.</p>
+<p>Using Spreadsheet Architect library developers can generate multi-sheet spreadsheets document with just a couple of lines of code. All the features related to basic formatting can be easily applied such as bold, italic, underline, text alignment, applying text and cell color, font size, and many more. It has also provided some style aliases that can be easily used inside your applications.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -84,17 +84,17 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Spreadsheet Architect supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>,  <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -109,9 +109,9 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 <p>The Spreadsheet Architect library only requires Ruby runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Ruby</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>Ruby</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Spreadsheet Architect</header><footer><small></small></footer></div>
@@ -149,7 +149,7 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Combine Multiple Worksheets via Ruby</h2>
-<p>The free library Spreadsheet Architect enables software programmers to combine multiple worksheets to a single file using Ruby commands. You need to provide the names and complete addresses of the worksheets. After that, it is very easy to join them on another sheet of your choice.  Once the process is completed you can easily apply new styles, add new columns or rows, and insert images to it with ease.</p>
+<p>The free library Spreadsheet Architect enables software programmers to combine multiple worksheets to a single file using Ruby commands. You need to provide the names and complete addresses of the worksheets. After that, it is easy to join them on another sheet of your choice. Once the process is completed you can easily apply new styles, add new columns or rows, and insert images to it with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -164,7 +164,7 @@ Header_H2_Text="Open Source Ruby API to generate and handle XLSX, ODS, or CSV 
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

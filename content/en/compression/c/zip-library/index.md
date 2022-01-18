@@ -1,7 +1,7 @@
 ---
-title: Open Source C Library - Create, Edit, Delete & Extract ZIP Archives
+title: C Library to Create, Edit, Delete & Extract ZIP Archives
 description: Open Source Free C zip Library – software developers can create, List, update, Extract, delete files fron ZIP Archives via C API.
-keywords: Free ZIP library, C ZIP, C Compression, compress files, decompress files, ZIP C API, PHP compression Library, Open Source C Library, C Zip programming, create  zip archives, Opening zip archives, Modify ZIP archives, save archive to a file, List zip archive
+keywords: Free ZIP library, C ZIP, C Compression, compress files, decompress files, ZIP C API, PHP compression Library, Open Source C Library, C Zip programming, create zip archives, Opening zip archives, Modify ZIP archives, save archive to a file, List zip archive
 draft: false
 weight: 11
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="zip"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="C API for Compression File Formats & zip archive"
+Header_H1_Text="C API for Compression File Formats & zip archive"
 Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -31,7 +31,7 @@ Header_H2_Text="" >}}
 
 
 
-<p>The open source portable ZIP library is written in C language that enables software developers to create and modify the ZIP archive.  The library is written on top of the miniz library and layering functions on top of the miniz v1.15 API. The interface of the library is extremely simple and that’s why there will be no problems for users to understand it. Several advanced ZIP compression and extraction related features are fully supported by the library, such as creating new ZIP archive with default compression level, append to the existing ZIP archive, extracting ZIP archive into a folder, extract a ZIP entry into memory,  extract a ZIP entry into a file,  list of all zip, extract an archive to a specific directory & many more.</p>
+<p>The open source portable ZIP library is written in C language that enables software developers to create and modify the ZIP archive. The library is written on top of the miniz library and layering functions on top of the miniz v1.15 API. The interface of the library is extremely simple and that’s why there will be no problems for users to understand it. Several advanced ZIP compression and extraction related features are fully supported by the library, such as creating new ZIP archive with default compression level, append to the existing ZIP archive, extracting ZIP archive into a folder, extract a ZIP entry into memory, extract a ZIP entry into a file, list of all zip, extract an archive to a specific directory & many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -47,10 +47,10 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of zip features.</p>
+<p>An overview of zip features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header>Overview</header>
 <ul>
@@ -73,15 +73,15 @@ Header_H2_Text="" >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>zip supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>ZIP</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li>ZIP</li>
 </ul>
@@ -98,16 +98,16 @@ Header_H2_Text="" >}}
 <p>There are two ways to install zip, i.e. via CMake or manually by downloading the library.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>C</li>
 </ul>
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="PHP Compression API"><header>zip</header><footer><small></small></footer></div>
+<div class="d1-logo"><img class="bg-lite" src='listing-image.png' alt="C Compression API"><header>zip</header><footer><small></small></footer></div>
 <!--/logo--></div>
 <!--/diagram2 -->
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
@@ -119,8 +119,8 @@ Header_H2_Text="" >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Getting Started with zip</h2>
-<p>It is recommended to build the library, via CMake. Please use the following command to Compile zip library.</p>
+<h2 class="h2title">Getting Started with ZIP-Library</h2>
+<p>It is recommended to build the library via CMake. Please use the following command to Compile zip library.</p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -137,7 +137,7 @@ $ make<br></code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Generate New Archive via C Library</h2>
-<p>The zip library provides software developers the capability to generate a new zip archive with default compression level inside their own applications. It also allows to modify an existing zip archive with ease. You can easily add new files or can select and extract a file to the location of your choice.  To add a file to archive users requires specifying the name of the file as well as providing the complete path.</p>
+<p>The zip library provides software developers the capability to generate a new zip archive with default compression level inside their own applications. It also allows to modify an existing zip archive with ease. You can easily add new files or can select and extract a file to the location of your choice. To add a file to archive users requires specifying the name of the file as well as providing the complete path.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -153,7 +153,7 @@ $ make<br></code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">More Control over ZIP Archive</h2>
-<p>The zip library provides several important features for better control over the contents of a ZIP archive. Several methods and properties are available that can help users to get complete information about the archive before extracting its contents. It supports features like count the number of files in an archive, iterate through all the files in an archive, extracts only selected files, removing files from an archive and many more.</p>
+<p>The zip library provides several important features for better control over the contents of a ZIP archive. Several methods and properties are available that can help users to get complete information about the archive before extracting its contents. It supports features like count the number of files in an archive, iterate through all the files in an archive, extracts only selected files, removing files from an archive and many more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

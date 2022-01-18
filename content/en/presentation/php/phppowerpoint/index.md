@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PHPPowerPoint"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source PHP API for Microsoft<sup>®</sup> PowerPoint Files"
-Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via Free PHP Library." >}}
+Header_H1_Text="Open Source PHP API for Microsoft<sup>®</sup> PowerPoint Files"
+Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via Free PHP Library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -34,7 +34,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 <h2 class="h2title">What is PHPPowerPoint?</h2>
 <p>PHPPowerPoint is an open source PHP library gives software developers the capability to read and write popular presentation file formats like PPTX and ODP. It provides support for setting presentation Metadata such as author, title, description, etc. It also supports different formatting, styles, fills, gradients. You can also use different printing options such as header, footer, page margins, paper size, and orientation, etc.</p>
 <p>PHPPowerPoint provides support for several important features such as Set presentation metadata, add slides, fonts and font styles support, various formatting & styles support, add hyperlinks and rich-text strings, add images, setting printing options and more.</p>
-<p> </p>
+<p> </p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -50,10 +50,10 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>At A Glance</h3>
-<p>An overview of PHPPowerPoint features.</p>
+<p>An overview of PHPPowerPoint features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header>Overview</header>
 <ul>
@@ -78,17 +78,17 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PHPPowerPoint supports popular Microsoft PowerPoint & OpenOffice file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a>, <a href="https://docs.fileformat.com/presentation/odp/">ODP</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -103,9 +103,9 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 <p>There are two ways to install PHPPowerPoint, i.e. via <a href="https://getcomposer.org/">Composer</a> or manually by downloading the library.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Mandatory</header>
 <ul>
 <li>PHP 5.3+</li>
 <li><a href="https://www.php.net/manual/en/book.zip.php">PHP Zip</a> extension</li>
@@ -131,7 +131,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Include Code in PHPPowerPoint.php</h3>
-<pre><code class="html">  include_once '/path/to/Classes/PHPPowerPoint.php'; </code></pre>
+<pre><code class="html"> include_once '/path/to/Classes/PHPPowerPoint.php'; </code></pre>
 
 <p>After that, you can use the library by creating a new instance of the class.</p>
 {{< /SinglePage/PageBody/features/code >}}
@@ -139,7 +139,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Generate & Modify PPTX Presentations via PHP API</h2>
+<h2 class="h2title">Generate & Modify PPTX Presentations via PHP API</h2>
 <p>PHPPowerPoint library enables software developers to create a new PowerPoint presentation file inside their own PHP applications. Developers can set properties like the creator, setting title or subject, setting description, etc. Developers can also add a new slide, remove an existing slide, create template slide, insert image or shape to a slide and more using open source PHP API.</p>
 <h3>Create PPTX in PHP</h3>
 <ol>
@@ -156,7 +156,7 @@ Header_H2_Text=" Generate, Modify & Convert PPTX or ODP Presentation Files via
 $slide = $phpPowerPoint-&gt;createSlide();
 // add text shape
 $shape = $slide-&gt;createRichTextShape();
-                    </code></pre>
+     </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -164,8 +164,8 @@ $shape = $slide-&gt;createRichTextShape();
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Add Shapes to PowerPoint Presentations</h2>
-<p>Software developers can easily add shapes into PPTX presentations using Open source PHP library PHPPowerPoint.  Shapes are objects that can be included to a presentation’s slide. There several types of shapes that can be used inside presentations, such as rich text, line, chart, drawing, and table, etc.</p>
+<h2 class="h2title">Add Shapes to PowerPoint Presentations</h2>
+<p>Software developers can easily add shapes into PPTX presentations using Open source PHP library PHPPowerPoint. Shapes are objects that can be included to a presentation’s slide. There several types of shapes that can be used inside presentations, such as rich text, line, chart, drawing, and table, etc.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

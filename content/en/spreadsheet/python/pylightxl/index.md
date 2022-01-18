@@ -1,13 +1,13 @@
 ---
 title: Open Source Python Spreadsheet API – Create & Edit Excel XLSX Files
 description: Pylightxl – An open source Python API for Excel spreadsheets processing; create edit Excel XLSX files and reading semi-structured data via Python library.
-keywords: python excel, python XLSX library , alternative to MS Excel, python XLSX, python ODS, python Excel API, python Excel Library, python Spreadsheets API, Read huge XLSX, Write bulk data to cell, styling Excel Cells, merging spreadsheet cells, read excel files,  generate Excel Cells
+keywords: python excel, python XLSX library , alternative to MS Excel, python XLSX, python ODS, python Excel API, python Excel Library, python Spreadsheets API, Read huge XLSX, Write bulk data to cell, styling Excel Cells, merging spreadsheet cells, read excel files, generate Excel Cells
 draft: false
 weight: 31
 
 
 
-ProductName: pylightxl  
+ProductName: pylightxl 
 Githublink: https://github.com/PydPiper/pylightxl
 ListingPage_Short_Description: An open Source Python API to generate, modify, manipulate and Rread Microsoft Excel XLSX and XLSM File Format.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="pylightxl"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Python API for Excel XLSX Spreadsheets"
-Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and XLSM File Format via open-source Python library." >}}
+Header_H1_Text="Python API for Excel XLSX Spreadsheets"
+Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and XLSM File Format via open-source Python library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 
 
 <p>pylightxl is an open source light weight Python library that gives software developers the capability to work with Microsoft Excel Files inside their own application with zero dependencies. The library has provided support for reading and writing Excel spreadsheets using Python commands.</p>
-<p>The library has included Reading supports XLSX and XLSM spreadsheet file formats and writing support for XLSX file formats.  The library is very easy to use and install as there is only a single source file that can need to be copied directly into a project. The library has included support for several important features, such as reading excel files, read all or selected sheets, better memory management and speed, reading a particular row or column, update row data,   add or remove columns from a sheet, and many more.</p>
+<p>The library has included Reading supports XLSX and XLSM spreadsheet file formats and writing support for XLSX file formats. The library is easy to use and install as there is only a single source file that can need to be copied directly into a project. The library supports several important features, such as reading excel files, read all or selected sheets, better memory management and speed, reading a particular row or column, update row data, add or remove columns from a sheet, and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -70,8 +70,8 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 <li>Read larger files</li>
 <li>Less Memory usage</li>
 <li>Add table</li>
-<li>Insert comments </li>
-<li>Merge cells </li>
+<li>Insert comments </li>
+<li>Merge cells </li>
 <li>Hyperlinks support</li>
 </ul>
 </div>
@@ -84,15 +84,15 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>pylightxl supports OOXML spreadsheet format as well as it can export data to common file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><span class="wikilink"><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, XLSM</span></li>
+<li><span class="wikilink"><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, XLSM</span></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/web/html/">HTML</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
@@ -110,7 +110,7 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 <p>.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!-- <header><i class="fa fa-cubes"> &nbsp;</i></header>
 <ul>
 <li>Python 2.6 & above</li>
@@ -134,7 +134,7 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install pylightxl via PIP Command</h3>
+<h3>Install pylightxl via PIP</h3>
 <pre><code class="html"> pip install pylightx</code></pre>
 
 
@@ -144,15 +144,15 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Access and Read Excel Spreadsheet via Python</h2>
-<p>The pylightxl library gives software programmers the capability to read Excel files inside their own applications without any external dependencies. The library allows software developers to read XLSX and XLSM files with just a couple of lines of Java code. The library also provides support for reading only selected worksheet. It also supports accessing and reading a specific column or row from a given excel file. </p>
+<p>The pylightxl library gives software programmers the capability to read Excel files inside their own applications without any external dependencies. The library allows software developers to read XLSX and XLSM files with just a couple of lines of Java code. The library also provides support for reading only selected worksheet. It also supports accessing and reading a specific column or row from a given excel file. </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Create an Excel XLSX File via Python</h2>
-<p>The open source pylightxl library has provided the capability for creating Excel XLSX files with just a couple of lines of Python code inside their own applications without installing Microsoft Excel file. The library only supports cell data writing and at the moment does not support graphs, formatting, images, macros, etc.  It allows users to write a new excel file from python data and supports features like adding an empty worksheet, adding rows, columns, and many more.</p>
+<h2 class="h2title">Create an Excel XLSX File via Python</h2>
+<p>The open source pylightxl library has provided the capability for creating Excel XLSX files with just a couple of lines of Python code inside their own applications without installing Microsoft Excel file. The library only supports cell data writing and at the moment does not support graphs, formatting, images, macros, etc. It allows users to write a new excel file from python data and supports features like adding an empty worksheet, adding rows, columns, and many more.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -167,8 +167,8 @@ Header_H2_Text="Generate, Modify,Manipulate and Read Microsoft Excel XLSX and X
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title"> </h2>
- 
+<h2 class="h2title"> </h2>
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Open Source C++ Library for Spreadsheets – Read & Write Excel Files
-description: OpenXLSX – Open Source Free C++ Library for Excel files.  Create, Modify & Convert Spreadsheets, protect workbook or worksheet, set column widths via C++ API.
-keywords: Free Spreadsheets API, Free Excel API, read excel files, C++ excel, alternative to MS Excel, cplusplus Excel library, cplusplus spreadsheet, MS Excel library, parse excel files,   C++ Excel API, Free Excel Library, C++ Spreadsheets API, protect Excel worksheets, unprotect Excel worksheets, set column widths
+description: OpenXLSX – Open Source Free C++ Library for Excel files. Create, Modify & Convert Spreadsheets, protect workbook or worksheet, set column widths via C++ API.
+keywords: Free Spreadsheets API, Free Excel API, read Excel files, C++ Excel, alternative to MS Excel, cplusplus Excel library, cplusplus spreadsheet, MS Excel library, parse Excel files, C++ Excel API, Free Excel Library, C++ Spreadsheets API, protect Excel worksheets, unprotect Excel worksheets, set column widths
 
 draft: false
 weight: 15
@@ -20,10 +20,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spreadsheet files via Open Source C++ API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source C++ Library for Excel Spreadsheet "
-Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spreadsheet files via Open Source C++ API." >}}
+Header_H1_Text="Open Source C++ Library for Excel Spreadsheet"
+Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spreadsheet files via Open Source C++ API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -85,17 +85,17 @@ Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spre
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>OpenXLSX supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li>XLS, XLSX</li>
+<li>XLS, XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/word-processing/txt/">TXT</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -110,9 +110,9 @@ Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spre
 <p>OpenXLSX only requires C++ runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>C++</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>C++</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>OpenXLSX</header><footer><small></small></footer></div>
@@ -136,9 +136,9 @@ Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spre
 <pre><code class="html"> install.packages("openxlsx", dependencies = TRUE) </code></pre>
 <h3>Development version</h3>
 <pre><code class="html">install.packages("openxlsx", dependencies = TRUE) 
-    require(devtools)
-    install_github("ycphs/openxlsx")
-    </code></pre>
+ require(devtools)
+ install_github("ycphs/openxlsx")
+ </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -147,7 +147,7 @@ Header_H2_Text="Read, Write, Edit and Convert Microsoft<sup>®</sup> Excel Spre
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">C++ API to Create & Modify Spreadsheet Files</h2>
-<p>The open-source API OpenXLSX enables programmers to generate an excel spreadsheet from scratch. It also provides support for modifying the existing spreadsheet with ease. To modify an existing file you need to open it and insert the data you want to include in the files. You can create a new worksheet and add it to the empty workbook, add data to it and much more. You can also assign a name to the sheet and can also add content to it. By using the following steps, you can create a Microsoft Excel document in C++</p>
+<p>The open-source API OpenXLSX enables programmers to generate an Excel spreadsheet from scratch. It also provides support for modifying the existing spreadsheet with ease. To modify an existing file you need to open it and insert the data you want to include in the files. You can create a new worksheet and add it to the empty workbook, add data to it and much more. You can also assign a name to the sheet and can also add content to it. By using the following steps, you can create a Microsoft Excel document in C++</p>
 <h3>Create Excel Document in C++</h3>
 <ol>
 <li>Initialize XLDocument object</li>
@@ -167,10 +167,10 @@ doc.create("./Demo01.xlsx");
 // add worksheet
 auto wks = doc.workbook().worksheet("Sheet1");
 // add text
-wks.cell(XLCellReference("A1")).value() = "  Hello OpenXLSX!  ";
+wks.cell(XLCellReference("A1")).value() =" Hello OpenXLSX!";
 // save document
 doc.save();
-                                    </code></pre>
+         </code></pre>
 
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -179,9 +179,9 @@ doc.save();
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Protect Workbook or Worksheet</h2>
-<p>Evert organizations work hard to collect their required data and don’t want anyone to play with their data.  OpenXLSX provides developers with the functionality to preventing people from editing various parts of a <em>workbook</em>. You can protect it by providing a password to limit who can even open it. It is always useful to protect a certain part of a workbook and let the users make changes to other parts when required.</p>
+<p>Evert organizations work hard to collect their required data and don’t want anyone to play with their data. OpenXLSX provides developers with the functionality to preventing people from editing various parts of a <em>workbook</em>. You can protect it by providing a password to limit who can even open it. It is always useful to protect a certain part of a workbook and let the users make changes to other parts when required.</p>
 <h2 class="h2title">Manage Worksheet Column Widths</h2>
-<p>The Open-source API OpenXLSX enables software programmers to set worksheet column widths to a specific width or "auto" for automatic width sizing. We can use <em>widths = “auto” </em>in the <em>setColWidths</em> function to auto-widen the column based on the data. You can also use merge cells<em> </em>to create a header for the data frame’s column headers. It also provides features for hiding the columns.</p>
+<p>The Open-source API OpenXLSX enables software programmers to set worksheet column widths to a specific width or"auto" for automatic width sizing. We can use <em>widths = “auto” </em>in the <em>setColWidths</em> function to auto-widen the column based on the data. You can also use merge cells<em> </em>to create a header for the data frame’s column headers. It also provides features for hiding the columns.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

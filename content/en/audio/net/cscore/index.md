@@ -1,13 +1,13 @@
 ---
-title: Open Source Free .NET Audio Library- Play, Record & Capture Audio File
+title: Open Source Free .NET Audio Library - Play, Record & Capture Audio File
 description: CSCore - Open Source free C# .NET audio library that allows developers to play, record, encode or decode, real time process & capture audio files via C# code.
-keywords: .NET API, real time audio processing record audio, capture audio, C# audio library, Free Audio API, Free NET API, Free WAV API, Open Source WAV API, Free WAV NET, Random Audio API, Free Audio Processing, Audio Processing API, Open Source Audio processing, Convert Wav Free, NET Audio APIs, .NET Wav API,  Read Wave, Write Wave, Create Wave Forms, Automation Tracks, Change Amplitude, Waveform Tables, Waveform Synthesis, Extract Breakpoints, Stereo Panning
+keywords: .NET API, real time audio processing record audio, capture audio, C# audio library, Free Audio API, Free NET API, Free WAV API, Open Source WAV API, Free WAV NET, Random Audio API, Free Audio Processing, Audio Processing API, Open Source Audio processing, Convert Wav Free, NET Audio APIs, .NET Wav API, Read Wave, Write Wave, Create Wave Forms, Automation Tracks, Change Amplitude, Waveform Tables, Waveform Synthesis, Extract Breakpoints, Stereo Panning
 draft: false
 weight: 1
 
 
 
-ProductName: CSCore  
+ProductName: CSCore 
 Githublink: https://github.com/filoe/cscore
 ListingPage_Short_Description: A free C# .NET audio library that enables computer programmers to play, capture, record and convert audio file formats.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="CSCore"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Open Source C# .NET Library for Audio Files"
-Header_H2_Text="Free .NET API that provides support for playing as well as capturing audio files. It supports MP3 creation from WAV file, real-time audio data processing, audio encoding or decoding and much more." >}}
+Header_H1_Text="Open Source C# .NET Library for Audio Files"
+Header_H2_Text="Free .NET API that provides support for playing as well as capturing audio files. It supports MP3 creation from WAV file, real-time audio data processing, audio encoding or decoding and much more." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,10 +31,10 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 
 
-<p>CSCore is a very useful free C# .NET audio library that enables computer programmers to work with audio file formats. The library has included a wide range of advanced features for playing as well as capturing audio files. The library also included support for several popular audio codecs such as MP3, WAVE (PCM, IeeeFloat, GSM, and ADPCM), FLAC, AAC, AC3, WMA, Raw data, OGG-Vorbis, FFmpeg, and many more.</p>
-<p>One great thing about the library is its extensible architecture which enables users to customize it according to their needs with less effort.  The library has included several important features such as real-time audio data processing, audio encoding or decoding, custom processor creation, Channel-mixing, generic equalizer, 3D audio support, streaming source voice implementation, audio quality adjusting, and many more.</p>
+<p>CSCore is a useful free C# .NET audio library that enables computer programmers to work with audio file formats. The library has included a wide range of advanced features for playing as well as capturing audio files. The library also included support for several popular audio codecs such as MP3, WAVE (PCM, IeeeFloat, GSM, and ADPCM), FLAC, AAC, AC3, WMA, Raw data, OGG-Vorbis, FFmpeg, and many more.</p>
+<p>One great thing about the library is its extensible architecture which enables users to customize it according to their needs with less effort. The library has included several important features such as real-time audio data processing, audio encoding or decoding, custom processor creation, Channel-mixing, generic equalizer, 3D audio support, streaming source voice implementation, audio quality adjusting, and many more.</p>
 <p>The library is cross-platform and can smoothly run on runs on Linux, Windows, and Mac. The Library is open source and is freely available under the MIT License for public use.</p>
-<p><span style="font-size: 12.16px;">.</span></p>
+
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -57,17 +57,17 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 <ul>
 <li>Audio Recording</li>
 <li>Play Audio</li>
-<li>capture audio</li>
-<li>3D audio</li>
+<li>capture Audio</li>
+<li>3D Audio</li>
 <li>Audio Sprites</li>
-<li>Audio codecs</li>
-<li>Audio encoding</li>
-<li>audio decoding</li>
-<li>Shift pitch</li>
-<li>Audio player</li>
+<li>Audio Codecs</li>
+<li>Audio Encoding</li>
+<li>audio Decoding</li>
+<li>Shift Pitch</li>
+<li>Audio Player</li>
 <li>Channel-mixing</li>
-<li>Generic equalizer</li>
-<li>3D audio support</li>
+<li>Generic Equalizer</li>
+<li>3D Audio Support</li>
 </ul>
 </div>
 </div>
@@ -78,17 +78,17 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>CSCore supports Audio file formats as listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, WMA, Raw data, FFmpeg</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, WMA, Raw data, FFmpeg</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>,  <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, WMA, FFmpeg</li>
+<li><a href="https://docs.fileformat.com/audio/mp3/">MP3</a>, <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, WMA, FFmpeg</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -103,7 +103,7 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 <p>CSCore only requires .NET runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i></header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i></header>
 <ul>
 <li>.NET</li>
 </ul>
@@ -127,7 +127,7 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install CSCore using  GitHub</h3>
+<h3>Install CSCore using GitHub</h3>
 <pre><code class="html">git clone https://github.com/filoe/cscore.git </code></pre>
 
 
@@ -136,14 +136,11 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title">Create MP3 from WAV File via</h2>
-<p>The CSCore library enables software developers to create an MP3 audio file from WAV file inside their own applications. First, you need to provide the complete address of the audio files.  The library makes it easy for developers to encode a WAV file to MP3 file with just a couple of lines of code. It also allows setting the conversion rate and duration with ease.</p>
+<h2 class="h2title">Create MP3 from WAV File via C#</h2>
+<p>The CSCore library enables software developers to create an MP3 audio file from WAV file inside their own applications. First, you need to provide the complete address of the audio files. The library makes it easy for developers to encode a WAV file to MP3 file with just a couple of lines of code. It also allows setting the conversion rate and duration with ease.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -153,9 +150,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -165,9 +159,7 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
 
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
@@ -177,20 +169,6 @@ Header_H2_Text="Free .NET API that provides support for playing as well as cap
 
 {{< /SinglePage/PageBody/features/text >}}
 
-{{< SinglePage/PageBody/features/code >}}
-
-{{< /SinglePage/PageBody/features/code >}}
-{{< /SinglePage/PageBody/features/single-feature-content >}}
-{{< SinglePage/PageBody/features/single-feature-content >}}
-
-{{< SinglePage/PageBody/features/text >}}
- 
-
-{{< /SinglePage/PageBody/features/text >}}
-
-{{< SinglePage/PageBody/features/code >}}
-
-{{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 
 {{< /SinglePage/PageBody/features/feature-wrap >}}

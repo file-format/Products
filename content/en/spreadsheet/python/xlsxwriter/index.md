@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Google Sheets - Create & Share Spreadsheet
 description: Gspread – An open source Free Python API for managing Google Sheets. Developers can create, modify, share and parse Excel XML Spreadsheets via Python library.
-keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files,  generate Excel files
+keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files, generate Excel files
 
 draft: false
 weight: 26
@@ -20,7 +20,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Google Sheets"
 Header_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library." >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library
 
 
 
-<p>XlsxWriter is an open source python API for writing files in the Excel 2007+ XLSX file format. Using the API you can write text, foumulas, numbers and hyperlinks into multiple worksheets. Furthermore, the API allows inserting charts, merger cells, formats cells, apply filters, validate data, insert PNG/JPEG/BMP/WMF/EMF images, use rich multi-format strings and more.  </p>
+<p>XlsxWriter is an open source python API for writing files in the Excel 2007+ XLSX file format. Using the API you can write text, foumulas, numbers and hyperlinks into multiple worksheets. Furthermore, the API allows inserting charts, merger cells, formats cells, apply filters, validate data, insert PNG/JPEG/BMP/WMF/EMF images, use rich multi-format strings and more. </p>
 <p>XlsxWriter claims to provide more Excel Features than any of the alternative python module. The API provides high rate of accuracy while creat ningew Excel files, in most cases the files produced using XlsxWriter are 100% equivalent to files produced by Excel.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -73,14 +73,14 @@ Header_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>XlsxWriter supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>XlsxWriter supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> </li>
+<li> <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -95,7 +95,7 @@ Header_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library
 <p>XlsxWriter requires Python 2.7+ or Python 3.4+ and PyPy.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>XlsxWriter</header><footer><small></small></footer></div>
@@ -132,7 +132,7 @@ Header_H2_Text="Write Excel XML Spreadsheet Files via Open Source Python Library
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Charts in XLSX using Python</h2>
-<p>The Open Source spreadsheet library XlsxWriter allows software developers to add charts in XLSX file format using just a few lines of code. After creating your new worksheet in excel, you can add chart it by using workbook.add_chart() method. Using the Python API, you can add area chart, bar chart, column chart, line chart, pie chart, doughnut chart, scatter chart, stock chart, radar chart for free.</p>
+<p>The Open Source spreadsheet library XlsxWriter allows software developers to add charts in XLSX file format using just a few lines of code. After creating your new worksheet in excel, you can add chart it by using workbook.add_chart() method. Using the Python API, you can add area chart, bar chart, column chart, line chart, pie chart, doughnut chart, scatter chart, stock chart, radar chart for free.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

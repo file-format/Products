@@ -1,7 +1,7 @@
 ---
 title: PureExcel – Lightweight Excel(2007) Parser
 description: PureExcel - Open Source Fast .NET Library for XLSX Spreadsheets. Generate, Edit, manage Rows or Cells and add Comments to Excel files in a fast way via C# API.
-keywords: Free .NET Excel, Free Excel library,  alternative to MS Excle, .NET XLSX API, .NET XLSX library,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, manage Rows or Cells, add Comments to Excel, 
+keywords: Free .NET Excel, Free Excel library, alternative to MS Excle, .NET XLSX API, .NET XLSX library, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, manage Rows or Cells, add Comments to Excel, 
 draft: false
 weight: 9
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Free lightweight API for parsing Microsoft Excel Spreadsheets"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source .NET Library for Readding Excel Spreadsheets"
 Header_H2_Text="Free lightweight API for parsing Microsoft Excel Spreadsheets" >}}
@@ -31,7 +31,7 @@ Header_H2_Text="Free lightweight API for parsing Microsoft Excel Spreadsheets" >
 
 
 
-<p>PureExcel is an open source lightweight C# API for reading Microsoft Excel (2007) Worksheets. It is a simple API and can be run on any .NET Framework. The API uses no third party libray dependency, no Excel Interop, no Open XML SDK, no Linq, Xml and Dataset of C# system API.</p>
+<p>PureExcel is an open source lightweight C# API for reading Microsoft Excel (2007) Worksheets. It is a simple API and can be run on any .NET Framework. The API uses no third party library dependency, no Excel Interop, no Open XML SDK, no Linq, Xml and Dataset of C# system API.</p>
 <p>Using the API you can read Excel workbook and trim empty rows and columns in it. Furthermore, the API supports stream parsing and formula parsing.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -68,15 +68,15 @@ Header_H2_Text="Free lightweight API for parsing Microsoft Excel Spreadsheets" >
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>PureExcel supports popular formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header></div>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header></div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>PureExcel</header><footer><small></small></footer></div>

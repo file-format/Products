@@ -1,7 +1,7 @@
 ---
 title: Open Source C++ Library for XLSX Spreadsheet - Set Page Margins & Styles
 description: Xlnt - Open Source Cross-Platform C++ library for XLSX Spreadsheets. Read, write, set page margins, apply Formatting & Style to Excel XLSX files via C++ API.
-keywords: Free XLSX API, Free Spreadsheets API, Free Excel API, read excel files, C++ excel, alternative to MS Excel, cplusplus Excel library, cplusplus spreadsheet, MS Excel library, parse excel files,   C++ Excel API, Free Excel Library, C++ Spreadsheets API, set column widths, set page margins, apply Formatting, apply Style to Excel XLSX
+keywords: Free XLSX API, Free Spreadsheets API, Free Excel API, read Excel files, C++ Excel, alternative to MS Excel, cplusplus Excel library, cplusplus spreadsheet, MS Excel library, parse Excel files, C++ Excel API, Free Excel Library, C++ Spreadsheets API, set column widths, set page margins, apply Formatting, apply Style to Excel XLSX
 draft: false
 weight: 16
 
@@ -9,7 +9,7 @@ weight: 16
 
 ProductName: Xlnt
 Githublink: https://github.com/tfussell/xlnt
-ListingPage_Short_Description: Provides software developers the capability to generate, read, modify and manipulate Excel XLSX files inside C++ applications.
+ListingPage_Short_Description: Provides software developers the capability to generate, read, modify and manipulate Excel XLSX files inside C++ applications.
 ListingPage_Product_Small_Image: listing-image.png 
 
 ---
@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Xlnt"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Cross-Platform C++ Library for Excel Spreadsheet "
-Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Microsoft Excel XLSX Spreadsheet Files via C++ API." >}}
+Header_H1_Text="Cross-Platform C++ Library for Excel Spreadsheet"
+Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Microsoft Excel XLSX Spreadsheet Files via C++ API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -81,16 +81,16 @@ Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Micros
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Xlnt supports Excel spreadsheet format as well as it can export data to common file formats.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Xlnt supports Excel spreadsheet format as well as it can export data to common file formats.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>XLSX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a><a href="https://docs.fileformat.com/web/html/">, </a>XLSB</li>
 </ul>
@@ -108,7 +108,7 @@ Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Micros
 <p>.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!-- <header><i class="fa fa-cubes"> &nbsp;</i></header>
 <ul>
 <li>Python 2.6 & above</li>
@@ -132,12 +132,12 @@ Header_H2_Text="Open Source API allows to Read, Write, Modify & Export Micros
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install PIP Command</h3>
+<h3>Install via APT</h3>
 <pre><code class="html">sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 sudo apt update
 sudo apt-get upgrade
 sudo apt-get install gcc-6 g++-6
-export CC=/usr/bin/gcc-6  
+export CC=/usr/bin/gcc-6 
 export CXX=/usr/bin/g++-6
 </code></pre>
 
@@ -147,7 +147,7 @@ export CXX=/usr/bin/g++-6
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">C++ API to Read from an Existing XLSX Spreadsheet</h2>
-<p>The open source Xlnt library provides functionality for reading an existing XLSX spreadsheet inside C++ applications. It also allows developers to print the string values to the screen.  Moreover, once you read the contents it is also possible to export the contents into a file and store on the location of your choice. </p>
+<p>The open source Xlnt library provides functionality for reading an existing XLSX spreadsheet inside C++ applications. It also allows developers to print the string values to the screen. Moreover, once you read the contents it is also possible to export the contents into a file and store on the location of your choice. </p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -155,7 +155,7 @@ export CXX=/usr/bin/g++-6
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Apply Formatting & Style to Excel Spreadsheet</h2>
-<p>The Xlnt library enables programmers to apply formatting and styles to their data inside an Excel spreadsheet. A format in Xlnt corresponds to the alignment, border, fill, font, number format, and protection settings applied to a cell. On the other hand, a style is a named style created in the "Cell styles" dropdown in Excel. It needs to have a name and optionally any of alignment, border, fill, font, number format, protection. A cell can have both a format and a style.</p>
+<p>The Xlnt library enables programmers to apply formatting and styles to their data inside an Excel spreadsheet. A format in Xlnt corresponds to the alignment, border, fill, font, number format, and protection settings applied to a cell. On the other hand, a style is a named style created in the"Cell styles" dropdown in Excel. It needs to have a name and optionally any of alignment, border, fill, font, number format, protection. A cell can have both a format and a style.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -163,15 +163,15 @@ export CXX=/usr/bin/g++-6
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Setting Page Margins of a Worksheet</h2>
-<p>The open source Xlnt enables programmers to apply page margins to an Excel worksheet page inside their own C++ applications.  Page margins specify how much blank area should be left around the information in an Excel worksheet. They provide a visual border for users printed pages and an area where the page can be held or bound.</p>
+<p>The open source Xlnt enables programmers to apply page margins to an Excel worksheet page inside their own C++ applications. Page margins specify how much blank area should be left around the information in an Excel worksheet. They provide a visual border for users printed pages and an area where the page can be held or bound.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
-<h2 class="h2title"> </h2>
- 
+<h2 class="h2title"> </h2>
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

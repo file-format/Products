@@ -1,7 +1,7 @@
 ---
 title: C++ Image Processing Library – Apply Image Filtering & Rendering
 description: CImg - open Source C++ image processing library allows programmers to apply image filtering, render, create, edit & manipulate formats like PNG, JPEG, BMP & TIFF.
-keywords: image processing,  C++ images, image processing library, C++ PNG API, C++ JPG, C++ image API,  C++ Image creation, Modify images, Image filtering API, C++  fade image , image filtering  API, image animation, 3d image  rendering, plasma effect, C++ Image Binarization
+keywords: image processing, C++ images, image processing library, C++ PNG API, C++ JPG, C++ image API, C++ Image creation, Modify images, Image filtering API, C++ fade image , image filtering API, image animation, 3d image rendering, plasma effect, C++ Image Binarization
 draft: false
 weight: 1
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images file formats using Free C++ API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source C++ Library for Image Processing"
 Header_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images file formats using Free C++ API." >}}
@@ -31,8 +31,8 @@ Header_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images 
 
 
 
-<p>CImg Library is an open source library that provides useful features for loading, saving, displaying and processing various types of images inside C++ applications. The CImg is a very lightweight and user-friendly library. The good thing is that it avoids handling complex dependencies and library compatibility issues. It is made of a single header file CImg.h that must be included in your C++ source. It helps developers by performing complex image processing activities in just a few lines of code.</p>
-<p>The API supports advanced features like handling 3D images, Transform images, image filtering, image animation, Image Binarization and more. CImg library is very portable & self-contained. It is can be easily used on different operating systems with ease. Moreover, it’s also very compatible with <em>numerous C++ compilers such as </em>Visual C++, ICC, G++, etc.</p>
+<p>CImg Library is an open source library that provides useful features for loading, saving, displaying and processing various types of images inside C++ applications. The CImg is a lightweight and user-friendly library. The good thing is that it avoids handling complex dependencies and library compatibility issues. It is made of a single header file CImg.h that must be included in your C++ source. It helps developers by performing complex image processing activities in just a few lines of code.</p>
+<p>The API supports advanced features like handling 3D images, Transform images, image filtering, image animation, Image Binarization and more. CImg library is portable & self-contained. It is can be easily used on different operating systems with ease. Moreover, it’s also compatible with <em>numerous C++ compilers such as </em>Visual C++, ICC, G++, etc.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -73,18 +73,18 @@ Header_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images 
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>CImg supports popular image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>CImg supports popular image file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, TGA, DICOM</li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a>, TGA, DICOM</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
+<li><a href="https://docs.fileformat.com/image/png/">PNG</a>,<a href="https://docs.fileformat.com/image/jpeg/"> JPEG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, <a href="https://docs.fileformat.com/image/tiff/">TIFF</a></li>
 </ul>
 </div>
 <!--/right--></div>
@@ -105,7 +105,7 @@ Header_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images 
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>CImg</header><footer><small></small></footer></div>
@@ -126,8 +126,8 @@ Header_H2_Text="Apply Image Filters, Create, Manipulate & Render Popular Images 
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3><strong>Add these lines for CImg working</strong></h3>
-<pre><code class="html"> #include "CImg.h" 
+<h3><strong>Add these lines for CImg working</strong></h3>
+<pre><code class="html"> #include"CImg.h" 
 using namespace cimg_library </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
@@ -136,7 +136,7 @@ using namespace cimg_library </code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">C++ API to Create & Modify Images</h2>
-<p>CImg open-source library allows C++ developers to create and manipulate different types of images inside their own applications. It also supports how to handle image display and mouse events. First of all, you need to include the main and only header files of the CImg library. The good thing is the library reduces the developer's load by allowing them to write a very small amount of code. Please also note that the source will perfectly work on UNIX and Windows systems.</p>
+<p>CImg open-source library allows C++ developers to create and manipulate different types of images inside their own applications. It also supports how to handle image display and mouse events. First of all, you need to include the main and only header files of the CImg library. The good thing is the library reduces the developer's load by allowing them to write a small amount of code. Please also note that the source will perfectly work on UNIX and Windows systems.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

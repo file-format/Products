@@ -19,10 +19,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="JavaScript API for applying different effects to images using different kinds of filters such as gaussian, grayscale, highpass, invert, laplacian, mirror,RGB, Roberts, saturation & more."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source JavaScript Library for Image Processing"
-Header_H2_Text="JavaScript API for applying different effects to images using different kinds of filters such as gaussian, grayscale, highpass, invert, laplacian, mirror,RGB, Roberts, saturation & more." >}}
+Header_H2_Text="JavaScript API for applying different effects to images using different kinds of filters such as gaussian, grayscale, highpass, invert, laplacian, mirror,RGB, Roberts, saturation & more." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -31,8 +31,8 @@ Header_H2_Text="JavaScript API for applying different effects to images using 
 
 
 
-<p>Lena.js a very simple light-weight image processing library that enables software developers to work with different types of images from inside their JavaScript applications. It is a pure JavaScript library that can work on Node as well as in-browser without any external dependencies.  The library is open source and is available under the MIT license. The library is not very good with heavy images inside the browser but is very efficient for the manipulation of small images.</p>
-<p>Lena.js is very easy to use and can apply different effects to images. The image filters enable software apps to apply different effects on images with just one click. The library has included support for several important image filters, some important ones are gaussian, grayscale, highpass, invert, laplacian, mirror, noise, prewitt, RGB, Roberts, saturation, sepia, sharpen, and many more. The library also supports applying multiple filters to an image.  The filters are stored in the same global variable LenaJS and can be accessed through its id using the key or dot notation.</p>
+<p>Lena.js a simple light-weight image processing library that enables software developers to work with different types of images from inside their JavaScript applications. It is a pure JavaScript library that can work on Node as well as in-browser without any external dependencies. The library is open source and is available under the MIT license. The library is not good with heavy images inside the browser but is efficient for the manipulation of small images.</p>
+<p>Lena.js is easy to use and can apply different effects to images. The image filters enable software apps to apply different effects on images with just one click. The library supports several important image filters, some important ones are gaussian, grayscale, highpass, invert, laplacian, mirror, noise, prewitt, RGB, Roberts, saturation, sepia, sharpen, and many more. The library also supports applying multiple filters to an image. The filters are stored in the same global variable LenaJS and can be accessed through its id using the key or dot notation.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -68,7 +68,7 @@ Header_H2_Text="JavaScript API for applying different effects to images using 
 <li>Lowpass 5x5 Filter</li>
 </ul>
 </div>
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>Lena.js</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -77,17 +77,17 @@ Header_H2_Text="JavaScript API for applying different effects to images using 
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Lena.js supports the popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> JPEG,  PNG, BMP, GIF</li>
+<li> JPEG, PNG, BMP, GIF</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, GIF</li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a>, GIF</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -104,7 +104,7 @@ Header_H2_Text="JavaScript API for applying different effects to images using 
 <div class="d1-row">
 <div class="d1-col d1-right">
 <ul>
-<li>JavaScript </li>
+<li>JavaScript </li>
 </ul>
 </div>
 <!--/right--></div>

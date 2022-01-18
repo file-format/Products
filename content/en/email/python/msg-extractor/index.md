@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API to Read & Parse Outlook MSG Files | MSG Extractor
 description: MSG Extractor - Open Source Python API for Reading & Parsing Outlook MSG Files. The Library allows to access read & extract Email messages from MSG files.
-keywords: Python MSG, Python email, Python API, Python outlook, access MSG contents, Python email APIs,  Python  Outlook API, Python MSG API, Python email library, read outlook MSG, view email messages, extract attachments from MSG, Open Source python email, Open Source Email API
+keywords: Python MSG, Python email, Python API, Python outlook, access MSG contents, Python email APIs, Python Outlook API, Python MSG API, Python email library, read outlook MSG, view email messages, extract attachments from MSG, Open Source python email, Open Source Email API
 draft: false
 weight: 10
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Python."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python Library for Outlook<sup>®</sup> MSG Files"
 Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Python." >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Pytho
 
 
 <h2 class="h2title">What is MSG-Extractor Library?</h2>
-<p>MSG-Extractor gives software developers the ability to process Microsoft Outlook MSG files from Python apps. It automates the extraction of key email data such as from, to, cc fields as well as subject, body, date, and attachments. The Python MSG library also supports features such as reading an email message, extracting attachments, embedding MSG files, command-line arguments and save attachments to custom location. </p>
+<p>MSG-Extractor gives software developers the ability to process Microsoft Outlook MSG files from Python apps. It automates the extraction of key email data such as from, to, cc fields as well as subject, body, date, and attachments. The Python MSG library also supports features such as reading an email message, extracting attachments, embedding MSG files, command-line arguments and save attachments to custom location. </p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -63,7 +63,7 @@ Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Pytho
 </ul>
 </div>
 <!--/left -->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>MSG-extractor</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -72,15 +72,15 @@ Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Pytho
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>MSG-extractor supports popular compression file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/email/msg/">MSG</a> </li>
+<li><a href="https://docs.fileformat.com/email/msg/">MSG</a> </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
@@ -97,14 +97,14 @@ Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Pytho
 <p>MSG-Extractor only requires Python.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <div class="d1-col d1-right"><!--<header><i class="fa fa-cubes">` </i></header-->
 <ul>
 <li>Python 2.7 and 3.4</li>
 </ul>
 </div>
 <!--/left
-        <div class="d1-col d1-right">&nbsp;</div>--> <!--/right--></div>
+  <div class="d1-col d1-right">&nbsp;</div>--> <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="MSG Python APIs" />--><header>MSG-Extractor</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -123,7 +123,7 @@ Header_H2_Text="Read & parse Microsoft<sup>®</sup> Outlook MSG emails via Pytho
 
 {{< SinglePage/PageBody/features/code >}}
 <h3>Install via MSG-Extractor via PyPi</h3>
-<pre><code class="html"> pip install extract-msg  </code></pre>
+<pre><code class="html"> pip install extract-msg </code></pre>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

@@ -1,7 +1,7 @@
 ---
 title: Generate PPTX Presentation, Add Animation to Slide via JavaScript API
-description: Fusuma - Open source JavaScript API to create apps for working with  PPTX presentation slides online. Create new slide,  auto generate table of contents etc.
-keywords: Free PPTX API, Free PowerPoint library, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint, PowerPoint PPTX reader,  JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations writer, add Images presentation, Add Content to PPTX,  create PPTX slide, JavaScript PowerPoint library, modify PPTX files
+description: Fusuma - Open source JavaScript API to create apps for working with PPTX presentation slides online. Create new slide, auto generate table of contents etc.
+keywords: Free PPTX API, Free PowerPoint library, PowerPoint alternative, JavaScript PPTX, JavaScript PowerPoint, PowerPoint PPTX reader, JavaScript PPTX API, JavaScript PPTX library, JavaScript presentations writer, add Images presentation, Add Content to PPTX, create PPTX slide, JavaScript PowerPoint library, modify PPTX files
 draft: false
 weight: 14
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="PptxGenJS"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Create & Manage Web Presentation via JavaScript API"
 Header_H2_Text="Open Source JavaScript Library to create apps for working with presentation slides, customize slide, create a table of contents & capture screen contents." >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 
 
 <p>Fusuma is an easy to use JavaScript library that makes it easy for software developers to create apps for working with presentation slides. The library has included several important features related to presentation creation as well as management, such as create a new slide, add a title to a slide, customize slide according to your own needs, create a table of contents, capturing screen contents, write characters on the host side, exporting slides as PDF and many more.</p>
-<p>The library has included support for multiple modes such as start mode for developers, build mode for production, presentation mode speakers notes or recording purposes, a live mode for stream comments or tweets, and exporting more. Presenter mode can be used while you give a speech. This mode can be also helpful if you use a browser that doesn’t have a presentation API.  The library is very flexible and can be used to draw different types of charts and diagrams.  </p>
+<p>The library supports multiple modes such as start mode for developers, build mode for production, presentation mode speakers notes or recording purposes, a live mode for stream comments or tweets, and exporting more. Presenter mode can be used while you give a speech. This mode can be also helpful if you use a browser that doesn’t have a presentation API. The library is flexible and can be used to draw different types of charts and diagrams. </p>
 <p>The Fusuma library provides a sidebar that has SNS links, a slide's contents list, and various option buttons. It is also possible to fetch tweets from Twitter. If you are interested in fetching tweets from Twitter, please remember that Fusuma requires `.env` file. It is possible to stream comments when giving a speech.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -52,7 +52,7 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 <p>An overview of Fusuma features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left -->
 <div class="d1-col d1-right"><header>Feature Overview</header>
 <ul>
@@ -79,15 +79,15 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Fusuma supports popular Microsoft PowerPoint file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/presentation/pptx/">PPTX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a><a href="https://docs.fileformat.com/presentation/pptx/">, PPTX</a></li>
 </ul>
@@ -101,14 +101,14 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Fusuma only requires  Java run-time.</p>
+<p>Fusuma only requires Java run-time.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run-in</header>
+<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>Run-in</header>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS  </li>
+<li>NodeJS </li>
 </ul>
 </div>
 <!--/left--><!--/right--></div>
@@ -140,7 +140,7 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create & Modify Slide via JavaScript API</h2>
-<p>Developers can easily create new slides for their presentations using the open source JavaScript library Fusuma. It has included support for adding text, images, and videos inside the slides. You can also easily split the slides with just a couple of lines of JavaScript code.  You can also easily add multiple columns into a slide as well as align contents inside a slide.</p>
+<p>Developers can easily create new slides for their presentations using the open source JavaScript library Fusuma. It supports adding text, images, and videos inside the slides. You can also easily split the slides with just a couple of lines of JavaScript code. You can also easily add multiple columns into a slide as well as align contents inside a slide.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -156,7 +156,7 @@ Header_H2_Text="Open Source JavaScript Library to create apps for working with p
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Export Presentations to PDF</h2>
-<p>The Fusuma library has included functionality for programmatically exporting presentation slides to PDF documents using Java commands.  You can also export a particular slide into a PDF page with ease.  It is also possible to capture the screen and save it as an image file in the presenter mode.</p>
+<p>The Fusuma library has included functionality for programmatically exporting presentation slides to PDF documents using Java commands. You can also export a particular slide into a PDF page with ease. It is also possible to capture the screen and save it as an image file in the presenter mode.</p>
 
 
 {{< /SinglePage/PageBody/features/text >}}

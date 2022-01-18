@@ -1,7 +1,7 @@
 ---
 title: Open Source JavaScript API for Word - Create simple and clean HTML from Word
 description: Semantically convert Word into HTML without worrying about the content being erased
-keywords: Mammoth, Convert, DOC to HTML, DOCX to HTML,  Create DOCX, Free Convert, Conversion API, HTML Generation API, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
+keywords: Mammoth, Convert, DOC to HTML, DOCX to HTML, Create DOCX, Free Convert, Conversion API, HTML Generation API, Free API, Free APIs, Free JavaScript APIs, Free DOCX APIs, Free DOCX JavaScript API, Open Source JavaScript API, JavaScript APIS, Create DOCX using JavaScript, Convert DOCX using JQuery, Angualr, JS, Free JS API, JS API
 draft: false
 weight: 6
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Semantically convert Word into HTML without worrying about the content being erased."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Create simple and clean HTML from Microsoft<sup>®</sup> Word Docs with Mammoth"
 Header_H2_Text="Semantically convert Word into HTML without worrying about the content being erased." >}}
@@ -77,17 +77,17 @@ Header_H2_Text="Semantically convert Word into HTML without worrying about the c
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Mammoth supports the following formats.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/word-processing/docx/">DOCX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -102,9 +102,9 @@ Header_H2_Text="Semantically convert Word into HTML without worrying about the c
 <p>Mammoth only requires Java runtime.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
+<div class="d1-col d1-left"><header><i class="fa fa-cubes"> </i>JavaScript</header></div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>Mammoth</header><footer><small></small></footer></div>

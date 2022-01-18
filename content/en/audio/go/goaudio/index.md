@@ -1,7 +1,7 @@
 ---
-title: Free GO API for Audio File Format - Play, Record, Encode, Read & Convert Audio files via GO API
-description: GO Audio - An Open-Source Free GO API for Word Audio File Format.  Play, Record, Encode, Read & Convert Audio files via GO API.
-keywords: GoAudio API, Free Audio API, Free GO API, Free WAV API, Open Source WAV API, Free WAV GO, Random Audio API, Free Audio Processing, Audio Processing API, Open Source Audio processing, Convert Wav Free, GO Audio APIs,  GO Wav API,  Read Wave, Write Wave, Create Wave Forms, Automation Tracks, Change Amplitude, Waveform Tables, Waveform Synthesis, Extract Breakpoints, Stereo Panning, Open Source GO Libraries.
+title: Play, Record, Encode, Read & Convert Audio files via GO API
+description: GO Audio - An Open-Source Free GO API for Word Audio File Format. Play, Record, Encode, Read & Convert Audio files via GO API
+keywords: GoAudio API, Free Audio API, Free GO API, Free WAV API, Open Source WAV API, Free WAV GO, Random Audio API, Free Audio Processing, Audio Processing API, Open Source Audio processing, Convert Wav Free, GO Audio APIs, GO Wav API, Read Wave, Write Wave, Create Wave Forms, Automation Tracks, Change Amplitude, Waveform Tables, Waveform Synthesis, Extract Breakpoints, Stereo Panning, Open Source GO Libraries.
 draft: false
 weight: 1
 
@@ -19,9 +19,9 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
-Header_H1_Text="Free GO Library for Manipulating Audio File Formats"
+Header_H1_Text="Free GO Library for Manipulating Audio File Formats"
 Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
@@ -65,7 +65,7 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API." >}
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><header>GoAudio</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -73,18 +73,18 @@ Header_H2_Text="Play, Record, Encode, Read & Convert Audio files via GO API." >}
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>GoAudio supports popular Audio file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>GoAudio supports popular Audio file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, </li>
+<li> <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, </li>
+<li> <a href="https://docs.fileformat.com/audio/wav/">WAV</a>, </li>
 </ul>
 </div>
 <!--/right--></div>

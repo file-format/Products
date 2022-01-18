@@ -1,13 +1,13 @@
 ---
 title: Open Source Ruby API - Combine PDF Files, Add Content & Watermark
 description: gopdf - Open Source Ruby API allows Software Developers to Combine PDF files, add content, stamp, watermark to existing PDF files via Ruby library.
-keywords: PDF library,  Ruby PDF,  Java  PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create  PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
+keywords: PDF library, Ruby PDF, Java PDF Library, Open Source PDF Library, Ruby PDF programming, Ruby PDF APIs, Ruby PDF library, create PDF Documents, insert images to PDF, add list to PDF files, Extract Text from PDF, Split PDF to many, fill a PDF form, Extract data from PDF forms, Print a PDF file, PDF to PNG conversion, convert PDF to JPEG, Digitally sign PDF files
 draft: false
 weight: 1
 
 
 
-ProductName: CombinePDF  
+ProductName: CombinePDF 
 Githublink: https://github.com/boazsegev/combine_pdf
 ListingPage_Short_Description: A stable Ruby API that provides various functions for PDF document generation and manipulation such as load and parse PDF files or combine PDF documents.
 ListingPage_Product_Small_Image: listing-image.png 
@@ -17,12 +17,12 @@ ListingPage_Product_Small_Image: listing-image.png
 {{< SinglePage/PageLayout/wrapper >}}
 {{< SinglePage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add content, stamp, watermark to PDFexisting PDF files inside Ruby Apps. "
+Image_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add content, stamp, watermark to PDFexisting PDF files inside Ruby Apps."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Ruby API for PDF Files"
-Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add content, stamp, watermark to PDFexisting PDF files inside Ruby Apps. " >}}
+Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add content, stamp, watermark to PDFexisting PDF files inside Ruby Apps." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,7 +32,7 @@ Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add c
 
 
 <p>CombinePDF is an open Source pure Ruby library that gives software developers the capability to work with PDF files inside Ruby apps. Portable Document Format (<em>PDF</em>) file is one of the World’s most used file formats for storing and sharing information across the globe. PDF files are particularly convenient for documents such as magazine articles, product brochures, or flyers, etc.</p>
-<p>The library enables software developers to load and parse PDF files and combines them with other PDF files, add stamp as well as a watermark to PDFs, add content to existing PDF pages, add page numbers, PDF data renderings (all using the PDF file format and pure Ruby code). The library has provided limited support for encrypted files as well as very basic support for compressed files.  The CombinePDF library is written natively in Ruby and smoothly working on all Ruby platforms that follow Ruby 2.0 compatibility.</p>
+<p>The library enables software developers to load and parse PDF files and combines them with other PDF files, add stamp as well as a watermark to PDFs, add content to existing PDF pages, add page numbers, PDF data renderings (all using the PDF file format and pure Ruby code). The library has provided limited support for encrypted files as well as basic support for compressed files. The CombinePDF library is written natively in Ruby and smoothly working on all Ruby platforms that follow Ruby 2.0 compatibility.</p>
 <p>.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
@@ -72,17 +72,17 @@ Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add c
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>CombinePDF supports PDF file format as well as industry-standard formats for export.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/pdf/">PDF</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -118,7 +118,7 @@ Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add c
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Getting Started with CombinePDF</h2>
-<p>To install the CombinePDF on your system, please run the following command, </p>
+<p>To install the CombinePDF on your system, please run the following command, </p>
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
@@ -131,7 +131,7 @@ Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add c
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Load and Parse PDF Data via Ruby API</h2>
-<p>The open source PDF library CombinePDF has included support for loading and parsing PDF files inside Ruby applications. As recommended, loading data from PDF files is easy. Developers can also parse PDF files from memory. It is very effective to load data from memory especially for data received via the internet or from a different library.   Same like parsing rendering can also be performed either to the memory or to a file.</p>
+<p>The open source PDF library CombinePDF supports loading and parsing PDF files inside Ruby applications. As recommended, loading data from PDF files is easy. Developers can also parse PDF files from memory. It is effective to load data from memory especially for data received via the internet or from a different library. Same like parsing rendering can also be performed either to the memory or to a file.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -162,7 +162,7 @@ Header_H2_Text="Ruby PDF Library enables developers to Combine PDF files, add c
 {{< SinglePage/PageBody/features/single-feature-content >}}
 
 {{< SinglePage/PageBody/features/text >}}
- 
+ 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
 

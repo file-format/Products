@@ -1,7 +1,7 @@
 ---
 title: Free PHP Library for CSV, XLSX & ODS Spreadsheets – Read & Write Excel Files
 description: Spout - An open source PHP library to read or write CSV, XLSX & ODS spreadsheets. Developers can add data, charts & formula to Excel files via PHP API.
-keywords: Open Source Excel,  Excel API, Spreadsheet library, spreadsheet API, PHP spreadsheet, create spreadsheet PHP, write spreadsheet PHP read excel files, PHP excel, alternative to PHP Excel, PHP XLSX, PHP ODS, PHP CSV,  PHP Excel API, PHP Excel Library, PHP Spreadsheets API, Reading a huge XLSX, Writing ODS file,Free APIs, Free PHP API, Open Source PHP API,  PHP Excel, PHP Spreadsheet, Open Source Excel APIs, Open Source PHP APIs, Free XLSX API, Free XLS API, Create XLSX Free, Convert XLSX Free, Create XLS using PHP, Convert XLSX using PHP,
+keywords: Open Source Excel, Excel API, Spreadsheet library, spreadsheet API, PHP spreadsheet, create spreadsheet PHP, write spreadsheet PHP read excel files, PHP excel, alternative to PHP Excel, PHP XLSX, PHP ODS, PHP CSV, PHP Excel API, PHP Excel Library, PHP Spreadsheets API, Reading a huge XLSX, Writing ODS file,Free APIs, Free PHP API, Open Source PHP API, PHP Excel, PHP Spreadsheet, Open Source Excel APIs, Open Source PHP APIs, Free XLSX API, Free XLS API, Create XLSX Free, Convert XLSX Free, Create XLS using PHP, Convert XLSX using PHP,
 draft: false
 weight: 2
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Spout"
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="PHP Library for ODS, XLSX & CSV Files"
 Header_H2_Text="Open Source PHP library to create, read & manipulate spreadsheets from Excel<sup>®</sup> (XLSX, CSV) & OpenOffice™ (ODS)." >}}
@@ -33,7 +33,7 @@ Header_H2_Text="Open Source PHP library to create, read & manipulate spreadsheet
 
 <h2 class="h2title">What is Spout?</h2>
 <p>Spout is an open source PHP library that helps software developers in spreadsheet manipulation tasks such as reading and writing ODS, XLSX & CSV files. With Spout, developers can create spreadsheets from scratch with cell, row & border styling as well as load existing files for editing.</p>
-<p>Spout is developer-friendly as it provides simple and integrated API to read & create different types of spreadsheets. It also allows to switch from one type of spreadsheet to other with minimum changes to the code. It is capable of handling small as well as very large spreadsheets files while keeping the memory usage really low. It only requires 3MB of memory for processing any spreadsheet file.</p>
+<p>Spout is developer-friendly as it provides simple and integrated API to read & create different types of spreadsheets. It also allows to switch from one type of spreadsheet to other with minimum changes to the code. It is capable of handling small as well as large spreadsheets files while keeping the memory usage really low. It only requires 3MB of memory for processing any spreadsheet file.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -52,9 +52,9 @@ Header_H2_Text="Open Source PHP library to create, read & manipulate spreadsheet
 <p>An overview of Spout features.</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
+<div class="d1-col d1-right"><header><i class="fa fa-file-excel-o"> </i>Overview</header>
 <ul>
 <li>Create spreadsheets</li>
 <li>Read spreadsheets</li>
@@ -75,17 +75,17 @@ Header_H2_Text="Open Source PHP library to create, read & manipulate spreadsheet
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>Spout supports popular Spreadsheet file formats as listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
+<li><a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT,</a> <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
+<li><a href="https://docs.fileformat.com/spreadsheet/xls/">TXT,</a> <a href="https://docs.fileformat.com/spreadsheet/ods/">ODS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, 
 <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a></li>
 </ul>
 </div>
@@ -98,12 +98,12 @@ Header_H2_Text="Open Source PHP library to create, read & manipulate spreadsheet
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <h3>Platform Independence</h3>
-<p>Enable PHP extension "ext-zip" and "ext-xmlreader".</p>
+<p>Enable PHP extension"ext-zip" and"ext-xmlreader".</p>
 <div class="diagram1 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"> </div>
+<div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>PHP</header>
+<div class="d1-col d1-right"><header><i class="fa fa-cubes"> </i>PHP</header>
 <ul>
 <li>PHP version 7.1 or newer</li>
 </ul>
@@ -158,11 +158,11 @@ $reader = ReaderEntityFactory::createODSReader('/path/to/file.ods');
 $reader-&gt;open($filePath);
 
 foreach ($reader-&gt;getSheetIterator() as $sheet) {
-    foreach ($sheet-&gt;getRowIterator() as $row) {
-        // do stuff with the row
-        $cells = $row-&gt;getCells();
-        ...
-    }
+ foreach ($sheet-&gt;getRowIterator() as $row) {
+  // do stuff with the row
+  $cells = $row-&gt;getCells();
+  ...
+ }
 }
 
 $reader-&gt;close();</code></pre>
@@ -174,7 +174,7 @@ $reader-&gt;close();</code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Add Data to Existing Spreadsheet via PHP</h2>
-<p>Spout gives the developer the ability to update an existing spreadsheet by adding data to it. It’s a very common practice to add new data to an existing spreadsheet. Spout API does not keep full spreadsheet representation in memory in order to avoid memory issues while working with large spreadsheets. To modify a spreadsheet it creates a new instance similar to the existing one and adds required data to the new spreadsheet.</p>
+<p>Spout gives the developer the ability to update an existing spreadsheet by adding data to it. It’s a common practice to add new data to an existing spreadsheet. Spout API does not keep full spreadsheet representation in memory in order to avoid memory issues while working with large spreadsheets. To modify a spreadsheet it creates a new instance similar to the existing one and adds required data to the new spreadsheet.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -182,7 +182,7 @@ $reader-&gt;close();</code></pre>
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Reading Data from a Specific Sheet</h2>
-<p>Spout API enables PHP developers to access and read data from a specific sheet inside a spreadsheet.  Usually, a spreadsheet contains several worksheets. If a user is interested to read data from only one sheet and skip the other sheets. The users just need to know the name and position of the spreadsheet.</p>
+<p>Spout API enables PHP developers to access and read data from a specific sheet inside a spreadsheet. Usually, a spreadsheet contains several worksheets. If a user is interested to read data from only one sheet and skip the other sheets. The users just need to know the name and position of the spreadsheet.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

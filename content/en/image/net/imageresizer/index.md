@@ -1,5 +1,5 @@
 ---
-title: fileformat - Open Source APIs for Images - ImageResizer
+title: Open Source APIs for Images - ImageResizer
 
 
 draft: false
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Reseize Images Online using Free .NET API."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source .NET API for Images"
 Header_H2_Text="Reseize Images Online using Free .NET API." >}}
@@ -74,17 +74,17 @@ Header_H2_Text="Reseize Images Online using Free .NET API." >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
 <p>ImageResizer supports popular Image file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a> <a href="https://docs.fileformat.com/image/wmf/">WMF</a>,   <a href="https://docs.fileformat.com/image/emf/">EMF</a>      </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/bmp/">BMP</a> <a href="https://docs.fileformat.com/image/wmf/">WMF</a>, <a href="https://docs.fileformat.com/image/emf/">EMF</a>  </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>,  <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a>    </li>
+<li> <a href="https://docs.fileformat.com/image/jpeg/">JPEG</a>, <a href="https://docs.fileformat.com/image/png/">PNG</a>, <a href="https://docs.fileformat.com/image/gif/">GIF</a>, <a href="https://docs.fileformat.com/image/webp/">WebP</a> </li>
 </ul>
 </div>
 <!--/right--></div>
@@ -99,7 +99,7 @@ Header_H2_Text="Reseize Images Online using Free .NET API." >}}
 <p>ImageResizer works with .NET 4.5.1+.</p>
 <div class="diagram1 d1-oi">
 <div class="d1-row"><!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><header>ImageResizer</header><footer><small></small></footer></div>
@@ -136,7 +136,7 @@ Header_H2_Text="Reseize Images Online using Free .NET API." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Rotate and Flip Images using Free .NET API</h2>
-<p>The Open Source image library ImageResizer automatically rotates the images based on the EXIF information and by setting autorotate to true. Furthermore, you can rotate your image to a specific angle by using rotate = degrees option. Similary you can flip your image using flip=none|x|y|xy properties.</p>
+<p>The Open Source image library ImageResizer automatically rotates the images based on the EXIF information and by setting autorotate to true. Furthermore, you can rotate your image to a specific angle by using rotate = degrees option. Similarly you can flip your image using flip=none|x|y|xy properties.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -144,7 +144,7 @@ Header_H2_Text="Reseize Images Online using Free .NET API." >}}
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Apply Borders & Margins in Images using C#</h2>
-<p>ImageResizer library allows developers to apply border, margins, padding and background colors. You can set image border width & color properties by using borderWidth and borderColor properties. Similary, you can apply universal margin or left, right, top & bottom margin using the API.</p>
+<p>ImageResizer library allows developers to apply border, margins, padding and background colors. You can set image border width & color properties by using borderWidth and borderColor properties. Similarly, you can apply universal margin or left, right, top & bottom margin using the API.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}

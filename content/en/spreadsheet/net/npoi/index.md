@@ -1,7 +1,7 @@
 ---
 title: .NET Library for Spreadsheets – Read, Write Excel XLS & XLSX Files
-description: NOPI – An Open source Free .NET Library for Excel XLSX, XLS Spreadsheet.  Read, Write and add images or comments to cells in Excel spreadsheet via C# API.
-keywords: Free Excel API, Free .NET library, .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV,  C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells,  Read XLSX files, Add Image in Excel cell, read spreadsheet files
+description: NOPI – An Open source Free .NET Library for Excel XLSX, XLS Spreadsheet. Read, Write and add images or comments to cells in Excel spreadsheet via C# API.
+keywords: Free Excel API, Free .NET library, .NET Excel, alternative to MS Excle, .NET XLSX API, .NET ODS, .NET CSV, C# Excel API, .NET Excel Library, C# Spreadsheets API, create spreadsheet, add comments to cells, Read XLSX files, Add Image in Excel cell, read spreadsheet files
 draft: false
 weight: 3
 
@@ -19,7 +19,7 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-source .NET library."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Free .NET Library for Excel<sup>®</sup> Spreadsheets"
 Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-source .NET library." >}}
@@ -66,7 +66,7 @@ Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-sour
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 </div>
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Open XML SDK</header><footer><small></small></footer></div>
 <!--/logo--></div>
@@ -74,16 +74,16 @@ Header_H2_Text="Read, write, manipulate & convert XLS & XLSX files via open-sour
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>NPOI supports popular Spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>NPOI supports popular Spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a></li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
 <li><a href="https://docs.fileformat.com/spreadsheet/xls/">XLS</a>, <a href="https://docs.fileformat.com/spreadsheet/xlsx/">XLSX</a>, <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
@@ -205,7 +205,7 @@ int pictureIdx = wb.AddPicture(bytes, PictureType.PNG);
 
 ICreationHelper helper = wb.GetCreationHelper();
 
-// Create the drawing patriarch.  This is the top level container for all shapes.
+// Create the drawing patriarch. This is the top level container for all shapes.
 IDrawing drawing = sheet1.CreateDrawingPatriarch();
 
 // add a picture shape

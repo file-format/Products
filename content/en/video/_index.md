@@ -15,10 +15,10 @@ Homepage_Intro_Text: Open source video file format APIs for working with popular
 
 {{< ListingPage/PageHeader/header-text
 Header_Image="header-image.png"
-Image_H2_Text="Video "
+Image_H2_Text="Video"
 Image_Tag_Text="File Format APIs"
-Image_Alt_Text=" "
-Image_title_Text=" "
+Image_Alt_Text=""
+Image_title_Text=""
 Header_H1_Text="Open Source APIs for Video Files"
 Header_H2_Text="Play, Record, Read, Extract Metadata & Video files via .NET Framework" >}}
 

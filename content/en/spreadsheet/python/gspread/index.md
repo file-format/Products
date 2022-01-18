@@ -1,7 +1,7 @@
 ---
 title: Open Source Python API for Google Sheets - Create & Share Spreadsheet
 description: Gspread – An open source Free Python API for managing Google Sheets. Developers can create, modify, share and parse Excel XML Spreadsheets via Python library.
-keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files,  generate Excel files
+keywords: Free python API, Python excel, python Google Sheets, alternative to MS Excel, python XML library, python Share Excel XML file, python Excel API, python Spreadsheets API, Read XML file, parse Excel XML Spreadsheets, merging Excel XML spreadsheets, read excel XML files, generate Excel files
 
 draft: false
 weight: 14
@@ -20,10 +20,10 @@ ListingPage_Product_Small_Image: listing-image.png
 Header_Image="header-image.png"
 Image_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via Open Source Python Library."
 Image_Tag_Text=""
-Image_Alt_Text=" "
+Image_Alt_Text=""
 Image_title_Text=""
 Header_H1_Text="Open Source Python API for Google Sheets"
-Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via Open Source Python Library." >}}
+Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via Open Source Python Library." >}}
 
 {{< SinglePage/PageBody/menu/submenu >}}
 {{< SinglePage/PageBody/tab/wrapper >}}
@@ -32,8 +32,8 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 
 
 
-<p>Gspread is an open source Python implementation for Google Sheets.  The library enables computer programmers to create, open and modify a spreadsheet file from their own Python applications.  More & more people are choosing to use online services like Google Sheets by each passing day.  </p>
-<p>Several important features are fully supported by the Gspread library, such as creating new spreadsheet, selecting and sharing a share a spreadsheet, worksheet creation, deleting worksheet,  getting a cell value, getting values from a column as well as from a sheet row, searching a cell, updating a cell value, getting value from a cell as a list and many more.</p>
+<p>Gspread is an open source Python implementation for Google Sheets. The library enables computer programmers to create, open and modify a spreadsheet file from their own Python applications. More & more people are choosing to use online services like Google Sheets by each passing day. </p>
+<p>Several important features are fully supported by the Gspread library, such as creating new spreadsheet, selecting and sharing a share a spreadsheet, worksheet creation, deleting worksheet, getting a cell value, getting values from a column as well as from a sheet row, searching a cell, updating a cell value, getting value from a cell as a list and many more.</p>
 
 {{< /SinglePage/PageBody/tab/text >}}
 {{< SinglePage/PageBody/tab/carousel-links >}}
@@ -73,18 +73,18 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 {{< /SinglePage/PageBody/tab/diagram-carousel-item >}}
 
 {{< SinglePage/PageBody/tab/diagram-carousel-item >}}
-<p>Gspread supports popular Excel spreadsheet file formats listed below.</p>
-<div class="diagram1 d2  d1-poi">
+<p>Gspread supports popular Excel spreadsheet file formats listed below.</p>
+<div class="diagram1 d2 d1-poi">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Reader</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Reader</header>
 <ul>
 <li>XML</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-long-arrow-down"> </i> Writer</header>
+<div class="d1-col d1-right"><header><i class="fa fa-long-arrow-down"> </i> Writer</header>
 <ul>
-<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, 
+<li><a href="https://docs.fileformat.com/word-processing/txt/">TXT</a>, <a href="https://docs.fileformat.com/web/xml/">XML</a>, <a href="https://docs.fileformat.com/spreadsheet/csv/">CSV</a>, 
 <a href="https://docs.fileformat.com/web/html/">HTML</a></li>
 </ul>
 </div>
@@ -102,11 +102,11 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 <div class="d1-row">
 <div class="d1-col d1-left">
 <ul>
-<li>Python &gt;= 2.7 </li>
+<li>Python &gt;= 2.7 </li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"> </div>
+<div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
 <div class="d1-logo" style="border: none;"><!--<img src='listing-image.png' alt="Compression APIs for .NET" />--><header>Gspread</header><footer><small></small></footer></div>
@@ -126,7 +126,7 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 {{< /SinglePage/PageBody/features/text >}}
 
 {{< SinglePage/PageBody/features/code >}}
-<h3>Install Simple Excel-PHP via Git</h3>
+<h3>Install Simple Excel-PHP via Git</h3>
 
 {{< /SinglePage/PageBody/features/code >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -134,7 +134,7 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Create & Share Spreadsheet via Python Library</h2>
-<p>The Gspread API provides features for new spreadsheet creation and modification. It allows software programmers to create a blank spreadsheet inside their own Python applications with just a few commands. Please remember that the new spreadsheet will be visible to the script's account only. For accessibly the newly created spreadsheet must be shared with your email.  You can easily create a worksheet inside it.</p>
+<p>The Gspread API provides features for new spreadsheet creation and modification. It allows software programmers to create a blank spreadsheet inside their own Python applications with just a few commands. Please remember that the new spreadsheet will be visible to the script's account only. For accessibly the newly created spreadsheet must be shared with your email. You can easily create a worksheet inside it.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -142,7 +142,7 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 
 {{< SinglePage/PageBody/features/text >}}
 <h2 class="h2title">Opening Spreadsheet via Python</h2>
-<p>The Open Source spreadsheet library Gspread allows software developers to Convert CSV Files to Excel 2003 XML file format with just a few lines of code. First of all, you need to load a CSV file from the server to be parsed and transfer data from parser to writer and change the writer type to XML. After that save the file with the specified name and specified target.</p>
+<p>The Open Source spreadsheet library Gspread allows software developers to Convert CSV Files to Excel 2003 XML file format with just a few lines of code. First of all, you need to load a CSV file from the server to be parsed and transfer data from parser to writer and change the writer type to XML. After that save the file with the specified name and specified target.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
@@ -152,7 +152,7 @@ Header_H2_Text="Create, Share, Parse & Modify Excel XML Spreadsheet Files via O
 <h2 class="h2title">Parse Excel 2003 XML File</h2>
 <p>The Gspread library gives developers the capability to open an available spreadsheet by providing its title as it appears in Google Docs. To be precise you need to provide the key which can be taken from the URL of the spreadsheet. You can also provide the complete URL if you feel difficult to extract the key. You can also select a specific worksheet or list of all available worksheets.</p>
 <h2 class="h2title">Working with Spreadsheet Cells & Rows</h2>
-<p>It’s a very common practice to copy data from one or more worksheet cell to others. The Gspread API provides full support for manipulating cell data.  You can easily get value from a cell or from spreadsheet rows and columns. The API also provides features getting all values from a worksheet as a list of lists. You can also search a cell with exact value as well as find a cell equivalent with regular expression.</p>
+<p>It’s a common practice to copy data from one or more worksheet cell to others. The Gspread API provides full support for manipulating cell data. You can easily get value from a cell or from spreadsheet rows and columns. The API also provides features getting all values from a worksheet as a list of lists. You can also search a cell with exact value as well as find a cell equivalent with regular expression.</p>
 
 {{< /SinglePage/PageBody/features/text >}}
 {{< /SinglePage/PageBody/features/single-feature-content >}}
